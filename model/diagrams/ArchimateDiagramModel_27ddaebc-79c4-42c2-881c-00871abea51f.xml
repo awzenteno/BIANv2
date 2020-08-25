@@ -7693,10 +7693,10 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0e70498b9ba64cdbb74e927e3ed68a45"
       textAlignment="1"
-      content="Cambio de Arquitecto 1">
+      content="Cambio de Arquitecto 2">
     <bounds
-        x="-19"
-        y="15"
+        x="-36"
+        y="12"
         width="185"
         height="80"/>
   </children>
