@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCardFinancialSettlementProcedure"
+    id="fd42aec2-f1b7-47ef-afdb-d2d0e69127ff"
+    documentation="Subscribe to card financial settlement procedure notification services"/>

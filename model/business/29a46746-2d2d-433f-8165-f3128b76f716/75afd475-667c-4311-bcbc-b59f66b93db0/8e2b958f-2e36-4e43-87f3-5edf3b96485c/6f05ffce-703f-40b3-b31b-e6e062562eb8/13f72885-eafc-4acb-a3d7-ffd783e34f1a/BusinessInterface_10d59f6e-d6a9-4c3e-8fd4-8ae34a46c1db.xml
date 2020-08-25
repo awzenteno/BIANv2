@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeLetterOfCreditTransaction"
+    id="10d59f6e-d6a9-4c3e-8fd4-8ae34a46c1db"
+    documentation="Comment:&#xA;&#xA;Execute a task against the active Letter Of Credit Transaction"/>

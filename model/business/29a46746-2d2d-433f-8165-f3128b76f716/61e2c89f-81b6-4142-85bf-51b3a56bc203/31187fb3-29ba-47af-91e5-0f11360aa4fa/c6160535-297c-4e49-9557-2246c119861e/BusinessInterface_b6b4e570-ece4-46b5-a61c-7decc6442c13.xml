@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeInternalAuditAssessment"
+    id="b6b4e570-ece4-46b5-a61c-7decc6442c13"
+    documentation="Comment:&#xA;&#xA;Obtain authorization for some action under the Internal Audit Assessment"/>

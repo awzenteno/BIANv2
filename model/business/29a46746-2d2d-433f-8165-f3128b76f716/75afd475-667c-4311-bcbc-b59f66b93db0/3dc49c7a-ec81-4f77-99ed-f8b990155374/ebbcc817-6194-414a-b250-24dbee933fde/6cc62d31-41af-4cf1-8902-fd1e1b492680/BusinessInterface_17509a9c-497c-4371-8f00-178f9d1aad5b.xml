@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyIssuedDeviceAllocation"
+    id="17509a9c-497c-4371-8f00-178f9d1aad5b"
+    documentation="Subscribe to Issued Device Allocation notification services"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update investment portfolio make-up"
+    id="e0913edd-bcf6-449a-9ade-f7282bd9f1df">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b3d1ef03-c207-426e-b799-14f293088a58.xml#b3d1ef03-c207-426e-b799-14f293088a58"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_925f8bb9-35ae-42fa-994a-c726b1e38e65.xml#925f8bb9-35ae-42fa-994a-c726b1e38e65"/>
+</archimate:TriggeringRelationship>

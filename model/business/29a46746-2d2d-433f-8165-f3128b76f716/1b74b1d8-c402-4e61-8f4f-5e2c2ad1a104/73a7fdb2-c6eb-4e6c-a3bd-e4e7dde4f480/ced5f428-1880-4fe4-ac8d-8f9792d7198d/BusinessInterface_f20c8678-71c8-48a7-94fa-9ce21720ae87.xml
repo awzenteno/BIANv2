@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateSupplierAgreement"
+    id="f20c8678-71c8-48a7-94fa-9ce21720ae87"
+    documentation="Comment:&#xA;&#xA;Check/verify compliance with Supplier Agreement related checks/assessments"/>

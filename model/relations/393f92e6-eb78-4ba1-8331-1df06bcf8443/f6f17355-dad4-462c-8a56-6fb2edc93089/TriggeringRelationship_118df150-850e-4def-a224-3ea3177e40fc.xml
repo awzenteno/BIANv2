@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get product/service coverage"
+    id="118df150-850e-4def-a224-3ea3177e40fc">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_19f66d15-ee73-4cb5-8b77-1f1204186b88.xml#19f66d15-ee73-4cb5-8b77-1f1204186b88"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f6db7440-b9e3-4874-993a-2d38fc8a5194.xml#f6db7440-b9e3-4874-993a-2d38fc8a5194"/>
+</archimate:TriggeringRelationship>

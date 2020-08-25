@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get Confirmation of Bot or Human"
+    id="6fca293c-49f7-4ed6-9414-35e9a22f8e09">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5cfdbaa4-3a1d-4f97-901f-3979b4a588aa.xml#5cfdbaa4-3a1d-4f97-901f-3979b4a588aa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_78708aff-f204-413e-b0c8-cf31dc98bc1e.xml#78708aff-f204-413e-b0c8-cf31dc98bc1e"/>
+</archimate:TriggeringRelationship>

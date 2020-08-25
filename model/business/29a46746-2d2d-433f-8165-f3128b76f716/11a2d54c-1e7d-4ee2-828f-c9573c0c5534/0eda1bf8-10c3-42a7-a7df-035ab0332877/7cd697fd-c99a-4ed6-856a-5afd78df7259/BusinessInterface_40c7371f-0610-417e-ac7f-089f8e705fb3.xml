@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCustomerAccessProfileAgreement"
+    id="40c7371f-0610-417e-ac7f-089f8e705fb3"
+    documentation=" Initiate the termination processing of the customer access settings"/>

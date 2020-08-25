@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyVoiceChannelOperatingSession"
+    id="3eccfca0-d2f3-47bb-8742-c00d15f9b886"
+    documentation="Subscribe to Voice Channel Operating Session notification services"/>

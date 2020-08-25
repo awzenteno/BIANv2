@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateMarketOrderTransaction"
+    id="59fbb52c-7f70-4ae1-995e-4adddf01adc3"
+    documentation="Comment:&#xA;&#xA;Initiate a Market Order Transaction"/>

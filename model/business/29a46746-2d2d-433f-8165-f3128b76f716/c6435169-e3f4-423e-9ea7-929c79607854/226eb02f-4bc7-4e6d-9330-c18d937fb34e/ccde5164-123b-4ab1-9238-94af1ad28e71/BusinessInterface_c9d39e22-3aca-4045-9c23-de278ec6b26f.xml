@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCompetitorAnalysis"
+    id="c9d39e22-3aca-4045-9c23-de278ec6b26f"
+    documentation="Comment:&#xA;&#xA;Subscribe to Competitor Analysis notification services"/>

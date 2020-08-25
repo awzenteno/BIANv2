@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request recovery processing"
+    id="28236b79-9761-4141-9107-1f8b9dc76d0f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_75ae151c-9808-4386-bd4d-5775a35d705b.xml#75ae151c-9808-4386-bd4d-5775a35d705b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_67aa9eb7-7af4-4693-834c-a27e515574f7.xml#67aa9eb7-7af4-4693-834c-a27e515574f7"/>
+</archimate:TriggeringRelationship>

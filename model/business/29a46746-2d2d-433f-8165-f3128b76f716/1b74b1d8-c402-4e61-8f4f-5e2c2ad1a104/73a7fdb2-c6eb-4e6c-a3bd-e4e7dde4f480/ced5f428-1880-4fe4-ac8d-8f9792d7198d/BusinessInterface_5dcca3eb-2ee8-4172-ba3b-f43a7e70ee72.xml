@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveSupplierAgreement"
+    id="5dcca3eb-2ee8-4172-ba3b-f43a7e70ee72"
+    documentation="Comment:&#xA;&#xA;Retrieve Supplier Agreement related reports"/>

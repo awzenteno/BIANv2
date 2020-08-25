@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCorporateFinanceServicesFulfillmentArrangement"
+    id="2a2893a1-c5f1-470e-bfa6-56da051e197d"
+    documentation="Retrieve Corporate Finance Services Product Arrangement related reports"/>

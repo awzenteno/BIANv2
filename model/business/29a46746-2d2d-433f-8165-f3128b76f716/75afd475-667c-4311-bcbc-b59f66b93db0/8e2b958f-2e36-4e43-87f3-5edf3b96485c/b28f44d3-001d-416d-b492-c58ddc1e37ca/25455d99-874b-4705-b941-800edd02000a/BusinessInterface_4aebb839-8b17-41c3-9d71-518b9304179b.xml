@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeLoanFulfillmentArrangement"
+    id="4aebb839-8b17-41c3-9d71-518b9304179b"
+    documentation=" Execute a task under the loan fulfillment arrangement"/>

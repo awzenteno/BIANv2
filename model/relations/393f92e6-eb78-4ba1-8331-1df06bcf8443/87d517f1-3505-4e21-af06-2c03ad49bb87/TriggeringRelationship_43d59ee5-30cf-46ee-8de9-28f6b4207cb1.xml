@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Execute Debit Booking by Correspondent Bank"
+    id="43d59ee5-30cf-46ee-8de9-28f6b4207cb1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_34eabdca-5f1b-43b6-92a4-8a22ae186844.xml#34eabdca-5f1b-43b6-92a4-8a22ae186844"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5eaff0c1-39d0-44c9-bc56-612bdd44d799.xml#5eaff0c1-39d0-44c9-bc56-612bdd44d799"/>
+</archimate:TriggeringRelationship>

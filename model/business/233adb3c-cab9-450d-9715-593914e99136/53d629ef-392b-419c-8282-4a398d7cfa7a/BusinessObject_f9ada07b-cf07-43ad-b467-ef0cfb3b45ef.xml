@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesOrderParameters"
+    id="f9ada07b-cf07-43ad-b467-ef0cfb3b45ef"
+    documentation=" Parameters of the transfer of a financial instrument.&#xA;&#xA;Параметры передачи финансового инструмента."/>

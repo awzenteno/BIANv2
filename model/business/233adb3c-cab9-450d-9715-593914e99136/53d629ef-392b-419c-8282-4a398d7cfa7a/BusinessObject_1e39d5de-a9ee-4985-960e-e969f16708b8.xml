@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesSettlementSystem"
+    id="1e39d5de-a9ee-4985-960e-e969f16708b8"
+    documentation="Specifies the system used in a settlement process.&#xA;&#xA;Указывает систему, используемую в процессе сопоставления."/>

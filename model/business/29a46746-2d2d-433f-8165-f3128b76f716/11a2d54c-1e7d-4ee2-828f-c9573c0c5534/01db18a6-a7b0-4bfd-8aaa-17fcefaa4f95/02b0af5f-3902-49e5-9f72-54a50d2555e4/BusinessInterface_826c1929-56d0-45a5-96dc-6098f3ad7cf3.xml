@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeEBranchChannelOperatingSessionInboundWebAccess"
+    id="826c1929-56d0-45a5-96dc-6098f3ad7cf3"
+    documentation=" Execute web access through the EBranch network"/>

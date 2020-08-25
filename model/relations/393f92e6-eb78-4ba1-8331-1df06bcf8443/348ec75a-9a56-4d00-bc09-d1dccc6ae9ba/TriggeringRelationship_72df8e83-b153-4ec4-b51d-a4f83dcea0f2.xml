@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TBD"
+    id="72df8e83-b153-4ec4-b51d-a4f83dcea0f2">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5cfdbaa4-3a1d-4f97-901f-3979b4a588aa.xml#5cfdbaa4-3a1d-4f97-901f-3979b4a588aa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_73d8cbf5-9e3e-4ca0-9836-99e9fc7e93e5.xml#73d8cbf5-9e3e-4ca0-9836-99e9fc7e93e5"/>
+</archimate:TriggeringRelationship>

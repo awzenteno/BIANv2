@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PhoneAddress"
+    id="c1b9ff4a-1b10-44c9-b48d-bff367c5d82e"
+    documentation=" Collection of information that identifies a phone address.&#xA;&#xA;Сбор информации, идентифицирующей телефонный адрес."/>

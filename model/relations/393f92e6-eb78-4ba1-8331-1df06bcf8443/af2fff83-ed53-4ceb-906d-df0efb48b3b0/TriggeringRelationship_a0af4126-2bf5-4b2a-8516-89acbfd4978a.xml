@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Retrieve related existing Components"
+    id="a0af4126-2bf5-4b2a-8516-89acbfd4978a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_35c23b73-5e47-4a90-8e79-45c7c52c052f.xml#35c23b73-5e47-4a90-8e79-45c7c52c052f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a4976759-9f4f-42b7-8684-36985da563b7.xml#a4976759-9f4f-42b7-8684-36985da563b7"/>
+</archimate:TriggeringRelationship>

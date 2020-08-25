@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeLoanFulfillmentArrangementRepayment"
+    id="c6548383-b83d-45fb-a560-5f2cc9e18652"
+    documentation="Execute consumer loan repayment (scheduled/ad-hoc)"/>

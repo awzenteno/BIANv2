@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveAdvertisingCampaignManagementPlan"
+    id="01a1af65-f90b-4426-9cd4-aeed151c577f"
+    documentation="Retrieve Advertising Campaign Management Plan related reports"/>

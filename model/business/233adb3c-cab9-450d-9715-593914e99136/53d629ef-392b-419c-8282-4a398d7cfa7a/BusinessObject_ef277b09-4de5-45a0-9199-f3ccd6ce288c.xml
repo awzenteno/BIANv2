@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TaxRecipient"
+    id="ef277b09-4de5-45a0-9199-f3ccd6ce288c"
+    documentation=" Party that receives the tax. The recipient of, and the party entitled to, the tax may be two different parties.&#xA;&#xA;Сторона, которая получает налог. Получателем налога и лицом, имеющим на него право, могут быть две разные стороны."/>

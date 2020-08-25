@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request account recovery processing for defaulted loan"
+    id="464ca1d8-7467-4bbb-bda6-3fdfe78a0b92">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b0712271-c7aa-4f28-afb1-828e366fa0f6.xml#b0712271-c7aa-4f28-afb1-828e366fa0f6"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_67aa9eb7-7af4-4693-834c-a27e515574f7.xml#67aa9eb7-7af4-4693-834c-a27e515574f7"/>
+</archimate:TriggeringRelationship>

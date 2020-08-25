@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Change campaign design parameters"
+    id="be2b0742-acf1-498f-9d70-6a640e3e76f7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f3507ca8-a321-412e-9858-69d54ea8adee.xml#f3507ca8-a321-412e-9858-69d54ea8adee"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_87ba8ceb-12ea-40cf-b91d-af5c5e0db7e0.xml#87ba8ceb-12ea-40cf-b91d-af5c5e0db7e0"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Send Final Documents to Customer and Obtain Signature"
+    id="408ee229-6f34-4686-9aeb-9b5db1bc633b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5408a954-9c77-4aaa-8aa1-9fe63f3f0b07.xml#5408a954-9c77-4aaa-8aa1-9fe63f3f0b07"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCardPOSTerminalOperatingSession"
+    id="6f75126b-f2bc-4fd5-8bcb-2def14961679"
+    documentation="Execute a task under the card p o s terminal operating session"/>

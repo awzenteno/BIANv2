@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCashDistributionProcedure"
+    id="0b5b95fb-c498-4a90-9404-e1853c075ef2"
+    documentation="Execute a task under the Cash Distribution Procedure"/>

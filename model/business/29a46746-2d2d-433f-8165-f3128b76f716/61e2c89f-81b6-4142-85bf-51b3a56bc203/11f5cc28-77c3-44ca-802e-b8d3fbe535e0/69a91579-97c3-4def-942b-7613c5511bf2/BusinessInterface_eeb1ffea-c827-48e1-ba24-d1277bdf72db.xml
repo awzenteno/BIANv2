@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestEmployeeDirectory"
+    id="eeb1ffea-c827-48e1-ba24-d1277bdf72db"
+    documentation="Request a service under the Employee Directory "/>

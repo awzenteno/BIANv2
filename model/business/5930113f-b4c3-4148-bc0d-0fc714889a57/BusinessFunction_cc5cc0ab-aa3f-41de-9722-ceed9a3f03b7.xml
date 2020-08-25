@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Manage"
+    id="cc5cc0ab-aa3f-41de-9722-ceed9a3f03b7"
+    documentation="Oversee the working of a business unit, assign work, manage against a plan and troubleshoot issues. &#xA;Example: Manage the day to day activities at a bank branch location.&#xA;&#xA;Unassigned&#xA;Assigned-plan-pending&#xA;Under-management&#xA;Managed-under-review&#xA;Management-suspended&#xA;Management-concluded"/>

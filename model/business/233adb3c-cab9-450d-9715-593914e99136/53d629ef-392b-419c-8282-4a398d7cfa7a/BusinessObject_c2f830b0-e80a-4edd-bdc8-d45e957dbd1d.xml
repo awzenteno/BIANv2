@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Order"
+    id="c2f830b0-e80a-4edd-bdc8-d45e957dbd1d"
+    documentation="Order placed by an investor to buy or sell an asset at a price specified or not.&#xA;&#xA;Заказ инвестора на покупку или продажу актива по указанной или нет цене."/>

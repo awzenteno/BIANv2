@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesTradeStatus"
+    id="bb480b9d-9d7f-46a7-ad57-5d1c5f9b8825"
+    documentation="Status of a securities trade.&#xA;&#xA;Статус сделки с ценными бумагами."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateMarketMakingFulfillmentArrangement"
+    id="4d237a7a-b769-4020-b9c8-0e59b0193439"
+    documentation="Terminate all or some part of the Market Making"/>

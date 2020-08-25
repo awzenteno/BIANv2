@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerEventLog"
+    id="b37023ec-293c-4166-8a7b-3a97d9b93ac4"
+    documentation="Retrieve a customer event log report"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerWorkbenchOperatingSession"
+    id="b9db9148-b248-487e-a7ec-23688307e810"
+    documentation="Request a service under the Customer Workbench Operating Session"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordPartyMeasurementCustomerRating"
+    id="03dd2752-756a-41a8-a80e-079904e36fe3"
+    documentation="Record details about ratings for the party"/>

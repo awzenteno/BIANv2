@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get standard Conditions"
+    id="ec42304a-50ad-41ef-b04d-56cb6b6b3057">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_42a0e7f5-c976-45f3-bd42-9a52a3839a05.xml#42a0e7f5-c976-45f3-bd42-9a52a3839a05"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a4976759-9f4f-42b7-8684-36985da563b7.xml#a4976759-9f4f-42b7-8684-36985da563b7"/>
+</archimate:TriggeringRelationship>

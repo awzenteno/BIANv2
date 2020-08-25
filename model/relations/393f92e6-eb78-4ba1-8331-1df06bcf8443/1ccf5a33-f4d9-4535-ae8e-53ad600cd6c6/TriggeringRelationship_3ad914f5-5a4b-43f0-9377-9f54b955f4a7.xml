@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request facility restructuring"
+    id="3ad914f5-5a4b-43f0-9377-9f54b955f4a7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1ed107eb-1b9e-4c10-b72c-6cde7579c648.xml#1ed107eb-1b9e-4c10-b72c-6cde7579c648"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5a5e80b7-dfaf-453b-9e1a-71577be2cfbe.xml#5a5e80b7-dfaf-453b-9e1a-71577be2cfbe"/>
+</archimate:TriggeringRelationship>

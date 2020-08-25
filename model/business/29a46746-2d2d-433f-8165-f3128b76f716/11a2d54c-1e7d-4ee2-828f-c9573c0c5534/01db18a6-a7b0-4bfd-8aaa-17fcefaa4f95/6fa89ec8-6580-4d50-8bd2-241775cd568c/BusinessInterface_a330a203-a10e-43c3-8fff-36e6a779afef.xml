@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordBranchCashAllocation"
+    id="a330a203-a10e-43c3-8fff-36e6a779afef"
+    documentation="Record activity/utilization details/information against the Branch Cash Allocation"/>

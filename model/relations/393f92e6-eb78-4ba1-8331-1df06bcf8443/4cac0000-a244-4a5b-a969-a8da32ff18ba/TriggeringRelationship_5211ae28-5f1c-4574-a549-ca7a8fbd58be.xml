@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorise Corporate Deposit Agreement"
+    id="5211ae28-5f1c-4574-a549-ca7a8fbd58be">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_566cda82-543b-43a5-91c6-6fcf249385ea.xml#566cda82-543b-43a5-91c6-6fcf249385ea"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f1a9787d-2eb7-4e48-b3bb-8109fcbec17d.xml#f1a9787d-2eb7-4e48-b3bb-8109fcbec17d"/>
+</archimate:TriggeringRelationship>

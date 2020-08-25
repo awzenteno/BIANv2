@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conduct Legal Part of Corporate Customer Onboarding"
+    id="cdf79305-91a5-4fae-b8b9-79e847cd17f8">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f1230b21-5d5f-4e78-9bbf-53171a760f46.xml#f1230b21-5d5f-4e78-9bbf-53171a760f46"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_2c743aa0-4858-46ed-904a-8f51dea75a77.xml#2c743aa0-4858-46ed-904a-8f51dea75a77"/>
+</archimate:TriggeringRelationship>

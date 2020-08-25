@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executePaymentOrderTransaction"
+    id="ba5c1a26-55ab-4263-a77e-fc3843e0e9f6"
+    documentation=" Execute an automated action against active payment order (perhaps rearrange)"/>

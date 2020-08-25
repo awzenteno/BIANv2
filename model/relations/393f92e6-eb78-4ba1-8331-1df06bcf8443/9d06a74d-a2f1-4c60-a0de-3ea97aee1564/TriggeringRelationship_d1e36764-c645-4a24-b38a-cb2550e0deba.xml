@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create an open item for processing"
+    id="d1e36764-c645-4a24-b38a-cb2550e0deba">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_02c81c3b-39a1-4b24-94f2-e6a83d7ecfbf.xml#02c81c3b-39a1-4b24-94f2-e6a83d7ecfbf"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_98d6a368-2d3b-4750-8bf3-a75de1ed310c.xml#98d6a368-2d3b-4750-8bf3-a75de1ed310c"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateContributionAnalysis"
+    id="3f7a78cb-9285-40f7-9f78-7eabd3e35095"
+    documentation="Assign responsibility for the Contribution Analysis"/>

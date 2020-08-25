@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CustodianForMinor"
+    id="873419e1-6f8d-4248-ab8d-dcb0297da2c3"
+    documentation=" Entity that holds shares/units on behalf of a legal minor. Although the account is registered under the name of the minor, the custodian retains control of the account.&#xA;&#xA;Юридическое лицо, владеющее акциями/паями от имени несовершеннолетнего юридического лица. Хотя учетная запись зарегистрирована на имя несовершеннолетнего попечителя сохраняет контроль над аккаунтом."/>

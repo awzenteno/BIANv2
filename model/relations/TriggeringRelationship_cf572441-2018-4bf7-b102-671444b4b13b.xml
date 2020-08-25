@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate Customer Offer"
+    id="cf572441-2018-4bf7-b102-671444b4b13b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f1230b21-5d5f-4e78-9bbf-53171a760f46.xml#f1230b21-5d5f-4e78-9bbf-53171a760f46"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e973af32-ea9d-495f-beb6-ef059b6077d0.xml#e973af32-ea9d-495f-beb6-ef059b6077d0"/>
+</archimate:TriggeringRelationship>

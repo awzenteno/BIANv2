@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveFinancialStatementsAnalysis"
+    id="783516fb-110c-42f1-ad90-01de2a2a6d2e"
+    documentation="Comment:&#xA;&#xA;Retrieve Financial Statements Analysis related reports"/>

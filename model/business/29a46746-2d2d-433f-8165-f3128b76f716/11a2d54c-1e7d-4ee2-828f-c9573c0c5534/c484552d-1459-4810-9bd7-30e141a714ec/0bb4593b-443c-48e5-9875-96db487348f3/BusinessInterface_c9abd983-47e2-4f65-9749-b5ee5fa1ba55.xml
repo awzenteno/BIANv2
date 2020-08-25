@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCustomerContactSessionProcedureDialogueSelection"
+    id="c9abd983-47e2-4f65-9749-b5ee5fa1ba55"
+    documentation="Execute a contact dialogue type selection"/>

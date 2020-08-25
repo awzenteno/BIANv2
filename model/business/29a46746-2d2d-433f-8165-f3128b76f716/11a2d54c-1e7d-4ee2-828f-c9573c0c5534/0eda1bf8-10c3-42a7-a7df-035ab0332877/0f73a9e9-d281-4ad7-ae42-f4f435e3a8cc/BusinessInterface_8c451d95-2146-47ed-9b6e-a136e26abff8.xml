@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerCreditRatingMeasurementProduct/ServiceAlert"
+    id="8c451d95-2146-47ed-9b6e-a136e26abff8"
+    documentation="Record internal event/alerts impacting credit view"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PremiumCalculation"
+    id="2f48f35e-ebd8-4ddb-9887-0d82fff532db"
+    documentation=" Specifies the amount of a premium on a currency option together with its calculation method.&#xA;&#xA;Определяет размер премии по валютному опциону вместе с его методом расчета."/>

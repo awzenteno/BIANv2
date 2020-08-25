@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestPartyDirectory"
+    id="f1f68f20-ad61-4e09-be25-3336f2817138"
+    documentation="Request to refresh an existing party directory entry"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" retrieveTradingPositionManagementPlan"
+    id="f8fb10dd-f59b-442e-9e2e-4b504096b261"
+    documentation="Retrieve Trading Position Management Plan related reports"/>

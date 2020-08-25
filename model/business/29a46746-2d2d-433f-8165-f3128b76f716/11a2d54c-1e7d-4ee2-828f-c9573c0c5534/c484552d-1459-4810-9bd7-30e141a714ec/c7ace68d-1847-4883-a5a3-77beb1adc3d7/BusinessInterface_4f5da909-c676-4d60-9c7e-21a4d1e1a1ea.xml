@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyServicingRootCauseAnalysis"
+    id="4f5da909-c676-4d60-9c7e-21a4d1e1a1ea"
+    documentation="Subscribe to Servicing Root Cause Analysis notification services"/>

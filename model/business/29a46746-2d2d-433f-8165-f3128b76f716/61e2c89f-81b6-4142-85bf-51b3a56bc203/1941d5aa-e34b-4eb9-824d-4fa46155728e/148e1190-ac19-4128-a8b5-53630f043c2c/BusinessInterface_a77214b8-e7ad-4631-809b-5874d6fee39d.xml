@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveInvestorMembership"
+    id="a77214b8-e7ad-4631-809b-5874d6fee39d"
+    documentation="Retrieve Investor Enrollment related reports"/>

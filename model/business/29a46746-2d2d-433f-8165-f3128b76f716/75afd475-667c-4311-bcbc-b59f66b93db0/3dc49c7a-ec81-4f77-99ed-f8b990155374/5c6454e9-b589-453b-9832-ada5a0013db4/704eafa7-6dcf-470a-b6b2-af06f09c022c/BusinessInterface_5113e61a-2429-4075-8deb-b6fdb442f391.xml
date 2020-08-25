@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordACHFulfillmentOperatingSession"
+    id="5113e61a-2429-4075-8deb-b6fdb442f391"
+    documentation="Record activity/feedback against the ACH operating session"/>

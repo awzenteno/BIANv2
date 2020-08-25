@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeRegulatoryComplianceAssessment"
+    id="daff1989-b6da-4532-893e-76559680b3fa"
+    documentation="Obtain authorization for some action under the Regulatory Compliance Assessment"/>

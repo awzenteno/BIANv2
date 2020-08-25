@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coordinate enhancements"
+    id="0b136dcd-db43-4eeb-b3a7-826870641602">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_613d4fa2-b9d0-4863-b878-1f3573f8d0b3.xml#613d4fa2-b9d0-4863-b878-1f3573f8d0b3"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_44c3a7e5-96ef-46cd-ae0d-8da1fe36733e.xml#44c3a7e5-96ef-46cd-ae0d-8da1fe36733e"/>
+</archimate:TriggeringRelationship>

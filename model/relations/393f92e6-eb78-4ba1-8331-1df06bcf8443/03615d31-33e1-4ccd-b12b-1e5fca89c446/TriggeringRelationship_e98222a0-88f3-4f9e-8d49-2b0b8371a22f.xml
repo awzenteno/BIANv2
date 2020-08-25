@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Generate correspondence"
+    id="e98222a0-88f3-4f9e-8d49-2b0b8371a22f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7debc112-5232-4122-b6e5-5831987a71fc.xml#7debc112-5232-4122-b6e5-5831987a71fc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5408a954-9c77-4aaa-8aa1-9fe63f3f0b07.xml#5408a954-9c77-4aaa-8aa1-9fe63f3f0b07"/>
+</archimate:TriggeringRelationship>

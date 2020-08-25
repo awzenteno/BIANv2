@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get valuation models"
+    id="fb2a7971-099b-4d1c-bdea-2b47e22fc0c0">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_dc49fd22-4287-43a5-9b44-d43b08a59d1e.xml#dc49fd22-4287-43a5-9b44-d43b08a59d1e"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_d203ee04-39ef-4b71-9b3d-878b6644eb25.xml#d203ee04-39ef-4b71-9b3d-878b6644eb25"/>
+</archimate:TriggeringRelationship>

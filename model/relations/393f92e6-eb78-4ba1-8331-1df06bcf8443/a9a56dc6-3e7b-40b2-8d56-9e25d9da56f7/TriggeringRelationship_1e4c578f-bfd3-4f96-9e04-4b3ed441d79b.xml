@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Authorise closing of Corporate Current Account"
+    id="1e4c578f-bfd3-4f96-9e04-4b3ed441d79b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e20ae357-6a54-4bf7-9587-5172f456b8cf.xml#e20ae357-6a54-4bf7-9587-5172f456b8cf"/>
+</archimate:TriggeringRelationship>

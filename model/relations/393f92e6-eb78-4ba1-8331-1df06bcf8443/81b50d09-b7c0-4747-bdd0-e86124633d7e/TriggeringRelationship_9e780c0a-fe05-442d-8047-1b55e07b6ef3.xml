@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Salary Package"
+    id="9e780c0a-fe05-442d-8047-1b55e07b6ef3">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_0e53f9a9-6e56-4e6d-9737-3bf28de109ac.xml#0e53f9a9-6e56-4e6d-9737-3bf28de109ac"/>
+</archimate:TriggeringRelationship>

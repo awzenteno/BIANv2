@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Refund Outgoing Payment Transaction"
+    id="3302fde3-4f7e-4cdb-b492-b249436eb0e0">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_340fcb16-0f61-4a98-9980-3307680d4fe8.xml#340fcb16-0f61-4a98-9980-3307680d4fe8"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_27976748-f58e-4ffc-8207-8d0b1b5b2e0d.xml#27976748-f58e-4ffc-8207-8d0b1b5b2e0d"/>
+</archimate:TriggeringRelationship>

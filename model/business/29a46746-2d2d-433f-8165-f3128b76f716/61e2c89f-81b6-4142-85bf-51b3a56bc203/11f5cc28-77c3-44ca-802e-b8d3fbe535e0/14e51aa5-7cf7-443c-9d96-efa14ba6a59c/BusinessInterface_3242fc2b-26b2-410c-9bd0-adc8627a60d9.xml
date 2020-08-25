@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeEmployeePayrollProcedure"
+    id="3242fc2b-26b2-410c-9bd0-adc8627a60d9"
+    documentation="Execute a task under the Employee Payroll Procedure"/>

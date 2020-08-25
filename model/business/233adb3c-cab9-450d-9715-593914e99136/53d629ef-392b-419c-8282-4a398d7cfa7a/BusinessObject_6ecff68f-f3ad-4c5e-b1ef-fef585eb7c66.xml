@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CollateralProposal"
+    id="6ecff68f-f3ad-4c5e-b1ef-fef585eb7c66"
+    documentation="Specifies collateral proposed to the counterparty.&#xA;&#xA;Указывает предлагаемое контрагенту обеспечение."/>

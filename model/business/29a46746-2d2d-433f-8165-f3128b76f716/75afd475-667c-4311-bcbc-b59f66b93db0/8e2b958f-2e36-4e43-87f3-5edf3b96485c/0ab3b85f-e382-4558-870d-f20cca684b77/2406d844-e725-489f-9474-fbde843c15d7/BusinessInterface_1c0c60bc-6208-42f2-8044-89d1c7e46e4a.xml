@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordMarketMakingFulfillmentArrangement"
+    id="1c0c60bc-6208-42f2-8044-89d1c7e46e4a"
+    documentation="Comment:&#xA;&#xA;Record activity details/information against the Market Making"/>

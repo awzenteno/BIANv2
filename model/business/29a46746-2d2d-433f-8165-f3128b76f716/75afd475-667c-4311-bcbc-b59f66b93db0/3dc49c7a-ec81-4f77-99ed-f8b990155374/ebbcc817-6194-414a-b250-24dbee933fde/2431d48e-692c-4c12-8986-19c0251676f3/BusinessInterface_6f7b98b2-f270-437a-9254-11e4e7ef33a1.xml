@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerBillingProcedure"
+    id="6f7b98b2-f270-437a-9254-11e4e7ef33a1"
+    documentation=" Request active invoice tracking/assessment work steps"/>

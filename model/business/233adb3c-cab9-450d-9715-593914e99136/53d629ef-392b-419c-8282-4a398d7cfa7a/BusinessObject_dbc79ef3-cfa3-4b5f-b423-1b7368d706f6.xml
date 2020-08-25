@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ChequePayment"
+    id="dbc79ef3-cfa3-4b5f-b423-1b7368d706f6"
+    documentation="Payment made by drawing a cheque in order to settle a debt.&#xA;&#xA;Оплата производится чеком для погашения задолженности."/>

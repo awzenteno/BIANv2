@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configure voice service operations"
+    id="9bfd4faf-1f3c-429b-8c9f-184a14430b53">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bc335029-0187-4e43-bb1a-b52159b2dfe2.xml#bc335029-0187-4e43-bb1a-b52159b2dfe2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_413f0f1f-8b4d-46b0-a201-af38b4d25722.xml#413f0f1f-8b4d-46b0-a201-af38b4d25722"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordTradeFinanceFulfillmentArrangement"
+    id="72145bef-a13b-4c6b-b576-a5cfcb20ff09"
+    documentation="Record activity details/information against the Trade Finance"/>

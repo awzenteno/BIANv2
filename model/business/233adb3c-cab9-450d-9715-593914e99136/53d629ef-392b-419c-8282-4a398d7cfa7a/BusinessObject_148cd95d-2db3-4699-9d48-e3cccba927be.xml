@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DefaultFundContribution"
+    id="148cd95d-2db3-4699-9d48-e3cccba927be"
+    documentation=" Portion of the participation to the default fund that clearing member must provide. It is the sum of the individual contributions.&#xA;&#xA;Часть участия в Фонде по умолчанию, которую должен предоставить клиринговый член. Это сумма индивидуальных взносов."/>

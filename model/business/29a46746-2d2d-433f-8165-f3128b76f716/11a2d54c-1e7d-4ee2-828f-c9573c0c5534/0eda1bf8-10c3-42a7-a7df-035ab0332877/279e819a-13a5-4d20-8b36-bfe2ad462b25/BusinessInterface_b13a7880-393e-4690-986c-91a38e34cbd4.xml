@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateCustomerAgreementEnterpriseTerms"
+    id="b13a7880-393e-4690-986c-91a38e34cbd4"
+    documentation=" Initiate/set-up the enterprise/prudential aspect of the customer agreement (apply/negotiate terms)"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record Direct Debit Mandate – Creditor Bank"
+    id="51bf3844-6609-46aa-bfb3-6205a07a5131">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7152608d-8ae3-453d-bfb9-3590d10e1b34.xml#7152608d-8ae3-453d-bfb9-3590d10e1b34"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_28ad1141-295a-4606-afc1-c114654bad7f.xml#28ad1141-295a-4606-afc1-c114654bad7f"/>
+</archimate:TriggeringRelationship>

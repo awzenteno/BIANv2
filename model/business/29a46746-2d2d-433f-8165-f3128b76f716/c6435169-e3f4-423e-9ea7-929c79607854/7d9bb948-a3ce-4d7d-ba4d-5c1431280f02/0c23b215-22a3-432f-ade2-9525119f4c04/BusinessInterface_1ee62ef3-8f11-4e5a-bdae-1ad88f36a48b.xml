@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCreditRiskModelSpecification"
+    id="1ee62ef3-8f11-4e5a-bdae-1ad88f36a48b"
+    documentation="Comment:&#xA;&#xA;Subscribe to Credit Risk Model Specification notification services"/>

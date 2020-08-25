@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registerProductDirectory"
+    id="3bf5f2c3-9dc9-4e38-b4ca-598cf94406ac"
+    documentation="Register a product in the Product Directory "/>

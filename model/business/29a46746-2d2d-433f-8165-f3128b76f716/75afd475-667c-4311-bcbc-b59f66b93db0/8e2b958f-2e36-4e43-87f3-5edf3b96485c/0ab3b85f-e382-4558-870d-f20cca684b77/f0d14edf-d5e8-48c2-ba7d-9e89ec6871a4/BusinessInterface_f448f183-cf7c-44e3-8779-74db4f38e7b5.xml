@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeSuitabilityAssessment"
+    id="f448f183-cf7c-44e3-8779-74db4f38e7b5"
+    documentation="Obtain authorization for some action under the Suitability Assessment"/>

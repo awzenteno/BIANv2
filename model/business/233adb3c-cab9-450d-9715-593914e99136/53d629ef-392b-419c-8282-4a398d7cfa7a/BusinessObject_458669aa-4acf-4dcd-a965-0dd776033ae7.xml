@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ShareholderRegister"
+    id="458669aa-4acf-4dcd-a965-0dd776033ae7"
+    documentation="Contains a list of owners and the quantity of securities they own.&#xA;&#xA;Содержит список владельцев и количество ценных бумаг, которыми они владеют."/>

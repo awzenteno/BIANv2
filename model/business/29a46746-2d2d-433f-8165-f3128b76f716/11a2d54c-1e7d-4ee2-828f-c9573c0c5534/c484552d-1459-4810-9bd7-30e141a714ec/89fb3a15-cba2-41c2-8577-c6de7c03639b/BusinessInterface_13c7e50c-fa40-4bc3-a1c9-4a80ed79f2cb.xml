@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateServicingEventLog"
+    id="13c7e50c-fa40-4bc3-a1c9-4a80ed79f2cb"
+    documentation="Assign responsibility for the Servicing Event Account/Log"/>

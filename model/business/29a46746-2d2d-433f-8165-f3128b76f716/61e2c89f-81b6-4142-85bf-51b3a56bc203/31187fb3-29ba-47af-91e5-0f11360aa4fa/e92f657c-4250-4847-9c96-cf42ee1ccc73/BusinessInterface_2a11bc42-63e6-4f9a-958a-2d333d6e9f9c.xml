@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateSupplierMembership"
+    id="2a11bc42-63e6-4f9a-958a-2d333d6e9f9c"
+    documentation="Update elements of the Supplier Enrollment"/>

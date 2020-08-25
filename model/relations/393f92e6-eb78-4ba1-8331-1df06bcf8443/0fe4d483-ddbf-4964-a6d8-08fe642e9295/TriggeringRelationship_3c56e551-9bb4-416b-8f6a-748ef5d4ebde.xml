@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get prospect details"
+    id="3c56e551-9bb4-416b-8f6a-748ef5d4ebde">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b2d61e73-d0f3-4ccf-9c9c-3998bff064ac.xml#b2d61e73-d0f3-4ccf-9c9c-3998bff064ac"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_43745e2f-c9af-4846-b940-549f8dfb89fc.xml#43745e2f-c9af-4846-b940-549f8dfb89fc"/>
+</archimate:TriggeringRelationship>

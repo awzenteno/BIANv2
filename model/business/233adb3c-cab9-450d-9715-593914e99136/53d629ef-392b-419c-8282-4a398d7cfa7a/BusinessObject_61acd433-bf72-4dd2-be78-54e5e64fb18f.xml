@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CollateralStatus"
+    id="61acd433-bf72-4dd2-be78-54e5e64fb18f"
+    documentation=" Specifies the status of the collateral or of an event related to collateral.&#xA;&#xA;Указывает состояние обеспечения или события, связанного с обеспечением."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request outbound connection"
+    id="a1dc74f7-b035-429b-800d-fa3368573ff4">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_10c24ae9-e157-46eb-b6aa-c95b22fd87dc.xml#10c24ae9-e157-46eb-b6aa-c95b22fd87dc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1b23cb33-8f56-4f22-806f-a300bee5fb00.xml#1b23cb33-8f56-4f22-806f-a300bee5fb00"/>
+</archimate:TriggeringRelationship>

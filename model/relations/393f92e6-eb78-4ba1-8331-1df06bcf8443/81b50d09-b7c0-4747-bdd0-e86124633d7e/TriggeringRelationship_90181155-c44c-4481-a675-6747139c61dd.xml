@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Set up new facility"
+    id="90181155-c44c-4481-a675-6747139c61dd">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_bc087e0d-8473-4608-a020-5221cd21ff9f.xml#bc087e0d-8473-4608-a020-5221cd21ff9f"/>
+</archimate:TriggeringRelationship>

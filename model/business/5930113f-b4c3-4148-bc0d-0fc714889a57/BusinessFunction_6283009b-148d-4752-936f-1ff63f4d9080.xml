@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Track"
+    id="6283009b-148d-4752-936f-1ff63f4d9080"
+    documentation="Maintain a log of transactions or activity, typically a financial account/journal or a log of activity to support analysis. Examples: Maintain a financial journal of transactions processed for a product or service and maintain a log of customer events and activity for subsequent analysis.&#xA;&#xA;Inactive&#xA;Tracking-active&#xA;Tracking-suspended&#xA;Tracking-under-anaysis&#xA;Tracking-expired"/>

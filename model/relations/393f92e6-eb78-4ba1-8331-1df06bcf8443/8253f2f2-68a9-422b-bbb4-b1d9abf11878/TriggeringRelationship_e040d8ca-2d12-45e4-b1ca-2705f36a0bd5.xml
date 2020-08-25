@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record portfolio transactions"
+    id="e040d8ca-2d12-45e4-b1ca-2705f36a0bd5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b21350f0-f37f-407c-a8b1-086775d08b1e.xml#b21350f0-f37f-407c-a8b1-086775d08b1e"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_dd224596-543d-40b3-b22e-f17c5bc84bf8.xml#dd224596-543d-40b3-b22e-f17c5bc84bf8"/>
+</archimate:TriggeringRelationship>

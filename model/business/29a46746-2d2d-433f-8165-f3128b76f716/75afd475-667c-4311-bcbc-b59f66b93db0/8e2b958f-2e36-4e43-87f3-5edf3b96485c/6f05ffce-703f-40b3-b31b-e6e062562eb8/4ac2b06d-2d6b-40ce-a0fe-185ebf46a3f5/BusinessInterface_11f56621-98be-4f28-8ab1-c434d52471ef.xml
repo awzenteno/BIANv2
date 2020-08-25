@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCashManagementFulfillmentArrangement"
+    id="11f56621-98be-4f28-8ab1-c434d52471ef"
+    documentation="Subscribe to Cash Management Product Arrangement notification services"/>

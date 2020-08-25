@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionCashEntitlement"
+    id="2cedf807-4183-4446-9e62-1cbeca0348a1"
+    documentation=" Rights for cash entitled to the account owner based on the terms of the corporate action event and the balance of underlying securities.&#xA;&#xA;Права на денежные средства принадлежат владельцу счета на основании условий проведения корпоративного мероприятия и остатка базовых ценных бумаг."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeInteractiveHelpServiceOperatingSession"
+    id="ba84d12e-d76a-4208-a4e0-71be9cc6657c"
+    documentation="Execute a transaction or task under the Interactive Help Service Operating Session"/>

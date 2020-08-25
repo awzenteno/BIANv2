@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBrandManagementPlan"
+    id="085fe152-6fc2-4101-b79d-2f157c1ea541"
+    documentation="Retrieve Brand Management Plan related reports"/>

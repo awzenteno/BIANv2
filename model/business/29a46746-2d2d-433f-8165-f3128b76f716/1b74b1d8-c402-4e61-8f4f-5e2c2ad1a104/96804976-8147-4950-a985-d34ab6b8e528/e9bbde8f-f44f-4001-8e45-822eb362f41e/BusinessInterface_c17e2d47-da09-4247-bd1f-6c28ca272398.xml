@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordLocationDirectory"
+    id="c17e2d47-da09-4247-bd1f-6c28ca272398"
+    documentation=" Record usage or feedback against a location directory entry"/>

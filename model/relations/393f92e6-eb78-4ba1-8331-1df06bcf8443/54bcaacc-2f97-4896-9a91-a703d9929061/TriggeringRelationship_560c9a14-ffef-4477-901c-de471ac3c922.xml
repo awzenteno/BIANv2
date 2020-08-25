@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get consolidated customer tax status"
+    id="560c9a14-ffef-4477-901c-de471ac3c922">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b3d1ef03-c207-426e-b799-14f293088a58.xml#b3d1ef03-c207-426e-b799-14f293088a58"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_29f33e97-08f9-436d-ac69-6be4324e3763.xml#29f33e97-08f9-436d-ac69-6be4324e3763"/>
+</archimate:TriggeringRelationship>

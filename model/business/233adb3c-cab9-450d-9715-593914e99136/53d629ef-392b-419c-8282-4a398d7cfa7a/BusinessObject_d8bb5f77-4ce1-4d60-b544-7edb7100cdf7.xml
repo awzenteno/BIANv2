@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MeetingDeadline"
+    id="d8bb5f77-4ce1-4d60-b544-7edb7100cdf7"
+    documentation="Specifies the different deadlines available for the different processes related to meeting attendance, proxy voting and entitlement assessment.&#xA;&#xA;Определяет разные сроки для различных процессов, связанных с посещаемость собрания, голосования и оценок права."/>

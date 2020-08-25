@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Handle request for preferential rates"
+    id="a70181f7-39c5-4d12-af2a-746e13346f5a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_261cce05-6d5e-4cc9-8f28-f2fc108c8ad7.xml#261cce05-6d5e-4cc9-8f28-f2fc108c8ad7"/>
+</archimate:TriggeringRelationship>

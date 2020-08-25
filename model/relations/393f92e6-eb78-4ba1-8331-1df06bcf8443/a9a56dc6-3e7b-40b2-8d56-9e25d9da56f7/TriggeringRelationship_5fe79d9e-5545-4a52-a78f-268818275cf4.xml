@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seek approval from Legal Compliance"
+    id="5fe79d9e-5545-4a52-a78f-268818275cf4">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_9b56f577-930f-4207-ace7-efd7a2261f24.xml#9b56f577-930f-4207-ace7-efd7a2261f24"/>
+</archimate:TriggeringRelationship>

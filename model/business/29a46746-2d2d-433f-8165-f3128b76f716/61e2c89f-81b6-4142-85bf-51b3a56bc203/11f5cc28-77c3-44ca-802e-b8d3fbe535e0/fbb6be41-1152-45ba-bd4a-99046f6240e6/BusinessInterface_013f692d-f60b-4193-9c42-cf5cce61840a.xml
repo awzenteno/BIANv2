@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyEmployeeAnalysis"
+    id="013f692d-f60b-4193-9c42-cf5cce61840a"
+    documentation="Subscribe to Employee Analysis notification services"/>

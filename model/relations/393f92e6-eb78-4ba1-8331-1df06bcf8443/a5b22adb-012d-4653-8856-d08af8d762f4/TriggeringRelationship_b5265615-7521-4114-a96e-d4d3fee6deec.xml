@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Set Sales Product status to launched"
+    id="b5265615-7521-4114-a96e-d4d3fee6deec">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_15519ec9-4ec9-406c-9ad6-30bd21c34d6f.xml#15519ec9-4ec9-406c-9ad6-30bd21c34d6f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_85e1a2d4-ed5b-4c5d-a357-3d3e03321a9e.xml#85e1a2d4-ed5b-4c5d-a357-3d3e03321a9e"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCustomerCaseRootCauseAnalysis"
+    id="10ef1d3f-018b-4b5e-8d02-7b0a40b0605c"
+    documentation="Assign responsibility for the Customer Case Root Cause Analysis"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrievePointOfServiceOperatingSession"
+    id="21c61030-c0bc-4c4b-b277-a91ba0fb360d"
+    documentation=" Retrieve a servicing session report"/>

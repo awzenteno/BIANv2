@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestHedgeFundAdministrativePlan"
+    id="dcc53e5c-b163-4efa-b6da-27c1c21bf693"
+    documentation="Request a service under the Hedge Fund Administrative Plan"/>

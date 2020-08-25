@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SourceOfPrice"
+    id="c3ff0c36-6b1b-4524-ad9d-bad8fb71816a"
+    documentation=" Place from which the price was obtained.&#xA;&#xA;Место, из которого была получена цена."/>

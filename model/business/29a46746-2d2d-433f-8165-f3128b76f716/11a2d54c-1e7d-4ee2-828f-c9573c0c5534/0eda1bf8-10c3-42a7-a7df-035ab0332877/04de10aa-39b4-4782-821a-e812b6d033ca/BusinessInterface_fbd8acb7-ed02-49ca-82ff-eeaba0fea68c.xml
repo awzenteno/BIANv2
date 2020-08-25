@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateCustomerEligibilityAssessmentNextBestProduct"
+    id="fbd8acb7-ed02-49ca-82ff-eeaba0fea68c"
+    documentation=" Request next best product/service"/>

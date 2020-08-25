@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordSegmentStrategy"
+    id="4d1f2167-2c94-4808-ba92-b27963c535c7"
+    documentation="Record activity details/information against the Segment Strategy"/>

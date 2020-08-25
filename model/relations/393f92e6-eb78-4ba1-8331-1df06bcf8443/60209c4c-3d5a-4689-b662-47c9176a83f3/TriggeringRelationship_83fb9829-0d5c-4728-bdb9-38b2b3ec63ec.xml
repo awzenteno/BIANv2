@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Provide combined account statement"
+    id="83fb9829-0d5c-4728-bdb9-38b2b3ec63ec">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_53ef4b4f-d95e-4488-aade-1149e29ec280.xml#53ef4b4f-d95e-4488-aade-1149e29ec280"/>
+</archimate:TriggeringRelationship>

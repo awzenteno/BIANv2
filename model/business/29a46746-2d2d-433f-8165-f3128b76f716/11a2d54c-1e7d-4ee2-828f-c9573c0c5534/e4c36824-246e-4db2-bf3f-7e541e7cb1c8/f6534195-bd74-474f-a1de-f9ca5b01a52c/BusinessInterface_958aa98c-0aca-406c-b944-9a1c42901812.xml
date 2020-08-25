@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyServicingOrderProcedure"
+    id="958aa98c-0aca-406c-b944-9a1c42901812"
+    documentation="Subscribe to Customer Order Procedure notification services"/>

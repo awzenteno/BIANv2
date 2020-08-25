@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordFinancialControlAssessment"
+    id="653b633f-b262-4659-9749-0f784fa01748"
+    documentation="Record activity details/information against an ongoing Financial Control Assessment evaluation"/>

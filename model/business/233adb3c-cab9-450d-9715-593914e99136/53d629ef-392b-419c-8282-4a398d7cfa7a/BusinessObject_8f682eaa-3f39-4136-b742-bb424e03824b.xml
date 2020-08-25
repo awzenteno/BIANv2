@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Payee"
+    id="8f682eaa-3f39-4136-b742-bb424e03824b"
+    documentation="Party to which a cheque is made payable.&#xA;&#xA;Сторона, которой выплачивается чек."/>

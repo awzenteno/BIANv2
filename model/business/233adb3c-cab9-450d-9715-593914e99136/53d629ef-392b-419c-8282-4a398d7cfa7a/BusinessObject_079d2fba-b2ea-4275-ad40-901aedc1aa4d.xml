@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TreasuryTradeSettlementStatus"
+    id="079d2fba-b2ea-4275-ad40-901aedc1aa4d"
+    documentation=" Specifies the status of a treasury trade at a specified time.&#xA;&#xA;Указывает состояние казначейской сделки в указанное время."/>

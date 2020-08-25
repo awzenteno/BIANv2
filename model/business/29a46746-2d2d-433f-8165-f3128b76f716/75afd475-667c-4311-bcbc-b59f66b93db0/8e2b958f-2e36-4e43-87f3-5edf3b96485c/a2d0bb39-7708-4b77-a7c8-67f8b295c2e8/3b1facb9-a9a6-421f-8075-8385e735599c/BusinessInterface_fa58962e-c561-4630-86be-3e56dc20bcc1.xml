@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" requestMerchant FulfillmentArrangement"
+    id="fa58962e-c561-4630-86be-3e56dc20bcc1"
+    documentation="Request a service under the merchant fulfillment arrangement"/>

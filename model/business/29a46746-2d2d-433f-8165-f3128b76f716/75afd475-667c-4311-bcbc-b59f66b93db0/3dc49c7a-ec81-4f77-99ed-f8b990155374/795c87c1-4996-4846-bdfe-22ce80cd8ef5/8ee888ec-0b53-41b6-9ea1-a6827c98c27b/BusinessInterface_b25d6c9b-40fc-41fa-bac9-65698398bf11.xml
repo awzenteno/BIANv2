@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordTransactionScheduleFulfillmentArrangement"
+    id="b25d6c9b-40fc-41fa-bac9-65698398bf11"
+    documentation="Comment:&#xA;&#xA;Record activity details/information against the Transaction Schedule"/>

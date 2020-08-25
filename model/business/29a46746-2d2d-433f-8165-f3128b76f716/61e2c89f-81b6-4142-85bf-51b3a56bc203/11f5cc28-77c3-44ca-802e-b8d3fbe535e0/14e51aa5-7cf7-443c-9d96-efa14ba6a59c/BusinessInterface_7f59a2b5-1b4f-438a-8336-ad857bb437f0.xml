@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEmployeePayrollProcedure"
+    id="7f59a2b5-1b4f-438a-8336-ad857bb437f0"
+    documentation="Retrieve Employee Payroll Procedure related reports"/>

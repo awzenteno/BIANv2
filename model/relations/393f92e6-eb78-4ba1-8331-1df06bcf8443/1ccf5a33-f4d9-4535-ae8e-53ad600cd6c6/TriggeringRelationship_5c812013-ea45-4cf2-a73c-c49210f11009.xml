@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Restructure loan request"
+    id="5c812013-ea45-4cf2-a73c-c49210f11009">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1ed107eb-1b9e-4c10-b72c-6cde7579c648.xml#1ed107eb-1b9e-4c10-b72c-6cde7579c648"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_717b2579-e662-4a23-b5e5-e8f497a744fc.xml#717b2579-e662-4a23-b5e5-e8f497a744fc"/>
+</archimate:TriggeringRelationship>

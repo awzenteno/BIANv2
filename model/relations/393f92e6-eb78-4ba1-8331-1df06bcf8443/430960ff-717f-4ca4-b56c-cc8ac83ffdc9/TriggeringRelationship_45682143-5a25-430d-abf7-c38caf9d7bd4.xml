@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get approval of Sweep agreement from requesting Customer and affiliated parties"
+    id="45682143-5a25-430d-abf7-c38caf9d7bd4">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_17c6981e-a297-4809-877d-aca6a48c0f0a.xml#17c6981e-a297-4809-877d-aca6a48c0f0a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5408a954-9c77-4aaa-8aa1-9fe63f3f0b07.xml#5408a954-9c77-4aaa-8aa1-9fe63f3f0b07"/>
+</archimate:TriggeringRelationship>

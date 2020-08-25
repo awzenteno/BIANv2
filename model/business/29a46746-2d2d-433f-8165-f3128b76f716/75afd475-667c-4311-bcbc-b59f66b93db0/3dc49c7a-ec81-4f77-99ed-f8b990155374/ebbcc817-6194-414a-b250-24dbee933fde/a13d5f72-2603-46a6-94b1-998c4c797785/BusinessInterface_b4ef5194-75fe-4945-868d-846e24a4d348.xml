@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordChannelActivityLogChannelEvent"
+    id="b4ef5194-75fe-4945-868d-846e24a4d348"
+    documentation="Record a channel activity event"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateLockBoxFulfillmentArrangement"
+    id="34fa4e86-1248-4a64-b1a6-6b06752fb8d1"
+    documentation="Terminate all or some part of the Lock Box"/>

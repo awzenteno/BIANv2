@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Update Card Agreement"
+    id="9fb07c40-9c3f-486e-8dbc-9c0132ebfa1d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c2164bd8-b0d5-4e2d-ba1a-77a38269f945.xml#c2164bd8-b0d5-4e2d-ba1a-77a38269f945"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_92d9cdd4-a84f-4189-a58c-c387a528c151.xml#92d9cdd4-a84f-4189-a58c-c387a528c151"/>
+</archimate:TriggeringRelationship>

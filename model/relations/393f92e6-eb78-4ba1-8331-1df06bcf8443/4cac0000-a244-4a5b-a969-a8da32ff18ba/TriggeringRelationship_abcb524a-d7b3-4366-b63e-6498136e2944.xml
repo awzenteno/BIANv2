@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De-link Corporate Deposit from settlement account"
+    id="abcb524a-d7b3-4366-b63e-6498136e2944">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_566cda82-543b-43a5-91c6-6fcf249385ea.xml#566cda82-543b-43a5-91c6-6fcf249385ea"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_0e53f9a9-6e56-4e6d-9737-3bf28de109ac.xml#0e53f9a9-6e56-4e6d-9737-3bf28de109ac"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyLocationDirectory"
+    id="6e3b1a84-b8af-42ac-bbff-b7f6c33bc937"
+    documentation="Comment:&#xA;&#xA;Subscribe to Location Enrollment notification services"/>

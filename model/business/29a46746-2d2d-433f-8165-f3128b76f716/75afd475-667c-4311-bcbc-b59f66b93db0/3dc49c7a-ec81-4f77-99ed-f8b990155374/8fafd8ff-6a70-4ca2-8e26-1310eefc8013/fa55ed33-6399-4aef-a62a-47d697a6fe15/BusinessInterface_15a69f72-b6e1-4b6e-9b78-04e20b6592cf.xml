@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateCollateralAssetLiquidationProcedure"
+    id="15a69f72-b6e1-4b6e-9b78-04e20b6592cf"
+    documentation="Comment:&#xA;&#xA;Update work tasks and activity details for the Collateral Asset Liquidation Procedure"/>

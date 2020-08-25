@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCentralCashAllocation"
+    id="8363d0b2-43d4-4147-aa9a-ff7c487ec23f"
+    documentation="Subscribe to Central Cash Allocation notification services"/>

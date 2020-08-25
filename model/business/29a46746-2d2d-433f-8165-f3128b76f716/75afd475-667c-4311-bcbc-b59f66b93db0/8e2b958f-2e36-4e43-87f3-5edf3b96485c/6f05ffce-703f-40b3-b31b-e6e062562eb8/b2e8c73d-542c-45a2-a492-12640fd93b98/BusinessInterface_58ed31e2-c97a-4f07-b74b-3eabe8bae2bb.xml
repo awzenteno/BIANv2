@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateSyndicatedLoanFulfillmentArrangement"
+    id="58ed31e2-c97a-4f07-b74b-3eabe8bae2bb"
+    documentation="Update elements of the Syndicated Loan"/>

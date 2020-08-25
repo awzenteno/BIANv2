@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PaymentProcessing"
+    id="3b949d08-fd90-40a6-aaad-0746d55776a6"
+    documentation="Specifies how a payment must be processed, for instance through which specific clearing channel.&#xA;&#xA;Указывает, как должен обрабатываться платеж, например, через какой конкретный клиринговый канал."/>

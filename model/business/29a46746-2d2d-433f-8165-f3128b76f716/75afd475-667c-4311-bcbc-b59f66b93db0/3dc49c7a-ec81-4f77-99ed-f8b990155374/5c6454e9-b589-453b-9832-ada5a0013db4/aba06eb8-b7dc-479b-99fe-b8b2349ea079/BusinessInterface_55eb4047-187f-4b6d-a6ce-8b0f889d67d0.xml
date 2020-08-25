@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateFinancialGatewayOperatingSession"
+    id="55eb4047-187f-4b6d-a6ce-8b0f889d67d0"
+    documentation="Terminate all or some part of the Financial Gateway Operating Session"/>

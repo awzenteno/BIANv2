@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" requestLead/OpportunityProcedureCapture"
+    id="3e31913e-0a45-44b9-b78e-54ce0071fe6a"
+    documentation=" Request a workstep to capture/classify a new lead/opportunity"/>

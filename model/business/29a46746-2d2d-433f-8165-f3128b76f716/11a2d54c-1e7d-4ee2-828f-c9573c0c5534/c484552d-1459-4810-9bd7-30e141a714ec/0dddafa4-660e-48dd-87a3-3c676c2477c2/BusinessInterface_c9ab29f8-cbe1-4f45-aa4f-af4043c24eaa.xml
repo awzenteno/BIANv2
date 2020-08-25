@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerWorkbenchOperatingSessionSWUpdate"
+    id="c9ab29f8-cbe1-4f45-aa4f-af4043c24eaa"
+    documentation="Request SW refresh from the bank"/>

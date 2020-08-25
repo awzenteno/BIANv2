@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateCustomerAgreementRegulatoryTerms"
+    id="815724e4-64e9-456e-8b5d-fb10aa699293"
+    documentation=" Initiate/set-up the regulatory aspect of the customer agreement (apply/negotiate terms)"/>

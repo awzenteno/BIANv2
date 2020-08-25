@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeBankGuaranteeFulfillmentArrangement"
+    id="bc985afd-c748-45dc-8e56-eee495170cbb"
+    documentation="Execute a task under the Bank Guarantee"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestTradingDeskOperatingSession"
+    id="f005e844-4ef3-47dd-8740-098703e2d3fa"
+    documentation="Request a service under the Trading Desk Operating Session"/>

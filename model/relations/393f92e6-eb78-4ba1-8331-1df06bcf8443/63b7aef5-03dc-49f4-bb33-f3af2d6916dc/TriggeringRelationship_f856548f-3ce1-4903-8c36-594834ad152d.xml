@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Completeness of Application"
+    id="f856548f-3ce1-4903-8c36-594834ad152d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_33593414-659d-44f0-a0af-6e8cf0b8f27b.xml#33593414-659d-44f0-a0af-6e8cf0b8f27b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_77abbf11-67e3-49e3-99ae-73eab7bc5a96.xml#77abbf11-67e3-49e3-99ae-73eab7bc5a96"/>
+</archimate:TriggeringRelationship>

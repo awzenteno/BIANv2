@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCorrespondentBankFulfillmentArrangement"
+    id="92c44c15-ef77-4656-a2f0-3d92d93930e6"
+    documentation="Record activity/feedback against a correspondent bank arrangement"/>

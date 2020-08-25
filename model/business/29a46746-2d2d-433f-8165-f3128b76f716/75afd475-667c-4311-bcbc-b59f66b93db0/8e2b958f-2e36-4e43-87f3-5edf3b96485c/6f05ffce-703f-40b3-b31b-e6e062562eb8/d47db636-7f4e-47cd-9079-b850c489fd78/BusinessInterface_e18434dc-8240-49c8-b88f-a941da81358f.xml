@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeTradeFinanceFulfillmentArrangement"
+    id="e18434dc-8240-49c8-b88f-a941da81358f"
+    documentation="Comment:&#xA;&#xA;Execute a task under the Trade Finance"/>

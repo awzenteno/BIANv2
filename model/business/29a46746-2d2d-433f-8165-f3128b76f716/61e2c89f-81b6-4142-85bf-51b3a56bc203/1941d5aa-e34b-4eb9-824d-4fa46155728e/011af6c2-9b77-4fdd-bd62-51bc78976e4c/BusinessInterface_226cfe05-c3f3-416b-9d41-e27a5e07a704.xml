@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCorporatePartnerRelationshipManagementPlan"
+    id="226cfe05-c3f3-416b-9d41-e27a5e07a704"
+    documentation="Retrieve Corporate Partner Relationship Management Plan related reports"/>

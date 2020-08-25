@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InstructingAgentRole"
+    id="c0132274-2836-4ed5-9e94-4041feb6d377"
+    documentation="Agent that instructs the next party in the chain to carry out the (set of) instruction(s).&#xA;&#xA;Агент, который поручает следующей стороне в цепочке выполнить(набор) инструкций (инструкций)."/>

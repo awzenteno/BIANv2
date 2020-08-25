@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveDisbursementTransaction"
+    id="1715921e-7d00-4ca2-8081-9781ad8c47cf"
+    documentation="Retrieve a disbursement transaction report"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RemittanceOrder"
+    id="1117551c-e1fc-4ab7-bc24-e9bb12f3a4f4"
+    documentation="An order by a customer to send a remittance&#xA;&#xA;&#xA;Заказ клиента на отправку денежного перевода"/>

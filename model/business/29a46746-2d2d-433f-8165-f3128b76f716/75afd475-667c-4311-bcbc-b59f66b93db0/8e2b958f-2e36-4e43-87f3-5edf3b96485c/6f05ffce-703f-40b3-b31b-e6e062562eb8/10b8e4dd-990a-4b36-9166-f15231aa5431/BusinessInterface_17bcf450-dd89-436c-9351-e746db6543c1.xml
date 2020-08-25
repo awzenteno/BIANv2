@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCreditFacilityFulfillmentArrangement"
+    id="17bcf450-dd89-436c-9351-e746db6543c1"
+    documentation="Execute a task under the Credit Facility"/>

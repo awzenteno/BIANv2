@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordSyndicatedLoanFulfillmentArrangement"
+    id="ab68317b-d85d-45c2-b9cc-761502e56694"
+    documentation="Record activity details/information against the Syndicated Loan"/>

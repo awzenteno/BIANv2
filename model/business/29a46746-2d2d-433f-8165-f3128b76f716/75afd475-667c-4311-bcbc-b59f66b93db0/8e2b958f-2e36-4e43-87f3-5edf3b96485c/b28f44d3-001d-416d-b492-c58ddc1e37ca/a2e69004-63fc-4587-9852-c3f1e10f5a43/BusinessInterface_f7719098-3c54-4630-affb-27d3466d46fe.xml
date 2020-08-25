@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateLoanFulfillmentArrangement"
+    id="f7719098-3c54-4630-affb-27d3466d46fe"
+    documentation="Update elements of the Loan"/>

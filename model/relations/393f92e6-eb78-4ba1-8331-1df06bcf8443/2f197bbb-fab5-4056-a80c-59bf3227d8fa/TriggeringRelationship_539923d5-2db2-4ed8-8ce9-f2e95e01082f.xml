@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get leasing item status and details"
+    id="539923d5-2db2-4ed8-8ce9-f2e95e01082f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_97c8d86d-e5f2-467e-b1a6-9b2a21b38ed2.xml#97c8d86d-e5f2-467e-b1a6-9b2a21b38ed2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1c6d83aa-9b7b-4961-b7ff-4918a82995a2.xml#1c6d83aa-9b7b-4961-b7ff-4918a82995a2"/>
+</archimate:TriggeringRelationship>

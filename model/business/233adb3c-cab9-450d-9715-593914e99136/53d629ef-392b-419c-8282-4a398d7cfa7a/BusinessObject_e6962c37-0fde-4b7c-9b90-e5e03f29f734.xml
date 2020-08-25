@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TreasurySettlementPartyRole"
+    id="e6962c37-0fde-4b7c-9b90-e5e03f29f734"
+    documentation=" Role played by a party in the context of the settlement of a treasury trade.&#xA;&#xA;Роль стороны в уплате_рассчетах казначейской сделки."/>

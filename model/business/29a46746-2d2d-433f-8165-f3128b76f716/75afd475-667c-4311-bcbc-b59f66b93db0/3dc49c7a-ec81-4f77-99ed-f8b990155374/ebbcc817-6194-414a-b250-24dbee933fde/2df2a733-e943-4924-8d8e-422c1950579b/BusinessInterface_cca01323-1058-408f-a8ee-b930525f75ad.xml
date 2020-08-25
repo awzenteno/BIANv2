@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyIssuedDeviceMeasurement"
+    id="cca01323-1058-408f-a8ee-b930525f75ad"
+    documentation="Subscribe to Issued Device Measurement notification services"/>

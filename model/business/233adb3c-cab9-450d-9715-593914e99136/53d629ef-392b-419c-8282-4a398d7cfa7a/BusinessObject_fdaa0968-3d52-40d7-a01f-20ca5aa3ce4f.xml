@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">FinancialDocument"
+    id="fdaa0968-3d52-40d7-a01f-20ca5aa3ce4f"
+    documentation=" Type of document used in relation with financial transactions.&#xA;&#xA;Тип документа, используемого в отношении финансовых операций."/>

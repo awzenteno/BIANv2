@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" retrieveSpecialPricingConditionsDirectory"
+    id="754067fa-94f5-40b7-882f-3b829e0eb135"
+    documentation="Retrieve special pricing conditions directory related reports"/>

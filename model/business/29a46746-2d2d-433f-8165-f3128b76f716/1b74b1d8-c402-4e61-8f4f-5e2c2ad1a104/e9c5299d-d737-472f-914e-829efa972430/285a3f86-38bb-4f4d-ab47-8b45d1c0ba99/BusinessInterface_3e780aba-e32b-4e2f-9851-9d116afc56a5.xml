@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyProductDirectory"
+    id="3e780aba-e32b-4e2f-9851-9d116afc56a5"
+    documentation="Subscribe to product directory notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocationRegistryEntry"
+    id="2b90a85f-358a-4c77-b57c-35730db2a7e4"
+    documentation="An entry in a location registry"/>

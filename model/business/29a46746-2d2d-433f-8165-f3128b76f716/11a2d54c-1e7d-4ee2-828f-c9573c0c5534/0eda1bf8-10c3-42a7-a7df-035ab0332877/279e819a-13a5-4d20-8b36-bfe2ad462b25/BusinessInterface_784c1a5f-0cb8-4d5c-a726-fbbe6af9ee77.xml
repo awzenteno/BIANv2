@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerAgreement"
+    id="784c1a5f-0cb8-4d5c-a726-fbbe6af9ee77"
+    documentation="Request that the agreement is reviewed/refreshed (revised rules)"/>

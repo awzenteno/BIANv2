@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Post to the ledger"
+    id="a0292757-2c54-4d34-80b8-dae3c915d95d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1f09835e-cb20-4ed2-832b-22122d354b56.xml#1f09835e-cb20-4ed2-832b-22122d354b56"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_37c33822-70ff-4002-855a-751edd0057a8.xml#37c33822-70ff-4002-855a-751edd0057a8"/>
+</archimate:TriggeringRelationship>

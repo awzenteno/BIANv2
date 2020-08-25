@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCardDelinquentAccountHandlingProcedure"
+    id="39d16456-a785-4e8a-9826-b7cd376929d5"
+    documentation="Subscribe to card delinquent account handling procedure notification services"/>

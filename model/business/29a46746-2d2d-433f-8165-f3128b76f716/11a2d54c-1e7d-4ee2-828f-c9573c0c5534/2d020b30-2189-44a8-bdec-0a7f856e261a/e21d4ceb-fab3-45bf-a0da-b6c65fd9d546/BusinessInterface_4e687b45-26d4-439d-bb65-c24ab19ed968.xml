@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerCampaignSpecification"
+    id="4e687b45-26d4-439d-bb65-c24ab19ed968"
+    documentation="Request access to a Customer Campaign Specification"/>

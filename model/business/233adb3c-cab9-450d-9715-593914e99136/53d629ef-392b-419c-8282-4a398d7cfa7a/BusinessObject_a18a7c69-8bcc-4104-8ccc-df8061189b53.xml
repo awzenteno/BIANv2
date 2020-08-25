@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SystemAdministratorRole"
+    id="a18a7c69-8bcc-4104-8ccc-df8061189b53"
+    documentation="Party that administers a system.&#xA;&#xA;Партия, которая управляет системой."/>

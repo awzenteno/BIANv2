@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerEventLogProductServiceEvent/Alert"
+    id="f6549ae4-2df0-466c-945b-39f945f9c660"
+    documentation=" Record a customer product servicing/alert event"/>

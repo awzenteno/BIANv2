@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyChannelActivityLog"
+    id="452c865f-13de-4ed6-9d47-f68f9bca2607"
+    documentation="Subscribe to Channel Activity Account/Log notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DeliverersIntermediary"
+    id="758c98aa-4248-4ea4-8301-78d04eaa86f9"
+    documentation=" Party that the deliverer's custodian uses to effect the delivery of a security, when the deliverer's custodian does not have a direct relationship with the delivering agent.&#xA;&#xA;Сторона, которую хранитель сдатчика использует для осуществления поставки ценной бумаги, когда хранитель сдатчика не имеет прямых отношений с доставляющим агентом."/>

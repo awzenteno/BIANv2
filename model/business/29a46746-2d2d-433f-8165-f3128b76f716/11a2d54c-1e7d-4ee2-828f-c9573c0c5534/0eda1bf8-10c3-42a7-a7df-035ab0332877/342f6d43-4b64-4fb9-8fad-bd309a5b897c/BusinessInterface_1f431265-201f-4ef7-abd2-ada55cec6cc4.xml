@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerBehaviorAnalysis"
+    id="1f431265-201f-4ef7-abd2-ada55cec6cc4"
+    documentation="Subscribe to Customer Behavior Analysis notification services"/>

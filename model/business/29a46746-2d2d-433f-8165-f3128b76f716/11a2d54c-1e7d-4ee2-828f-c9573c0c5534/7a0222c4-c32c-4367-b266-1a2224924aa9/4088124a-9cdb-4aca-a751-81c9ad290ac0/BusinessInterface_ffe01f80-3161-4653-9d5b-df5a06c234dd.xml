@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerOfferProcedure"
+    id="ffe01f80-3161-4653-9d5b-df5a06c234dd"
+    documentation="Request a service under the Customer Offer Procedure"/>

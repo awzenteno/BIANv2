@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordeTradingWorkbenchOperatingSession"
+    id="4e1f5f77-b70e-4930-82e3-299a77770157"
+    documentation="Comment:&#xA;&#xA;Record activity details/information against the eTrading Workbench Operating Session"/>

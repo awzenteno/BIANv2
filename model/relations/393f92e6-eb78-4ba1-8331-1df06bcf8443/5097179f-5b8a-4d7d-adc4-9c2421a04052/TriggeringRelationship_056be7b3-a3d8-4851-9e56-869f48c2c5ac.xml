@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Liquidated collateral funds provided to collections"
+    id="056be7b3-a3d8-4851-9e56-869f48c2c5ac">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6b91af93-c657-4d66-9a79-acc55193fc2b.xml#6b91af93-c657-4d66-9a79-acc55193fc2b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4f47654d-dbd5-4192-9c2a-8570c66cf752.xml#4f47654d-dbd5-4192-9c2a-8570c66cf752"/>
+</archimate:TriggeringRelationship>

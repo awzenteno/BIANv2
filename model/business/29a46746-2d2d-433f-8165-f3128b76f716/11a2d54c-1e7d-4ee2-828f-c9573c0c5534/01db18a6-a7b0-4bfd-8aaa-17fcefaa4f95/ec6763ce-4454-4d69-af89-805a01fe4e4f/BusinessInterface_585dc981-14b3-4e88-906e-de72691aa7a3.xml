@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCardPOSTerminalOperatingSession"
+    id="585dc981-14b3-4e88-906e-de72691aa7a3"
+    documentation=" Terminate all or some part of the card p o s terminal operating session"/>

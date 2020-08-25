@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateRemittanceTransaction"
+    id="59f9d212-a72a-430a-9e70-395e6a9b2b94"
+    documentation=" Initiate a remittance transaction"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveManagedInvestmentPortfolioAgreement"
+    id="eb792227-4c35-4421-89d5-9b061e3ed5fd"
+    documentation="Retrieve Managed Investment Portfolio Agreement related reports"/>

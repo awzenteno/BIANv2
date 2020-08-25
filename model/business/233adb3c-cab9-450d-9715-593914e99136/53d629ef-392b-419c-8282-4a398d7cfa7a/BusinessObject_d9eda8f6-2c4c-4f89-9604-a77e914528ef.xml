@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ReceiversIntermediary"
+    id="d9eda8f6-2c4c-4f89-9604-a77e914528ef"
+    documentation=" Party that the receiver's custodian uses to effect the receipt of a security, when the receiver's custodian does not have a direct relationship with the receiver agent.&#xA;&#xA;Сторона, которую опекун получателя использует для получения ценной бумаги, если опекун получателя не имеет прямого отношения к агенту получателя."/>

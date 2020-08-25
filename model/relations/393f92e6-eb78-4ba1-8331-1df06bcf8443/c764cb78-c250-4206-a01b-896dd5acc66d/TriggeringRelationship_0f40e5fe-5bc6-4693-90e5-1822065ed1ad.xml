@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" File Direct Debit Mandate instruction"
+    id="0f40e5fe-5bc6-4693-90e5-1822065ed1ad">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f02cb2d3-db33-484a-ad2e-3735020eb668.xml#f02cb2d3-db33-484a-ad2e-3735020eb668"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_87b4e76a-8fda-4d6a-8d24-e4d3e1c55897.xml#87b4e76a-8fda-4d6a-8d24-e4d3e1c55897"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordProductionSystemAssessment"
+    id="2b20b768-7b9b-49c5-b280-5f35d79bcdba"
+    documentation="Record activity details/information against an ongoing IT System Assessment evaluation"/>

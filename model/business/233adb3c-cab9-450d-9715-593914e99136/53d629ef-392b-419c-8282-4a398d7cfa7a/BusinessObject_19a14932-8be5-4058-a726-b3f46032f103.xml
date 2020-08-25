@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvestigationPartyRole"
+    id="19a14932-8be5-4058-a726-b3f46032f103"
+    documentation="Role played by a party in the context of an investigation process.&#xA;&#xA;Роль партии в контексте процесса расследования."/>

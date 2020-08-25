@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyEmployeeTrainingAdministrativePlan"
+    id="2c4bacdc-2d01-485b-aef2-126c92def284"
+    documentation="Subscribe to Employee Training Administrative Plan notification services"/>

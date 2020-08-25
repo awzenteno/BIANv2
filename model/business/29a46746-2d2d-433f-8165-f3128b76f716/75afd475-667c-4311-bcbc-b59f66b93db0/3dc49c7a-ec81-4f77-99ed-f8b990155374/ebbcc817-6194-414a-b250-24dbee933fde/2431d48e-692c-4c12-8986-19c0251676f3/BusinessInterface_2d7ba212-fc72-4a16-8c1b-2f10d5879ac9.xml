@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCustomerBillingProcedurePayment"
+    id="2d7ba212-fc72-4a16-8c1b-2f10d5879ac9"
+    documentation="Execute payment processing against active invoice"/>

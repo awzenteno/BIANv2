@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvestmentFundOrderExecution"
+    id="cd24f6a1-ce65-4bac-89a7-53beb9250d24"
+    documentation="Creation/cancellation of investment units on the books of the fund or its designated agent, as a result of executing an investment fund order.&#xA;&#xA;Создание / аннулирование инвестиционных паев, находящихся на балансе фонда или его уполномоченного агента, в результате исполнения распоряжения инвестиционного фонда."/>

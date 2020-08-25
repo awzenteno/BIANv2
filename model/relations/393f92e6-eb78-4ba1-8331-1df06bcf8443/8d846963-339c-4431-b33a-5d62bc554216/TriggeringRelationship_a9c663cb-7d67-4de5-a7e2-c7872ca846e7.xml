@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get asset valuation"
+    id="a9c663cb-7d67-4de5-a7e2-c7872ca846e7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0a5273f9-cc7f-4e9a-aa20-fc098bdf301d.xml#0a5273f9-cc7f-4e9a-aa20-fc098bdf301d"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_0a2c0f7c-b60d-46c6-aa55-2bba82337ad8.xml#0a2c0f7c-b60d-46c6-aa55-2bba82337ad8"/>
+</archimate:TriggeringRelationship>

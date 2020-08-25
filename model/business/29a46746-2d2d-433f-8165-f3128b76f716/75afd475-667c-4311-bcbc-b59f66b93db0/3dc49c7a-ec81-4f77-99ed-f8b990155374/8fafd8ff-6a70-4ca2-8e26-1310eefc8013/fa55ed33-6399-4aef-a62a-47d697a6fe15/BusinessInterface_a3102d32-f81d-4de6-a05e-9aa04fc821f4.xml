@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCollateralAssetLiquidationProcedure"
+    id="a3102d32-f81d-4de6-a05e-9aa04fc821f4"
+    documentation="Assign responsibility for the Collateral Asset Liquidation Procedure"/>

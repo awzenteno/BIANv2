@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeATMNetworkOperatingSession"
+    id="59dded01-c8a0-4951-ab0d-dafdfc4b9749"
+    documentation="Execute a transaction or task under the ATM Network Operating Session"/>

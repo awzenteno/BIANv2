@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record customer product usage"
+    id="484910be-ac41-4aed-9314-509628d0951c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_2675c34d-b78d-484f-ad41-36bebbde6b70.xml#2675c34d-b78d-484f-ad41-36bebbde6b70"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_01f61b73-01a2-42e8-9c01-818598d27ce5.xml#01f61b73-01a2-42e8-9c01-818598d27ce5"/>
+</archimate:TriggeringRelationship>

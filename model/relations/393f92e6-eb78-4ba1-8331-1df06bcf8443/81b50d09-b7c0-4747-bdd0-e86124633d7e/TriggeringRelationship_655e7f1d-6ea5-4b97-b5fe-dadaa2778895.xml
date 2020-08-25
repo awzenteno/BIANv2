@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate sales product agreement"
+    id="655e7f1d-6ea5-4b97-b5fe-dadaa2778895">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_d6fa95d9-61c3-4835-bb40-8a2b072a59ca.xml#d6fa95d9-61c3-4835-bb40-8a2b072a59ca"/>
+</archimate:TriggeringRelationship>

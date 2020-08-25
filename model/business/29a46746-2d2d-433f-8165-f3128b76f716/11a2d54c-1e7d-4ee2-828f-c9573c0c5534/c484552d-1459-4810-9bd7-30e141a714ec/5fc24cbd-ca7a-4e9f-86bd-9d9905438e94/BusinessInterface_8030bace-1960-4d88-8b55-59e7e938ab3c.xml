@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" evaluatePartyAuthenticationAssessmentPassword/Question"
+    id="8030bace-1960-4d88-8b55-59e7e938ab3c"
+    documentation="Evaluate authenticity based on passwords/secret questions"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeArchiveOperatingSession"
+    id="8342c9a8-20ea-4043-9745-afa0cc9c07c4"
+    documentation="Execute a transaction or task under the Archive Operating Session"/>

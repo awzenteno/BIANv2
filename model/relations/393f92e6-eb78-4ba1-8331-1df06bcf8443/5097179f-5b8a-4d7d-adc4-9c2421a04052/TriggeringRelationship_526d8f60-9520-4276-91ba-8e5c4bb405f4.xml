@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get collateral asset details"
+    id="526d8f60-9520-4276-91ba-8e5c4bb405f4">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6b91af93-c657-4d66-9a79-acc55193fc2b.xml#6b91af93-c657-4d66-9a79-acc55193fc2b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_070806ba-0ad7-4af5-af7b-c4aeec9312ee.xml#070806ba-0ad7-4af5-af7b-c4aeec9312ee"/>
+</archimate:TriggeringRelationship>

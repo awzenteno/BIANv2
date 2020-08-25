@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" initiateSalesProduct/ServiceAgreementRegulatoryTerms"
+    id="9f166801-d5ed-4562-985e-187e3d1f55e1"
+    documentation=" Initiate/set-up the regulatory aspect of the sales product/service agreement (apply/negotiate terms)"/>

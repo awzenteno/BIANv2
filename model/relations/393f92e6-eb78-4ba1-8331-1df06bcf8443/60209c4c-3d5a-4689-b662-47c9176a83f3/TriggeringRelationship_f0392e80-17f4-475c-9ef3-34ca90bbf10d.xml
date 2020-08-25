@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conduct AML check on beneficiary"
+    id="f0392e80-17f4-475c-9ef3-34ca90bbf10d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a4b07379-1fb2-496f-8492-e1299fa6af16.xml#a4b07379-1fb2-496f-8492-e1299fa6af16"/>
+</archimate:TriggeringRelationship>

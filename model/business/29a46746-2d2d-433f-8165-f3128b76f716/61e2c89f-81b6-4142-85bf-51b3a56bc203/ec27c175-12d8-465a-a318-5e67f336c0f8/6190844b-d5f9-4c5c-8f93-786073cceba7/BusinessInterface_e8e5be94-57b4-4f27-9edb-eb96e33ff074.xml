@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyDocumentHandlingOperatingSession"
+    id="e8e5be94-57b4-4f27-9edb-eb96e33ff074"
+    documentation="Subscribe to Document Handling Operating Session notification services"/>

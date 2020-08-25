@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateCustomerReferenceDataDirectory"
+    id="9b52e3f3-9818-47c8-922a-6b0dcddcd94d"
+    documentation="Update reference details of an existing customer record"/>

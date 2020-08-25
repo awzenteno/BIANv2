@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ChequeIssue"
+    id="40e7d4b4-e0c2-4648-968b-d60cec2b3848"
+    documentation=" Action to issue a cheque in order to settle an amount due to a creditor.&#xA;&#xA;&#xA;Действие по выдаче чека для погашения суммы, причитающейся кредитору."/>

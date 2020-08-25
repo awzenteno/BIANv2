@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyProspectCampaignPortfolioAnalysis"
+    id="09b3890f-f92c-42d7-b4ff-cbf3b0b7202a"
+    documentation="Subscribe to Prospect Campaign Portfolio Analysis notification services"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get Customer signature"
+    id="81754a6d-c81a-456a-8d31-880ee44d1f09">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_566cda82-543b-43a5-91c6-6fcf249385ea.xml#566cda82-543b-43a5-91c6-6fcf249385ea"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5408a954-9c77-4aaa-8aa1-9fe63f3f0b07.xml#5408a954-9c77-4aaa-8aa1-9fe63f3f0b07"/>
+</archimate:TriggeringRelationship>

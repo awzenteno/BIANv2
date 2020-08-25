@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="?executeCorrespondentBankCLEARINGORDERFulfillmentArrangement"
+    id="d935a5d0-3f79-45c2-9833-6acdf671cf45"
+    documentation="&#xA;Comment:&#xA;Execute a clearing order under the Correspondent Bank Arrangement"/>

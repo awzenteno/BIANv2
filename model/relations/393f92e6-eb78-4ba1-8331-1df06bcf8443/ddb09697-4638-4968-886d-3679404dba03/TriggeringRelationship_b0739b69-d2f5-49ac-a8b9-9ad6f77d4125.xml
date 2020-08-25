@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get customer behaviour models"
+    id="b0739b69-d2f5-49ac-a8b9-9ad6f77d4125">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0645286f-0231-4c60-a170-b2d8d3e2cf1d.xml#0645286f-0231-4c60-a170-b2d8d3e2cf1d"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1cffaafb-abe1-44d8-88fe-fdf2f1663256.xml#1cffaafb-abe1-44d8-88fe-fdf2f1663256"/>
+</archimate:TriggeringRelationship>

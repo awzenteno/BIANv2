@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Pledgee"
+    id="8f470f6b-ba4f-4c38-aee5-7065b91495c2"
+    documentation="Organisation used as the pledgee for the securities.&#xA;&#xA;Организация, используемая в качестве залогодержателя ценных бумаг."/>

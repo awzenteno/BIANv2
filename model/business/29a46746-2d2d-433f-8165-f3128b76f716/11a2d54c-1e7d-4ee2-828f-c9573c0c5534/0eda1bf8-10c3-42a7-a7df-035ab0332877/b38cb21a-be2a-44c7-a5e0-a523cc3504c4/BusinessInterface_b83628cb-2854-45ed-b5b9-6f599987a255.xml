@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerRelationshipManagementPlan"
+    id="b83628cb-2854-45ed-b5b9-6f599987a255"
+    documentation="Subscribe to Customer Relationship Management Plan notification services"/>

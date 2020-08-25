@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AccountEntry"
+    id="615328cb-c7b9-4e63-8e05-0d38a3bca4d5"
+    documentation=" Amount of money debited or credited on the books of an account servicer.&#xA;&#xA;&#xA;Сумма денежных средств, списанных или зачисленных на бухгалтерский учет __узлом обслуживания счета__ ."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeGuidelineComplianceAssessment"
+    id="4dc817a2-9076-4f5d-be73-a3028785d259"
+    documentation="Obtain authorization for some action under the Guideline Compliance Assessment"/>

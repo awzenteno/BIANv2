@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AttendanceCard"
+    id="0a97b9e1-bdc1-4692-a2f9-96d76d64d508"
+    documentation="AttendanceCard/ карточка участника &#xA;attendance / присутствие; посещение / посещаемость&#xA;&#xA;Information about the attendance card which is issued for the requestor, for its underlying client or for the appointed proxy person or meeting attendee when an attendance request is included in the meeting instruction.&#xA;The instructing party can specify which information must be indicated on the attendance card and to which location the attendance card must be delivered.&#xA;&#xA;&#xA;Информация о карточке участника, которая выдается запрашивающему лицу, основному клиенту или назначенному доверенному лицу или участнику собрания, если запрос на участие включен в инструкцию по проведению собрания.&#xA;Инструктирующая сторона может указать, какая информация должна быть указана в карте посещаемости и в какое место должна быть доставлена карта посещаемости."/>

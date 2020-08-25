@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">NonDeliverableTrade"
+    id="666a5917-12d2-4d47-af4f-700c8df2714f"
+    documentation=" Foreign exchange contract where one of the exchanged amounts is specified in a non-deliverable currency.&#xA;&#xA;Валютный контракт, в котором одна из обменных сумм указана в валюте, не подлежащей поставке."/>

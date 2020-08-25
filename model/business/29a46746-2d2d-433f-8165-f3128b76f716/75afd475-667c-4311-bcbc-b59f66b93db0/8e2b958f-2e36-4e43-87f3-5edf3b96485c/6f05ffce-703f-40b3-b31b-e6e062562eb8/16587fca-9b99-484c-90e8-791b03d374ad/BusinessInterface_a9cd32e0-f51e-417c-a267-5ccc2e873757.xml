@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestDirectDebitMandateFulfillmentArrangement"
+    id="a9cd32e0-f51e-417c-a267-5ccc2e873757"
+    documentation="Comment:&#xA;&#xA;Request a service under the Direct Debit Mandate"/>

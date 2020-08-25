@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get issued device details (for authentication)"
+    id="cdb3f732-69d0-4d26-a2d3-eb05acb920f8">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_eb8579e2-2009-4d0e-b543-ad2c396e9c98.xml#eb8579e2-2009-4d0e-b543-ad2c396e9c98"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_74cd73c5-4dc0-4d00-a683-c37c7a58543e.xml#74cd73c5-4dc0-4d00-a683-c37c7a58543e"/>
+</archimate:TriggeringRelationship>

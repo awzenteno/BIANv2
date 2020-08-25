@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Process rejection message for Outgoing Direct Debit Owner : "
+    id="028a9b7e-4557-4928-b026-faf2c7658b2e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_daf3ec75-f3af-431e-9949-c41cff6850f1.xml#daf3ec75-f3af-431e-9949-c41cff6850f1"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5eaff0c1-39d0-44c9-bc56-612bdd44d799.xml#5eaff0c1-39d0-44c9-bc56-612bdd44d799"/>
+</archimate:TriggeringRelationship>

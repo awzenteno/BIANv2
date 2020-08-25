@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record cancellation of a Standing Order"
+    id="afc4e5b2-c038-4ca4-9861-563ab6cef486">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e93c627e-002d-4af2-8656-6539a8dc3d13.xml#e93c627e-002d-4af2-8656-6539a8dc3d13"/>
+</archimate:TriggeringRelationship>

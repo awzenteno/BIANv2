@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Position"
+    id="35e89027-a3d5-4cdd-a09e-39a406d1546d"
+    documentation="Specifies the status of trades and their value inside a system.&#xA;&#xA;Указывает статус сделок и их значение внутри системы."/>

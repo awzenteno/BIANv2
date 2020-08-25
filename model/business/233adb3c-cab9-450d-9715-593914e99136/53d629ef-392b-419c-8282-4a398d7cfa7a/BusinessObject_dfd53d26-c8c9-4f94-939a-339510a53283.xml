@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">OrderOriginationFirm"
+    id="dfd53d26-c8c9-4f94-939a-339510a53283"
+    documentation="Firm that originates or submits the original order for execution.&#xA;&#xA;Фирма, которая берет начало или подает первоначальный заказ на исполнение."/>

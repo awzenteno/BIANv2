@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get brokered product transaction details"
+    id="512a520d-ec1b-492b-af1d-ac0ccf174bc0">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_ae4c959f-7a6f-4754-a4d3-d366e2c2783c.xml#ae4c959f-7a6f-4754-a4d3-d366e2c2783c"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_55deca79-0795-44b8-a1cf-4b0be32827f6.xml#55deca79-0795-44b8-a1cf-4b0be32827f6"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trading Models"
+    id="78c2e4d7-c1b2-42fd-86d5-b56d1733d2c4"
+    documentation=" Example of use:&#xA;&#xA;Automated trading activity is initiated&#xA;&#xA;General comment:&#xA;&#xA;Trading models are used to support program trading activity&#xA;&#xA;Business Purpose&#xA;:  Manage the development and deployment of trading models to support automatic executions&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Инициируется автоматическая торговая деятельность&#xA;&#xA;Общее замечание:&#xA;&#xA;Торговые модели используются для поддержки торговой активности программы&#xA;&#xA;деловая цель&#xA;: Управление разработкой и внедрением торговых моделей для поддержки автоматического исполнения&#xA;"/>

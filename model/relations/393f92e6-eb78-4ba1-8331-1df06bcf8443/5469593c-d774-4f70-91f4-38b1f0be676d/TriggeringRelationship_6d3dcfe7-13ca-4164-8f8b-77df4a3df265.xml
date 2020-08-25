@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Evaluate Merchant Fraud Risk"
+    id="6d3dcfe7-13ca-4164-8f8b-77df4a3df265">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_e78a5453-2009-4ca1-931b-be1e5c74cc24.xml#e78a5453-2009-4ca1-931b-be1e5c74cc24"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_c2ad7b1d-e79c-464f-866a-01b69cf3d774.xml#c2ad7b1d-e79c-464f-866a-01b69cf3d774"/>
+</archimate:TriggeringRelationship>

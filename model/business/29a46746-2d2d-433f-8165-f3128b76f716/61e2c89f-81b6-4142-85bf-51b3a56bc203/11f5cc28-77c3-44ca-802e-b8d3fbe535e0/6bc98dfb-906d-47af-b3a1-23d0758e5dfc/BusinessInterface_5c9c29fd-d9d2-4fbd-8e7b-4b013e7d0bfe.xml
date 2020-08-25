@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEmployeeCertificationAssessment"
+    id="5c9c29fd-d9d2-4fbd-8e7b-4b013e7d0bfe"
+    documentation="Retrieve Employee Certification Assessment related reports"/>

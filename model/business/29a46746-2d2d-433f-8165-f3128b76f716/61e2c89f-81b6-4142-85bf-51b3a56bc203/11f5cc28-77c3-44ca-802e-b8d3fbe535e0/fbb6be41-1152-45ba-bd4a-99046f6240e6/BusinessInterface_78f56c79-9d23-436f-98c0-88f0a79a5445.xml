@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateEmployeeAnalysis"
+    id="78f56c79-9d23-436f-98c0-88f0a79a5445"
+    documentation="Assign responsibility for the Employee Analysis"/>

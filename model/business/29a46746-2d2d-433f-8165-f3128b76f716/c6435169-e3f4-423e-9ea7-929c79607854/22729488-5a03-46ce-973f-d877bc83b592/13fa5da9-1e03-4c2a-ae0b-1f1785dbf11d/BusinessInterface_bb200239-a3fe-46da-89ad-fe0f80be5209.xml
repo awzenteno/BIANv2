@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCorporateTreasuryManagementPlan"
+    id="bb200239-a3fe-46da-89ad-fe0f80be5209"
+    documentation="Subscribe to Corporate Treasury Management Plan notification services"/>

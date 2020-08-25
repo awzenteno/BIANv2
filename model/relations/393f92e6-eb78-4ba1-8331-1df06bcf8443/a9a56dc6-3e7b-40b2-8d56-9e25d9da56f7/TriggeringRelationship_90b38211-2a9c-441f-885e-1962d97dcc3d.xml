@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get Amount Blocks"
+    id="90b38211-2a9c-441f-885e-1962d97dcc3d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_7309da57-e1c1-4e9d-9b12-de2b4b4afb1e.xml#7309da57-e1c1-4e9d-9b12-de2b4b4afb1e"/>
+</archimate:TriggeringRelationship>

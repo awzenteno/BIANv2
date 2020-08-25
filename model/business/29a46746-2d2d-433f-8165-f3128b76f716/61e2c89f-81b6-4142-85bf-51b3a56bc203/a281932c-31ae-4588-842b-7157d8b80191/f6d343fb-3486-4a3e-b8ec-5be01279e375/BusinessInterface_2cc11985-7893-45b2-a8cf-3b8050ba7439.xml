@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBusinessUnitStrategy"
+    id="2cc11985-7893-45b2-a8cf-3b8050ba7439"
+    documentation="Retrieve Business Unit Strategy related reports"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Assign relationship management"
+    id="1424b306-64d2-443d-b9fd-627b559552b8">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_17c6981e-a297-4809-877d-aca6a48c0f0a.xml#17c6981e-a297-4809-877d-aca6a48c0f0a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_2966f6d4-f053-419d-8213-5abd85e0442b.xml#2966f6d4-f053-419d-8213-5abd85e0442b"/>
+</archimate:TriggeringRelationship>

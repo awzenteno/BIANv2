@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get product agreement terms"
+    id="ee3a96e9-4714-46a6-9bda-fa1b86987c12">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_02c81c3b-39a1-4b24-94f2-e6a83d7ecfbf.xml#02c81c3b-39a1-4b24-94f2-e6a83d7ecfbf"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a475cd9a-29a4-48c5-84bd-7a93517f2c3c.xml#a475cd9a-29a4-48c5-84bd-7a93517f2c3c"/>
+</archimate:TriggeringRelationship>

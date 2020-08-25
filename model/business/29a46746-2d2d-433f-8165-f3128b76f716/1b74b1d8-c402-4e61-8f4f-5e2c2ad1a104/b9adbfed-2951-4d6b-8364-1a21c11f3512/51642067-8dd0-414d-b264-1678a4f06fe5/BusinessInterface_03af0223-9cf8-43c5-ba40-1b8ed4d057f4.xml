@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configurePartyMeasurement"
+    id="03af0223-9cf8-43c5-ba40-1b8ed4d057f4"
+    documentation="Amend the configuration arrangements/parameters governing the Party Measurement"/>

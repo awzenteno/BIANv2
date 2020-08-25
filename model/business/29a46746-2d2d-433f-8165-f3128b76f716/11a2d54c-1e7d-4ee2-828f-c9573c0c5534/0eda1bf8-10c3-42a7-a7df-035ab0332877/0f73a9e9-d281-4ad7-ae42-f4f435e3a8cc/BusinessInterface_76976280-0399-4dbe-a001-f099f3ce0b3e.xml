@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerCreditRatingMeasurement"
+    id="76976280-0399-4dbe-a001-f099f3ce0b3e"
+    documentation=" Request to undertake credit view refresh/reworking"/>

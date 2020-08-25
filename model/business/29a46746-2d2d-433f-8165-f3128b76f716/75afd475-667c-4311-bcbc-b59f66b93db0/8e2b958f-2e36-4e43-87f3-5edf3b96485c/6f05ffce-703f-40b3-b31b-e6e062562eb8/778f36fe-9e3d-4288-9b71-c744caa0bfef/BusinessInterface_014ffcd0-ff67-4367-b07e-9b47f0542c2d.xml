@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyFactoringFulfillmentArrangement"
+    id="014ffcd0-ff67-4367-b07e-9b47f0542c2d"
+    documentation="Subscribe to Factoring Product Arrangement notification services"/>

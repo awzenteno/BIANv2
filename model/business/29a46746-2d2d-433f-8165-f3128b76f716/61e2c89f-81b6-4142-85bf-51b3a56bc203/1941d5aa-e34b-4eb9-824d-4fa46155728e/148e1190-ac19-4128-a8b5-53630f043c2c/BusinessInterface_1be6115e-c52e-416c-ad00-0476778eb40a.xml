@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestInvestorMembership"
+    id="1be6115e-c52e-416c-ad00-0476778eb40a"
+    documentation="Request a service under the Investor Enrollment"/>

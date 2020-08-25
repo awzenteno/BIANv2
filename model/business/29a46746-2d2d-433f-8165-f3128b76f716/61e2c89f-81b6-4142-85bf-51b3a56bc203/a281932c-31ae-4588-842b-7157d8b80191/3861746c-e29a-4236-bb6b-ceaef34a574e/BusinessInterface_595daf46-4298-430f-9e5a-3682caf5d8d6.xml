@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyOrganizationStrategy"
+    id="595daf46-4298-430f-9e5a-3682caf5d8d6"
+    documentation="Subscribe to Organization Strategy notification services"/>

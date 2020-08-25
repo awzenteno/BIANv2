@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashSettlement"
+    id="f735eb53-cb68-4fc3-9e62-46e3803d59c7"
+    documentation="Instruction between two financial institutions stipulating the cash transfer characteristics between the two parties.&#xA;&#xA;Инструкция между двумя финансовыми учреждениями, предусматривающая характеристики денежных переводов между двумя сторонами."/>

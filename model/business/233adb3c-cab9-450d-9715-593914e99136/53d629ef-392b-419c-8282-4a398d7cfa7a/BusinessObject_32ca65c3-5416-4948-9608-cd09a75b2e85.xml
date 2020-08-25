@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">UltimateDebtorRole"
+    id="32ca65c3-5416-4948-9608-cd09a75b2e85"
+    documentation=" Ultimate party that owes an amount of money to the (ultimate) creditor.&#xA;&#xA;Конечная сторона, которая должна определенную сумму денег (конечному) кредитору."/>

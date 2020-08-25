@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">IndividualInvestor"
+    id="8b5c7716-8ab4-4816-a23b-37eed063fdbf"
+    documentation=" Individual person which makes investment decisions in relation with its investment account.&#xA;&#xA;Физическое лицо, которое принимает инвестиционные решения в отношении своего инвестиционного счета."/>

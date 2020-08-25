@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordRegulatoryComplianceAssessment"
+    id="c0a2a15b-3399-48fc-a1a9-777fcee52572"
+    documentation="Record details against an active regulatory compliance assessment"/>

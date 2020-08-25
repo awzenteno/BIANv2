@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeLoanFulfillmentArrangementSimulation"
+    id="2d07fe9f-8949-4c0a-99b9-6c71a15ed780"
+    documentation=" Execute trial loan pricing/simulation (for sales)"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Post Credit to Financial Accounting – Deferred Revenue Account"
+    id="dc581483-87c1-486e-87b1-5088f08f76bd">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c2164bd8-b0d5-4e2d-ba1a-77a38269f945.xml#c2164bd8-b0d5-4e2d-ba1a-77a38269f945"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_37c33822-70ff-4002-855a-751edd0057a8.xml#37c33822-70ff-4002-855a-751edd0057a8"/>
+</archimate:TriggeringRelationship>

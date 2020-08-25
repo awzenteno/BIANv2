@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBusinessUnitAccountingLog"
+    id="3afb26ee-7cc6-4a0a-8e7d-d4701c579174"
+    documentation="Retrieve Business Unit Accounting Account/Log related reports"/>

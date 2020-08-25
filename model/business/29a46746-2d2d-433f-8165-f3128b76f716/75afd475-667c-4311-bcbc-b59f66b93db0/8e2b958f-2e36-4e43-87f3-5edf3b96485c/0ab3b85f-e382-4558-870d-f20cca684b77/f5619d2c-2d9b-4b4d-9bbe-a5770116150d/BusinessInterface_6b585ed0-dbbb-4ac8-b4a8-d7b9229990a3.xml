@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateQuotationProcedure"
+    id="6b585ed0-dbbb-4ac8-b4a8-d7b9229990a3"
+    documentation="Comment:&#xA;&#xA;Update work tasks and activity details for the Quotation Procedure"/>

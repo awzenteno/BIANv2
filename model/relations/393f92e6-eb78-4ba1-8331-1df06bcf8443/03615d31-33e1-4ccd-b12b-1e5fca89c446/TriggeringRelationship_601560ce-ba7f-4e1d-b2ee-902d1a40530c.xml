@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get customer billing report"
+    id="601560ce-ba7f-4e1d-b2ee-902d1a40530c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7debc112-5232-4122-b6e5-5831987a71fc.xml#7debc112-5232-4122-b6e5-5831987a71fc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_452cb9bc-8eb5-430e-9949-dd548b2924fb.xml#452cb9bc-8eb5-430e-9949-dd548b2924fb"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveUnderwritingAssessment"
+    id="83f7eebe-e671-4784-b839-2bd834e81d39"
+    documentation=" Retrieve an underwriting assessment report"/>

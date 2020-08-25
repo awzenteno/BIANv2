@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Assess"
+    id="75b7463f-2d02-4709-a15c-d325013dd444"
+    documentation="To test or assess an entity, possibly against some formal qualification or certification requirement. &#xA;Examples: Perform regulatory tests on a proposed financial transaction and check a new offer conforms to an existing contractual agreement.&#xA;&#xA;In-use&#xA;In-use-assessment-pending&#xA;Assessment-ongoing&#xA;Assessment-failed-suspended&#xA;Assessment-failed-in-use&#xA;Assessment-passed&#xA;"/>

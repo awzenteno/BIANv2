@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CollateralBalance"
+    id="c7c0dd9a-6f53-455d-87af-a0a744a67ac8"
+    documentation="Specifies the different values taken into account to calculate the current collateral.&#xA;&#xA;Указывает различные значения, учитываемые при расчете текущего залога."/>

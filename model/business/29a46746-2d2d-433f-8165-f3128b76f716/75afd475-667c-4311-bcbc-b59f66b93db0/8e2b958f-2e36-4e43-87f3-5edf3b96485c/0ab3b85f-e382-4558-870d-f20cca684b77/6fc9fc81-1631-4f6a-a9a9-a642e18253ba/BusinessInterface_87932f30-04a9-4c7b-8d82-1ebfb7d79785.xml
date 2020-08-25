@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyProgramTradingOperatingSession"
+    id="87932f30-04a9-4c7b-8d82-1ebfb7d79785"
+    documentation="Subscribe to Program Trading Operating Session notification services"/>

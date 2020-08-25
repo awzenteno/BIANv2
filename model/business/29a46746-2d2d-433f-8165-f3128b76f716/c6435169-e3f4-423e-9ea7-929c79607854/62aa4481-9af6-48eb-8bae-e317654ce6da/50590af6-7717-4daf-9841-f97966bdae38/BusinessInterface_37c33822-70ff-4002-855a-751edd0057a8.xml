@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordFinancialBookingLog"
+    id="37c33822-70ff-4002-855a-751edd0057a8"
+    documentation="Record a sub-ledger entry (includes classification)"/>

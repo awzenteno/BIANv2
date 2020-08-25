@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateServiceProductFulfillmentArrangement"
+    id="47b01f4f-4e7d-4e07-a246-36dd91d7f3f1"
+    documentation="Update work tasks and activity details for the service product fulfillment arrangement"/>

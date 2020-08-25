@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerEventLogLifeEvent"
+    id="39ad2777-5dec-4694-8441-97476e5e4fdb"
+    documentation="Record a customer life event"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Tax"
+    id="77c0aa61-40e9-4e9d-8c13-475a3716217d"
+    documentation=" Amount of money due to the government or tax authority, according to various pre-defined parameters such as thresholds or income.&#xA;&#xA; Сумма денег, причитающаяся государству или налоговому органу, в соответствии с различными предопределенными параметрами, такими как пороговые значения или доход."/>

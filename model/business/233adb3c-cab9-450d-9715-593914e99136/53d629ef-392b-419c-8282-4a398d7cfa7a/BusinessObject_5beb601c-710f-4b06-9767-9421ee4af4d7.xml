@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">StepOutBroker"
+    id="5beb601c-710f-4b06-9767-9421ee4af4d7"
+    documentation=" Brokerage firm that executes an order, but gives other firms credit and some of the commission for the trade.&#xA;&#xA;Брокерская фирма, которая выполняет заказ, но дает другим фирмам кредит и некоторую комиссию за торговлю."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check customer consent of terms and disclosures"
+    id="ac3151e9-7fdf-4c6a-a01e-d7e2fcf9f7be">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c2164bd8-b0d5-4e2d-ba1a-77a38269f945.xml#c2164bd8-b0d5-4e2d-ba1a-77a38269f945"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_b4673896-c00f-41df-be5c-7aa7f1ae7bc7.xml#b4673896-c00f-41df-be5c-7aa7f1ae7bc7"/>
+</archimate:TriggeringRelationship>

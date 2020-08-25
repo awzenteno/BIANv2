@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offer Processing Continues"
+    id="7c245657-9554-4bc6-abb7-f60bf2a4b939">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_b457d7b0-c8c4-4111-9fcc-6da6d50c0ca1.xml#b457d7b0-c8c4-4111-9fcc-6da6d50c0ca1"/>
+</archimate:TriggeringRelationship>

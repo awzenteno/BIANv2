@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Verify Credit Rating of issuing Customer"
+    id="29ac00be-f439-4a22-a4d4-e4dada33e1b5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_17c6981e-a297-4809-877d-aca6a48c0f0a.xml#17c6981e-a297-4809-877d-aca6a48c0f0a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5890a34e-fee5-4229-a83c-d79eb1f7727d.xml#5890a34e-fee5-4229-a83c-d79eb1f7727d"/>
+</archimate:TriggeringRelationship>

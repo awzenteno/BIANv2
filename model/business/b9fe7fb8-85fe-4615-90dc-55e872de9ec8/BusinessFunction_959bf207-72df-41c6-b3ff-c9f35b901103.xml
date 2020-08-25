@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="->Authorize"
+    id="959bf207-72df-41c6-b3ff-c9f35b901103"
+    documentation="Allow the execution of a transaction. &#xA;Example: Regulatory compliance authorizes a product design feature."/>

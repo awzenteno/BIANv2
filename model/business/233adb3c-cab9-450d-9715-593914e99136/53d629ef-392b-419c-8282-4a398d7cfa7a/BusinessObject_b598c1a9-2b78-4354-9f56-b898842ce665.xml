@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ValidatingPartyRole"
+    id="b598c1a9-2b78-4354-9f56-b898842ce665"
+    documentation=" Identification of the person who validated the signature.&#xA;&#xA;Идентификация лица, подтвердившего подпись."/>

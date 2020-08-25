@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyMarketAssetValuationProcedure"
+    id="b60d221a-8548-4d55-a399-9671abd30ede"
+    documentation="Subscribe to Market Asset Valuation Procedure notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Develop"
+    id="ac231806-9799-4de1-aca8-52307fec9236"
+    documentation="To build or enhance something, typically an IT production systems. Includes development, Assessment and deployment activities. &#xA;Example: Build, enhance, test and deploy a major enhancement to a production product processing system.&#xA;&#xA;Dev-required-in-use&#xA;Suspended-requiring-dev&#xA;Under-development&#xA;Pending-acceptance&#xA;Pending-deployment&#xA;Development-concluded-in-use&#xA;&#xA;"/>

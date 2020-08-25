@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obtain Missing Information"
+    id="da70a3ef-f078-40eb-87b8-b410f2542040">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f1230b21-5d5f-4e78-9bbf-53171a760f46.xml#f1230b21-5d5f-4e78-9bbf-53171a760f46"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5408a954-9c77-4aaa-8aa1-9fe63f3f0b07.xml#5408a954-9c77-4aaa-8aa1-9fe63f3f0b07"/>
+</archimate:TriggeringRelationship>

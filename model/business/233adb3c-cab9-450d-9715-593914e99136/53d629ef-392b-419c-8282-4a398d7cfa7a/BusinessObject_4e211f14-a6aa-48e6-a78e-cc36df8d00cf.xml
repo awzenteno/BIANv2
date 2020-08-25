@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TransportPartyRole"
+    id="4e211f14-a6aa-48e6-a78e-cc36df8d00cf"
+    documentation=" Role played by a party in the context of transporting goods.&#xA;&#xA;Роль стороны в контексте перевозки грузов."/>

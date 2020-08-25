@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestLegalComplianceAssessment"
+    id="2c743aa0-4858-46ed-904a-8f51dea75a77"
+    documentation="Request a service under the Legal Compliance Assessment"/>

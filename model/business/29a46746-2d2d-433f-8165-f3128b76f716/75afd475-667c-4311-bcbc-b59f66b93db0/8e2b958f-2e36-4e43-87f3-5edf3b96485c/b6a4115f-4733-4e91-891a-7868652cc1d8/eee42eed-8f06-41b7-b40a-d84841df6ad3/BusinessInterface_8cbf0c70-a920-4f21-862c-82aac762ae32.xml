@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyBrokeredProductManagementPlan"
+    id="8cbf0c70-a920-4f21-862c-82aac762ae32"
+    documentation="Subscribe to Brokered Product Management Plan notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyBusinessUnitManagementPlan"
+    id="d8b86091-af2d-4936-81a3-84c8b74986ee"
+    documentation="Subscribe to Business Unit Management Plan notification services"/>

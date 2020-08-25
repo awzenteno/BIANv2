@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PairOff"
+    id="b0086ae8-bfe2-48cf-9691-ae7064381994"
+    documentation=" Transaction is paired off and netted against one or more previous transactions.&#xA;&#xA;Сделка на пары и в сочетании с одним или более предыдущих сделок."/>

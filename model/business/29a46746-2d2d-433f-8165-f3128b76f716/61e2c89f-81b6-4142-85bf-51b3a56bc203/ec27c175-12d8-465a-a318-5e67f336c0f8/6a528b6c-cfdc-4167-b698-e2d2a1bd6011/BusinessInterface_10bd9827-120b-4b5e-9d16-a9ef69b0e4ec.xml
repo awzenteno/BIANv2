@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCorrespondenceOperatingSession"
+    id="10bd9827-120b-4b5e-9d16-a9ef69b0e4ec"
+    documentation="Record activity/feedback against the correspondence unit"/>

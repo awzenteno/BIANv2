@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AcquirerRole"
+    id="91cbb697-f922-40f4-bc6c-1e53981568ec"
+    documentation="acquire / приобретать, получать / приём к оплате платёжных карт &#xA;&#xA;Entity acquiring card payment transactions.&#xA;&#xA;&#xA;__сущность принимающая платежные транзакции по карте__&#xA;&#xA;___сущность, обслуживающая платежные транзакции по карте___"/>

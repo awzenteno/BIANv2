@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCollateralAssetAllocation"
+    id="1d3e2123-8161-4e72-99d7-147d7b0fdeec"
+    documentation="Record allocated collateral asset use/event/performance/status details"/>

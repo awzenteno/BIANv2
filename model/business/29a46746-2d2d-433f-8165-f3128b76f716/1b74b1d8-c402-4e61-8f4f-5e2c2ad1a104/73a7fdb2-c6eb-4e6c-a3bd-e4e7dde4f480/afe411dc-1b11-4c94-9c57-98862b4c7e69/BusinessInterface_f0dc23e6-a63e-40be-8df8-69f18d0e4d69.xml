@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateBrokerAgreement"
+    id="f0dc23e6-a63e-40be-8df8-69f18d0e4d69"
+    documentation=" Initiate the termination processing of the agreement"/>

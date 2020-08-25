@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeAssetSecuritizationTransaction"
+    id="a1e019c4-549a-45ca-9c40-207ec8bd2828"
+    documentation="Execute a task against the active Asset Securitization Transaction"/>

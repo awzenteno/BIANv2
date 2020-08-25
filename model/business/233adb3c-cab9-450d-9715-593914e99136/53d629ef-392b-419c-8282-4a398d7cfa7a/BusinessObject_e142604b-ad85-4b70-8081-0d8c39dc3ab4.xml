@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Product"
+    id="e142604b-ad85-4b70-8081-0d8c39dc3ab4"
+    documentation=" Item that is offered for sale. Products can be services or goods.&#xA;&#xA;Товар, который предлагается к продаже. Продукты могут быть услуги или товары."/>

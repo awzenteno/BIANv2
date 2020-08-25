@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeSecuritiesAllocationTransaction"
+    id="839d9c8a-1fec-4ebe-b647-f8be520260e6"
+    documentation="Execute a task against the active Securities Allocation Transaction"/>

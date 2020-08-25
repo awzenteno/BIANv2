@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configure operational settings under load"
+    id="05911207-387f-4193-87ef-b392728b3a97">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5cfdbaa4-3a1d-4f97-901f-3979b4a588aa.xml#5cfdbaa4-3a1d-4f97-901f-3979b4a588aa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_03af0223-9cf8-43c5-ba40-1b8ed4d057f4.xml#03af0223-9cf8-43c5-ba40-1b8ed4d057f4"/>
+</archimate:TriggeringRelationship>

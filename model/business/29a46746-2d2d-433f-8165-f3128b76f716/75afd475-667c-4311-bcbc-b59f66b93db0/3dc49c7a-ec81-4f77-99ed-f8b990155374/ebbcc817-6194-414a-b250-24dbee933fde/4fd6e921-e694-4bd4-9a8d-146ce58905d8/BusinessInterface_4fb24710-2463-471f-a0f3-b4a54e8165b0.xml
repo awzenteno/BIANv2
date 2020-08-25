@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyRewardPointsTransaction"
+    id="4fb24710-2463-471f-a0f3-b4a54e8165b0"
+    documentation="Comment:&#xA;&#xA;Subscribe to Reward Points Transaction notification services"/>

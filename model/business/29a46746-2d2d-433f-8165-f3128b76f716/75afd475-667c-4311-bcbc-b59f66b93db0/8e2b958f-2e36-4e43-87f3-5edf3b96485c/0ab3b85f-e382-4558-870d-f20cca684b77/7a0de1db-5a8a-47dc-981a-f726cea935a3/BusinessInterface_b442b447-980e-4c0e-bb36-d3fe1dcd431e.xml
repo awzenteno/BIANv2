@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyTradingModelSpecification"
+    id="b442b447-980e-4c0e-bb36-d3fe1dcd431e"
+    documentation="Subscribe to Trading Model Specification notification services"/>

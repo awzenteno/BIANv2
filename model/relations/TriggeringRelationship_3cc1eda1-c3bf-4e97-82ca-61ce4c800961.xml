@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deduplicate Prospect"
+    id="3cc1eda1-c3bf-4e97-82ca-61ce4c800961">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f1230b21-5d5f-4e78-9bbf-53171a760f46.xml#f1230b21-5d5f-4e78-9bbf-53171a760f46"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a3f3555b-3b52-4422-88e4-a7149f27bebc.xml#a3f3555b-3b52-4422-88e4-a7149f27bebc"/>
+</archimate:TriggeringRelationship>

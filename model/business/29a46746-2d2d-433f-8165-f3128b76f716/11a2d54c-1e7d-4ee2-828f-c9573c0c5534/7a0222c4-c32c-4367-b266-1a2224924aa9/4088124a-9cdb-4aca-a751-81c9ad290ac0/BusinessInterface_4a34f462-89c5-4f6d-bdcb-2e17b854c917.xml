@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerOfferProcedureDisclosures"
+    id="4a34f462-89c5-4f6d-bdcb-2e17b854c917"
+    documentation="Request the handling of disclosures"/>

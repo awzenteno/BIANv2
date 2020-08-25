@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ClearingSystem"
+    id="6f4e377e-faba-454e-b6a7-0b97ad8556f9"
+    documentation=" Specifies the system which plays a role in the clearing process.&#xA;&#xA;Указывает систему, которая играет роль в процессе _клиринга."/>

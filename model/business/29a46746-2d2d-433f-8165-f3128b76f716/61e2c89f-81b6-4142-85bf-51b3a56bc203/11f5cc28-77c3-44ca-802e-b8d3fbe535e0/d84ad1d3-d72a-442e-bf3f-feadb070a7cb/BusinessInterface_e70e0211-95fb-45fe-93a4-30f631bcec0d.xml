@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyEmployeeAgreement"
+    id="e70e0211-95fb-45fe-93a4-30f631bcec0d"
+    documentation="Subscribe to Employee Agreement notification services"/>

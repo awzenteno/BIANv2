@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestACHFulfillmentOperatingSessionWarehousing"
+    id="5c3c8adc-d10a-453c-9294-aa106462c249"
+    documentation="Request ACH outbound payment warehousing"/>

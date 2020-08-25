@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateDocumentHandlingOperatingSession"
+    id="40f6eabd-2b67-4088-bec3-89cddf535ede"
+    documentation="Assign responsibility for and activate the Document Handling Operating Session"/>

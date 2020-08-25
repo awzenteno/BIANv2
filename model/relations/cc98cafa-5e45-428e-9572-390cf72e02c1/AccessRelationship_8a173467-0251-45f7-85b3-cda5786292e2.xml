@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="?????????????"
+    id="8a173467-0251-45f7-85b3-cda5786292e2"
+    documentation="tf: непонятно куда замаплен">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f4ad8b5f-9434-47b9-8efd-4f3ee8d5644e.xml#f4ad8b5f-9434-47b9-8efd-4f3ee8d5644e"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_8e96f4c9-ff6d-4078-96ff-f76704e6651c.xml#8e96f4c9-ff6d-4078-96ff-f76704e6651c"/>
+</archimate:AccessRelationship>

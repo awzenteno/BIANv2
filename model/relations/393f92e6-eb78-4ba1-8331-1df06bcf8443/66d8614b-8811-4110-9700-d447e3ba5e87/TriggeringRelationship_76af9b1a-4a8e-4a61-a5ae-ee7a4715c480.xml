@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get servicing resource status/availability"
+    id="76af9b1a-4a8e-4a61-a5ae-ee7a4715c480">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bc335029-0187-4e43-bb1a-b52159b2dfe2.xml#bc335029-0187-4e43-bb1a-b52159b2dfe2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e88bea98-37f3-4a1a-bddb-1bf8f08d563a.xml#e88bea98-37f3-4a1a-bddb-1bf8f08d563a"/>
+</archimate:TriggeringRelationship>

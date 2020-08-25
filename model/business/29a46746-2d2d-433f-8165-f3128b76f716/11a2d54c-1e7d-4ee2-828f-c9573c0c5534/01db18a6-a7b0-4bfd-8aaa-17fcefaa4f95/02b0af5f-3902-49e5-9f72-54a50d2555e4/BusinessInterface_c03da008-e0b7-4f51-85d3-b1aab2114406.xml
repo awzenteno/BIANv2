@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateEBranchChannelOperatingSession"
+    id="c03da008-e0b7-4f51-85d3-b1aab2114406"
+    documentation="Terminate all or some part of the eBranch Channel Operating Session"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">FinancialTransaction"
+    id="7e6de652-7015-4fc9-8d86-cbccdf11f5a1"
+    documentation=" Process which includes the order, the execution, the settlement of trades in the financial domain.&#xA;&#xA;Процесс, который включает в себя ордер, исполнение, урегулирование сделок в финансовой области."/>

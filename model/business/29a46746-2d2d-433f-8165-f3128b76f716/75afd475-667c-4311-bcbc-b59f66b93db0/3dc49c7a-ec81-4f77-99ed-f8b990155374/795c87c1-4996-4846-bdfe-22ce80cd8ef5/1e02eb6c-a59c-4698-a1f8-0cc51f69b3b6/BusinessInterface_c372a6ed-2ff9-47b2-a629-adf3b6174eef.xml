@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProductCombinationFulfillmentArrangement"
+    id="c372a6ed-2ff9-47b2-a629-adf3b6174eef"
+    documentation="Retrieve product combination fulfillment arrangement related reports"/>

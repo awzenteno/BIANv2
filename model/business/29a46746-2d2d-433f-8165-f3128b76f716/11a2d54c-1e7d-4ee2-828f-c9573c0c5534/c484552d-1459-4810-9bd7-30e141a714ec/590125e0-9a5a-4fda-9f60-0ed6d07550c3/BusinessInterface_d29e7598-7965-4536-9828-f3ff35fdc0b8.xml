@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordInteractiveTransactionAssessment"
+    id="d29e7598-7965-4536-9828-f3ff35fdc0b8"
+    documentation="Record activity details/information against an ongoing Interactive Transaction Assessment evaluation"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateCollateralAssetAllocation"
+    id="12f2db6b-cf79-4f9f-8763-52e0c2a7195c"
+    documentation="Update allocatable collateral asset record"/>

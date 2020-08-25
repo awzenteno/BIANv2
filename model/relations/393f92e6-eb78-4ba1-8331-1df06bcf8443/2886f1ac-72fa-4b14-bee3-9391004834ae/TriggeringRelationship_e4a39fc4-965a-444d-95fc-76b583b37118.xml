@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record request for Internal Direct Debits"
+    id="e4a39fc4-965a-444d-95fc-76b583b37118">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7152608d-8ae3-453d-bfb9-3590d10e1b34.xml#7152608d-8ae3-453d-bfb9-3590d10e1b34"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_24cd05bf-0974-41fd-ad83-1453d6c448c2.xml#24cd05bf-0974-41fd-ad83-1453d6c448c2"/>
+</archimate:TriggeringRelationship>

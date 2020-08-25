@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCorporateTreasuryAnalysis"
+    id="d60a9b27-3a81-461d-b88b-dfc4ed258d38"
+    documentation="Subscribe to Corporate Treasury Analysis notification services"/>

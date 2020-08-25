@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCorrespondenceOperatingSession"
+    id="5408a954-9c77-4aaa-8aa1-9fe63f3f0b07"
+    documentation="Execute a transaction or task under the Correspondence Operating Session"/>

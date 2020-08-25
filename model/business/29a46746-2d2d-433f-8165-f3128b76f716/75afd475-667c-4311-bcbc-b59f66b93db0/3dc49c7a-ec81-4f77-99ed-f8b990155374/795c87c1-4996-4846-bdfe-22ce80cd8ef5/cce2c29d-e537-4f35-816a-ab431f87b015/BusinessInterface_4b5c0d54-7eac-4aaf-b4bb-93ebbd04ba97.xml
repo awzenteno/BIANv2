@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveFraudCaseAssessment"
+    id="4b5c0d54-7eac-4aaf-b4bb-93ebbd04ba97"
+    documentation="Retrieve Fraud Case Assessment related reports"/>

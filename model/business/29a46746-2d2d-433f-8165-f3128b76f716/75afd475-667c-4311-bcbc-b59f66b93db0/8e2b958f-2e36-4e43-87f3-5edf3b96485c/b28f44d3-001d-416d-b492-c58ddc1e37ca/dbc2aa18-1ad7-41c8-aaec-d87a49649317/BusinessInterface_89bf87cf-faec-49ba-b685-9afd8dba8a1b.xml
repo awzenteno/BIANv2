@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveSavingsAccountFulfillmentArrangement"
+    id="89bf87cf-faec-49ba-b685-9afd8dba8a1b"
+    documentation="Retrieve savings account fulfillment arrangement related reports"/>

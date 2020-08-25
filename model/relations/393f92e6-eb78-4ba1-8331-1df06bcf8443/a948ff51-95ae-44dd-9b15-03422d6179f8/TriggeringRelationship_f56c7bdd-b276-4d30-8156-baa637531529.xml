@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request limit/exposure related adjustments"
+    id="f56c7bdd-b276-4d30-8156-baa637531529">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a72c9ace-f56a-4968-985f-1feb3eed46fa.xml#a72c9ace-f56a-4968-985f-1feb3eed46fa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_220255b0-b2a1-4cda-9a35-c92d5f1b4381.xml#220255b0-b2a1-4cda-9a35-c92d5f1b4381"/>
+</archimate:TriggeringRelationship>

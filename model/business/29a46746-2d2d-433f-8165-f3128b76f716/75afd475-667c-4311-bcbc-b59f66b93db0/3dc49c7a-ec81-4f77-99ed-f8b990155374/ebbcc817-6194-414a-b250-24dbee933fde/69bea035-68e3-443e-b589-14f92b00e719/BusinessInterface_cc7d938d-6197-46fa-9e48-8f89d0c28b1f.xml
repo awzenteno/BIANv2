@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyDisbursementTransaction"
+    id="cc7d938d-6197-46fa-9e48-8f89d0c28b1f"
+    documentation="Subscribe to Disbursement Transaction notification services"/>

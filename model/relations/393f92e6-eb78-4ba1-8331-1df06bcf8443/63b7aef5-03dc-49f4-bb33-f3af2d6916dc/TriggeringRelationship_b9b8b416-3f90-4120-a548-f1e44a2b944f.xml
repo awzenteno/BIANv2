@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obtain and Verify Signature"
+    id="b9b8b416-3f90-4120-a548-f1e44a2b944f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_33593414-659d-44f0-a0af-6e8cf0b8f27b.xml#33593414-659d-44f0-a0af-6e8cf0b8f27b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1a2593d3-0df1-40dd-ad70-92b388b44ac7.xml#1a2593d3-0df1-40dd-ad70-92b388b44ac7"/>
+</archimate:TriggeringRelationship>

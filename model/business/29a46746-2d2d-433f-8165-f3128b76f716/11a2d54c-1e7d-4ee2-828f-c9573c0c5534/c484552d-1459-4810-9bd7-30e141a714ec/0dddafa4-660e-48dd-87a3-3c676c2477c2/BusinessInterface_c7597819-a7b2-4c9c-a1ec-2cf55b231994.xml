@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerWorkbenchOperatingSession"
+    id="c7597819-a7b2-4c9c-a1ec-2cf55b231994"
+    documentation="Record activity/feedback back to the workbench"/>

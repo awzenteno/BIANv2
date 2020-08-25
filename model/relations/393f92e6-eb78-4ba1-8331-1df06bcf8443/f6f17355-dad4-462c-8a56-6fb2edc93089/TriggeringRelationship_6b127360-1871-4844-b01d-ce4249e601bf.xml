@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generate customer invoice"
+    id="6b127360-1871-4844-b01d-ce4249e601bf">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_19f66d15-ee73-4cb5-8b77-1f1204186b88.xml#19f66d15-ee73-4cb5-8b77-1f1204186b88"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_2d7ba212-fc72-4a16-8c1b-2f10d5879ac9.xml#2d7ba212-fc72-4a16-8c1b-2f10d5879ac9"/>
+</archimate:TriggeringRelationship>

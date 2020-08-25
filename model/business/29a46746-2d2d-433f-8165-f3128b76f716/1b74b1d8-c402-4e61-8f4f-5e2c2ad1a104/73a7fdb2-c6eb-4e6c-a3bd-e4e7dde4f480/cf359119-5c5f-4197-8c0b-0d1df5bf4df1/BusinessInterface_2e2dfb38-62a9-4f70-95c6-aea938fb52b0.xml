@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestSyndicateMembership"
+    id="2e2dfb38-62a9-4f70-95c6-aea938fb52b0"
+    documentation="Request a service under the Syndicate Enrollment"/>

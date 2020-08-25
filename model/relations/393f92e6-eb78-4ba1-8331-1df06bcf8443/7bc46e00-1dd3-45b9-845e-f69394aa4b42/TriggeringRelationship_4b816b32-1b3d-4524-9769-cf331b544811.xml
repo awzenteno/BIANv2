@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get market research"
+    id="4b816b32-1b3d-4524-9769-cf331b544811">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_9e0df3c7-7c57-40a2-8505-5fa4de34ca7a.xml#9e0df3c7-7c57-40a2-8505-5fa4de34ca7a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_c3eee1b0-c267-4b41-8834-b9f6585a794c.xml#c3eee1b0-c267-4b41-8834-b9f6585a794c"/>
+</archimate:TriggeringRelationship>

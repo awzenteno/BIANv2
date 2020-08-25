@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCardTransactionSwitchOperatingSession"
+    id="98ac9175-67e8-4374-9400-e3fddaa4eb8c"
+    documentation="Assign responsibility for the card transaction switch operating session"/>

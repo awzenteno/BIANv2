@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustodyFulfillmentArrangement"
+    id="81d6b239-d93a-4c25-b5ae-e258ae720fda"
+    documentation="Record activity details/information against the Custody"/>

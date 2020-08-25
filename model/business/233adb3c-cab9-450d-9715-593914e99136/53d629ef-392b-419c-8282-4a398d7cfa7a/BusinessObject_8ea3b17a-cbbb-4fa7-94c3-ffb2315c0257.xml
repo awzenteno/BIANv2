@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesAccount"
+    id="8ea3b17a-cbbb-4fa7-94c3-ffb2315c0257"
+    documentation=" Account to or from which a securities entry is made.&#xA;&#xA;Счет, на который или с которого производится запись ценных бумаг."/>

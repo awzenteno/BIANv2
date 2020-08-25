@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check Beneficiary"
+    id="08ee327a-4783-4ead-b532-7cf185a3785b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_34eabdca-5f1b-43b6-92a4-8a22ae186844.xml#34eabdca-5f1b-43b6-92a4-8a22ae186844"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a4b07379-1fb2-496f-8492-e1299fa6af16.xml#a4b07379-1fb2-496f-8492-e1299fa6af16"/>
+</archimate:TriggeringRelationship>

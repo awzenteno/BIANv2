@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCardTransactionSwitchOperatingSession"
+    id="0991ba7e-d280-4b8c-8650-208217cbe537"
+    documentation="Subscribe to card transaction switch operating session notification services"/>

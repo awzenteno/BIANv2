@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluate Card Holder Authentication"
+    id="818a5941-5d4f-4410-be6b-56b1010eef21">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7885c4e8-aaef-4a09-8104-f527820169cb.xml#7885c4e8-aaef-4a09-8104-f527820169cb"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1dc72423-5867-4285-a617-fc5681f9da06.xml#1dc72423-5867-4285-a617-fc5681f9da06"/>
+</archimate:TriggeringRelationship>

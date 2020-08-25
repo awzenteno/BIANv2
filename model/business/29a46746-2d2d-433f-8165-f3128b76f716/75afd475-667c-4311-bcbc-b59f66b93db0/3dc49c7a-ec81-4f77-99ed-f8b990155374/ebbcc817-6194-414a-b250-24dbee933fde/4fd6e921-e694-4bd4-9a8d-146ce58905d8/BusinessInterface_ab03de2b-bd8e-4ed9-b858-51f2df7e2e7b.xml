@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateRewardPointsTransaction"
+    id="ab03de2b-bd8e-4ed9-b858-51f2df7e2e7b"
+    documentation="Update elements of the Reward Points Transaction"/>

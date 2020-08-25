@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordInternalAuditAssessment"
+    id="9211cc6d-7f37-44a5-8abf-d271b3a825eb"
+    documentation="Record activity details/information against an ongoing Internal Audit Assessment evaluation"/>

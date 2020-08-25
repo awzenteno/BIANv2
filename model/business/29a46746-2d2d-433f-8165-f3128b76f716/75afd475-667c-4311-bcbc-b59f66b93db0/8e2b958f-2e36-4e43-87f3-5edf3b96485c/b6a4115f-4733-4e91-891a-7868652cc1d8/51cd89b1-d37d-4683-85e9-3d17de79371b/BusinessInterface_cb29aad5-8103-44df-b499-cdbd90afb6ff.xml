@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerTaxObligationFulfillmentArrangement"
+    id="cb29aad5-8103-44df-b499-cdbd90afb6ff"
+    documentation="Subscribe to Customer Tax Obligation Product Agreement notification services"/>

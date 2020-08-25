@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CommissionPartyRole"
+    id="4fc9aab0-ac25-480d-9651-4fd8cb6aa6d5"
+    documentation=" Role played by a party in the context of a payment of commission.&#xA;&#xA;Роль стороны в контексте выплаты комиссионных."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" notifyCredit/ChargeCardFulfillmentArrangement"
+    id="e9db1671-8586-4312-81e2-d26fae1b8951"
+    documentation="Subscribe to Credit/Charge Card Product Arrangement notification services"/>

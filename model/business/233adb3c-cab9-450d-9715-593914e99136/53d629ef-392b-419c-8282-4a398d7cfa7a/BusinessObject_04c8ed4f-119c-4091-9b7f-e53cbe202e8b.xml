@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AttendanceConfirmationDeadline"
+    id="04c8ed4f-119c-4091-9b7f-e53cbe202e8b"
+    documentation=" Date and time by which the beneficial owner or agent must notify of their intention to participate in a meeting.&#xA;&#xA;Дата и время, когда бенефициарный владелец или агент должен уведомить о своем намерении участвовать в собрании."/>

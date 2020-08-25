@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ReceiversCustodian"
+    id="88e4bc81-af69-4edb-8e28-125c43db45b2"
+    documentation="Party that acts on behalf of the buyer of securities when the buyer does not have a direct relationship with the receiving agent.&#xA;&#xA;Сторона, которая действует от имени покупателя ценных бумаг, если покупатель не имеет прямых отношений с получающим агентом."/>

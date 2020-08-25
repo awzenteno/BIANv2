@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordPrivatePlacementFulfillmentArrangement"
+    id="ae31463d-d066-4ed1-87d7-4bff9bf591b4"
+    documentation="Record activity details/information against the Private Placement"/>

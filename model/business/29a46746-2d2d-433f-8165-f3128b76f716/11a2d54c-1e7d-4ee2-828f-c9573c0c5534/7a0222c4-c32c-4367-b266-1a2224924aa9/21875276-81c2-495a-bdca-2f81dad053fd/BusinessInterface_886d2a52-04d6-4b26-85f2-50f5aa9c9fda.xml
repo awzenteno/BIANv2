@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCommissionTransaction"
+    id="886d2a52-04d6-4b26-85f2-50f5aa9c9fda"
+    documentation="Retrieve Commission Transaction related reports"/>

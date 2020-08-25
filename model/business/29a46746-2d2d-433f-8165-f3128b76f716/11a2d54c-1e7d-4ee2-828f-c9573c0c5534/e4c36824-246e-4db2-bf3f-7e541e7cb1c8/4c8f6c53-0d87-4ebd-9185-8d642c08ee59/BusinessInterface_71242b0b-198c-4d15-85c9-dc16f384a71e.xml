@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerCaseRootCauseAnalysis"
+    id="71242b0b-198c-4d15-85c9-dc16f384a71e"
+    documentation="Comment:&#xA;&#xA;Retrieve Customer Case Root Cause Analysis related reports"/>

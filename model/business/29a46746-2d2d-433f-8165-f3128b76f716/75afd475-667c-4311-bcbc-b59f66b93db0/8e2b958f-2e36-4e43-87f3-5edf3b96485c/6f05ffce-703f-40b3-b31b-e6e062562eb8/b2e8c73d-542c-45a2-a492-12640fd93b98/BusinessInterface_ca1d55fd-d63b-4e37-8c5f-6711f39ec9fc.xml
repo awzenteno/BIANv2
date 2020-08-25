@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeSyndicatedLoanFulfillmentArrangement"
+    id="ca1d55fd-d63b-4e37-8c5f-6711f39ec9fc"
+    documentation="Execute a task under the Syndicated Loan"/>

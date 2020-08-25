@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" executeECM/DCMFulfillmentArrangement"
+    id="0d22fdd4-e5e6-47e4-ae6b-24c045ce5839"
+    documentation="Execute a task under the ECM/DCM"/>

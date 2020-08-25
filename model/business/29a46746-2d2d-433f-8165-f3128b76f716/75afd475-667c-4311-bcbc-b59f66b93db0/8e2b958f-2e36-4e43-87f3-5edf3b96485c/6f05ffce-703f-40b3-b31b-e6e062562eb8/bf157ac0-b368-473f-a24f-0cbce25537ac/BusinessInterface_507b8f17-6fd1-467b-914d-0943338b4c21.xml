@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyProjectFinanceFulfillmentArrangement"
+    id="507b8f17-6fd1-467b-914d-0943338b4c21"
+    documentation="Subscribe to Project Finance Product Arrangement notification services"/>

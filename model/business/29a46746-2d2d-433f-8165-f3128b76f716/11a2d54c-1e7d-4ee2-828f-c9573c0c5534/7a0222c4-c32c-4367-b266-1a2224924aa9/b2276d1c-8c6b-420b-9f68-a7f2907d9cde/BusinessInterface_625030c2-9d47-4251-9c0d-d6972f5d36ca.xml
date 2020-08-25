@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestProspectProcedureAssignment"
+    id="625030c2-9d47-4251-9c0d-d6972f5d36ca"
+    documentation="Request assignment of an active prospect for processing elsewhere"/>

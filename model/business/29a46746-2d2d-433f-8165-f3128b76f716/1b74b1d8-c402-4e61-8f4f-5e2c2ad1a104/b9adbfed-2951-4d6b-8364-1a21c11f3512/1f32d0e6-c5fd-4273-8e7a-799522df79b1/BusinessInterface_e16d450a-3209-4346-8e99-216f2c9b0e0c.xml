@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activatePartyDirectory"
+    id="e16d450a-3209-4346-8e99-216f2c9b0e0c"
+    documentation="Assign responsibility for the party directory"/>

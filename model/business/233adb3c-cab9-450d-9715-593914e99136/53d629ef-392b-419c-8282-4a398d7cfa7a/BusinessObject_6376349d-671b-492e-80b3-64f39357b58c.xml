@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PrivateCertificate"
+    id="6376349d-671b-492e-80b3-64f39357b58c"
+    documentation=" Specifies the parameters associated with the production of a certificate to identify the profile of a customer.&#xA;&#xA;Задает параметры, связанные с производством сертификата для идентификации профиля клиента."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TerminalManagementAction"
+    id="bd3260ac-0869-4f73-a304-dc869e2a79df"
+    documentation=" Terminal management action to be performed by the point of interaction.&#xA;&#xA;Действие управления терминалом, выполняемое точкой взаимодействия."/>

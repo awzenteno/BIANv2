@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registerFinancialInstrumentDirectory"
+    id="20e6a620-6ae5-4cd6-834a-95dbd13a34e7"
+    documentation="Register a new Financial Instrument "/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" recordMerchant FulfillmentArrangement"
+    id="0f92dcaa-c405-4d7e-aedf-9d885ed034b4"
+    documentation="Record activity details/information against the merchant fulfillment arrangement"/>

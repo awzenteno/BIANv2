@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sub Custodian Agreement"
+    id="92915973-c055-4d91-b903-ee005adf3554"
+    documentation="Example of use:&#xA;&#xA;An equity sale involves updating scrip maintained by a sub custodian&#xA;&#xA;General comment:&#xA;&#xA;This service domain administers the contractual and service level agreements with sub custodians&#xA;&#xA;Business Purpose&#xA;:  Maintain sub custodian agreement terms and track and report on sub custodian activity&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Продажа акций включает в себя обновление Сумы, поддерживаемой суб-хранителем&#xA;&#xA;Общее замечание:&#xA;&#xA;Этот домен обслуживает контрактов и соглашений об уровне обслуживания с хранителями суб &#xA;&#xA;деловая цель&#xA;: Поддерживать условия соглашения с суб-хранителем и отслеживать и сообщать о деятельности суб-хранителя"/>

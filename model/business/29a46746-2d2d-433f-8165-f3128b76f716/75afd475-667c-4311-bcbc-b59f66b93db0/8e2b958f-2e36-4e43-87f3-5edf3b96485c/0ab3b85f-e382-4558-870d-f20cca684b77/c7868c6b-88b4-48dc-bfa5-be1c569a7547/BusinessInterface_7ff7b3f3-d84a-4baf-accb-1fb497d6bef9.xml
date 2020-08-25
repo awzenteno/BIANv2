@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateTradedPositionTransaction"
+    id="7ff7b3f3-d84a-4baf-accb-1fb497d6bef9"
+    documentation="Comment:&#xA;&#xA;Initiate a Traded Position Transaction"/>

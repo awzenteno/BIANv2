@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CustodianRole"
+    id="3bf9b967-58dc-420a-b8d2-d3fa0793ad92"
+    documentation="custodian / попечитель / лицо управляющее активами от имени владельца&#xA; &#xA;&#xA;The party that safekeeps and administers assets on behalf of the owner.&#xA;&#xA; Сторона, которая хранит и управляет активами от имени владельца."/>

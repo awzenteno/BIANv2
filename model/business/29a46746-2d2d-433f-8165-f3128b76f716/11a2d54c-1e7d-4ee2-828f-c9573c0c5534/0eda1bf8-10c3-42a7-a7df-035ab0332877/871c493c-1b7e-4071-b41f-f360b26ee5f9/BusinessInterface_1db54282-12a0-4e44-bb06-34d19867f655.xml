@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerReferenceDataDirectory"
+    id="1db54282-12a0-4e44-bb06-34d19867f655"
+    documentation=" Record usage or feedback against a customer directory entry"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Configure the product directory service settings"
+    id="2cb4f970-af52-412d-a6e5-877ae8e038c2">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_ca2b4343-fcfd-4b95-b618-ec79f179120e.xml#ca2b4343-fcfd-4b95-b618-ec79f179120e"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e61295d1-1a83-4824-be80-95950b0f47c6.xml#e61295d1-1a83-4824-be80-95950b0f47c6"/>
+</archimate:TriggeringRelationship>

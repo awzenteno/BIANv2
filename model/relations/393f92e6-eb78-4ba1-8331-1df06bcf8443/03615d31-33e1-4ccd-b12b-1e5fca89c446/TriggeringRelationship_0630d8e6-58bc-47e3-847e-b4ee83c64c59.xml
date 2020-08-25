@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get broker agreement details"
+    id="0630d8e6-58bc-47e3-847e-b4ee83c64c59">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7debc112-5232-4122-b6e5-5831987a71fc.xml#7debc112-5232-4122-b6e5-5831987a71fc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_55deca79-0795-44b8-a1cf-4b0be32827f6.xml#55deca79-0795-44b8-a1cf-4b0be32827f6"/>
+</archimate:TriggeringRelationship>

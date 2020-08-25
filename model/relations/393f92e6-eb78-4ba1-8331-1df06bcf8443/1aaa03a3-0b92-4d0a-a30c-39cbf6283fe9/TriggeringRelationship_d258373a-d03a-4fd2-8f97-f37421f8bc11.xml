@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get current account information"
+    id="d258373a-d03a-4fd2-8f97-f37421f8bc11">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_042f4c11-f74f-4619-8194-9901dd98d9f2.xml#042f4c11-f74f-4619-8194-9901dd98d9f2"/>
+</archimate:TriggeringRelationship>

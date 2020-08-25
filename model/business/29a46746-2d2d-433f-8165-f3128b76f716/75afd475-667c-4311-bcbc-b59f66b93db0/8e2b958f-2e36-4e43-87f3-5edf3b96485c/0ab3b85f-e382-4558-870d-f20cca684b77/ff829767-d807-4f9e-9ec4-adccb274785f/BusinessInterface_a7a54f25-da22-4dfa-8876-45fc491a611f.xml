@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" recordECM/DCMFulfillmentArrangement"
+    id="a7a54f25-da22-4dfa-8876-45fc491a611f"
+    documentation="Record activity details/information against the ECM/DCM"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerAccessProfileAgreement"
+    id="ca3d2da3-1359-4b3d-a621-ac3ee39a2d2d"
+    documentation=" Request a review/refresh of the allowed usage (after rule change)"/>

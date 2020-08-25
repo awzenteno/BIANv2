@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" De-link Corporate Current Account from Credit Facility"
+    id="d56e992b-af45-498c-892f-d7592a821672">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f61d029e-6d80-480b-870a-989a97cd5201.xml#f61d029e-6d80-480b-870a-989a97cd5201"/>
+</archimate:TriggeringRelationship>

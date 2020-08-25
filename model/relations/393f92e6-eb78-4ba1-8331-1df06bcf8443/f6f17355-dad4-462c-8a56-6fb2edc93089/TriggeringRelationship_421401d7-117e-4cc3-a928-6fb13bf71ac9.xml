@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get interactive help"
+    id="421401d7-117e-4cc3-a928-6fb13bf71ac9">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_19f66d15-ee73-4cb5-8b77-1f1204186b88.xml#19f66d15-ee73-4cb5-8b77-1f1204186b88"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ba84d12e-d76a-4208-a4e0-71be9cc6657c.xml#ba84d12e-d76a-4208-a4e0-71be9cc6657c"/>
+</archimate:TriggeringRelationship>

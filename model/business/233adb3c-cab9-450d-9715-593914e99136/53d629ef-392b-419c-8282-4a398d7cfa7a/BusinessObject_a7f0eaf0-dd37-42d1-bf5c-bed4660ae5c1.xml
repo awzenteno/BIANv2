@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">RecipientBank"
+    id="a7f0eaf0-dd37-42d1-bf5c-bed4660ae5c1"
+    documentation="Bank that will be paid under a payment obligation contracted between two financial institutions related to the financing of a commercial transaction.&#xA;&#xA;Банк, который будет выплачиваться в соответствии с платежным обязательством, заключенным между двумя финансовыми учреждениями, связанным с финансированием коммерческой сделки."/>

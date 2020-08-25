@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Authorisation Routing"
+    id="1ab5b1d1-abae-4e99-bf9d-ab0ec0987232">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7885c4e8-aaef-4a09-8104-f527820169cb.xml#7885c4e8-aaef-4a09-8104-f527820169cb"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_c0fb6e70-e139-4f17-92a0-ce26ac57ad88.xml#c0fb6e70-e139-4f17-92a0-ce26ac57ad88"/>
+</archimate:TriggeringRelationship>

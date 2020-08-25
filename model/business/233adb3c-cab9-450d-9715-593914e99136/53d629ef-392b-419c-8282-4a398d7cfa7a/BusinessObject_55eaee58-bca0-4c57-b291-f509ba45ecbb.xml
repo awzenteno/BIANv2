@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InstructedReimbursementAgent"
+    id="55eaee58-bca0-4c57-b291-f509ba45ecbb"
+    documentation="Agent at which the instructed agent will be reimbursed.&#xA;Usage: If the instructing and instructed agents have the same reimbursement agent, then only InstructedReimbursementAgent is not allowed.&#xA;Usage: If InstructedReimbursementAgent contains a branch of the instructed agent, then the instructed agent will claim reimbursement from that branch/will be paid by that branch.&#xA;&#xA;&#xA;Агент, на котором поручил агенту возмещаются.&#xA;Использование: если инструктирующие и проинструктированные агенты имеют один и тот же агент возмещения, то только InstructedReimbursementAgent не допускается.&#xA;Использование: если InstructedReimbursementAgent содержит филиал уполномоченного агента, то уполномоченный агент будет требовать возмещения из этого филиала / будет оплачен этим филиалом."/>

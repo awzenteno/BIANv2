@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Update Corporate Deposit contract"
+    id="312be1e9-8e5e-49a3-9b83-be544b66c0d7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f1a9787d-2eb7-4e48-b3bb-8109fcbec17d.xml#f1a9787d-2eb7-4e48-b3bb-8109fcbec17d"/>
+</archimate:TriggeringRelationship>

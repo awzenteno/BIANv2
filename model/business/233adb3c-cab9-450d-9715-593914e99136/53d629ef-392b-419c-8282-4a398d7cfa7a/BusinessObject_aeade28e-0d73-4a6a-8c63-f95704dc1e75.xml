@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ReportingService"
+    id="aeade28e-0d73-4a6a-8c63-f95704dc1e75"
+    documentation="Specifies the reporting parameters that are included in the account contract which specifies the services linked to the account..&#xA;&#xA;Задает параметры отчетности, включенные в контракт учетной записи, в котором указываются службы, связанные с учетной записью.."/>

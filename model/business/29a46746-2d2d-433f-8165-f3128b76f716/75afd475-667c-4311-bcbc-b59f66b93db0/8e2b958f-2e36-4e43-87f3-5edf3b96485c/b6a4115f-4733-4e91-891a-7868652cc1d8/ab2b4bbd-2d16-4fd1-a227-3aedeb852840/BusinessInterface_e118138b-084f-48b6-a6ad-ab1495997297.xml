@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateServiceProductFulfillmentArrangement"
+    id="e118138b-084f-48b6-a6ad-ab1495997297"
+    documentation=" Initiate a service product fulfillment arrangement"/>

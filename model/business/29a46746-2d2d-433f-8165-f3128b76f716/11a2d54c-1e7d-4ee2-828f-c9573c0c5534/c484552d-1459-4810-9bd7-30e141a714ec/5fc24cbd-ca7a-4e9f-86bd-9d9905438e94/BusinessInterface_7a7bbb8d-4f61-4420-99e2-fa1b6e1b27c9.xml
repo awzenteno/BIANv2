@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordPartyAuthenticationAssessment"
+    id="7a7bbb8d-4f61-4420-99e2-fa1b6e1b27c9"
+    documentation="Record activity details/information against an ongoing Party Authentication Assessment evaluation"/>

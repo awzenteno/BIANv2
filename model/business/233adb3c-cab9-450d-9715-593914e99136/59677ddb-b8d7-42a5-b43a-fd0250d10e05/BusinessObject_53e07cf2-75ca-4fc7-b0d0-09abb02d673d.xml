@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocationRegistry"
+    id="53e07cf2-75ca-4fc7-b0d0-09abb02d673d"
+    documentation=" A registry whose entries represent locations&#xA;&#xA;Реестр, записи которого представляют расположения"/>

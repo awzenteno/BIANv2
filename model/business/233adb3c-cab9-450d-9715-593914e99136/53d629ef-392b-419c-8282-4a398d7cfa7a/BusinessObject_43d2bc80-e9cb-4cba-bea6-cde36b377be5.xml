@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TaxPartyRole"
+    id="43d2bc80-e9cb-4cba-bea6-cde36b377be5"
+    documentation=" Role played by a party in the context of a tax due.&#xA;&#xA;Роль партии в контексте налога."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Post transactions"
+    id="43c86692-952a-4380-9d84-9ba658e74ac8">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_41afbe48-d904-4c48-b9ed-6ba77ef881ca.xml#41afbe48-d904-4c48-b9ed-6ba77ef881ca"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_30f02016-bdf4-429c-9836-4d033efa5d78.xml#30f02016-bdf4-429c-9836-4d033efa5d78"/>
+</archimate:TriggeringRelationship>

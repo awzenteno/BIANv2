@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProspectCampaignSpecification"
+    id="990dec32-60eb-4e13-868d-4b997e638009"
+    documentation="Retrieve Prospect Campaign Specification related reports"/>

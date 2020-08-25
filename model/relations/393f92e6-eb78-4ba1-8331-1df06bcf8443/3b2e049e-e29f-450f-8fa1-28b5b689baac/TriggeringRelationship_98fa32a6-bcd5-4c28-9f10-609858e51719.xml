@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor settlement of remaining transactions"
+    id="98fa32a6-bcd5-4c28-9f10-609858e51719">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bfffa8a5-7404-4230-81e6-f32f4e37e4a7.xml#bfffa8a5-7404-4230-81e6-f32f4e37e4a7"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_d0dae581-be73-47ca-b0b5-892213eb9de6.xml#d0dae581-be73-47ca-b0b5-892213eb9de6"/>
+</archimate:TriggeringRelationship>

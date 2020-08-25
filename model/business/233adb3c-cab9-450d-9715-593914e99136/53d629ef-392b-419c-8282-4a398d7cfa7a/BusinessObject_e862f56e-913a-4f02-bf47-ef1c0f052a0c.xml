@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Consignor"
+    id="e862f56e-913a-4f02-bf47-ef1c0f052a0c"
+    documentation="Party responsible for dispatching the goods.&#xA;&#xA;Сторона, ответственная за отправку товара."/>

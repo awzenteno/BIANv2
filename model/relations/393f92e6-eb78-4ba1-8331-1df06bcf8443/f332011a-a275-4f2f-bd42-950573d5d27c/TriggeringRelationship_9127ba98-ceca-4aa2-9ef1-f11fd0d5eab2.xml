@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate dunning against account"
+    id="9127ba98-ceca-4aa2-9ef1-f11fd0d5eab2">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_12e91020-304e-4781-914d-c1ebc242aff6.xml#12e91020-304e-4781-914d-c1ebc242aff6"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e5877933-1875-4bec-bbd7-3f91c445080d.xml#e5877933-1875-4bec-bbd7-3f91c445080d"/>
+</archimate:TriggeringRelationship>

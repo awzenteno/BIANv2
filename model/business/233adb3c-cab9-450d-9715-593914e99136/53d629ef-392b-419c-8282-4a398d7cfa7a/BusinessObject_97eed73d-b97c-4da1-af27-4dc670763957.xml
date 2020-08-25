@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Cashier"
+    id="97eed73d-b97c-4da1-af27-4dc670763957"
+    documentation="Cashier who carried out the payment card transaction.&#xA;&#xA;&#xA;Кассир, осуществивший операцию по платежной карте."/>

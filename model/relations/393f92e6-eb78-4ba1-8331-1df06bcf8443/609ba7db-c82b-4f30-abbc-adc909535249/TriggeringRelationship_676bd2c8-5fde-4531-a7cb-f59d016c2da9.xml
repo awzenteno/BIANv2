@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Link Corporate current Account to Sweep service"
+    id="676bd2c8-5fde-4531-a7cb-f59d016c2da9">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_cd8f8dd1-bd79-4ed1-a2c9-9de0f6ba586f.xml#cd8f8dd1-bd79-4ed1-a2c9-9de0f6ba586f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_0e53f9a9-6e56-4e6d-9737-3bf28de109ac.xml#0e53f9a9-6e56-4e6d-9737-3bf28de109ac"/>
+</archimate:TriggeringRelationship>

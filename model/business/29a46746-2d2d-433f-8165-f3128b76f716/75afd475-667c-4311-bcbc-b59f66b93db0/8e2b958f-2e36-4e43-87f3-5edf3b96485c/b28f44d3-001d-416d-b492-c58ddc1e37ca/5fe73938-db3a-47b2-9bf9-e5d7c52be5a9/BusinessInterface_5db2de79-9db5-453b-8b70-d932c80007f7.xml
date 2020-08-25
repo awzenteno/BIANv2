@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeDepositFulfillmentArrangement"
+    id="5db2de79-9db5-453b-8b70-d932c80007f7"
+    documentation="Execute a task under the Deposit"/>

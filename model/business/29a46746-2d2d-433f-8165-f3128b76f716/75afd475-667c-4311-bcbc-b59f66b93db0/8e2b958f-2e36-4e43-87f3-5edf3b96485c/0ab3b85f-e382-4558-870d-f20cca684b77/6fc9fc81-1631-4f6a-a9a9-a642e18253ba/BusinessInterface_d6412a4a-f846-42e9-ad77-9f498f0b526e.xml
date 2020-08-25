@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordProgramTradingOperatingSession"
+    id="d6412a4a-f846-42e9-ad77-9f498f0b526e"
+    documentation="Record activity details/information against the Program Trading Operating Session"/>

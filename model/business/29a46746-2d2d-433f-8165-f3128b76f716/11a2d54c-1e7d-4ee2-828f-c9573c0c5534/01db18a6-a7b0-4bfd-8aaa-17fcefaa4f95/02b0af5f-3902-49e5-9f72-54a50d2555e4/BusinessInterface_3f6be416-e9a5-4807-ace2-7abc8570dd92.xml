@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordEBranchChannelOperatingSession"
+    id="3f6be416-e9a5-4807-ace2-7abc8570dd92"
+    documentation="Record activity/feedback against the EBranch operating session"/>

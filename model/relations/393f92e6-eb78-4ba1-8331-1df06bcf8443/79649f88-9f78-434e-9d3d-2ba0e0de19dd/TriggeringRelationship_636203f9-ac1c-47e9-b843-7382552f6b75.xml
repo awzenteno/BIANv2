@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get master agreement terms &amp; conditions"
+    id="636203f9-ac1c-47e9-b843-7382552f6b75">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_db887c83-ae88-471e-bcd2-b369c6d3b3bc.xml#db887c83-ae88-471e-bcd2-b369c6d3b3bc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6337c2b9-d7d3-44fc-8345-8cd9910fec29.xml#6337c2b9-d7d3-44fc-8345-8cd9910fec29"/>
+</archimate:TriggeringRelationship>

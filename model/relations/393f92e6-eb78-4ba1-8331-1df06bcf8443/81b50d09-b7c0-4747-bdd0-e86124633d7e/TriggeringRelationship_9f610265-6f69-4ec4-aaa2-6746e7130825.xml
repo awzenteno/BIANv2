@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record Collateral"
+    id="9f610265-6f69-4ec4-aaa2-6746e7130825">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1d3e2123-8161-4e72-99d7-147d7b0fdeec.xml#1d3e2123-8161-4e72-99d7-147d7b0fdeec"/>
+</archimate:TriggeringRelationship>

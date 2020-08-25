@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveRemittanceTransaction"
+    id="2717fa2b-e676-4e45-becd-42aaa57396f1"
+    documentation="Retrieve a remittance transaction report"/>

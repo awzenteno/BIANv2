@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCorporateCurrentAccountFulfillmentArrangement"
+    id="82edfbe1-1e15-4f0c-bfd6-8aa0da9c84b7"
+    documentation="Retrieve Corporate Current Account Product Arrangement related reports"/>

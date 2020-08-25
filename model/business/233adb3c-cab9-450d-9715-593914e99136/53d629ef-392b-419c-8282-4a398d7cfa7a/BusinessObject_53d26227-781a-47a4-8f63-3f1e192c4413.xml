@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">UltimateCreditorRole"
+    id="53d26227-781a-47a4-8f63-3f1e192c4413"
+    documentation=" Ultimate party to which an amount of money is due.&#xA;&#xA;Конечная сторона, которой причитается денежная сумма."/>

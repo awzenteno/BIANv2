@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bank Portfolio &amp; Treasury"
+    id="fc3bb5e2-9920-447f-a5a7-e85f12cf6497"
+    documentation=" This domain draws together the Group Treasury and overall bank portfolio management activities as might be overseen by the bank's asset and liability committee (ALCO) or equivalent policy function. It includes some functions typically related to managing the balance sheet (repos and securitization).&#xA;&#xA;&#xA;&#xA;Эта область объединяет казначейскую деятельность группы и деятельность по управлению портфелем ценных бумаг банка в целом, которая может контролироваться комитетом по активам и пассивам банка (ALCO) или аналогичной функцией политики. Она включает в себя некоторые функции, обычно связанные с управлением балансом (РЕПО и секьюритизация)."/>

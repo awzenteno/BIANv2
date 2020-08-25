@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Securities Delivery &amp;  Receipt Management"
+    id="e664d1aa-fa6c-4849-9bd0-7a9bf0564bde"
+    documentation="Example of use:&#xA;&#xA;The settlement of trades results in several clearing transactions for securities and cash exchanged&#xA;&#xA;General comment:&#xA;&#xA;This service domain handles the initiation of payment activity, settlement reporting and triggering any securities related exchange and scrip management activity&#xA;&#xA;Business Purpose&#xA;:  Initiate settlement transactions and track to completion&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Расчеты по сделкам приводят к нескольким клиринговым операциям по ценным бумагам и обмену денежными средствами&#xA;&#xA;Общее замечание:&#xA;&#xA;Этот домен услуг обрабатывает инициирование платежной деятельности, расчетную отчетность и инициирование любой деятельности, связанной с ценными бумагами и управлением Сумами&#xA;&#xA;деловая цель&#xA;: Инициировать расчетные операции и отслеживать их завершение&#xA;"/>

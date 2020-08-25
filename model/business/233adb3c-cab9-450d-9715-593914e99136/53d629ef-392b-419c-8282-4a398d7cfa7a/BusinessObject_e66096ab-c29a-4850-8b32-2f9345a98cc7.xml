@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">VoteRevocabilityDeadline"
+    id="e66096ab-c29a-4850-8b32-2f9345a98cc7"
+    documentation=" Specifies the different deadlines available for revoking a casted vote.&#xA;&#xA;Определяет различные предельные сроки для отзыва поданного голоса."/>

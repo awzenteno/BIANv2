@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get collateral item status and details"
+    id="b2df8bce-32ec-467d-b1ae-02d1856a005a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_75ae151c-9808-4386-bd4d-5775a35d705b.xml#75ae151c-9808-4386-bd4d-5775a35d705b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_070806ba-0ad7-4af5-af7b-c4aeec9312ee.xml#070806ba-0ad7-4af5-af7b-c4aeec9312ee"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveTradedPositionTransaction"
+    id="55dd1547-038e-437f-af3c-21b3b89837e8"
+    documentation="Comment:&#xA;&#xA;Retrieve Traded Position Transaction related reports"/>

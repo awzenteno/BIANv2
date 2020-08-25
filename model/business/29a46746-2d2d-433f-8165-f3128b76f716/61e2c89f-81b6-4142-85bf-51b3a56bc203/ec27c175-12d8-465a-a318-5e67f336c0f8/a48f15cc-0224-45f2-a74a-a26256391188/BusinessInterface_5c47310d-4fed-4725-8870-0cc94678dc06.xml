@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateArchiveOperatingSession"
+    id="5c47310d-4fed-4725-8870-0cc94678dc06"
+    documentation="Assign responsibility for and activate the Archive Operating Session"/>

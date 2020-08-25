@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCreditPositionMeasurement"
+    id="cb482537-9f2e-4084-b01e-c7c1ce76f40d"
+    documentation="Record details updating a monitored position"/>

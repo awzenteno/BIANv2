@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateIssuedDeviceAllocation"
+    id="dcba22d3-9757-4a1a-b996-d993ea8eb877"
+    documentation="Assign responsibility for and activate the Issued Device Allocation service"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PlaceOfRegistry"
+    id="94f8c36c-7095-45e7-a1a7-e78ec6d3f77f"
+    documentation="Location at which records of ownership are maintained for a financial instrument, and at which ownership changes must be recorded.&#xA;&#xA;Место, в котором ведется учет владения финансовым инструментом и в котором должны регистрироваться изменения в праве собственности."/>

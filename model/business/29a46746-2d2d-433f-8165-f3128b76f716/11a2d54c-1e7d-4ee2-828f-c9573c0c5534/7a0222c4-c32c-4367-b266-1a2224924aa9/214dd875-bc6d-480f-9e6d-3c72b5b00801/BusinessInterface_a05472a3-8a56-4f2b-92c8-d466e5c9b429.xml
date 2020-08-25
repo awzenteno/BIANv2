@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateUnderwritingAssessment"
+    id="a05472a3-8a56-4f2b-92c8-d466e5c9b429"
+    documentation=" Request an underwriting decision"/>

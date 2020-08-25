@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Approve planned changes on agreement level"
+    id="ba55983b-6ca4-4456-b89b-47afd0627f5a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_42a0e7f5-c976-45f3-bd42-9a52a3839a05.xml#42a0e7f5-c976-45f3-bd42-9a52a3839a05"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5eb7a6e4-0b6f-4ea2-b283-8ef1b2d426bc.xml#5eb7a6e4-0b6f-4ea2-b283-8ef1b2d426bc"/>
+</archimate:TriggeringRelationship>

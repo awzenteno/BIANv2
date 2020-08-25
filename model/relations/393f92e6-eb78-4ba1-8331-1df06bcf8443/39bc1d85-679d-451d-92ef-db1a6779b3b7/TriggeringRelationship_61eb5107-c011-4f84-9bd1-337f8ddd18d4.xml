@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Configure relationship management operational settings"
+    id="61eb5107-c011-4f84-9bd1-337f8ddd18d4">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_57a94651-81f3-4742-9c34-c29bc2366153.xml#57a94651-81f3-4742-9c34-c29bc2366153"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_77d16bc9-c3e7-441c-bd7a-f946748ac012.xml#77d16bc9-c3e7-441c-bd7a-f946748ac012"/>
+</archimate:TriggeringRelationship>

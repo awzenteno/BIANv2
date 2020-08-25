@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PaymentOrder"
+    id="a1e2cc0d-883a-4726-ae1c-67c31ec1110d"
+    documentation=" An order by a customer to make a payment&#xA;&#xA;Заказ клиента на осуществление платежа"/>

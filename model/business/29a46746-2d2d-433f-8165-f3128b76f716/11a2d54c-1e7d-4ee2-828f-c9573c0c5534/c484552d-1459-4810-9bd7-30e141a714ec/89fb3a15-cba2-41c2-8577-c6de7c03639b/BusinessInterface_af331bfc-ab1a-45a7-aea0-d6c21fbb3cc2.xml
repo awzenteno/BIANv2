@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configureServicingEventLog"
+    id="af331bfc-ab1a-45a7-aea0-d6c21fbb3cc2"
+    documentation="Amend the configuration arrangements/parameters governing the Servicing Event Account/Log"/>

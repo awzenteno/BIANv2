@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Merchandising Loan"
+    id="819944af-a4af-4030-961b-bac66f213f26"
+    documentation=" Example of use:&#xA;A customer obtains a merchandising loan to puchase a big ticket item and the item is booked as collateral against the loan&#xA;&#xA;General comment:&#xA;&#xA;Business Purpose&#xA;:  Fulfillment of a range of loan products intended for the purchase of a larger merchandise item such as a car or boat. The item may be treated as collateral for the loan&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;Клиент получает мерчандайзинговый кредит на покупку крупного билета, и товар бронируется в качестве залога по кредиту&#xA;&#xA;Общее замечание:&#xA;&#xA;деловая цель&#xA;: Выполнение ряда кредитных продуктов, предназначенных для покупки более крупной товарной позиции, такой как автомобиль или лодка. Предмет может рассматриваться как обеспечение кредита&#xA;&#xA;"/>

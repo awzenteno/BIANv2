@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TreasuryTrade"
+    id="1a58720a-40c7-4489-a5bf-6a70830b7703"
+    documentation=" Specifies trades linked to treasury operations such as the exchange of currencies, the lending of cash amounts and the related derivatives trades (options and non deliverable trades).&#xA;&#xA;Определяет сделки, связанные с казначейскими операциями, такими как обмен валют, кредитование денежных сумм и связанные с ними сделки с производными финансовыми инструментами (опционы и беспоставочные сделки)."/>

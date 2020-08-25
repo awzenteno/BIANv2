@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Prepare Sweep agreement"
+    id="51cb5a03-93c1-4362-a286-0607eddefb96">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_17c6981e-a297-4809-877d-aca6a48c0f0a.xml#17c6981e-a297-4809-877d-aca6a48c0f0a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_429666b2-c31a-4559-8d01-9748c96b2420.xml#429666b2-c31a-4559-8d01-9748c96b2420"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">NotifyingParty"
+    id="0c2d37ff-a37b-4251-90b6-f2bf79ad49c4"
+    documentation=" Identifies the party that notifies the content of a document to a third party.&#xA;&#xA;Определяет сторону, которая уведомляет о содержимом документа третью сторону."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateProductInventoryAllocation"
+    id="78f10f12-16c0-4429-a163-62477498f42f"
+    documentation="Update elements of the Product Inventory Allocation"/>

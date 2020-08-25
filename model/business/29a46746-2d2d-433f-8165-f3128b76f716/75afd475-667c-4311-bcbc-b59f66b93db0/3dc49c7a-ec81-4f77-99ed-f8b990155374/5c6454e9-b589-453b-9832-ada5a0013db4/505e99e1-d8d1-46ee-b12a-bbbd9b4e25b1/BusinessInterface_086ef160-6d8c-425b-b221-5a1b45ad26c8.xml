@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updatePaymentOrderTransaction"
+    id="086ef160-6d8c-425b-b221-5a1b45ad26c8"
+    documentation="Update/amend details of an active payment order"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProductionSystemAssessment"
+    id="1a7690f4-889a-4d29-9514-087ea4b975c8"
+    documentation="Comment:&#xA;&#xA;Retrieve IT System Assessment related reports"/>

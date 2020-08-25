@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateBrokerAgreement"
+    id="3ae4b9b3-4054-4005-8eef-bad69dc04aaa"
+    documentation="Evaluate whether a proposed action is covered by the terms"/>

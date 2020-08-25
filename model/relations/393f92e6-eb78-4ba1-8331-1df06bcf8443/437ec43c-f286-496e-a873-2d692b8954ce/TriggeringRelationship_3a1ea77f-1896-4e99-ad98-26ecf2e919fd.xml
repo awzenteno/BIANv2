@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get campaign design"
+    id="3a1ea77f-1896-4e99-ad98-26ecf2e919fd">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_43307d38-0e2b-491f-9c3a-3fea8aa1394d.xml#43307d38-0e2b-491f-9c3a-3fea8aa1394d"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_323836f1-cada-420d-8ee8-15fa9624d679.xml#323836f1-cada-420d-8ee8-15fa9624d679"/>
+</archimate:TriggeringRelationship>

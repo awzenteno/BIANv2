@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveSyndicateMembership"
+    id="af1e6f27-0148-4226-816f-18fc4d2ce17d"
+    documentation="Comment:&#xA;&#xA;Retrieve Syndicate Enrollment related reports"/>

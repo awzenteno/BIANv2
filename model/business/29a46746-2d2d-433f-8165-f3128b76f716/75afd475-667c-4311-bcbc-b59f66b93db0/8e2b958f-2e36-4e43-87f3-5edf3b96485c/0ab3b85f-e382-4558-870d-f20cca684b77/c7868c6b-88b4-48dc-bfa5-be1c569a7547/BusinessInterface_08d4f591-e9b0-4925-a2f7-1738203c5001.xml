@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeTradedPositionTransaction"
+    id="08d4f591-e9b0-4925-a2f7-1738203c5001"
+    documentation="Execute a task against the active Traded Position Transaction"/>

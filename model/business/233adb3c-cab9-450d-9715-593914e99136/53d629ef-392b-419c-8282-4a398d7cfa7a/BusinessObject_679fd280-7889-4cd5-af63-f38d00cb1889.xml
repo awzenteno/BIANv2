@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionOfferor"
+    id="679fd280-7889-4cd5-af63-f38d00cb1889"
+    documentation=" Provides the entity making the offer and that is different from the issuing company.&#xA;&#xA;Предоставляет организацию, которая делает предложение и которая отличается от компании-эмитента."/>

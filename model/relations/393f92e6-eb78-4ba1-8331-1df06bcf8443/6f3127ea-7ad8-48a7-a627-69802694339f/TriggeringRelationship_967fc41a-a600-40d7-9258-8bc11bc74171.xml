@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Update active campaign parameters"
+    id="967fc41a-a600-40d7-9258-8bc11bc74171">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6c7ac9e2-303a-4de4-8004-833fef2e1b4f.xml#6c7ac9e2-303a-4de4-8004-833fef2e1b4f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_0de0c6a2-6843-4493-91f4-488453c02355.xml#0de0c6a2-6843-4493-91f4-488453c02355"/>
+</archimate:TriggeringRelationship>

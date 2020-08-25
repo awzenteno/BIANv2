@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DebtorRole"
+    id="2b52f585-0ddf-4400-b859-c7a417be1b60"
+    documentation=" Party that owes an amount of money to the (ultimate) creditor. For example, as a result of receipt of goods, assets, services, gifts, or charity payments.&#xA;&#xA;Сторона, которая должна определенную сумму денег (конечному) кредитору. Например, в результате получения товаров, активов, услуг, подарков или благотворительных платежей."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateBranchNetworkManagementPlan"
+    id="06a58314-e81d-4102-9dee-90fd12f214a1"
+    documentation="Terminate all or some part of the Branch Network Management Plan"/>

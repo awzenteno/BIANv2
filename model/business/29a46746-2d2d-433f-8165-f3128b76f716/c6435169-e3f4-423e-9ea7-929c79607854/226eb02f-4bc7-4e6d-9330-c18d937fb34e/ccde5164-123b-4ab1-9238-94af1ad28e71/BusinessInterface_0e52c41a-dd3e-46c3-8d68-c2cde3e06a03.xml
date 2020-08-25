@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCompetitorAnalysis"
+    id="0e52c41a-dd3e-46c3-8d68-c2cde3e06a03"
+    documentation="Assign responsibility for the Competitor Analysis"/>

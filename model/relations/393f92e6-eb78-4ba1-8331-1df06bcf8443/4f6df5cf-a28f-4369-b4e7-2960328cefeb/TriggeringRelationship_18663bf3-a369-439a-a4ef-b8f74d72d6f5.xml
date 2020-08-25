@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Check debtor of Outgoing Direct Debit"
+    id="18663bf3-a369-439a-a4ef-b8f74d72d6f5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_9cfb6df8-2504-4d3b-a8ce-ac374a4d3433.xml#9cfb6df8-2504-4d3b-a8ce-ac374a4d3433"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a4b07379-1fb2-496f-8492-e1299fa6af16.xml#a4b07379-1fb2-496f-8492-e1299fa6af16"/>
+</archimate:TriggeringRelationship>

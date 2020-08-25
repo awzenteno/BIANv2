@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrievePartyMeasurement"
+    id="6e306053-c3ae-4808-96f1-7dc62c6d3c31"
+    documentation="Retrieve party measurement/status report"/>

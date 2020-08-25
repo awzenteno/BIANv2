@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Management"
+    id="748781c7-228c-43de-8143-d69bc5115de8"
+    documentation=" This Business Domain groups together a range of Service Domains that support account and account related services for cash/currency and reward point accounts. It includes account reconciliation, accounts receivable processing and some broader consolidated position management and fraud detection facilities.&#xA;&#xA;&#xA;Этот бизнес домен группирует различные домены службу поддержки учетной записи и предоставление услуг за наличный/валюта и баллов счетов. Она включает в себя выверку счетов, обработку дебиторской задолженности и некоторые более широкие средства управления консолидированной позицией и обнаружения мошенничества."/>

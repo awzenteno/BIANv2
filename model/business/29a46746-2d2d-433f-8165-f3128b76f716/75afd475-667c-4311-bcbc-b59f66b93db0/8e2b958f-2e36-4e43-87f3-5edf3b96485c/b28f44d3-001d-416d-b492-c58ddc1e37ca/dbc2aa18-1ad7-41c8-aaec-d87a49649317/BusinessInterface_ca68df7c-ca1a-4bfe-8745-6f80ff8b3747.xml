@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeSavingsAccountFulfillmentArrangement"
+    id="ca68df7c-ca1a-4bfe-8745-6f80ff8b3747"
+    documentation=" Execute a task under the savings account fulfillment arrangement"/>

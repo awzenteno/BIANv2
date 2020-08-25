@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCorrespondenceOperatingSession"
+    id="aaaf8665-c6cb-4157-874d-4d14325eb57f"
+    documentation="Request a service under the Correspondence Operating Session"/>

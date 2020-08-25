@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Audit Offer Process"
+    id="c67e417b-31b6-4e92-875b-44949d03cc91">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4a72ded4-ec2e-483c-9774-eae09c6f63a7.xml#4a72ded4-ec2e-483c-9774-eae09c6f63a7"/>
+</archimate:TriggeringRelationship>

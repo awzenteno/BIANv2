@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateVoiceChannelManagementPlan"
+    id="fc589f9f-3672-4348-ad30-4be37c21cc47"
+    documentation="Terminate all or some part of the Voice Channel Management Plan"/>

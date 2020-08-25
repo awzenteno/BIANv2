@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordLoanFulfillmentArrangement"
+    id="125b23e2-54a9-47f4-8ad7-09675fcd316f"
+    documentation=" Record activity/feedback against an active consumer loan"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesTradeSystemRole"
+    id="a28da1ca-72a1-4254-9873-189a999ee59a"
+    documentation=" Role played by a system in the context of a securities trade.&#xA;&#xA;Indicates the main reason for the status of the securities transaction.&#xA;&#xA;Роль системы в контексте торговли ценными бумагами.&#xA;&#xA;Указывает основную причину статуса сделки с ценными бумагами."/>

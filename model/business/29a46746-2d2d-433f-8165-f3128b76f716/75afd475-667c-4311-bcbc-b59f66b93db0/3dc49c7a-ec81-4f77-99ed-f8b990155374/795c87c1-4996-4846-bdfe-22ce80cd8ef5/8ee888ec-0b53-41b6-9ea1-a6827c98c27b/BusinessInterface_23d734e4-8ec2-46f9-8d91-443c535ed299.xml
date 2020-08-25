@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestTransactionScheduleFulfillmentArrangement"
+    id="23d734e4-8ec2-46f9-8d91-443c535ed299"
+    documentation="Request a service under the Transaction Schedule"/>

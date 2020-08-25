@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyFinancialPositionLog"
+    id="3310fbcb-9bee-426a-af6c-5f80ad52acb1"
+    documentation="Subscribe to Financial Position Account/Log notification services"/>

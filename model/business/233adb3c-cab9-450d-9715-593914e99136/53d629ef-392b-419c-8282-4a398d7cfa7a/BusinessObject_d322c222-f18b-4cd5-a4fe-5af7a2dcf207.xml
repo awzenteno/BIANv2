@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DefaultFund"
+    id="d322c222-f18b-4cd5-a4fe-5af7a2dcf207"
+    documentation=" Assets posted by participants in a clearing fund that can be used in the event of a default by a participant to compensate non-defaulting participants for losses they suffer due to this default.&#xA;&#xA;Активы, размещенные участниками в клиринговом фонде, которые могут быть использованы в случае дефолта участника для компенсации участникам, не имеющим дефолта, убытков, понесенных ими в результате дефолта."/>

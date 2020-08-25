@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AccountPartyRole"
+    id="c8e070e7-2d4a-403a-92af-b85e09267d0f"
+    documentation=" Role played by a party in the context of account operations.&#xA;&#xA;Роль участника в контексте операций по счету."/>

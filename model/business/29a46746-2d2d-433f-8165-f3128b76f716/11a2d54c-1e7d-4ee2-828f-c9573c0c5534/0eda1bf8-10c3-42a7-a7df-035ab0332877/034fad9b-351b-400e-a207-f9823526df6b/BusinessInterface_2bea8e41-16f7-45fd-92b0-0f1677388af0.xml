@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateCustomerEventLog"
+    id="2bea8e41-16f7-45fd-92b0-0f1677388af0"
+    documentation=" Update details of logged record"/>

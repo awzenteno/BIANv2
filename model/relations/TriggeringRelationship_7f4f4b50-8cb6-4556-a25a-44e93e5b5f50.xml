@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Evaluate Customer Due Diligence Assessment"
+    id="7f4f4b50-8cb6-4556-a25a-44e93e5b5f50">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f1230b21-5d5f-4e78-9bbf-53171a760f46.xml#f1230b21-5d5f-4e78-9bbf-53171a760f46"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4a72ded4-ec2e-483c-9774-eae09c6f63a7.xml#4a72ded4-ec2e-483c-9774-eae09c6f63a7"/>
+</archimate:TriggeringRelationship>

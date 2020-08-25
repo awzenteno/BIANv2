@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [RCBF 1/18 - To be deleted: FX rates areprovided by Market Data Switch Administration or by a quote from Dealer workbench : Not by corporate treasury] Get bank currency rates"
+    id="4861a362-1ea2-4382-8fdb-a469b7fb7379"
+    documentation=" [RCBF 1/18 - To be deleted: FX rates areprovided by Market Data Switch Administration or by a quote from Dealer workbench : Not by corporate treasury] Get bank currency rates">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3934c676-337f-43a2-86ea-42038fa8894f.xml#3934c676-337f-43a2-86ea-42038fa8894f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a0b2b5d7-c32b-4492-9f81-4fdd6a0334ae.xml#a0b2b5d7-c32b-4492-9f81-4fdd6a0334ae"/>
+</archimate:TriggeringRelationship>

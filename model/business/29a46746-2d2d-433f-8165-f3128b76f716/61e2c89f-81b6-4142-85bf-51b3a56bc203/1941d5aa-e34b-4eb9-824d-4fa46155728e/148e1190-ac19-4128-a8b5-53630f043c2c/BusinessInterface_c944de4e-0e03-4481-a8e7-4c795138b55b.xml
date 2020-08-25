@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateInvestorMembership"
+    id="c944de4e-0e03-4481-a8e7-4c795138b55b"
+    documentation="Assign responsibility for the Investor Enrollment service"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateSavingsAccountFulfillmentArrangement"
+    id="ee3ca80d-dfc1-4828-a0a6-7dc94b0dd2bc"
+    documentation="Update work tasks and activity details for the savings account fulfillment arrangement"/>

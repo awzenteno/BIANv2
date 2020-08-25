@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request change to configuration under load"
+    id="5b9d1a09-2fbd-45d4-aadf-04b024cc014e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5cfdbaa4-3a1d-4f97-901f-3979b4a588aa.xml#5cfdbaa4-3a1d-4f97-901f-3979b4a588aa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_3be82938-2a02-47e2-93eb-f615f69e78ee.xml#3be82938-2a02-47e2-93eb-f615f69e78ee"/>
+</archimate:TriggeringRelationship>

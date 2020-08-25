@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get systems development report"
+    id="d8a978a8-5ccc-4f6c-82d8-efb5102d9107">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_35c23b73-5e47-4a90-8e79-45c7c52c052f.xml#35c23b73-5e47-4a90-8e79-45c7c52c052f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1accc8e8-8a0c-4d6a-94b6-0f7f078cd82b.xml#1accc8e8-8a0c-4d6a-94b6-0f7f078cd82b"/>
+</archimate:TriggeringRelationship>

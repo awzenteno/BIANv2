@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyDepositFulfillmentArrangement"
+    id="10967477-35a3-4e61-89c4-f872b0d2f536"
+    documentation="Subscribe to Deposit Product Arrangement notification services"/>

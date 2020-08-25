@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyArchiveOperatingSession"
+    id="5378f296-f232-4afc-9e16-2e95fede49f5"
+    documentation="Comment:&#xA;&#xA;Subscribe to Archive Operating Session notification services"/>

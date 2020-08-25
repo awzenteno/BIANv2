@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestATMNetworkManagementPlan"
+    id="72cfd4b5-337d-45c3-b672-426b3c16295b"
+    documentation="Request a service under the ATM Network Management Plan"/>

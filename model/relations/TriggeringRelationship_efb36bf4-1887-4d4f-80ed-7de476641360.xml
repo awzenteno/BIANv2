@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conduct FATCA (Foreign Account Tax Compliance Act) Classification"
+    id="efb36bf4-1887-4d4f-80ed-7de476641360">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f1230b21-5d5f-4e78-9bbf-53171a760f46.xml#f1230b21-5d5f-4e78-9bbf-53171a760f46"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a4b07379-1fb2-496f-8492-e1299fa6af16.xml#a4b07379-1fb2-496f-8492-e1299fa6af16"/>
+</archimate:TriggeringRelationship>

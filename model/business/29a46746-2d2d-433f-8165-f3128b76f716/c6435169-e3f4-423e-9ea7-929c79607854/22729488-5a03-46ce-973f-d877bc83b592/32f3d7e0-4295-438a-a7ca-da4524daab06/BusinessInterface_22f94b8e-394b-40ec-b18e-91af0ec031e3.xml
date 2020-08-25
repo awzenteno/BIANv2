@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateRepoTransaction"
+    id="22f94b8e-394b-40ec-b18e-91af0ec031e3"
+    documentation="Update elements of the Repo Transaction"/>

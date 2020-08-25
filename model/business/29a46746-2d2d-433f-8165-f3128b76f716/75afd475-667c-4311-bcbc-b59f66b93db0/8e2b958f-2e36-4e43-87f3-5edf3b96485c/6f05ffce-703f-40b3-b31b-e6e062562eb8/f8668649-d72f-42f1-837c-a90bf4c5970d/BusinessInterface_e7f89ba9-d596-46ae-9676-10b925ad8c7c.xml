@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCreditPositionMeasurement"
+    id="e7f89ba9-d596-46ae-9676-10b925ad8c7c"
+    documentation="Retrieve a monitored position measurement/status report"/>

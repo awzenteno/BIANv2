@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCardDelinquentAccountHandlingProcedure"
+    id="0a754c22-f28a-4fa2-91b4-bb4e35a2bf70"
+    documentation="Execute a task under the card delinquent account handling procedure"/>

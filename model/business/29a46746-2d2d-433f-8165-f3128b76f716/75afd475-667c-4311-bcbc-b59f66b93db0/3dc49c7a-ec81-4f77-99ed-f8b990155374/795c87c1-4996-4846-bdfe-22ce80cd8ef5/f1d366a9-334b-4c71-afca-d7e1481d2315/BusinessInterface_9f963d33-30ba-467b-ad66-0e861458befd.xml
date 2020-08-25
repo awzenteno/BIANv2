@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestFinanclalPositionMeasurement"
+    id="9f963d33-30ba-467b-ad66-0e861458befd"
+    documentation="Request a service under Financial Position Measurement "/>

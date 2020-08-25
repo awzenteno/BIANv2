@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">VoteDeadline"
+    id="68df3bf7-9aad-4ac6-a918-7749c436db53"
+    documentation=" Date and time by which the vote instructions should be submitted.&#xA;&#xA;Дата и время представления инструкций по голосованию."/>

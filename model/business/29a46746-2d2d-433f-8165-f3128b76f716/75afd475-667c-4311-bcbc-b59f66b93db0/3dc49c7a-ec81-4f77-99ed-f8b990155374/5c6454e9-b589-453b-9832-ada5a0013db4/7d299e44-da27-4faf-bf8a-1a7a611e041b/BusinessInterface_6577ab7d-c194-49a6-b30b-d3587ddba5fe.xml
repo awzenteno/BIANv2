@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCardClearingProcedure"
+    id="6577ab7d-c194-49a6-b30b-d3587ddba5fe"
+    documentation="Execute a task under the card clearing procedure"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Provide Product training"
+    id="e8a58e3d-3667-4230-9da4-2bddcb755114">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_15519ec9-4ec9-406c-9ad6-30bd21c34d6f.xml#15519ec9-4ec9-406c-9ad6-30bd21c34d6f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6f1c0e14-9497-4978-bef2-496c9207ca88.xml#6f1c0e14-9497-4978-bef2-496c9207ca88"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateHedgeFundAdministrativePlan"
+    id="b8977491-6149-40f5-a872-b5f16dabfd1e"
+    documentation="Terminate all or some part of the Hedge Fund Administrative Plan"/>

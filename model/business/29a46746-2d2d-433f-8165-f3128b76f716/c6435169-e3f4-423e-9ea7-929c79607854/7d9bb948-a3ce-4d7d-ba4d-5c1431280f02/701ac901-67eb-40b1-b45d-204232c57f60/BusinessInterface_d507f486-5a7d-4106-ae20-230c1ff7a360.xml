@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordFraudModelSpecification"
+    id="d507f486-5a7d-4106-ae20-230c1ff7a360"
+    documentation="Record activity/usage details/information against the Fraud Model Specification"/>

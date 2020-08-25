@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyPaymentOrderTransaction"
+    id="bbc7cf35-f16c-4ba4-835b-d8e096a82e89"
+    documentation="Subscribe to Payment Order Transaction notification services"/>

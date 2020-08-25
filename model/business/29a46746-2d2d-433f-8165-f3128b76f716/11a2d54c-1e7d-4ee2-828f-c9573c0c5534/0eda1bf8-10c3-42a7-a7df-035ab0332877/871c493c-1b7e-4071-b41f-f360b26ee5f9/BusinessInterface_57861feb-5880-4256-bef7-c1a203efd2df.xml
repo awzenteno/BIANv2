@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registerCustomerReferenceDataDirectoryDemographic"
+    id="57861feb-5880-4256-bef7-c1a203efd2df"
+    documentation="Register demographic details against an existing customer record"/>

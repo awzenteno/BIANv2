@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DebitSideTaxDebtor"
+    id="de67af87-67a7-4aba-97e0-1d4b22b40f99"
+    documentation=" Party on the debit side of the transaction to which the tax applies.&#xA;&#xA;Сторона на дебетовой стороне проводки, к которой применяется налог."/>

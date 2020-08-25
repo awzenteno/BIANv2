@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveRewardPointsLog"
+    id="8c817889-4624-4af2-a2ac-e6ef1d2b33cd"
+    documentation="Comment:&#xA;&#xA;Retrieve Reward Points Account/Log related reports"/>

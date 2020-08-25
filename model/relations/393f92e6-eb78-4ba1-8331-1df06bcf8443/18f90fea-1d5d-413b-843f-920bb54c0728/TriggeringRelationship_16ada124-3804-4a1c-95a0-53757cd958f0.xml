@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get customer access terms"
+    id="16ada124-3804-4a1c-95a0-53757cd958f0">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_613d4fa2-b9d0-4863-b878-1f3573f8d0b3.xml#613d4fa2-b9d0-4863-b878-1f3573f8d0b3"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_9c1ed84a-2581-4446-86ed-12575080686b.xml#9c1ed84a-2581-4446-86ed-12575080686b"/>
+</archimate:TriggeringRelationship>

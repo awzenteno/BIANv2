@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestEmployeeAgreement"
+    id="b12b7374-6957-45f8-ae4d-553ce47d80aa"
+    documentation="Request a service under the Employee Agreement "/>

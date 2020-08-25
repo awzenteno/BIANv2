@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project Finance"
+    id="d92dc1c7-f39b-4c7f-97c1-831a5588004e"
+    documentation="Example of use:&#xA;&#xA;A corporate customer is provided with project financing&#xA;&#xA;General comment:&#xA;&#xA;Project financing may be handled by the back for individual customers or for larger project financing deals may trigger syndication activity&#xA;&#xA;Business Purpose&#xA;:  Provide project financing facilities and associated  services&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Корпоративный клиент обеспечен проектным финансированием&#xA;&#xA;Общее замечание:&#xA;&#xA;Финансирование проекта может быть обработано задней для отдельных клиентов или для крупных сделок финансирования проекта может вызвать синдикации деятельности&#xA;&#xA;деловая цель&#xA;: Предоставление услуг по финансированию проектов и сопутствующих услуг&#xA;&#xA;"/>

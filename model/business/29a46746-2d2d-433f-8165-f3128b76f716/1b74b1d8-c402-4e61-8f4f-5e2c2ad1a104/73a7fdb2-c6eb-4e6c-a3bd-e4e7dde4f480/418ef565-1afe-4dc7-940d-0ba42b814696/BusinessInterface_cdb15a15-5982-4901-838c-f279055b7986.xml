@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateInformationFeedAgreement"
+    id="cdb15a15-5982-4901-838c-f279055b7986"
+    documentation="Check/verify compliance with Information Feed Agreement related checks/assessments"/>

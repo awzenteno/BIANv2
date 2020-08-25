@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" notifySecuritiesClearing&amp;SettlementTransaction"
+    id="3e752319-903b-4ac8-ab92-f15fb18553e8"
+    documentation="Subscribe to Securities Clearing &amp; Settlement Transaction notification services"/>

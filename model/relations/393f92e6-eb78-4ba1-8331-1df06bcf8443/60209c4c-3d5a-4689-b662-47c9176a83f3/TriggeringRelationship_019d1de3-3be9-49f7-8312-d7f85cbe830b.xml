@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Renew Corporate Deposit early"
+    id="019d1de3-3be9-49f7-8312-d7f85cbe830b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_eea62c26-7bc1-4f5f-a159-0956254d8434.xml#eea62c26-7bc1-4f5f-a159-0956254d8434"/>
+</archimate:TriggeringRelationship>

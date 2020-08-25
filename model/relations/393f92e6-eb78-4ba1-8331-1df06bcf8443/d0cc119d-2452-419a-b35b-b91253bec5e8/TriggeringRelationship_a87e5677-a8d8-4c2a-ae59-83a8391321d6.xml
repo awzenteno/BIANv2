@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mark Final Block for Withdrawal Amount"
+    id="a87e5677-a8d8-4c2a-ae59-83a8391321d6">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_30f02016-bdf4-429c-9836-4d033efa5d78.xml#30f02016-bdf4-429c-9836-4d033efa5d78"/>
+</archimate:TriggeringRelationship>

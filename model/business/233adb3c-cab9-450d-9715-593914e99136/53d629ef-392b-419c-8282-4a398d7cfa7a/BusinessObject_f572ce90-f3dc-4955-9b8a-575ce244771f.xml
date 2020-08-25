@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">NotificationReceiver"
+    id="f572ce90-f3dc-4955-9b8a-575ce244771f"
+    documentation=" Identifies the party (to be) notified of the content of a document.&#xA;&#xA;Определяет сторону (подлежащую) уведомлению о содержании документа."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" notifyMerchant FulfillmentArrangement"
+    id="32e142c3-0653-47d5-8c9f-5e09bf9b8440"
+    documentation=" Subscribe to merchant fulfillment arrangement notification services"/>

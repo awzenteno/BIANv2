@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get servicing activity analysis"
+    id="1b3f1699-a554-43c1-9702-b70e9f965792">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bc335029-0187-4e43-bb1a-b52159b2dfe2.xml#bc335029-0187-4e43-bb1a-b52159b2dfe2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_597978b4-2164-4d64-8cd0-af21e1eb7f0a.xml#597978b4-2164-4d64-8cd0-af21e1eb7f0a"/>
+</archimate:TriggeringRelationship>

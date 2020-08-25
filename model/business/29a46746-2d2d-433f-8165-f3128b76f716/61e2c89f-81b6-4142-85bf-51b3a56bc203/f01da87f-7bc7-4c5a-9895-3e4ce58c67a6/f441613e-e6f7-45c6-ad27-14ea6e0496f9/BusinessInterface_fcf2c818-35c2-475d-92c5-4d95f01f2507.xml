@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBuildingAdministrativePlan"
+    id="fcf2c818-35c2-475d-92c5-4d95f01f2507"
+    documentation="Retrieve Building Administrative Plan related reports"/>

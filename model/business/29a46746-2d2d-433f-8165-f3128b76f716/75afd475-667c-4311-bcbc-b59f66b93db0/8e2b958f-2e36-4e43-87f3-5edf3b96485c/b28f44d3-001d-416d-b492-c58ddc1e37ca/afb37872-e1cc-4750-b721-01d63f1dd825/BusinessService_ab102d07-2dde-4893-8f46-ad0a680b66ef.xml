@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leasing"
+    id="ab102d07-2dde-4893-8f46-ad0a680b66ef"
+    documentation="Example of use:&#xA;&#xA;An established customer applies for a gets leasing product for a major purchase&#xA;&#xA;General comment:&#xA;&#xA;This covers the range of different types of leasing products&#xA;&#xA;Business Purpose&#xA;:  Fulfillment of leasing products&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Установленный клиент подает заявку на получение лизингового продукта gets для крупной покупки&#xA;&#xA;Общее замечание:&#xA;&#xA;Это охватывает спектр различных видов лизинговых продуктов&#xA;&#xA;деловая цель&#xA;: Выполнение лизинговых продуктов"/>

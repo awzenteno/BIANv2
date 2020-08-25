@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvestmentFundTax"
+    id="f7390e57-88d4-4b24-a35e-f5f68f6c5aed"
+    documentation="Tax related to an investment fund order.&#xA;&#xA;Налог, связанный с распоряжением инвестиционного фонда."/>

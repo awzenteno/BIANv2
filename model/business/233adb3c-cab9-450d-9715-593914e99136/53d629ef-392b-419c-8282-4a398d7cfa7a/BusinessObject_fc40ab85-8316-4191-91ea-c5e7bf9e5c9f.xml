@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Mandate"
+    id="fc40ab85-8316-4191-91ea-c5e7bf9e5c9f"
+    documentation="Authorisation given by an issuing party to a holder party to act on the issuer's behalf.&#xA;&#xA;Разрешение, предоставленное стороной-эмитентом стороне-держателю, действовать от имени эмитента.&#xA;&#xA;&#xA;mandate / полномочие действовать от имени&#xA;MandateHolder / уполномоченное лицо"/>

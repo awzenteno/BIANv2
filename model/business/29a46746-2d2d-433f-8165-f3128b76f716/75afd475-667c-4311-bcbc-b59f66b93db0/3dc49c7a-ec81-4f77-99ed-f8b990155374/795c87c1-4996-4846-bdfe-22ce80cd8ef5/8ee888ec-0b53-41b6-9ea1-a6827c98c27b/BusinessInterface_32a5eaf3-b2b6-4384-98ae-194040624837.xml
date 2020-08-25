@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveTransactionScheduleFulfillmentArrangement"
+    id="32a5eaf3-b2b6-4384-98ae-194040624837"
+    documentation="Retrieve Transaction Schedule Product Arrangement related reports"/>

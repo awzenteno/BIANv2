@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Generate inbound correspondent payment"
+    id="52121227-78d8-4620-8170-9c9d46466ee9">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_340fcb16-0f61-4a98-9980-3307680d4fe8.xml#340fcb16-0f61-4a98-9980-3307680d4fe8"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_24cd05bf-0974-41fd-ad83-1453d6c448c2.xml#24cd05bf-0974-41fd-ad83-1453d6c448c2"/>
+</archimate:TriggeringRelationship>

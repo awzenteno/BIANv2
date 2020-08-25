@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check for guideline compliance"
+    id="b542c823-2010-4d78-861d-f2fbd943c0c7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_999a4e22-5238-4ec5-9185-7c146bc84825.xml#999a4e22-5238-4ec5-9185-7c146bc84825"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4a72ded4-ec2e-483c-9774-eae09c6f63a7.xml#4a72ded4-ec2e-483c-9774-eae09c6f63a7"/>
+</archimate:TriggeringRelationship>

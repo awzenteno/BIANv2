@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyBusinessUnitAccountingLog"
+    id="ec643b60-d62a-4e65-b402-f81a6ed4f24d"
+    documentation="Subscribe to Business Unit Accounting Account/Log notification services"/>

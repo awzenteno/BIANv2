@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AccountReportedMovement"
+    id="1976b164-5e87-42a1-a301-bfa47cbda876"
+    documentation=" Provides statistical information on the number of movements and their value for a particular account.&#xA;&#xA;Предоставляет статистическую информацию о количестве перемещений и их _значений_ для конкретного счета."/>

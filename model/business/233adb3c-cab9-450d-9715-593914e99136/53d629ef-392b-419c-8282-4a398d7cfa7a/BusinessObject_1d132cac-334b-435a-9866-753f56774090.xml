@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesStatus"
+    id="1d132cac-334b-435a-9866-753f56774090"
+    documentation="Specifies the status of the security within its lifecycle.&#xA;&#xA;Указывает состояние безопасности в течение жизненного цикла."/>

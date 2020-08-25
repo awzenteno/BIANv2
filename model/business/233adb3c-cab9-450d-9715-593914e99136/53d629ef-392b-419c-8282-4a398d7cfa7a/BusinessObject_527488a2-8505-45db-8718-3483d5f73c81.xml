@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ContraFirm"
+    id="527488a2-8505-45db-8718-3483d5f73c81"
+    documentation="Party that is the counterparty in a trade.&#xA;&#xA;Сторона, являющаяся контрагентом в сделке."/>

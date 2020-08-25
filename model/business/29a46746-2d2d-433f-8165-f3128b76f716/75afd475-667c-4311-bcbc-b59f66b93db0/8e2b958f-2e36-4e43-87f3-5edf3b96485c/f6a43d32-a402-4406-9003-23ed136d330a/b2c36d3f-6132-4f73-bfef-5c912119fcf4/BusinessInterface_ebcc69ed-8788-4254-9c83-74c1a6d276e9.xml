@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestMarketTradeReportingOperatingSession"
+    id="ebcc69ed-8788-4254-9c83-74c1a6d276e9"
+    documentation="Request a service under the Market Trade Reporting Operating Session"/>

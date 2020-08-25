@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Set up Loan Account"
+    id="3e3207db-80b3-4b81-a116-5a8c39851697">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_525d55ea-5640-490e-b634-d80453173566.xml#525d55ea-5640-490e-b634-d80453173566"/>
+</archimate:TriggeringRelationship>

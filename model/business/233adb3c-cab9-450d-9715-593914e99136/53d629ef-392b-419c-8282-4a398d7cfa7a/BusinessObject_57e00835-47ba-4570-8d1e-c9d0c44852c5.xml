@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MeetingStatus"
+    id="57e00835-47ba-4570-8d1e-c9d0c44852c5"
+    documentation=" Status of the instructions related to a meeting.&#xA;&#xA;Состояние инструкций, связанных со встречей."/>

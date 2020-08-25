@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TakerRole"
+    id="e502942e-bea4-49a5-beec-f352e3f7dbda"
+    documentation=" Party which receives the collateral. A party can be both a taker and a giver in a collateral relationship.&#xA;&#xA;Сторона, которая получает залог. Сторона может быть как берущей, так и дающей в залоговых отношениях."/>

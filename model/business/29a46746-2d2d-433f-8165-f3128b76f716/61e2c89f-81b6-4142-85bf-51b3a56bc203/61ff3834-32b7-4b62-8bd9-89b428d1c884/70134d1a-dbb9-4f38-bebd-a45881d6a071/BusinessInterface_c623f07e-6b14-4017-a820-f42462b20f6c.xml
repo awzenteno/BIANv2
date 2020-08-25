@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestITSystemOperatingSession"
+    id="c623f07e-6b14-4017-a820-f42462b20f6c"
+    documentation="Comment:&#xA;&#xA;Request a service under the IT System Operating Session"/>

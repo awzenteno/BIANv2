@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" evaluateSalesProduct/ServiceAgreement"
+    id="fb2425dd-9d7e-4f3f-bc9a-04351cf6f509"
+    documentation="Evaluate whether a proposed action is covered by the sales product/service agreement terms"/>

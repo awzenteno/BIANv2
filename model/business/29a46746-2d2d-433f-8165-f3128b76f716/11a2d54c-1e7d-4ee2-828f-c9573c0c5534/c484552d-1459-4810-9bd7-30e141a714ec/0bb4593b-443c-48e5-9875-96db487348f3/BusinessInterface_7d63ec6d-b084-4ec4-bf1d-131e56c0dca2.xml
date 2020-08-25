@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerContactSessionProcedure"
+    id="7d63ec6d-b084-4ec4-bf1d-131e56c0dca2"
+    documentation="Record information against an active contact dialogue session"/>

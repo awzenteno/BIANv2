@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateVoiceChannelOperatingSession"
+    id="30b1fd66-bc91-469a-927b-aab98d609d77"
+    documentation="Terminate all or some part of the Voice Channel Operating Session"/>

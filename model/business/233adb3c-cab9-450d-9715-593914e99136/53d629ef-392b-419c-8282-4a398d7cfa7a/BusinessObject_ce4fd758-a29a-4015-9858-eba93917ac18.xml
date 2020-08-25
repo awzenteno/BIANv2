@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Entry"
+    id="ce4fd758-a29a-4015-9858-eba93917ac18"
+    documentation=" Posting to an account that results in an increase or decrease to a balance.&#xA;&#xA;Разноска на счет, которая приводит к увеличению или уменьшению сальдо."/>

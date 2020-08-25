@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateBuildingAdministrativePlan"
+    id="01f0689e-881c-46ff-a32f-bd5baa83fe40"
+    documentation="Update tasks or elements of the Building Administrative Plan"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get details of Corporate Deposit"
+    id="3f1df5ef-155f-4b8f-bc48-63a6150a6684">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_c6521e80-96a6-4386-a598-674111a8f461.xml#c6521e80-96a6-4386-a598-674111a8f461"/>
+</archimate:TriggeringRelationship>

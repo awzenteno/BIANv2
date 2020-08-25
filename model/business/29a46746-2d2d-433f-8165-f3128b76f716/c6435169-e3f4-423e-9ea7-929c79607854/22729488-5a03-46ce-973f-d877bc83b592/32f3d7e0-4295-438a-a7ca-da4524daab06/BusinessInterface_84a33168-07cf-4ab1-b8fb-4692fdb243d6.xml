@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyRepoTransaction"
+    id="84a33168-07cf-4ab1-b8fb-4692fdb243d6"
+    documentation="Subscribe to Repo Transaction notification services"/>

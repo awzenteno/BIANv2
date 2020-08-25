@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeVoiceChannelOperatingSessionInboundVoiceAccess"
+    id="d5927bf3-df7b-4db6-8bd0-c0e57a33b936"
+    documentation="Execute a voice access session (connect a voice contact)"/>

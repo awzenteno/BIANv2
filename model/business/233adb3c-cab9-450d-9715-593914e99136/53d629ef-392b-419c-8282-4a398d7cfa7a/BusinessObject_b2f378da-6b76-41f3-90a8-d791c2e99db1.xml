@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvoicePartyRole"
+    id="b2f378da-6b76-41f3-90a8-d791c2e99db1"
+    documentation=" Role played by a party in the context of an invoice.&#xA;&#xA;Роль партии в контексте счета-фактуры."/>

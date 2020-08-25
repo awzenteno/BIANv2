@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateFinancialPositionLog"
+    id="b65535fd-1c88-4ac6-967c-64544c917552"
+    documentation="Terminate all or some part of the Financial Position Account/Log"/>

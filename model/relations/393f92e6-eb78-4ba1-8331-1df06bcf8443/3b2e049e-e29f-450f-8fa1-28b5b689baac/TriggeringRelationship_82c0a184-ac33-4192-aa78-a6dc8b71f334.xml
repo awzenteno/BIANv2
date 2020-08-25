@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Report lost or stolen Debit Card to the card network"
+    id="82c0a184-ac33-4192-aa78-a6dc8b71f334">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bfffa8a5-7404-4230-81e6-f32f4e37e4a7.xml#bfffa8a5-7404-4230-81e6-f32f4e37e4a7"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ed1919e8-9702-4f59-a137-32656676cc2f.xml#ed1919e8-9702-4f59-a137-32656676cc2f"/>
+</archimate:TriggeringRelationship>

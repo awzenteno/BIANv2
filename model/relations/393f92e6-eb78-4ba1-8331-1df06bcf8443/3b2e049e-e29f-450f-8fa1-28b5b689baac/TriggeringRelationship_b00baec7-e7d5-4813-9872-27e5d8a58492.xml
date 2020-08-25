@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepare PIN envelopes and send"
+    id="b00baec7-e7d5-4813-9872-27e5d8a58492">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bfffa8a5-7404-4230-81e6-f32f4e37e4a7.xml#bfffa8a5-7404-4230-81e6-f32f4e37e4a7"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f24329c9-7fd6-4338-9706-ee71f697e077.xml#f24329c9-7fd6-4338-9706-ee71f697e077"/>
+</archimate:TriggeringRelationship>

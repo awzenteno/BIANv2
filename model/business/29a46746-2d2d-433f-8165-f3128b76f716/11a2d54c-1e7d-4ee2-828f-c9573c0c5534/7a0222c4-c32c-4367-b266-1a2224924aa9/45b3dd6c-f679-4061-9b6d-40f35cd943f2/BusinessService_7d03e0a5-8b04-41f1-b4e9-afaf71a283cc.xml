@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Product"
+    id="7d03e0a5-8b04-41f1-b4e9-afaf71a283cc"
+    documentation="Business Purpose&#xA;:  A representation of a product as sold to a customer, covering the fulfillment requirements (as opposed to the legal terms handled by Sales Product Agreement)&#xA;&#xA;&#xA;&#xA;деловая цель&#xA;: Представление продукта как проданного клиенту, охватывающее требования к исполнению (в отличие от юридических условий, обрабатываемых договором продажи продукта)"/>

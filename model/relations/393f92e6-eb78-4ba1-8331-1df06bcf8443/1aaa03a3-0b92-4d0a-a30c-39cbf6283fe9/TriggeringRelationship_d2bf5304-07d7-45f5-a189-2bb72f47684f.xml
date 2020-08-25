@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get Customer Service Entitlement"
+    id="d2bf5304-07d7-45f5-a189-2bb72f47684f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f6db7440-b9e3-4874-993a-2d38fc8a5194.xml#f6db7440-b9e3-4874-993a-2d38fc8a5194"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initiate dunning on the mortgage"
+    id="6e7d0a74-b6ae-45eb-a5e1-924fe94d5581">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b0712271-c7aa-4f28-afb1-828e366fa0f6.xml#b0712271-c7aa-4f28-afb1-828e366fa0f6"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_8800fc3b-2751-4453-9b41-1d9e40095909.xml#8800fc3b-2751-4453-9b41-1d9e40095909"/>
+</archimate:TriggeringRelationship>

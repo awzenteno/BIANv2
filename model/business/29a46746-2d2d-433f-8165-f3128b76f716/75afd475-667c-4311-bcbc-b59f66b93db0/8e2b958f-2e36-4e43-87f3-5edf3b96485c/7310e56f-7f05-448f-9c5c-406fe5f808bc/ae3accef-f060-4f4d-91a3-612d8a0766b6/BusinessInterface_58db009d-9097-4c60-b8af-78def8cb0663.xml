@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateManagedInvestmentPortfolioFulfillmentArrangement"
+    id="58db009d-9097-4c60-b8af-78def8cb0663"
+    documentation="Terminate all or some part of the Managed Investment Portfolio"/>

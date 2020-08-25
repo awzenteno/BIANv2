@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Update product broker terms"
+    id="27ea3c45-40c1-4642-84e7-f757b6049829">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7debc112-5232-4122-b6e5-5831987a71fc.xml#7debc112-5232-4122-b6e5-5831987a71fc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_b4ca0825-8e8d-4801-b5bd-d8d879ec9edc.xml#b4ca0825-8e8d-4801-b5bd-d8d879ec9edc"/>
+</archimate:TriggeringRelationship>

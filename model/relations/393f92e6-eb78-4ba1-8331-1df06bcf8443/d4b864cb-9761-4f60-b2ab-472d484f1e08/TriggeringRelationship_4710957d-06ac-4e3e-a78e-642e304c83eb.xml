@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record campaign result against version"
+    id="4710957d-06ac-4e3e-a78e-642e304c83eb">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_cfde0568-8d7d-4d06-ac65-b0b7bdade874.xml#cfde0568-8d7d-4d06-ac65-b0b7bdade874"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_b574a28e-a619-44c9-9205-53c8793aba84.xml#b574a28e-a619-44c9-9205-53c8793aba84"/>
+</archimate:TriggeringRelationship>

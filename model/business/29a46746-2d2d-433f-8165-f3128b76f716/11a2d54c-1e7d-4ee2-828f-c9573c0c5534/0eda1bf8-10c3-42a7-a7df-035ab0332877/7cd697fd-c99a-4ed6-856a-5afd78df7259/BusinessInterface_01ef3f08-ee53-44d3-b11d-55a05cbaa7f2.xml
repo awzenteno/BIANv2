@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateCustomerAccessProfileAgreement"
+    id="01ef3f08-ee53-44d3-b11d-55a05cbaa7f2"
+    documentation="Initiate a Customer Access Agreement"/>

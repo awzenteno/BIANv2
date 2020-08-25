@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InstructedAgentRole"
+    id="19d6a422-ebd2-47eb-b6af-3f0afbbbdc37"
+    documentation=" Agent that is instructed by the previous party in the chain to carry out the (set of) instruction(s).&#xA;&#xA;Агент, которому предыдущая сторона в цепочке поручила выполнить (набор) инструкций(инструкций)."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">RepurchaseAgreement"
+    id="4f5ef3a4-3f8e-4520-b1cb-939acf5c822b"
+    documentation="Sale of securities together with an agreement for the seller to buy back the securities at a later date.&#xA;A repo is equivalent to a spot sale combined with a forward contract.&#xA;For the seller of the security it is a repo; for the buyer of the security it is a reverse repurchase agreement. &#xA;&#xA;Продажа ценных бумаг вместе с Договором о выкупе ценных бумаг продавцом на более поздний срок.&#xA;РЕПО эквивалентно СПО-продаже в сочетании с форвардным контрактом.&#xA;Для продавца ценной бумаги это РЕПО,для покупателя ценной бумаги-соглашение обратного РЕПО."/>

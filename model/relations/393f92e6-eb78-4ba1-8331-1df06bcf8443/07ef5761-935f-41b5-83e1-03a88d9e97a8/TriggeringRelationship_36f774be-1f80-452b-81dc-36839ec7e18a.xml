@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record card issue (lost/stolen)"
+    id="36f774be-1f80-452b-81dc-36839ec7e18a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_42a0e7f5-c976-45f3-bd42-9a52a3839a05.xml#42a0e7f5-c976-45f3-bd42-9a52a3839a05"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_9de94e0a-9925-4707-9a93-dac64615e031.xml#9de94e0a-9925-4707-9a93-dac64615e031"/>
+</archimate:TriggeringRelationship>

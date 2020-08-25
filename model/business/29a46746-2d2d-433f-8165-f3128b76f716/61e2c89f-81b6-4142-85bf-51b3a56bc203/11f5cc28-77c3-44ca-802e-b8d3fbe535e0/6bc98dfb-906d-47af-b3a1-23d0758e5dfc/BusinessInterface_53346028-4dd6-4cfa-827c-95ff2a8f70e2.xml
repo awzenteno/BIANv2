@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeEmployeeCertificationAssessment"
+    id="53346028-4dd6-4cfa-827c-95ff2a8f70e2"
+    documentation="Obtain authorization for some action under the Employee Certification Assessment"/>

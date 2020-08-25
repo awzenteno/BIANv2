@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get customer campaign activity report"
+    id="8b6938b4-29b0-45a5-9378-b3dee9e3611a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_34945909-17a1-4086-b58d-49426a02ce12.xml#34945909-17a1-4086-b58d-49426a02ce12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_69fc6b55-b45a-4319-8284-45a7f152433b.xml#69fc6b55-b45a-4319-8284-45a7f152433b"/>
+</archimate:TriggeringRelationship>

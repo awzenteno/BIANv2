@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordLoanFulfillmentArrangement"
+    id="1ea826b4-b394-46cf-a941-710ddcfcebff"
+    documentation=" Record activity details/information against the loan fulfillment arrangement"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CommercialTradePartyRole"
+    id="bbe17188-7a25-4d76-833e-3ae2e91ccad7"
+    documentation="Role played by a party in the context of a trade.&#xA;&#xA;Роль партии в контексте торговли."/>

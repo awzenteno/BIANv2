@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Invoke active campaign"
+    id="9e79b058-313c-48d2-bffa-7dabdee4ca05">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_34945909-17a1-4086-b58d-49426a02ce12.xml#34945909-17a1-4086-b58d-49426a02ce12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_20d5864d-42ca-4372-a826-1e0161686e3a.xml#20d5864d-42ca-4372-a826-1e0161686e3a"/>
+</archimate:TriggeringRelationship>

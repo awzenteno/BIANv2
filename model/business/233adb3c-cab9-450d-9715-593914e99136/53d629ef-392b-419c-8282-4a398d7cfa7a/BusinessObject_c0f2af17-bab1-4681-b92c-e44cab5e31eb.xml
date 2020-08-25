@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Role"
+    id="c0f2af17-bab1-4681-b92c-e44cab5e31eb"
+    documentation=" Role of a party in an activity.&#xA;&#xA;Роль участника в деятельности."/>

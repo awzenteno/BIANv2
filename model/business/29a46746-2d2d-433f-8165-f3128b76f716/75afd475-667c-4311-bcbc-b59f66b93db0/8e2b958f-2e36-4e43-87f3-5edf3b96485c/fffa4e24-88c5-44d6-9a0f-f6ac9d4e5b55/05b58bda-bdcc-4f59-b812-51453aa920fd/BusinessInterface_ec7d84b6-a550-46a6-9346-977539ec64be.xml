@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updatePublicOfferingFulfillmentArrangement"
+    id="ec7d84b6-a550-46a6-9346-977539ec64be"
+    documentation="Comment:&#xA;&#xA;Update elements of the Public Offering"/>

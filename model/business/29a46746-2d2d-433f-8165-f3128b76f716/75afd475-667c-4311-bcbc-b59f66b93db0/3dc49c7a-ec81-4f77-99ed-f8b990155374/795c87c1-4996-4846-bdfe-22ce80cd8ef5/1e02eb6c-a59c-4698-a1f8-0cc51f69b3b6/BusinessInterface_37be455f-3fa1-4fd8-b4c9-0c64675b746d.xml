@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordProductCombinationFulfillmentArrangement"
+    id="37be455f-3fa1-4fd8-b4c9-0c64675b746d"
+    documentation="Record activity details/information against the product combination fulfillment arrangement"/>

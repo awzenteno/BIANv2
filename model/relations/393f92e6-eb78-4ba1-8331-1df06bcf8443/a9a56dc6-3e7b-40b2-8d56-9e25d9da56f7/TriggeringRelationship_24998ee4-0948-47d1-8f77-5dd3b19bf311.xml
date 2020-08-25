@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get market interest rates"
+    id="24998ee4-0948-47d1-8f77-5dd3b19bf311">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a0b2b5d7-c32b-4492-9f81-4fdd6a0334ae.xml#a0b2b5d7-c32b-4492-9f81-4fdd6a0334ae"/>
+</archimate:TriggeringRelationship>

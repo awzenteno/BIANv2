@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCentralCashAllocation"
+    id="6b0b6ea3-6b60-4aed-8347-2ec73cc1bbf0"
+    documentation="Assign responsibility for and activate the Central Cash Allocation service"/>

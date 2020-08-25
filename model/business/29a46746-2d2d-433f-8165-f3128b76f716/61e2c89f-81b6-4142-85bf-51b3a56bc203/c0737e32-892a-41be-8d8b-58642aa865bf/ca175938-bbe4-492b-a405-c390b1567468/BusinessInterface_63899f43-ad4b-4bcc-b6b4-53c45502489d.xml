@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEnterpriseStrategy"
+    id="63899f43-ad4b-4bcc-b6b4-53c45502489d"
+    documentation="Retrieve Enterprise Strategy related reports"/>

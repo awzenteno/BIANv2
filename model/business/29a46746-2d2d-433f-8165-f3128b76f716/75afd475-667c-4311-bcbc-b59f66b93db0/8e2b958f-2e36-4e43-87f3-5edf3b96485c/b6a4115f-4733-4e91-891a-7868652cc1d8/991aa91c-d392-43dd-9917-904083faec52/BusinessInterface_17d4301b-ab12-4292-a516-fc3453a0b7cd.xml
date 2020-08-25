@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBearerDocumentTransaction"
+    id="17d4301b-ab12-4292-a516-fc3453a0b7cd"
+    documentation="Retrieve Bearer Document Transaction related reports"/>

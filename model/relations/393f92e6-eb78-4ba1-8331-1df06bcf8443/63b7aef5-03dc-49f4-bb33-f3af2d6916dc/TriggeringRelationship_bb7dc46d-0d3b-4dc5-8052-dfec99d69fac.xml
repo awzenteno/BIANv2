@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluate Regulatory KYC Checks"
+    id="bb7dc46d-0d3b-4dc5-8052-dfec99d69fac">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_33593414-659d-44f0-a0af-6e8cf0b8f27b.xml#33593414-659d-44f0-a0af-6e8cf0b8f27b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a4b07379-1fb2-496f-8492-e1299fa6af16.xml#a4b07379-1fb2-496f-8492-e1299fa6af16"/>
+</archimate:TriggeringRelationship>

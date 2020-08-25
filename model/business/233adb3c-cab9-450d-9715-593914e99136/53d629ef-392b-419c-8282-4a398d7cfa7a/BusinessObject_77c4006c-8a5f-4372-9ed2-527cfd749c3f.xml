@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Derivative"
+    id="77c4006c-8a5f-4372-9ed2-527cfd749c3f"
+    documentation=" Specifies the parameters of a derivative instrument based on a specific asset.&#xA;&#xA;Задает параметры производного инструмента на основе определенного актива."/>

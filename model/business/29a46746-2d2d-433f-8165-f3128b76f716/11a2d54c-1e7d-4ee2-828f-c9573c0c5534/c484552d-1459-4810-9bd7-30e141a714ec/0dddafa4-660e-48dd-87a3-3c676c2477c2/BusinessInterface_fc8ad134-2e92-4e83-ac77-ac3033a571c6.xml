@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerWorkbenchOperatingSession"
+    id="fc8ad134-2e92-4e83-ac77-ac3033a571c6"
+    documentation="Retrieve an customer workbench maintained report"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvoiceStatus"
+    id="7a122a6c-7cc9-4b48-9d01-28784c909605"
+    documentation=" Status of the invoice or of the billing process.&#xA;&#xA;Состояние счета или процесса выставления счетов."/>

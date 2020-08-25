@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProductDirectory"
+    id="a4976759-9f4f-42b7-8684-36985da563b7"
+    documentation="Retrieve a product directory record/report"/>

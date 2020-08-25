@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Password and Device ID"
+    id="b9b54579-4627-4ade-9ec7-ff6d01673576">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1dc72423-5867-4285-a617-fc5681f9da06.xml#1dc72423-5867-4285-a617-fc5681f9da06"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordIssuedDeviceMeasurementCancellationInstruction"
+    id="9de94e0a-9925-4707-9a93-dac64615e031"
+    documentation=" Record instruction to terminate/suspend a monitored item"/>

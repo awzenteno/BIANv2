@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SwitchExecutionRedemptionLeg"
+    id="7dadd977-5945-4fc7-8864-be7bb179d1f3"
+    documentation=" Execution of the redemption part, in a switch between investment funds or investment fund classes.&#xA;&#xA;Исполнение выкупной части, при переключении между инвестиционными фондами или классами инвестиционных фондов."/>

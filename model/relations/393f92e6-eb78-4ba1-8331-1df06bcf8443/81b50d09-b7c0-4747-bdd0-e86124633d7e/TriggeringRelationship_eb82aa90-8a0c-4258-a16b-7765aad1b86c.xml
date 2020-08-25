@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Retrieve standard conditions"
+    id="eb82aa90-8a0c-4258-a16b-7765aad1b86c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a4976759-9f4f-42b7-8684-36985da563b7.xml#a4976759-9f4f-42b7-8684-36985da563b7"/>
+</archimate:TriggeringRelationship>

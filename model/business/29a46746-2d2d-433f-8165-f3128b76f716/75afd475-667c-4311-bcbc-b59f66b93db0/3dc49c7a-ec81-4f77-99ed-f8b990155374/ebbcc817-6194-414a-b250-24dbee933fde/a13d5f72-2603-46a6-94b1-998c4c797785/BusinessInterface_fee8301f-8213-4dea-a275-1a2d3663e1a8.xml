@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" recordChannelActivityLogProduct/ServiceEvent"
+    id="fee8301f-8213-4dea-a275-1a2d3663e1a8"
+    documentation="Record product/service access event"/>

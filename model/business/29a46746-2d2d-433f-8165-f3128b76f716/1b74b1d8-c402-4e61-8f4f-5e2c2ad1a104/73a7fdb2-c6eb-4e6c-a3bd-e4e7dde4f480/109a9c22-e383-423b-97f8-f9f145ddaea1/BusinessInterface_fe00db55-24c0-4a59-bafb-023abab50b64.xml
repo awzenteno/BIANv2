@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyBankRelationshipManagementPlan"
+    id="fe00db55-24c0-4a59-bafb-023abab50b64"
+    documentation="Subscribe to Bank Relationship Management Plan notification services&#xA;Name&#xA;: "/>

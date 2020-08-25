@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCompetitorAnalysis"
+    id="6944c55c-3152-4d78-87e1-1e301bdc1b91"
+    documentation="Record activity details/information against the Competitor Analysis"/>

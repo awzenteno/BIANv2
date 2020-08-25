@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerHistoryReportingService"
+    id="8761186b-9a1a-423f-b917-148e3315d24f"
+    documentation=" A reporting service that provides data and data analysis regarding the history of a customer, including channel usage activity, customer service history, and customer event history including transaction history&#xA;&#xA;Служба отчетов, которая предоставляет данные и анализ данных об истории клиента, включая действия по использованию канала, историю обслуживания клиентов и историю событий клиента, включая историю транзакций"/>

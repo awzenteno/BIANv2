@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notification of newly identified parties"
+    id="09b87b5b-ff0b-422e-a002-ace8186fcd14">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_477bc971-f598-4c58-8297-00a15768be5c.xml#477bc971-f598-4c58-8297-00a15768be5c"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_bc54c6a8-3a0d-4d1a-b0c5-b2c70a0a5abb.xml#bc54c6a8-3a0d-4d1a-b0c5-b2c70a0a5abb"/>
+</archimate:TriggeringRelationship>

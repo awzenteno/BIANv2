@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configureCustomerEventLog"
+    id="a300beba-ef20-40ba-8b19-aefac003fc02"
+    documentation="Amend the configuration arrangements/parameters governing the Customer Event Account/Log"/>

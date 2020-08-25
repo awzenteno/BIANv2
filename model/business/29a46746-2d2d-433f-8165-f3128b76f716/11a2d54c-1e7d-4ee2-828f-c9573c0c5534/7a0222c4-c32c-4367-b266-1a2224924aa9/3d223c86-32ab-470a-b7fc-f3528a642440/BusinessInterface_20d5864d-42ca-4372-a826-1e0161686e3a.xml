@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCustomerCampaignProcedure"
+    id="20d5864d-42ca-4372-a826-1e0161686e3a"
+    documentation="Execute a task under the Customer Campaign Procedure"/>

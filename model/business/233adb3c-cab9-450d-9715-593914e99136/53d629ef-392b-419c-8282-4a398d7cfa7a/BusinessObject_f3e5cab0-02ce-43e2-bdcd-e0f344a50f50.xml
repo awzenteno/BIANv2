@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SSIDatabaseProvider"
+    id="f3e5cab0-02ce-43e2-bdcd-e0f344a50f50"
+    documentation=" Provider of a standing settlement instruction (SSI) database.&#xA;&#xA;Поставщик базы данных постоянных расчетных инструкций (SSI)."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBrokerAgreement"
+    id="55deca79-0795-44b8-a1cf-4b0be32827f6"
+    documentation=" Retrieve broker agreement report"/>

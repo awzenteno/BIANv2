@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordPointOfServiceOperatingSession"
+    id="9956c872-5809-495d-a4b7-3c769dbaacc3"
+    documentation="Record activity/feedback against the operating session"/>

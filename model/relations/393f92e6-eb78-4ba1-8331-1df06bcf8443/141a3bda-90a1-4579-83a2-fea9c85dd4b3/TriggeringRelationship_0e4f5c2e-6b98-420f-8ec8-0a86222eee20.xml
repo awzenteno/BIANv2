@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Remove Amount Block"
+    id="0e4f5c2e-6b98-420f-8ec8-0a86222eee20">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bdba5d90-4777-4c6e-a8a1-f29d5c8f280b.xml#bdba5d90-4777-4c6e-a8a1-f29d5c8f280b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_0e53f9a9-6e56-4e6d-9737-3bf28de109ac.xml#0e53f9a9-6e56-4e6d-9737-3bf28de109ac"/>
+</archimate:TriggeringRelationship>

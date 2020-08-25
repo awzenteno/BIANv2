@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeVoiceChannelOperatingSession"
+    id="ce180cbe-2730-431d-b599-c32b18d83df9"
+    documentation="Execute a transaction or task under the Voice Channel Operating Session"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvestmentAccountPartyRole"
+    id="1013d161-ddd4-41af-bea0-6f4d5d6e1541"
+    documentation="Specifies roles played by a party that are related to an investment account.&#xA;&#xA;Определяет роли, которые играет сторона, связанная с инвестиционным счетом."/>

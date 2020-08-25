@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" File Pooling agreement"
+    id="4b1089c0-f4bf-441e-946c-a73be4fe9721">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_cd8f8dd1-bd79-4ed1-a2c9-9de0f6ba586f.xml#cd8f8dd1-bd79-4ed1-a2c9-9de0f6ba586f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_87b4e76a-8fda-4d6a-8d24-e4d3e1c55897.xml#87b4e76a-8fda-4d6a-8d24-e4d3e1c55897"/>
+</archimate:TriggeringRelationship>

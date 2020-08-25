@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retrieve Credit Rating Assessment"
+    id="9d210882-3bf9-4764-abc9-ff623fe76778">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_33593414-659d-44f0-a0af-6e8cf0b8f27b.xml#33593414-659d-44f0-a0af-6e8cf0b8f27b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5890a34e-fee5-4229-a83c-d79eb1f7727d.xml#5890a34e-fee5-4229-a83c-d79eb1f7727d"/>
+</archimate:TriggeringRelationship>

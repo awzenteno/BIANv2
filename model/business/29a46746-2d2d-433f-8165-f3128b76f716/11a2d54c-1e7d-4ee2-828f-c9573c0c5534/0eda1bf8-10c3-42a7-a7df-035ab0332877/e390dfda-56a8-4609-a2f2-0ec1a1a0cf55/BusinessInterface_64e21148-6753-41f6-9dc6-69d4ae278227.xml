@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeAccountRecoveryProcedure"
+    id="64e21148-6753-41f6-9dc6-69d4ae278227"
+    documentation="Execute a task under the Account Recovery Procedure"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove account from Salary Package"
+    id="778446ea-e874-484d-b855-8d749b5bd15d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4438373a-49e6-44be-917a-601c1b922fab.xml#4438373a-49e6-44be-917a-601c1b922fab"/>
+</archimate:TriggeringRelationship>

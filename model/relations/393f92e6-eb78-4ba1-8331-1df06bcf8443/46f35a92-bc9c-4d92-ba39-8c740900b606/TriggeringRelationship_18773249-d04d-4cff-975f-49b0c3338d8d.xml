@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Card Device Authentication"
+    id="18773249-d04d-4cff-975f-49b0c3338d8d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7885c4e8-aaef-4a09-8104-f527820169cb.xml#7885c4e8-aaef-4a09-8104-f527820169cb"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_43c10405-044d-4cfd-9a56-1ac45df8122d.xml#43c10405-044d-4cfd-9a56-1ac45df8122d"/>
+</archimate:TriggeringRelationship>

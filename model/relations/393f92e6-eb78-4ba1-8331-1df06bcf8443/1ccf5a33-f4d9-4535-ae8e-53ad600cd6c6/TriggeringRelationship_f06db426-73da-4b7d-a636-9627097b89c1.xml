@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get financial accounting report"
+    id="f06db426-73da-4b7d-a636-9627097b89c1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1ed107eb-1b9e-4c10-b72c-6cde7579c648.xml#1ed107eb-1b9e-4c10-b72c-6cde7579c648"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_66d7ce03-719f-469f-b377-0741cfbe4117.xml#66d7ce03-719f-469f-b377-0741cfbe4117"/>
+</archimate:TriggeringRelationship>

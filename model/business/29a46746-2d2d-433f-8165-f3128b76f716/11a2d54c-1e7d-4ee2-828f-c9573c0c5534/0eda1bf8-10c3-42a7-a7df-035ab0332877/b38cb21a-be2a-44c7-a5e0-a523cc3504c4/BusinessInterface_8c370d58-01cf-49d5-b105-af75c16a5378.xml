@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerRelationshipManagementPlan"
+    id="8c370d58-01cf-49d5-b105-af75c16a5378"
+    documentation="Retrieve a relationship management activity report"/>

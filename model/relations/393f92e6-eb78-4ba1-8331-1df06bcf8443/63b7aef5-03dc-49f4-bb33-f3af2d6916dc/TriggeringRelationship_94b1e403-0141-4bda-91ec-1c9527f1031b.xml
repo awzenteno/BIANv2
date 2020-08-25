@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="File Customer Agreement"
+    id="94b1e403-0141-4bda-91ec-1c9527f1031b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_33593414-659d-44f0-a0af-6e8cf0b8f27b.xml#33593414-659d-44f0-a0af-6e8cf0b8f27b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f250a063-4f94-4d2c-8051-53544e9b5c65.xml#f250a063-4f94-4d2c-8051-53544e9b5c65"/>
+</archimate:TriggeringRelationship>

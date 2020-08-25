@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Instalment"
+    id="1b82e837-77e9-4e66-9c53-28056fc7746f"
+    documentation=" Specifies the details of each successive payment in settlement of a debt or in an investment plan.&#xA;&#xA; Определяет детали каждого последующего погашения должником в инвестиционный план."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyConsumerAdviceFulfillmentArrangement"
+    id="317e3dee-f2c9-46ed-907c-dcb7aca6716b"
+    documentation="Subscribe to consumer advice fulfillment arrangement notification services"/>

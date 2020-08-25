@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCustomerWorkbenchOperatingSession"
+    id="9e81773f-97ba-48fb-9d42-b086d580e818"
+    documentation=" Execute access to the bank 'portal'"/>

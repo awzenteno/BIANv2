@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateLocationDirectory"
+    id="83bbd6f7-0619-4c07-bc6b-be56c92f9eae"
+    documentation=" Update an existing location directory entry"/>

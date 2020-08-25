@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveServicingIssueProcedure"
+    id="b8f22d6c-3ee4-4b5d-8f32-6a097397f06e"
+    documentation="Retrieve Servicing Issue Procedure related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CreditorRole"
+    id="66fe0586-ed19-4a2f-bb17-adef56713073"
+    documentation="Party to which an amount of money is due.&#xA;&#xA;Сторона, которой причитается денежная сумма."/>

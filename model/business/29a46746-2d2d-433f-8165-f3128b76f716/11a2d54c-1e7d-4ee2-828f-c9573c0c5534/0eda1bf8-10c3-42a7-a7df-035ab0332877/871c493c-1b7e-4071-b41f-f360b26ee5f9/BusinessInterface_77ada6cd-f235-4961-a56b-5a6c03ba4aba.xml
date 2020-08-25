@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerReferenceDataDirectory"
+    id="77ada6cd-f235-4961-a56b-5a6c03ba4aba"
+    documentation="Request a refresh of an existing customer directory entry"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="->Notify"
+    id="79ca1b17-0c33-4390-bee4-adee08707d77"
+    documentation="Provide details against a predefined notification agreement. &#xA;Example: A unit subscribes to update notifications from the customer agreement service domain."/>

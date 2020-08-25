@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateEmployeeCertificationAssessment"
+    id="2a2c46cc-98b8-4c35-8359-1625d35cbf2b"
+    documentation="Check/verify compliance with Employee Certification related checks/assessments"/>

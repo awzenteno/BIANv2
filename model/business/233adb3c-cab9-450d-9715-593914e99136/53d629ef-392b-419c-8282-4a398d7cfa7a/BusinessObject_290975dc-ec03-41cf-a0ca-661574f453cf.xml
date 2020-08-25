@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesOrderPartyRole"
+    id="290975dc-ec03-41cf-a0ca-661574f453cf"
+    documentation=" Role played by a party associated with an order to buy or sell securities.&#xA;&#xA;Роль играет сторона, связанная с распоряжением на покупку или продажу ценных бумаг."/>

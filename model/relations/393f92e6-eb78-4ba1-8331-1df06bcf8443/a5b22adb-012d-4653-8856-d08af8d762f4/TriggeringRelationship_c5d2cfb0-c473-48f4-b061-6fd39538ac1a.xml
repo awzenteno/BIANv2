@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get release testing report"
+    id="c5d2cfb0-c473-48f4-b061-6fd39538ac1a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_15519ec9-4ec9-406c-9ad6-30bd21c34d6f.xml#15519ec9-4ec9-406c-9ad6-30bd21c34d6f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1a7690f4-889a-4d29-9514-087ea4b975c8.xml#1a7690f4-889a-4d29-9514-087ea4b975c8"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define scope of Notional Pooling agreement"
+    id="37614e05-c1fb-4c57-a258-3a49d48de939">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_44040d55-1493-4287-84df-26aedbb0902e.xml#44040d55-1493-4287-84df-26aedbb0902e"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Set Invoice to Overdue"
+    id="bc461b05-3ec3-41ba-af09-6439bf1b2caa">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_2fa7ec20-e1c3-4db9-871c-08630aca40bc.xml#2fa7ec20-e1c3-4db9-871c-08630aca40bc"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateProductInventoryAllocation"
+    id="6ff69270-43c2-4b5e-8fb8-abcdc36ec0d4"
+    documentation="Assign responsibility for and activate the Product Inventory Allocation service"/>

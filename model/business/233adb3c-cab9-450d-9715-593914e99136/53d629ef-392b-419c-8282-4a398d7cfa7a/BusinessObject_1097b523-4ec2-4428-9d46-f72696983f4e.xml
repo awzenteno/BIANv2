@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashStandingOrder"
+    id="1097b523-4ec2-4428-9d46-f72696983f4e"
+    documentation=" Instruction given by a party that has explicit authority to instruct a debit on the account, ie, either the debit account owner or originating party, to a first agent, to process cash transfers at specified intervals during an implicit or explicit period of time. A standing order is given once and is valid for an open or closed period of time.&#xA;&#xA;&#xA;Инструкция, данная стороной, которая имеет явные полномочия поручить дебет на счете, то есть, либо владелец дебетового счета или инициирующая сторона, первому агенту, для обработки денежных переводов через определенные промежутки времени в течение неявного или явного периода времени. Постоянный ордер выдается один раз и действует в течение открытого или закрытого периода времени."/>

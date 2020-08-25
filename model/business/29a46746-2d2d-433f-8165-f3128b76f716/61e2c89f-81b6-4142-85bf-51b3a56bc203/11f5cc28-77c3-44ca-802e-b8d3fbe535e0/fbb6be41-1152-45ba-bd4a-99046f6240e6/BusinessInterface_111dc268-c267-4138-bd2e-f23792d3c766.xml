@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEmployeeAnalysis"
+    id="111dc268-c267-4138-bd2e-f23792d3c766"
+    documentation="Retrieve Employee Analysis related reports"/>

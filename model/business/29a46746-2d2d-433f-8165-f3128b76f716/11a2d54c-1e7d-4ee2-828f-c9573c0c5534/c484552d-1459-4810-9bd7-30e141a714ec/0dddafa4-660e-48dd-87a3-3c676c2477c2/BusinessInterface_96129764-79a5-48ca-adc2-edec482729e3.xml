@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerWorkbenchOperatingSessionProduct/ServiceAccess"
+    id="96129764-79a5-48ca-adc2-edec482729e3"
+    documentation=" Request product/service access through the bank portal"/>

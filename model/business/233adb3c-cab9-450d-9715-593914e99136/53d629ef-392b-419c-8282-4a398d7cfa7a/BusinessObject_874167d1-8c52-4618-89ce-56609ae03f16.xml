@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionOptionServicing"
+    id="874167d1-8c52-4618-89ce-56609ae03f16"
+    documentation=" Option servicing process which calculates the entitlement based on a corporate action option.&#xA;&#xA;Процесс обслуживания опции, который вычисляет право на основе параметра CA."/>

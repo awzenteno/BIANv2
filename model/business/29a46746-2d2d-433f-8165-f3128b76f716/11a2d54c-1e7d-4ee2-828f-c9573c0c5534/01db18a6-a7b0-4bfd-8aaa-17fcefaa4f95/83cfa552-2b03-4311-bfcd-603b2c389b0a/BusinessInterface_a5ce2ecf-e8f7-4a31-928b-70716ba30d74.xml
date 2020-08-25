@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveATMNetworkOperatingSession"
+    id="a5ce2ecf-e8f7-4a31-928b-70716ba30d74"
+    documentation="Comment:&#xA;&#xA;Retrieve ATM Network Operating Session related reports"/>

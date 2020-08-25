@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registerCorrespondentBankDirectory"
+    id="3698baf2-680b-4a21-8953-c51eac0ae92b"
+    documentation="   Register a new correspondent bank in the directory"/>

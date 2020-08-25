@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get Operational Details for Payment"
+    id="4d33ac9c-a0d1-40f0-b944-0897be3c50a6">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_37a1f7d9-de5a-45c1-b745-13a751c6e274.xml#37a1f7d9-de5a-45c1-b745-13a751c6e274"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_042f4c11-f74f-4619-8194-9901dd98d9f2.xml#042f4c11-f74f-4619-8194-9901dd98d9f2"/>
+</archimate:TriggeringRelationship>

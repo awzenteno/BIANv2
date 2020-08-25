@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="provideCustomerServicingResourceAllocationBySkill"
+    id="7251323d-18de-4247-86ea-8908a7132536"
+    documentation="Provide a resource on request (earmark and assign) by skill/qualification"/>

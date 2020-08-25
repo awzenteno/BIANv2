@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InsurancePartyRole"
+    id="e992384a-e045-4afd-8028-7c1c932bc401"
+    documentation="Role played by a party in the context of insurance.&#xA;&#xA;Роль стороны в контексте страхования."/>

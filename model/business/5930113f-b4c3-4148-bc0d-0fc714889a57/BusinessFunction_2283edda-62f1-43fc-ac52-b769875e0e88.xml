@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Transact"
+    id="2283edda-62f1-43fc-ac52-b769875e0e88"
+    documentation="Execute a well-bounded financial transaction/task, typically involving largely automated/structured fulfillment processing. &#xA;Example: Execute a payment transaction.&#xA;&#xA;Execution-ongoing&#xA;Execution-qualified&#xA;Execution-suspended&#xA;Execution-concluded"/>

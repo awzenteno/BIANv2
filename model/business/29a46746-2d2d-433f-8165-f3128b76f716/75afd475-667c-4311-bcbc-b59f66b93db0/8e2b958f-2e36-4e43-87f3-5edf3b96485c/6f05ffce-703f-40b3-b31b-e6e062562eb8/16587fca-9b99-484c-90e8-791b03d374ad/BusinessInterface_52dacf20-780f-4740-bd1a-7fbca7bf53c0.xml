@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordDirectDebitMandateFulfillmentArrangement"
+    id="52dacf20-780f-4740-bd1a-7fbca7bf53c0"
+    documentation="Record activity details/information against the Direct Debit Mandate"/>

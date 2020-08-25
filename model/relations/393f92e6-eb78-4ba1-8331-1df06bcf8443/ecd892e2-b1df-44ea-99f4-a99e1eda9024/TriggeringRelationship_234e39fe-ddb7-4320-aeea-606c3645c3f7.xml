@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send statement to Customer"
+    id="234e39fe-ddb7-4320-aeea-606c3645c3f7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_ecb84762-f6fa-4906-957f-f791028782fc.xml#ecb84762-f6fa-4906-957f-f791028782fc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5408a954-9c77-4aaa-8aa1-9fe63f3f0b07.xml#5408a954-9c77-4aaa-8aa1-9fe63f3f0b07"/>
+</archimate:TriggeringRelationship>

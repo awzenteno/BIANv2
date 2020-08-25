@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get bank guarantee report"
+    id="0339c03e-2fd3-468c-810c-f44d04b1655b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e583d5bb-962e-45f9-8e0e-f70248d8edd8.xml#e583d5bb-962e-45f9-8e0e-f70248d8edd8"/>
+</archimate:TriggeringRelationship>

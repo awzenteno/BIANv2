@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get Postings for the Specified Account"
+    id="ee1bcbac-f489-4155-9848-af45e6ffd442">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_7309da57-e1c1-4e9d-9b12-de2b4b4afb1e.xml#7309da57-e1c1-4e9d-9b12-de2b4b4afb1e"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrievePaymentExecutionTransaction"
+    id="8b17e648-1b20-4e5d-bc81-7a6b82ad52af"
+    documentation=" Retrieve a payment execution transaction report"/>

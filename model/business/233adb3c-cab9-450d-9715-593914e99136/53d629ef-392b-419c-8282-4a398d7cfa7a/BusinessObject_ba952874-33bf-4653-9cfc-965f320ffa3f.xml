@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesTradeIdentification"
+    id="ba952874-33bf-4653-9cfc-965f320ffa3f"
+    documentation=" Specifies the different identifications associated with a securities transaction.&#xA;&#xA;Указывает различные идентификаторы, связанные со сделкой с ценными бумагами."/>

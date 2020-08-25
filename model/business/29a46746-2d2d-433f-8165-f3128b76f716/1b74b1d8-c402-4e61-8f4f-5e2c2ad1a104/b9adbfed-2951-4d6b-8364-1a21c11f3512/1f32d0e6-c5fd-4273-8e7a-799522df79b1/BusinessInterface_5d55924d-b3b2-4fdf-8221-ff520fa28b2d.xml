@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updatePartyDirectory"
+    id="5d55924d-b3b2-4fdf-8221-ff520fa28b2d"
+    documentation="Update an existing party directory reference entry"/>

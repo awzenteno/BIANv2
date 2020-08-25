@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Open Corporate Deposit Account (for selected counterparty)"
+    id="a05a9c5f-9b29-4199-9904-098edf20ae78">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c435ca21-191a-4dbe-8c1d-5b29a5ebfce9.xml#c435ca21-191a-4dbe-8c1d-5b29a5ebfce9"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_86cf0240-73c7-4e90-b609-2e397002e804.xml#86cf0240-73c7-4e90-b609-2e397002e804"/>
+</archimate:TriggeringRelationship>

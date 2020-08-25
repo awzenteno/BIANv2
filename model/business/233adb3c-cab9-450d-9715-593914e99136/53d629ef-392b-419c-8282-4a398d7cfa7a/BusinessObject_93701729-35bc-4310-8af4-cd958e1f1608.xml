@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TaxPayer"
+    id="93701729-35bc-4310-8af4-cd958e1f1608"
+    documentation=" Party that settles tax amounts. May be different from the tax debtor and tax creditor.&#xA;&#xA;Сторона, которая урегулирует налоговые суммы. Может отличаться от должника по налогу и налогового кредитора."/>

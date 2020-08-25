@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get lead/opportunity report"
+    id="ddccaee3-da98-4425-ba1f-81f943f3ac6c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_cfde0568-8d7d-4d06-ac65-b0b7bdade874.xml#cfde0568-8d7d-4d06-ac65-b0b7bdade874"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_debf5ce5-69d0-4234-8f00-3b1ec7212147.xml#debf5ce5-69d0-4234-8f00-3b1ec7212147"/>
+</archimate:TriggeringRelationship>

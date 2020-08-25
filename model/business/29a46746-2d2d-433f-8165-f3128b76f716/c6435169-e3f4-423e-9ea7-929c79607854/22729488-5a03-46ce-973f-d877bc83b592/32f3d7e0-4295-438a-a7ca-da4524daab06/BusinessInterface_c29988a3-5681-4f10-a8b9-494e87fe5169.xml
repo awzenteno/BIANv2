@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveRepoTransaction"
+    id="c29988a3-5681-4f10-a8b9-494e87fe5169"
+    documentation="Retrieve Repo Transaction related reports"/>

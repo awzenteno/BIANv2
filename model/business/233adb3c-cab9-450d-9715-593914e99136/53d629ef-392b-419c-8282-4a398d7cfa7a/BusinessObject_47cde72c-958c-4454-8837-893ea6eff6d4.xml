@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashDelivery"
+    id="47cde72c-958c-4454-8837-893ea6eff6d4"
+    documentation=" Amount of money representing a value paid by an agent bank to a creditor.&#xA;&#xA;&#xA;Денежная сумма, представляющая стоимость, уплаченную банком-агентом кредитору."/>

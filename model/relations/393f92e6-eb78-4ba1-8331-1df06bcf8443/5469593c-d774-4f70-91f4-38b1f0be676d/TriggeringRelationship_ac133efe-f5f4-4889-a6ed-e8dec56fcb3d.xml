@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Validate Transaction"
+    id="ac133efe-f5f4-4889-a6ed-e8dec56fcb3d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_e78a5453-2009-4ca1-931b-be1e5c74cc24.xml#e78a5453-2009-4ca1-931b-be1e5c74cc24"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6f75126b-f2bc-4fd5-8bcb-2def14961679.xml#6f75126b-f2bc-4fd5-8bcb-2def14961679"/>
+</archimate:TriggeringRelationship>

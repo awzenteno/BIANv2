@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" requestECM/DCMFulfillmentArrangement"
+    id="9ee4202c-c42c-4f98-a820-2df445322269"
+    documentation="Comment:&#xA;&#xA;Request a service under the ECM/DCM"/>

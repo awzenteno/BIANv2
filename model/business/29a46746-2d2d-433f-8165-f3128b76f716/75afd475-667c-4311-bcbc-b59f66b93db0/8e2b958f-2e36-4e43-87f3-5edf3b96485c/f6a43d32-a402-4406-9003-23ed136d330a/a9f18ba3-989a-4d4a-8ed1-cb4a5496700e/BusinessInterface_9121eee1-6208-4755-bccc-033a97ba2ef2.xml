@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustodyFulfillmentArrangement"
+    id="9121eee1-6208-4755-bccc-033a97ba2ef2"
+    documentation="Retrieve Custody Product Arrangement related reports"/>

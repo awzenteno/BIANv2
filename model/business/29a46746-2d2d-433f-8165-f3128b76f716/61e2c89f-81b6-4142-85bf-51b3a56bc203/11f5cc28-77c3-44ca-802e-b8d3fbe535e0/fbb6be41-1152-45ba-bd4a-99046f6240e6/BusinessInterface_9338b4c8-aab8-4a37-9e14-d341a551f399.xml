@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestEmployeeAnalysis"
+    id="9338b4c8-aab8-4a37-9e14-d341a551f399"
+    documentation="Request a service under the Employee Analysis"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeServicingOrderProcedure"
+    id="625d65a6-7aee-40d6-82ae-fcb1ad412d03"
+    documentation="Execute a task under the Customer Order Procedure"/>

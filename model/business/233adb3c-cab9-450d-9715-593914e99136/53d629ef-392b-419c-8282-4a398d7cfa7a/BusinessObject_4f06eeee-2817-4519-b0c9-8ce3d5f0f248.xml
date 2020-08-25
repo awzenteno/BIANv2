@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PaymentObligation"
+    id="4f06eeee-2817-4519-b0c9-8ce3d5f0f248"
+    documentation="Obligation for the debtor to pay the creditor an amount of cash.&#xA;&#xA;Обязательство должника по уплате кредитору денежной суммы."/>

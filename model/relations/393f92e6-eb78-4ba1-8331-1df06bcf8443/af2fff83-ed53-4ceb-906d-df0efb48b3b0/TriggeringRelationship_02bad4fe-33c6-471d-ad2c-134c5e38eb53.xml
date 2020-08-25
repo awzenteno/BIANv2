@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get competitor analysis"
+    id="02bad4fe-33c6-471d-ad2c-134c5e38eb53">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_35c23b73-5e47-4a90-8e79-45c7c52c052f.xml#35c23b73-5e47-4a90-8e79-45c7c52c052f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f11e9b6a-e06b-4b29-86fd-01158bf330cd.xml#f11e9b6a-e06b-4b29-86fd-01158bf330cd"/>
+</archimate:TriggeringRelationship>

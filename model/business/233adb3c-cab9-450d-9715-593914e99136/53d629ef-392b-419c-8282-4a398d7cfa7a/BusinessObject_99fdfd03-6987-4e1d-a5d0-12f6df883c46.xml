@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">RepresentativeOfficer"
+    id="99fdfd03-6987-4e1d-a5d0-12f6df883c46"
+    documentation=" Officer who has some rights to represent a given organisation. In account management, it is the person to be contacted by the account servicer.&#xA;&#xA;Сотрудник, который имеет некоторые права представлять данную организацию. В управлении учетными записями это лицо, с которым должен связаться пользователь службы."/>

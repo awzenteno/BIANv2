@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update current account settings"
+    id="93bffef6-7b08-4599-8527-5dfe7ca067c3">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7d03e0a5-8b04-41f1-b4e9-afaf71a283cc.xml#7d03e0a5-8b04-41f1-b4e9-afaf71a283cc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4438373a-49e6-44be-917a-601c1b922fab.xml#4438373a-49e6-44be-917a-601c1b922fab"/>
+</archimate:TriggeringRelationship>

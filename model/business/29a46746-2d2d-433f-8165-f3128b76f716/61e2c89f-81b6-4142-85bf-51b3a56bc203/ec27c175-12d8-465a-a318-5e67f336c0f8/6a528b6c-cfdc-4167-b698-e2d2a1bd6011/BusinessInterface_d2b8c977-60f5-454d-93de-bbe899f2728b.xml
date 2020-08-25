@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCorrespondenceOperatingSessionUpdate"
+    id="d2b8c977-60f5-454d-93de-bbe899f2728b"
+    documentation="Request correspondence recovery/update service"/>

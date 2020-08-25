@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Account"
+    id="7ea35b0f-45d1-4aaa-a5a5-047378fe7c1f"
+    documentation=" Record of transactions in specific types of assets, maintained by a servicing party on behalf of one or more owning parties. Business relationship between an account servicer and one or more account owners.&#xA;&#xA;&#xA;&#xA;Запись транзакций конкретных наборов данных, осуществляемых обслуживающей стороной от имени одной или нескольких сторон-владельцев. Бизнес-отношения между сервисом обслуживания учетных записей и одним или несколькими владельцами учетных записей."/>

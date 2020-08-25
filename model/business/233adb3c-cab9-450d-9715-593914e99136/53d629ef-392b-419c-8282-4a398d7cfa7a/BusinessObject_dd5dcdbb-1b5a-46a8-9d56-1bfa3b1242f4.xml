@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ContactPersonRole"
+    id="dd5dcdbb-1b5a-46a8-9d56-1bfa3b1242f4"
+    documentation="Person to be contacted in a given organisation. In the corporate action domain (including meeting notifications) , it is the contact person at the party organising the meeting, at the issuer or at an intermediary.&#xA;&#xA;Контактное лицо в данной организации. В домене корпоративного действия (включая уведомления о собраниях) это контактное лицо на стороне, организующей собрание, у эмитента или у посредника."/>

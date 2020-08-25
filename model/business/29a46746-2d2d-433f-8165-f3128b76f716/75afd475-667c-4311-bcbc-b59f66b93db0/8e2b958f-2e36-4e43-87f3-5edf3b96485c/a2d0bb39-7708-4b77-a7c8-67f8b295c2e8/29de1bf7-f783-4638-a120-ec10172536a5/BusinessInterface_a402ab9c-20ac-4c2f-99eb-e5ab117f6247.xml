@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" requestCredit/ChargeCardBillingTransaction"
+    id="a402ab9c-20ac-4c2f-99eb-e5ab117f6247"
+    documentation="Comment:&#xA;&#xA;Request a service under the Credit/Charge Card Billing Transaction"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Set up new customer access profile"
+    id="997b974b-707f-4a82-90ff-c80485438d53">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_653444c5-85c4-4f3c-857e-7237a009e5db.xml#653444c5-85c4-4f3c-857e-7237a009e5db"/>
+</archimate:TriggeringRelationship>

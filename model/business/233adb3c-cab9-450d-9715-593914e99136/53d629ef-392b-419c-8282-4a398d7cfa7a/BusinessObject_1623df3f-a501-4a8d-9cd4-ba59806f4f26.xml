@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ForwardingAgentRole"
+    id="1623df3f-a501-4a8d-9cd4-ba59806f4f26"
+    documentation="Financial institution that receives the instruction from the initiating party and forwards it to the next agent in the payment chain for execution.&#xA;&#xA;Финансовое учреждение, которое получает инструкцию от инициирующей стороны и направляет ее следующему агенту в платежной цепочке для исполнения."/>

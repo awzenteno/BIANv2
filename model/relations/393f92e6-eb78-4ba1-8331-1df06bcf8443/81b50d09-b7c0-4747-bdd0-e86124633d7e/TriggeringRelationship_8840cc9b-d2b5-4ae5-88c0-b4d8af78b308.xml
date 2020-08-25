@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Retail Current Account"
+    id="8840cc9b-d2b5-4ae5-88c0-b4d8af78b308">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e7ce2cd3-8b3c-410c-8f3b-62650d5634b5.xml#e7ce2cd3-8b3c-410c-8f3b-62650d5634b5"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateATMNetworkOperatingSession"
+    id="f5aa1a3f-7940-4c81-a6fb-975b2efda7ee"
+    documentation="Assign responsibility for and activate the ATM Network Operating Session"/>

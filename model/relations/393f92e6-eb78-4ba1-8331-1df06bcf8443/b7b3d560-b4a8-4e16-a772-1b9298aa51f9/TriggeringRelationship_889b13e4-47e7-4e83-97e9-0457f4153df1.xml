@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Retrieve list of Operational Products"
+    id="889b13e4-47e7-4e83-97e9-0457f4153df1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7d03e0a5-8b04-41f1-b4e9-afaf71a283cc.xml#7d03e0a5-8b04-41f1-b4e9-afaf71a283cc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a4976759-9f4f-42b7-8684-36985da563b7.xml#a4976759-9f4f-42b7-8684-36985da563b7"/>
+</archimate:TriggeringRelationship>

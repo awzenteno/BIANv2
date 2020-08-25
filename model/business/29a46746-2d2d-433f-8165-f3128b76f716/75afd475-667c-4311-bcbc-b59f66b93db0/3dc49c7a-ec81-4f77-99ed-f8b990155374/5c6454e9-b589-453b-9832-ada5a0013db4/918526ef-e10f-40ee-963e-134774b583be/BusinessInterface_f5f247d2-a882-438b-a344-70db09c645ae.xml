@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyPaymentExecutionTransaction"
+    id="f5f247d2-a882-438b-a344-70db09c645ae"
+    documentation="Subscribe to Payment Execution Transaction notification services"/>

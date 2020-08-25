@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InitiatingPartyRole"
+    id="3e3ba55b-d5cb-43f6-a74e-e29491c79c49"
+    documentation=" Party initiating the payment to an agent. In the payment context, this can either be the debtor (in a credit transfer), the creditor (in a direct debit), or a party that initiates the payment on behalf of the debtor or creditor. In the context of treasury, the party that instructs the trading party to execute a treasury deal on its behalf.&#xA;&#xA;Сторона, инициирующая платеж агенту. В контексте платежа это может быть либо должник (при передаче кредита), кредитор (при прямом дебете), либо сторона, которая инициирует платеж от имени должника или кредитора. В контексте казначейства - сторона, которая поручает Торговой стороне совершить казначейскую сделку от ее имени."/>

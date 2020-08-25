@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DebitCreditFacility"
+    id="a0aef4fe-44d4-4592-9cca-5a81712115a0"
+    documentation=" Specifies the conditions for overdraft on the account or for positive amounts.&#xA;&#xA;Определяет условия овердрафта на счете или положительных сумм."/>

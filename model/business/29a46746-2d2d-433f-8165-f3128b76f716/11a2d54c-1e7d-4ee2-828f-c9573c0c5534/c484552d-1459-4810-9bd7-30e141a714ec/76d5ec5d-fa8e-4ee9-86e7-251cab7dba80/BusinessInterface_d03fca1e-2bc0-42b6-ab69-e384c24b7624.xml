@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configurePointOfServiceOperatingSession"
+    id="d03fca1e-2bc0-42b6-ab69-e384c24b7624"
+    documentation="Amend the configuration arrangements/parameters governing the Point Of Service Operating Session"/>

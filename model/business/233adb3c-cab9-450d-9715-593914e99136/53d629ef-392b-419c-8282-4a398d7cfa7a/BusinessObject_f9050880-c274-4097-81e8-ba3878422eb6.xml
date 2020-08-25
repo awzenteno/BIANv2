@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SystemStatus"
+    id="f9050880-c274-4097-81e8-ba3878422eb6"
+    documentation=" Status of a system and the period of time during which the status is valid.&#xA;&#xA;Состояние системы и период времени, в течение которого статус действителен."/>

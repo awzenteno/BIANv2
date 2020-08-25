@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCommissionTransaction"
+    id="f6f465e4-849c-4dab-bbc0-3be9267c1d9d"
+    documentation="Request a service under the Commission Transaction"/>

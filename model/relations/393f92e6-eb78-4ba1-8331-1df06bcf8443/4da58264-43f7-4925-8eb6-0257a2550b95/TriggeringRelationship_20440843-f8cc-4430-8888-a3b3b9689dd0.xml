@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retrieve Customer Invoice History"
+    id="20440843-f8cc-4430-8888-a3b3b9689dd0">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a638d249-a4a1-4e13-b5cb-e551bda9ac48.xml#a638d249-a4a1-4e13-b5cb-e551bda9ac48"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_452cb9bc-8eb5-430e-9949-dd548b2924fb.xml#452cb9bc-8eb5-430e-9949-dd548b2924fb"/>
+</archimate:TriggeringRelationship>

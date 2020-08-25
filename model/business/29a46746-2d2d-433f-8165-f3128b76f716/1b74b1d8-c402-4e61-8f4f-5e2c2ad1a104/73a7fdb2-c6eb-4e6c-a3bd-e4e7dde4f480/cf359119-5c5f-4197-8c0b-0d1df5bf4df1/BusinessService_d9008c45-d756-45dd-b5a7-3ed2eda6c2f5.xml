@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Syndicate Management"
+    id="d9008c45-d756-45dd-b5a7-3ed2eda6c2f5"
+    documentation="Example of use:&#xA;&#xA;A project funding initiative assembles a syndicate of investors&#xA;&#xA;General comment:&#xA;&#xA;This service domain handles the management, reporting and coordination of syndicates that a bank might create and administer to support certain financial transactions&#xA;&#xA;Business Purpose&#xA;:  Manage the membership and administration of syndicates in compliance with the agreed charter and operating agreement&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Инициатива финансирования проекта собирает синдикат инвесторов&#xA;&#xA;Общее замечание:&#xA;&#xA;Этот домен услуг управляет управлением, отчетностью и координацией синдикатов, которые банк может создавать и администрировать для поддержки определенных финансовых транзакций&#xA;&#xA;деловая цель&#xA;: Управлять членством и администрированием синдикатов в соответствии с согласованным уставом и операционным соглашением"/>

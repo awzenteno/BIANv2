@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ReceivingAgent"
+    id="9c28e375-e449-43c5-98e2-4bbeedcfc237"
+    documentation=" Party that receives securities from the delivering agent at the place of settlement. For example, a central securities depository.&#xA;&#xA;Сторона, получающая ценные бумаги от агента по доставке по месту расчетов. Например, Центральный депозитарий ценных бумаг."/>

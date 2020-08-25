@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get Product Requirements"
+    id="5b0140b5-1d1b-4c17-badf-0850f3feebec">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_35c23b73-5e47-4a90-8e79-45c7c52c052f.xml#35c23b73-5e47-4a90-8e79-45c7c52c052f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4cee420c-673a-4f3a-9e97-9fe6be329c3f.xml#4cee420c-673a-4f3a-9e97-9fe6be329c3f"/>
+</archimate:TriggeringRelationship>

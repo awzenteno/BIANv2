@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestSalesProduct/ServiceAgreement"
+    id="8925a0ae-687d-4109-9788-325a9666845c"
+    documentation=" Request that the terms are reviewed/refreshed (after rule change)"/>

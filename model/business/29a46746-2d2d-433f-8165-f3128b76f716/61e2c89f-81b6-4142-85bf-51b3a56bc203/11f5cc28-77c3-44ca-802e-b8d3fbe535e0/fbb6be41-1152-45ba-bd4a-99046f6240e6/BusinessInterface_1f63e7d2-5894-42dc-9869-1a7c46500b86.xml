@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordEmployeeAnalysis"
+    id="1f63e7d2-5894-42dc-9869-1a7c46500b86"
+    documentation="Record activity details/information against the Employee Analysis"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesOrderExecutionInstruction"
+    id="fc264e0c-7369-4515-8d54-0c28296e852e"
+    documentation=" Identifies the instructions for order handling&#xA;&#xA;Определяет инструкции для обработки заказа"/>

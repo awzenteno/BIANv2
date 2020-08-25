@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trade Confirmation Matching"
+    id="d8d10163-9013-4c30-8c7f-e8a5422266c7"
+    documentation=" Example of use:&#xA;&#xA;Trade are matched during the trading session&#xA;&#xA;General comment:&#xA;&#xA;This service domain provides a trade confirmation and matching service in collaboration with trading exchanges where appropriate&#xA;&#xA;Business Purpose&#xA;:  Match buyers to sellers in market trades&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Совпадение сделок во время торговой сессии&#xA;&#xA;Общее замечание:&#xA;&#xA;Этот сервисный домен предоставляет подтверждение сделки и соответствующий сервис в сотрудничестве с торговыми биржами, где это необходимо&#xA;&#xA;деловая цель&#xA;: Сопоставление покупателей и продавцов в рыночных сделках&#xA;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustodyFulfillmentArrangement"
+    id="48f4d641-9afb-4c15-ae81-0cc3afc37f6b"
+    documentation="Subscribe to Custody Product Arrangement notification services"/>

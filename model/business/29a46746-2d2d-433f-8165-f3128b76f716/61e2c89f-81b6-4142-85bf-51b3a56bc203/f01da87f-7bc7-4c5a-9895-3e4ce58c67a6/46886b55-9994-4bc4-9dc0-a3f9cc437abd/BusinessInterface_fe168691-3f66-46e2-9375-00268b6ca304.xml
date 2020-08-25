@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveUtilitiesAdministrativePlan"
+    id="fe168691-3f66-46e2-9375-00268b6ca304"
+    documentation="Retrieve Utilities Administrative Plan related reports"/>

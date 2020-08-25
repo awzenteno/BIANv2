@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record product activity under sales product"
+    id="a834dd2d-0fc0-499f-afe9-730ce35ac741">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_42a0e7f5-c976-45f3-bd42-9a52a3839a05.xml#42a0e7f5-c976-45f3-bd42-9a52a3839a05"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a272a0bf-a3b1-4128-abec-b0bd9f44d846.xml#a272a0bf-a3b1-4128-abec-b0bd9f44d846"/>
+</archimate:TriggeringRelationship>

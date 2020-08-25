@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PortfolioTransfer"
+    id="20443dbc-e748-4ee8-9a26-9859a04100bf"
+    documentation=" Transfer by the delivering account servicer to the receiving account servicer of a retail or institutional client portfolio. A portfolio can be any grouping of investments, for example stocks, bonds, options, warrants. held by an institution or an individual.&#xA;&#xA;Передача поставщиком услуг по обслуживанию счетов получающему клиенту розничного или институционального клиентского портфеля. Портфелем может быть любая группа инвестиций, например акции, облигации, опционы, варранты. удерживается учреждением или физическим лицом."/>

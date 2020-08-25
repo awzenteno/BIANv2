@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CardholderRole"
+    id="5cb17feb-0de1-480e-b777-da90f8bd6c42"
+    documentation="Party entitled by a card issuer to use a card.&#xA;&#xA;Сторона, имеющая право _от_ эмитента карты использовать карту."/>

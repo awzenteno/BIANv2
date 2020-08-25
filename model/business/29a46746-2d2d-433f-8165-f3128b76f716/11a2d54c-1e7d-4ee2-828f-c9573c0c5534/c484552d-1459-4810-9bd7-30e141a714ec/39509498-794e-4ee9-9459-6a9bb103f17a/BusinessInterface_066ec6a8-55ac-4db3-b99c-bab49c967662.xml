@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerServicingResourceAllocation"
+    id="066ec6a8-55ac-4db3-b99c-bab49c967662"
+    documentation="Record resource use/event/performance/status details"/>

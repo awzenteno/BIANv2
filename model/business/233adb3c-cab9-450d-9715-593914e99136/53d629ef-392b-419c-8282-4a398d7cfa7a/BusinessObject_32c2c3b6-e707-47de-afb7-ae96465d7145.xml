@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashBalance"
+    id="32c2c3b6-e707-47de-afb7-ae96465d7145"
+    documentation="Numerical representation of the net increases and decreases in an account at a specific point in time. A cash balance is calculated from a sum of cash credits minus a sum of cash debits.&#xA;&#xA;&#xA;&#xA;Числовое представление NET увеличивается и уменьшается на счете в определенный момент времени. Остаток денежных средств рассчитывается из суммы денежных кредитов минус сумма денежных дебетов."/>

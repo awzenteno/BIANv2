@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateBuildingServicesAdministrativePlan"
+    id="c46dad09-c399-4639-850d-dfab3d569d7b"
+    documentation="Terminate all or some part of the Building Services Administrative Plan"/>

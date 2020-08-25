@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCorporateEventsProcedure"
+    id="67c4a9b1-5b65-4364-937f-1ed1297a8f40"
+    documentation="Retrieve Corporate Events Procedure related reports"/>

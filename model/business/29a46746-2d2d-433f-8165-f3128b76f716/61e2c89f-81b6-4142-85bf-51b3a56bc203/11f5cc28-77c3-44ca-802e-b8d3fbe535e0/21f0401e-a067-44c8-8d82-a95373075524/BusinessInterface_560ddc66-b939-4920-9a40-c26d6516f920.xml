@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEmployeeAccessAssessment"
+    id="560ddc66-b939-4920-9a40-c26d6516f920"
+    documentation="Retrieve Employee Access Assessment related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Party"
+    id="1ab00726-8f82-47e7-9693-ded8ea05ca32"
+    documentation="Entity involved in an activity.&#xA;&#xA;Субъект, участвующий в деятельности."/>

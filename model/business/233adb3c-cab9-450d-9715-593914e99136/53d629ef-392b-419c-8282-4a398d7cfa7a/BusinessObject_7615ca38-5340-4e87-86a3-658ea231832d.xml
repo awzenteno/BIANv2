@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CheckingPartyRole"
+    id="7615ca38-5340-4e87-86a3-658ea231832d"
+    documentation=" Identification of the person who checked the document and/or the signature.&#xA;&#xA;Идентификация лица, проверившего документ и / или подпись."/>

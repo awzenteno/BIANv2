@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateDunningProcedure"
+    id="d685da0b-7c92-4941-8f40-a31c78a10e21"
+    documentation="Assign responsibility for the Dunning Procedure"/>

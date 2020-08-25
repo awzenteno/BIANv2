@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture customer lead/opportunity"
+    id="915b63c2-1718-4a79-8b0e-703cc9c049e2">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1c6728f1-1d48-4ea2-854a-12b39355e6b6.xml#1c6728f1-1d48-4ea2-854a-12b39355e6b6"/>
+</archimate:TriggeringRelationship>

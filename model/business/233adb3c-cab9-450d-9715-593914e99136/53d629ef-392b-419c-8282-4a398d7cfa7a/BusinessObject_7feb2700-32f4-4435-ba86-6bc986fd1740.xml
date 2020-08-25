@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PaymentExecution"
+    id="7feb2700-32f4-4435-ba86-6bc986fd1740"
+    documentation=" Process required for executing an end to end payment. It consists of a payment initiation which may be followed by a series of instructions.&#xA;&#xA;Процесс, необходимый для выполнения сквозного платежа. Он состоит из инициирования платежа, за которым может следовать ряд инструкций."/>

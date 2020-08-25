@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record rejection of Outgoing Direct Debit"
+    id="ecb6cef8-2e61-4ce9-bd46-0d7b04662771">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_340fcb16-0f61-4a98-9980-3307680d4fe8.xml#340fcb16-0f61-4a98-9980-3307680d4fe8"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_c0b0c194-2660-491b-8fe1-eb868869bd8f.xml#c0b0c194-2660-491b-8fe1-eb868869bd8f"/>
+</archimate:TriggeringRelationship>

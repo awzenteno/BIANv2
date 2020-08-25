@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordProductInventoryAllocation"
+    id="2cca7c7e-2eb8-4395-9a75-b3b8aeb0d143"
+    documentation="Record activity/utilization details/information against the Product Inventory Allocation"/>

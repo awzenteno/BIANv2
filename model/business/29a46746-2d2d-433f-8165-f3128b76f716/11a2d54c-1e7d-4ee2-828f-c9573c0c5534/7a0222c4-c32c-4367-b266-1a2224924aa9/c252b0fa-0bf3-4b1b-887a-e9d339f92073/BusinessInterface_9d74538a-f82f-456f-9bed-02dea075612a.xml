@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" updateLead/OpportunityProcedure"
+    id="9d74538a-f82f-456f-9bed-02dea075612a"
+    documentation="Update details of an active lead/opportunity"/>

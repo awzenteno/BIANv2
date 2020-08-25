@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">LocalDepositoryRole"
+    id="f507facf-21af-4742-a1b3-64af4a0af224"
+    documentation="Place where securities are deposited, that is company, bank or institution that holds and facilitates the exchange of securities at a local/national level.&#xA;&#xA;Место, где депонируются ценные бумаги, то есть компания, банк или учреждение, которое держит и облегчает обмен ценными бумагами на местном/национальном уровне."/>

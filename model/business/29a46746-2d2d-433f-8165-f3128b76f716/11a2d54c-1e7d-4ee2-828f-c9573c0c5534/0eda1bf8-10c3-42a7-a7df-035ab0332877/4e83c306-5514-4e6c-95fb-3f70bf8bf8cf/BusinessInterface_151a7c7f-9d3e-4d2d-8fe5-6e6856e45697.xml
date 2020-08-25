@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateCustomerPropositionAgreement"
+    id="151a7c7f-9d3e-4d2d-8fe5-6e6856e45697"
+    documentation="Check/verify compliance with Customer Proposition Agreement related checks/assessments"/>

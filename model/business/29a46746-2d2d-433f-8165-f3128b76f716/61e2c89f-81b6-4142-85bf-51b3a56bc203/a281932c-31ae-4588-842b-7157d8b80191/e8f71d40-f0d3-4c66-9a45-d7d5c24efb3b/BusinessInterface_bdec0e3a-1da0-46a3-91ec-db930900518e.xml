@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordBusinessUnitFinanceAnalysis"
+    id="bdec0e3a-1da0-46a3-91ec-db930900518e"
+    documentation="Record activity details/information against the Business Unit Finance Analysis"/>

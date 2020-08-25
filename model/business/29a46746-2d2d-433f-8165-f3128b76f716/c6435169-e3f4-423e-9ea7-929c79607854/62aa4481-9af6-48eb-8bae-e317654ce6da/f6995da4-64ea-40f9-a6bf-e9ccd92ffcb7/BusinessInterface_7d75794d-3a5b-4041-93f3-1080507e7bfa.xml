@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" notifyFraud/AMLResolutionProcedure"
+    id="7d75794d-3a5b-4041-93f3-1080507e7bfa"
+    documentation="Subscribe to Fraud/AML Resolution Procedure notification services"/>

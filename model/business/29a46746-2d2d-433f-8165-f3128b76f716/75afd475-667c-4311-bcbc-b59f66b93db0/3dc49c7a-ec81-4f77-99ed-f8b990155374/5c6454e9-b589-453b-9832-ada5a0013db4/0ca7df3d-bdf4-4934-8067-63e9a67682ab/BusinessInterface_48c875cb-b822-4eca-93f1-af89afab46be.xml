@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCorrespondentBankFulfillmentArrangement"
+    id="48c875cb-b822-4eca-93f1-af89afab46be"
+    documentation="Comment:&#xA;&#xA;Subscribe to Correspondent Bank Product Arrangement notification services"/>

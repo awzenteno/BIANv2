@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestIssuedDeviceMeasurement"
+    id="d56e6228-ba87-4ce0-9198-eaa0622929a7"
+    documentation="Request the values are checked/refreshed for a monitored item"/>

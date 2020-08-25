@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveOfficeEquipmentMaintenanceAgreement"
+    id="d29fa7bf-2e92-46e0-8257-8152328bf99d"
+    documentation="Retrieve Office Equipment Maintenance Agreement related reports"/>

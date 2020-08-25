@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Set up new customer collateral administration service"
+    id="4ddc9416-dc76-4920-9281-13f388980970">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6b91af93-c657-4d66-9a79-acc55193fc2b.xml#6b91af93-c657-4d66-9a79-acc55193fc2b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_7bea0220-2583-4258-a10a-84cb8fe056ac.xml#7bea0220-2583-4258-a10a-84cb8fe056ac"/>
+</archimate:TriggeringRelationship>

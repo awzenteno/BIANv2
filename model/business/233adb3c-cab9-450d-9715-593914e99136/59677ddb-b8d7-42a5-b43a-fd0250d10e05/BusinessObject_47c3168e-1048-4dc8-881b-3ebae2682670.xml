@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProspectPartyRole"
+    id="47c3168e-1048-4dc8-881b-3ebae2682670"
+    documentation=" A party that is a prospective customer but has not yet been offered an agreement for products and services&#xA;&#xA;Note: The party is classified as a customer once the party has received an offer&#xA;&#xA;&#xA;&#xA;Сторона, являющаяся потенциальным клиентом, но еще не __получившая офер__ на продукты и услуги&#xA;&#xA;Примечание: сторона классифицируется как клиент, как только сторона получила предложение"/>

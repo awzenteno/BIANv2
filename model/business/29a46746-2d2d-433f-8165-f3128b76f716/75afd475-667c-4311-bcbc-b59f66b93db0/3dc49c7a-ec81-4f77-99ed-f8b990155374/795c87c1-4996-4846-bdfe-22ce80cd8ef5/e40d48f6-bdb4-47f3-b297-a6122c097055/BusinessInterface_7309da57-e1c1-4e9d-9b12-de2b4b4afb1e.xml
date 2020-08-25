@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveFinancialPositionLog"
+    id="7309da57-e1c1-4e9d-9b12-de2b4b4afb1e"
+    documentation=" Retrieve transaction journal record extract/report"/>

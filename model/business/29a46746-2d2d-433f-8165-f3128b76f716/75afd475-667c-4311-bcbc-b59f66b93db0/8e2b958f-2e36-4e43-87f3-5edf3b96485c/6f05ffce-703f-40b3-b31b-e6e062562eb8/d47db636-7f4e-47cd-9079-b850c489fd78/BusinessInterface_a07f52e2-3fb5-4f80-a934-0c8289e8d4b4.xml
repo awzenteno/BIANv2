@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestTradeFinanceFulfillmentArrangement"
+    id="a07f52e2-3fb5-4f80-a934-0c8289e8d4b4"
+    documentation="Request a service under the Trade Finance"/>

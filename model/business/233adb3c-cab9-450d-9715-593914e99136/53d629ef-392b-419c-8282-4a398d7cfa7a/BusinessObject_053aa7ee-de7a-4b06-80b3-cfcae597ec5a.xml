@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SwitchOrder"
+    id="053aa7ee-de7a-4b06-80b3-cfcae597ec5a"
+    documentation=" Transfer from one investment fund/fund class to another investment fund or investment fund class by the investor. A switch is composed of one or several subscription legs, and one or several redemption legs.&#xA;&#xA;Переход из одного инвестиционного фонда класса/фонда в другой инвестиционный фонд или инвестиционный фонд класса инвестором. Свитч состоит из одного или нескольких подписок_ЛЕГ  и одного или нескольких погашение_ЛЕГ."/>

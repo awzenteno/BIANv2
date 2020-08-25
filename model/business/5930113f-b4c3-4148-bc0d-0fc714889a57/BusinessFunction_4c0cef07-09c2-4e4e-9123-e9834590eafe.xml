@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Process"
+    id="4c0cef07-09c2-4e4e-9123-e9834590eafe"
+    documentation="Complete work tasks following a defined procedure in support of general office activities and product and service delivery. &#xA;Example: Process the evaluation and completion of customer offers.&#xA;&#xA;Inactive&#xA;In-processing&#xA;In-processing-qualified&#xA;Processing-suspended&#xA;Processing-concluded&#xA;"/>

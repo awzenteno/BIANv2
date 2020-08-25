@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ReconciliationTransaction"
+    id="8700b89b-dc56-4ee0-8b16-53e3a9e9497e"
+    documentation=" Totals performed during the reconciliation period, for a certain type of transaction.&#xA;&#xA;Итоговые значения, выполненные в период выверки для определенного типа проводки."/>

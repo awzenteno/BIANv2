@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminatePointOfServiceOperatingSession"
+    id="83de5a5b-0904-40a0-869d-dd240ca9f753"
+    documentation="Terminate all or some part of the Point Of Service Operating Session"/>

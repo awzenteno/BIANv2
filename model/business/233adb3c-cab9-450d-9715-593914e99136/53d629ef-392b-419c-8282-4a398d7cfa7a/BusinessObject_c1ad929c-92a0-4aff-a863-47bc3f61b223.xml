@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TradeRegulator"
+    id="c1ad929c-92a0-4aff-a863-47bc3f61b223"
+    documentation=" Institution to which a trade must be reported.&#xA;&#xA;Учреждение, которому необходимо сообщить о сделке."/>

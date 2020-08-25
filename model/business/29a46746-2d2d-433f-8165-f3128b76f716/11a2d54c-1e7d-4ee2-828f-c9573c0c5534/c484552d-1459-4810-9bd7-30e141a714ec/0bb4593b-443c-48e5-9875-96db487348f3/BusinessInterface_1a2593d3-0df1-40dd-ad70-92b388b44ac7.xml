@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCustomerContactSessionProcedureProductMatch"
+    id="1a2593d3-0df1-40dd-ad70-92b388b44ac7"
+    documentation=" Execute a contact session product matching (next best offer) check"/>

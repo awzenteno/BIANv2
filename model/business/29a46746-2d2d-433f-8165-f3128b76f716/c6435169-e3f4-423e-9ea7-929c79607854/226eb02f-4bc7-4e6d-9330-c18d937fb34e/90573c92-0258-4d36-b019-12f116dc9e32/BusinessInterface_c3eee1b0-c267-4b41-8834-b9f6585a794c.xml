@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveGeneralMarketResearchProcedure"
+    id="c3eee1b0-c267-4b41-8834-b9f6585a794c"
+    documentation="Retrieve General Market Research Procedure related reports"/>

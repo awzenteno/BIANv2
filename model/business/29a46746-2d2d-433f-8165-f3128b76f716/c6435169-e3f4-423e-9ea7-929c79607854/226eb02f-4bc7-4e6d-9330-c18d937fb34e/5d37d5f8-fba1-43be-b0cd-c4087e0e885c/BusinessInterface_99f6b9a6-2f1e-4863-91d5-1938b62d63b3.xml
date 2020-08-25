@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateSegmentStrategy"
+    id="99f6b9a6-2f1e-4863-91d5-1938b62d63b3"
+    documentation="Assign responsibility for the Segment Strategy"/>

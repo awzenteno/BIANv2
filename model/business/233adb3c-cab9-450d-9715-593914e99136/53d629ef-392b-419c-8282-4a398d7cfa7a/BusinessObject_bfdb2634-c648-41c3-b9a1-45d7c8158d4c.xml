@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">QuotingInstitution"
+    id="bfdb2634-c648-41c3-b9a1-45d7c8158d4c"
+    documentation=" Source of the quote, party that proposes a rate.&#xA;&#xA;Источник _котировки, сторона, которая предлагает ставку."/>

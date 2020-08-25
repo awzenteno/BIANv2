@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBusinessUnitManagementPlan"
+    id="3208d730-dba1-4af5-8a6e-cadaf9648b53"
+    documentation="Retrieve Business Unit Management Plan related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">StepInBroker"
+    id="302321df-7fcb-480d-ba7c-c683d4a8e51a"
+    documentation=" Broker to which the investment manager directs the execution of a portion of the trade.&#xA;&#xA;Брокер, которому инвестиционный менеджер направляет исполнение части сделки."/>

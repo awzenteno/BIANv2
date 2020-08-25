@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Request for Refund of an Internal Direct Debit"
+    id="f8707fff-2cc9-4a95-8ece-0ff5312dd41f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_26b3fb1b-7b13-4af3-853f-0f360eeeebac.xml#26b3fb1b-7b13-4af3-853f-0f360eeeebac"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6ef8a0f0-bd96-45f1-8858-d3c12c8e48d7.xml#6ef8a0f0-bd96-45f1-8858-d3c12c8e48d7"/>
+</archimate:TriggeringRelationship>

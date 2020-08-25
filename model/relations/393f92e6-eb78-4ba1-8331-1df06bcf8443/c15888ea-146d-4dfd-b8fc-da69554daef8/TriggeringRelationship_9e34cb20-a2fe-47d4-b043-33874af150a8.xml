@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Set customer servicing status flag"
+    id="9e34cb20-a2fe-47d4-b043-33874af150a8">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_34945909-17a1-4086-b58d-49426a02ce12.xml#34945909-17a1-4086-b58d-49426a02ce12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_2982fcaa-59be-4fab-832a-3241a6e2e106.xml#2982fcaa-59be-4fab-832a-3241a6e2e106"/>
+</archimate:TriggeringRelationship>

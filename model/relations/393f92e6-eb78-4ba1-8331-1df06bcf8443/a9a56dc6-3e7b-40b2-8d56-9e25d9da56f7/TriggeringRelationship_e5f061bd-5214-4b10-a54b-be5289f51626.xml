@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Remove Final Block"
+    id="e5f061bd-5214-4b10-a54b-be5289f51626">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_982cb52c-d1d9-4e30-8e41-71fbea6ff393.xml#982cb52c-d1d9-4e30-8e41-71fbea6ff393"/>
+</archimate:TriggeringRelationship>

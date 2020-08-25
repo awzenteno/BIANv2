@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record rejection of Direct Debit Payment Order"
+    id="b678bea9-b871-4711-923b-e7a307acb8cf">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_37a1f7d9-de5a-45c1-b745-13a751c6e274.xml#37a1f7d9-de5a-45c1-b745-13a751c6e274"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_c0b0c194-2660-491b-8fe1-eb868869bd8f.xml#c0b0c194-2660-491b-8fe1-eb868869bd8f"/>
+</archimate:TriggeringRelationship>

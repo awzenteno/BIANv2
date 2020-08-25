@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateTradeMatchingOperatingSession"
+    id="b2d536aa-14c8-45fe-acc7-78f43fb3ee54"
+    documentation="Assign responsibility for and activate the Trade Matching Operating Session"/>

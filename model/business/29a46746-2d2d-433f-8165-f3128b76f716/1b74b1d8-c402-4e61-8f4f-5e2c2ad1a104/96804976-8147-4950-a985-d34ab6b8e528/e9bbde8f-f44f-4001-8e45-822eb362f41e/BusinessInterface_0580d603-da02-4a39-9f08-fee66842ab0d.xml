@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registerLocationDirectory"
+    id="0580d603-da02-4a39-9f08-fee66842ab0d"
+    documentation="Register a new location directory entry (reference/usage details)"/>

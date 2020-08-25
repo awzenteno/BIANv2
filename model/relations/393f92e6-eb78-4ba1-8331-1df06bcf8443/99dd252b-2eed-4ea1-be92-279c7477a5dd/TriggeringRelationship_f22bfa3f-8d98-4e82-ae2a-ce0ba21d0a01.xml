@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get servicing position status and availability"
+    id="f22bfa3f-8d98-4e82-ae2a-ce0ba21d0a01">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b1f17e26-06c0-45e0-aced-51ce3d0cb8a9.xml#b1f17e26-06c0-45e0-aced-51ce3d0cb8a9"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_21c61030-c0bc-4c4b-b277-a91ba0fb360d.xml#21c61030-c0bc-4c4b-b277-a91ba0fb360d"/>
+</archimate:TriggeringRelationship>

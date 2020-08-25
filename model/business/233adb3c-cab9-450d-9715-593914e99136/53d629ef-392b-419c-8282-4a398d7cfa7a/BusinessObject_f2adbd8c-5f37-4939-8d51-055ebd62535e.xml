@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesTradePartyRole"
+    id="f2adbd8c-5f37-4939-8d51-055ebd62535e"
+    documentation="Role played by a party in the context of a securities trade.&#xA;&#xA;Роль партии в контексте торговли ценными бумагами."/>

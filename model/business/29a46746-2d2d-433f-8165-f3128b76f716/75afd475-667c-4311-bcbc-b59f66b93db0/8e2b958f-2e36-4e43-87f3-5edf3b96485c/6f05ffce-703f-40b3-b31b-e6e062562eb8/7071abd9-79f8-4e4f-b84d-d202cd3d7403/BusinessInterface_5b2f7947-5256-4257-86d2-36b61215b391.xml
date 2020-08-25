@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateDirectDebitFulfillmentArrangement"
+    id="5b2f7947-5256-4257-86d2-36b61215b391"
+    documentation="Initiate Direct Debit Product Arrangement"/>

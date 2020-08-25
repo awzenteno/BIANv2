@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBusinesUnitBudegtAdministrativePlan"
+    id="8bfc6452-5fcf-4e2d-a068-35f8fc02ee66"
+    documentation="Retrieve Business Unit Budget Administrative Plan related reports"/>

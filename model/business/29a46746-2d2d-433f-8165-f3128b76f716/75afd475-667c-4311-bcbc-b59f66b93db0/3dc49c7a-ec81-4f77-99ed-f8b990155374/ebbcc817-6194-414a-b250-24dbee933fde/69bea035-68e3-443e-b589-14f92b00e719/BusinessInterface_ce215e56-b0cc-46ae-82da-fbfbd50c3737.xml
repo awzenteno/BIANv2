@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeDisbursementTransaction"
+    id="ce215e56-b0cc-46ae-82da-fbfbd50c3737"
+    documentation="Execute a task against the active Disbursement Transaction"/>

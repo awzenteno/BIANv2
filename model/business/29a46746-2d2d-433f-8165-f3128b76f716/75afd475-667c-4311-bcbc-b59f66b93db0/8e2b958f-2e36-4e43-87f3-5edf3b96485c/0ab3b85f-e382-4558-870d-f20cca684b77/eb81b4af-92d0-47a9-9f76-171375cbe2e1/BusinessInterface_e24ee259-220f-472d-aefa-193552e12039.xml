@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyTradingDeskOperatingSession"
+    id="e24ee259-220f-472d-aefa-193552e12039"
+    documentation="Subscribe to Trading Desk Operating Session notification services"/>

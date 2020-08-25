@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get trading report"
+    id="b8624546-bf2f-4411-8ad6-669b0bfd2033">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b21350f0-f37f-407c-a8b1-086775d08b1e.xml#b21350f0-f37f-407c-a8b1-086775d08b1e"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_55dd1547-038e-437f-af3c-21b3b89837e8.xml#55dd1547-038e-437f-af3c-21b3b89837e8"/>
+</archimate:TriggeringRelationship>

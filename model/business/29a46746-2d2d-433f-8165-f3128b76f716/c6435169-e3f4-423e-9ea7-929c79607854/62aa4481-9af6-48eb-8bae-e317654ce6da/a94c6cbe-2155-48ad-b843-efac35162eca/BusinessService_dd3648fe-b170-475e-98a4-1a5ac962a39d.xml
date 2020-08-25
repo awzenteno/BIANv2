@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliance Reporting"
+    id="dd3648fe-b170-475e-98a4-1a5ac962a39d"
+    documentation="Example of use:&#xA;&#xA;Loan origination and fulfillment is subject to internal compliance review&#xA;&#xA;General comment:&#xA;&#xA;The compliance reporting facility supports the internal reporting on a wide range of internal compliance checks that span all aspects of relationship development and product/service fulfillment&#xA;&#xA;Business Purpose&#xA;:  Report on applicable compliance checks that are applied to a transaction or facility fulfillment procedure&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Выдача и исполнение кредита подлежит внутреннему контролю&#xA;&#xA;Общее замечание:&#xA;&#xA;Средство отчетности соответствия поддерживает внутреннюю отчетность по широкому спектру внутренних проверок соответствия, которые охватывают все аспекты развития отношений и выполнения продуктов/услуг&#xA;&#xA;деловая цель&#xA;: Отчет о применимых проверках соответствия, применяемых к операции или процедуре выполнения объекта&#xA;"/>

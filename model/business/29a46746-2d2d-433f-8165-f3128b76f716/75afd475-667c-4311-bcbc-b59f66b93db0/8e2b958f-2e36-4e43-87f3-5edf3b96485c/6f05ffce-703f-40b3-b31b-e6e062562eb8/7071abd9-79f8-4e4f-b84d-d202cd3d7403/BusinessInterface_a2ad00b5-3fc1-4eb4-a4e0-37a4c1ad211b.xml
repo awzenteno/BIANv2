@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveDirectDebitFulfillmentArrangement"
+    id="a2ad00b5-3fc1-4eb4-a4e0-37a4c1ad211b"
+    documentation="Comment:&#xA;&#xA;Retrieve Direct Debit Product Arrangement related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyLeasingFulfillmentArrangement"
+    id="4cb5fb16-7d8d-4b25-96f0-99e05573e528"
+    documentation="Subscribe to Leasing Product Arrangement notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCounterpartyCreditRiskMeasurement"
+    id="8935a012-0885-4d69-b278-092145e99087"
+    documentation="Comment:&#xA;&#xA;Retrieve Counterparty Credit Risk Measurement related reports"/>

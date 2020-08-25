@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">BiddingConditions"
+    id="27e1c969-dffe-4bc6-98e5-60d031c1835c"
+    documentation="bidding / предложение цены / аукцион, торги&#xA;&#xA;&#xA;Specifies the conditions under which securities can be acquired as part of a corporate action.&#xA;&#xA;Определяет условия, при которых ценные бумаги могут быть приобретены в рамках корпоративных действий."/>

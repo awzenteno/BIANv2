@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCurrentAccountFulfillmentArrangementInventory"
+    id="1464e628-b7ab-492e-97d3-23f399053bea"
+    documentation="Request the issuance of product inventory (cheque book, plastic, etc)"/>

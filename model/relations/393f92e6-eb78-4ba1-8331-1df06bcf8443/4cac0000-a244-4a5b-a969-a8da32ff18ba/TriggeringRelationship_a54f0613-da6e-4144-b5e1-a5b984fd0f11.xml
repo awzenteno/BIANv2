@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" File agreement for Corporate Deposit Agreement"
+    id="a54f0613-da6e-4144-b5e1-a5b984fd0f11">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_566cda82-543b-43a5-91c6-6fcf249385ea.xml#566cda82-543b-43a5-91c6-6fcf249385ea"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_87b4e76a-8fda-4d6a-8d24-e4d3e1c55897.xml#87b4e76a-8fda-4d6a-8d24-e4d3e1c55897"/>
+</archimate:TriggeringRelationship>

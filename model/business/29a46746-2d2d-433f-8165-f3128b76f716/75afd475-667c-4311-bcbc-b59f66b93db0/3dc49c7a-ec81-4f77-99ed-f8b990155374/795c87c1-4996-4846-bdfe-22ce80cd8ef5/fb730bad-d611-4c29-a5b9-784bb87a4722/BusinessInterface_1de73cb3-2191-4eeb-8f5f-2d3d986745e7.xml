@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyRewardPointsLog"
+    id="1de73cb3-2191-4eeb-8f5f-2d3d986745e7"
+    documentation="Subscribe to Reward Points Account/Log notification services"/>

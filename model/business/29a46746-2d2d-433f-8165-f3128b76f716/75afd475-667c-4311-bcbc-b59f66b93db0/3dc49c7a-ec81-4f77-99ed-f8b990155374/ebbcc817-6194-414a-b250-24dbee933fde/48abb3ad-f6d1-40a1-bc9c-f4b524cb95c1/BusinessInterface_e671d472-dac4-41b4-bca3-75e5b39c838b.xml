@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestOpenItemProcedure"
+    id="e671d472-dac4-41b4-bca3-75e5b39c838b"
+    documentation=" Request an action/workstep against an active open item"/>

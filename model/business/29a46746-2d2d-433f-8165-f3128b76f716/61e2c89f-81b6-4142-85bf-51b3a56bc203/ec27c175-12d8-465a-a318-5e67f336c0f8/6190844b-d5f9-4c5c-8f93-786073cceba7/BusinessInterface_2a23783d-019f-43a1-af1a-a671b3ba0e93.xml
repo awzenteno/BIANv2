@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestDocumentHandlingOperatingSessionVerification"
+    id="2a23783d-019f-43a1-af1a-a671b3ba0e93"
+    documentation=" Request verification of the authenticity of a document"/>

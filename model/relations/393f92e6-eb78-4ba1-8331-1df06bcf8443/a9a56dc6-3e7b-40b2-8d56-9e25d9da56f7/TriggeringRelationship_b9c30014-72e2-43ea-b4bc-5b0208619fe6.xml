@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Direct Debit Mandate record"
+    id="b9c30014-72e2-43ea-b4bc-5b0208619fe6">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_fe6b7767-1c0f-4e83-aebf-3047271dd37c.xml#fe6b7767-1c0f-4e83-aebf-3047271dd37c"/>
+</archimate:TriggeringRelationship>

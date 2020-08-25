@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveChannelActivityAnalysis"
+    id="b3a00407-e56d-473d-9785-11b47e1457c5"
+    documentation=" Request specific channel activity analysis (ad-hoc/custom)"/>

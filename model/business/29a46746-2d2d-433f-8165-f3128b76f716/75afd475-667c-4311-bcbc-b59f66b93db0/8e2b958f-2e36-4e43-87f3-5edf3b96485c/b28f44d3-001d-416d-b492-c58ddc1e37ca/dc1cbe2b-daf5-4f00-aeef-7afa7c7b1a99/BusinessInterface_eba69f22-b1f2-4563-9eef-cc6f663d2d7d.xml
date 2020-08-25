@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCurrentAccountFulfillmentArrangement"
+    id="eba69f22-b1f2-4563-9eef-cc6f663d2d7d"
+    documentation="Request a standing order under the Current Account"/>

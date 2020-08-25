@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCorporateDepositFulfillmentArrangement"
+    id="eea62c26-7bc1-4f5f-a159-0956254d8434"
+    documentation=" Execute a task under the corporate deposit fulfillment arrangement"/>

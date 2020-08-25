@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record activity against the opportunity"
+    id="1a71c13e-6840-4270-b65a-7618cfe225ad">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_10c24ae9-e157-46eb-b6aa-c95b22fd87dc.xml#10c24ae9-e157-46eb-b6aa-c95b22fd87dc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_50734648-826c-4f26-ad35-26bbbe1cce98.xml#50734648-826c-4f26-ad35-26bbbe1cce98"/>
+</archimate:TriggeringRelationship>

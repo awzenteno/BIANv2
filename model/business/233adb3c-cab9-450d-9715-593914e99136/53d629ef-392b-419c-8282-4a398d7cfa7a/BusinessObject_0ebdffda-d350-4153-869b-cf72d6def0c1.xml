@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">LiquidityManagementLimit"
+    id="0ebdffda-d350-4153-869b-cf72d6def0c1"
+    documentation=" Cash management feature limiting the amount of liquidity needed to perform clearing and settlement operations. At any point in time during the process, the limit imposes the maximum amount of liquidity available for operations concerning the system or other managed elements, for example, transaction amount or counterparty.&#xA;&#xA;Функция управления денежными средствами ограничивает объем ликвидности, необходимый для осуществления клиринговых и расчетных операций. В любой момент времени в ходе процесса лимит накладывает максимальный объем ликвидности, доступный для операций, касающихся системы или других управляемых элементов, например, суммы сделки или контрагента."/>

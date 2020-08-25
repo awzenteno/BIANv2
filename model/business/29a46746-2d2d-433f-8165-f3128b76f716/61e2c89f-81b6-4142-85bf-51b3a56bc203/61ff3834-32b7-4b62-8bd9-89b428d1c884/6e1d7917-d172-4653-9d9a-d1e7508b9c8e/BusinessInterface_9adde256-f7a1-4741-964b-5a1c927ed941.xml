@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestProductionSystemAssessment"
+    id="9adde256-f7a1-4741-964b-5a1c927ed941"
+    documentation="Request a service under the Production System Assessment "/>

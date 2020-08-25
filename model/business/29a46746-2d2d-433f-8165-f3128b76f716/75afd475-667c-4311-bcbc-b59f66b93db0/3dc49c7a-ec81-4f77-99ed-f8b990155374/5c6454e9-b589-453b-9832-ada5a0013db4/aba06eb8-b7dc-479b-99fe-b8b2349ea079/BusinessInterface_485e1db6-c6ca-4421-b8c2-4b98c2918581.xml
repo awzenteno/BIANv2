@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveFinancialGatewayOperatingSession"
+    id="485e1db6-c6ca-4421-b8c2-4b98c2918581"
+    documentation=" Retrieve an operating session report"/>

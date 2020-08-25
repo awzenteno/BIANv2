@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestATMNetworkOperatingSession"
+    id="56fe797e-0b23-45d8-8f84-8d5ee7708f75"
+    documentation="Request a service under the ATM Network Operating Session"/>

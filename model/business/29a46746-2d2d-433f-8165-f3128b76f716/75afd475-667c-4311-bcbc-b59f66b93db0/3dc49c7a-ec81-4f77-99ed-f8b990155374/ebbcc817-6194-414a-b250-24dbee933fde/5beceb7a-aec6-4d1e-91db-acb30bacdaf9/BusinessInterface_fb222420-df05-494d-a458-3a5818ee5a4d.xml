@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCardDelinquentAccountHandlingProcedure"
+    id="fb222420-df05-494d-a458-3a5818ee5a4d"
+    documentation="Retrieve card delinquent account handling procedure related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCollateralAssetAllocation"
+    id="a1e75f41-6619-44e5-bcb2-85c64bb2632e"
+    documentation="Retrieve resource and/or resource allocation report"/>

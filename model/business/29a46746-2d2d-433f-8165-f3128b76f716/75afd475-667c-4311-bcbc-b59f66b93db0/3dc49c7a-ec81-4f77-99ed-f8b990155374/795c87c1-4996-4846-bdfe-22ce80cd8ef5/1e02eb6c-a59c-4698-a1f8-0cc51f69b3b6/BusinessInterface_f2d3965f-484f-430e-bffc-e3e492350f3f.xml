@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeProductCombinationFulfillmentArrangement"
+    id="f2d3965f-484f-430e-bffc-e3e492350f3f"
+    documentation=" Execute a task under the product combination fulfillment arrangement"/>

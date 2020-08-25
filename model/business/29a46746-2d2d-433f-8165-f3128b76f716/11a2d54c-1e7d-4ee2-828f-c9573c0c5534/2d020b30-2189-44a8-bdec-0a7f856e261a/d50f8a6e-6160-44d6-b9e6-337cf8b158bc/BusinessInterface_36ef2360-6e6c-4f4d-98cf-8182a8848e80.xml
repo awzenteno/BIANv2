@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyBusinessDevelopmentStrategy"
+    id="36ef2360-6e6c-4f4d-98cf-8182a8848e80"
+    documentation="Subscribe to Business Development Strategy notification services"/>

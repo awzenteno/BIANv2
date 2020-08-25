@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvestmentAccountService"
+    id="b6556f3a-a910-4687-ac1e-2d2a9917148f"
+    documentation=" Services linked to an account which are available to the account owner or to the holder of a mandate. The exercise of these services may be submitted to a limit.&#xA;&#xA;Услуги, связанные со счетом, которые доступны владельцу счета или держателю мандата. Осуществление этих услуг может быть ограничено."/>

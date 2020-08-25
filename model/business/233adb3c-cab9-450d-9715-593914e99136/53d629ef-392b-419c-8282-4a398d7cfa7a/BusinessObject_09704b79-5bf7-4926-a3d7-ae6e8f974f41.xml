@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesEntry"
+    id="09704b79-5bf7-4926-a3d7-ae6e8f974f41"
+    documentation=" Posting to a securities account as a result of a securities creation, deletion or transfer in the context of a securities transaction.&#xA;&#xA;Проводка на счет ценных бумаг в результате создания, удаления или передачи ценных бумаг в контексте операции с ценными бумагами."/>

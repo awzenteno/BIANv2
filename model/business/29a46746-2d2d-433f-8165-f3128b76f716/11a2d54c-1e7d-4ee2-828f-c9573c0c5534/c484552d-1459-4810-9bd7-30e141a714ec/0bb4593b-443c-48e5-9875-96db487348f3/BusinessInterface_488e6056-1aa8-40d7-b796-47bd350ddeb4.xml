@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateCustomerContactSessionProcedure"
+    id="488e6056-1aa8-40d7-b796-47bd350ddeb4"
+    documentation="Update details of an active customer contact dialogue (from Contact Handler)"/>

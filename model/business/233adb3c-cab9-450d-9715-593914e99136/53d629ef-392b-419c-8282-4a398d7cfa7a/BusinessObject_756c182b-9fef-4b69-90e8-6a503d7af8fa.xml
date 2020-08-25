@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SignatureCondition"
+    id="756c182b-9fef-4b69-90e8-6a503d7af8fa"
+    documentation=" Specifies the signature requirements for managing an account.&#xA;&#xA;Определяет требования к подписи для управления учетной записью."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeLoanFulfillmentArrangementDisbursement"
+    id="ce396955-9119-4e25-8603-fcd12c643ca5"
+    documentation=" Execute consumer loan disbursement"/>

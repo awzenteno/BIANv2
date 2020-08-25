@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get party reference details"
+    id="f06698d4-f55c-4332-813c-3a0adeee5967">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5cfdbaa4-3a1d-4f97-901f-3979b4a588aa.xml#5cfdbaa4-3a1d-4f97-901f-3979b4a588aa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e70457c1-e70b-4629-b2f5-76bd43fb0c13.xml#e70457c1-e70b-4629-b2f5-76bd43fb0c13"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeServiceProductFulfillmentArrangement"
+    id="e8efa053-bd18-4120-b731-9146f3386cbf"
+    documentation=" Execute a task under the service product fulfillment arrangement"/>

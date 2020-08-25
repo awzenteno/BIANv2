@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deduct pending Authorisations and compute Open to Buy"
+    id="2b3c414e-d380-4232-87b6-41458f64216f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7885c4e8-aaef-4a09-8104-f527820169cb.xml#7885c4e8-aaef-4a09-8104-f527820169cb"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_7cc1d71d-60e4-4e22-a118-8e38daf1a24c.xml#7cc1d71d-60e4-4e22-a118-8e38daf1a24c"/>
+</archimate:TriggeringRelationship>

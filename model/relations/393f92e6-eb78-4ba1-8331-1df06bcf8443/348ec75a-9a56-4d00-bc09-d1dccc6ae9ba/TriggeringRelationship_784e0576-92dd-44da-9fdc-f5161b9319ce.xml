@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configure dialogue settings under load"
+    id="784e0576-92dd-44da-9fdc-f5161b9319ce">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5cfdbaa4-3a1d-4f97-901f-3979b4a588aa.xml#5cfdbaa4-3a1d-4f97-901f-3979b4a588aa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_d0633fea-16bd-4f49-a65b-6e03e61cb797.xml#d0633fea-16bd-4f49-a65b-6e03e61cb797"/>
+</archimate:TriggeringRelationship>

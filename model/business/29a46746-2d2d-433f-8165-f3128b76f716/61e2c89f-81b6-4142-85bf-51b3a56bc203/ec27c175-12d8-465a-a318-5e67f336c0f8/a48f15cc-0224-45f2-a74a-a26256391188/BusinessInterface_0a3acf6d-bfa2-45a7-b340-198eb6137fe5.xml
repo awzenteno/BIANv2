@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveArchiveOperatingSession"
+    id="0a3acf6d-bfa2-45a7-b340-198eb6137fe5"
+    documentation="Retrieve Archive Operating Session related reports"/>

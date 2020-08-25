@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">RegulatoryAuthorityRole"
+    id="bffff344-3833-4e20-a2e7-6d9ea090543e"
+    documentation="Entity requiring the regulatory reporting information.&#xA;&#xA;Субъект, требующий нормативной отчетной информации."/>

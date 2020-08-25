@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordUnderwritingAssessment"
+    id="a8e0c730-a88c-415c-9fba-b04a98429570"
+    documentation="Comment:&#xA;&#xA;Record activity details/information against an ongoing Underwriting Assessment evaluation"/>

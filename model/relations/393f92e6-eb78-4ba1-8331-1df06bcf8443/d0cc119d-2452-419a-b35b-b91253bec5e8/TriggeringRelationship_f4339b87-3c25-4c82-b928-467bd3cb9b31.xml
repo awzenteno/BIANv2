@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepare Data for Customer Billing"
+    id="f4339b87-3c25-4c82-b928-467bd3cb9b31">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4aebb839-8b17-41c3-9d71-518b9304179b.xml#4aebb839-8b17-41c3-9d71-518b9304179b"/>
+</archimate:TriggeringRelationship>

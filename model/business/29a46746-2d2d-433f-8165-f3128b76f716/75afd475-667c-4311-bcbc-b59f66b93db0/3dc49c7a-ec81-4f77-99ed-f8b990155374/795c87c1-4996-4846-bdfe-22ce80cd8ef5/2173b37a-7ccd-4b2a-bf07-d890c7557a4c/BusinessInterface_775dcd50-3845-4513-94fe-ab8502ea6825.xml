@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveAccountReconciliationProcedure"
+    id="775dcd50-3845-4513-94fe-ab8502ea6825"
+    documentation="Retrieve Account Reconciliation Procedure related reports"/>

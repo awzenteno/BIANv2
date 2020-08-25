@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerCreditRatingMeasurementExternalRating"
+    id="a6a990ad-1190-4071-9bf2-c775be561275"
+    documentation="Record external credit rating agency reports for a customer"/>

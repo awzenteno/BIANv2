@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get transaction details"
+    id="44c527d4-8cc5-4f43-bbac-dd37ed7ff35c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_35489b1d-10dc-4505-aa8d-48fc74dc3414.xml#35489b1d-10dc-4505-aa8d-48fc74dc3414"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_7309da57-e1c1-4e9d-9b12-de2b4b4afb1e.xml#7309da57-e1c1-4e9d-9b12-de2b4b4afb1e"/>
+</archimate:TriggeringRelationship>

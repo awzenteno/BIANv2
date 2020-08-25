@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateDisbursementTransaction"
+    id="ff03251a-3346-4ebb-a6ea-75d85da86bf9"
+    documentation=" Update/amend details of an active disbursement (includes termination)"/>

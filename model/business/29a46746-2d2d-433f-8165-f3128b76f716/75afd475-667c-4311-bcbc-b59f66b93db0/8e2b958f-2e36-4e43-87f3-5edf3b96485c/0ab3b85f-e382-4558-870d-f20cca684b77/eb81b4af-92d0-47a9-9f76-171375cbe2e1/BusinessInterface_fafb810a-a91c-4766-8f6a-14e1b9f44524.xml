@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordTradingDeskOperatingSession"
+    id="fafb810a-a91c-4766-8f6a-14e1b9f44524"
+    documentation="Comment:&#xA;&#xA;Record activity details/information against the Trading Desk Operating Session"/>

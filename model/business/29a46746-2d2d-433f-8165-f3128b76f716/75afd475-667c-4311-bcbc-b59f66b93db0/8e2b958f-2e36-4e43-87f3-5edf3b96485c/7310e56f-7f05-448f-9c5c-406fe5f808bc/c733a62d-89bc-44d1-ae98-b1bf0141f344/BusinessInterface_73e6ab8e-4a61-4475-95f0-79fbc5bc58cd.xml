@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configureeTradingWorkbenchOperatingSession"
+    id="73e6ab8e-4a61-4475-95f0-79fbc5bc58cd"
+    documentation="Amend the configuration arrangements/parameters governing the eTrading Workbench Operating Session"/>

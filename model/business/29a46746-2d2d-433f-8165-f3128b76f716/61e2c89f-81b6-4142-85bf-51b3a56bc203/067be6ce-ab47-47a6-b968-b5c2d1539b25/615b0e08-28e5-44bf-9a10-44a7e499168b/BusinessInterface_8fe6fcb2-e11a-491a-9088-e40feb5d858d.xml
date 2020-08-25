@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestFinancialControlAssessment"
+    id="8fe6fcb2-e11a-491a-9088-e40feb5d858d"
+    documentation="Request a service under the Financial Control Assessment "/>

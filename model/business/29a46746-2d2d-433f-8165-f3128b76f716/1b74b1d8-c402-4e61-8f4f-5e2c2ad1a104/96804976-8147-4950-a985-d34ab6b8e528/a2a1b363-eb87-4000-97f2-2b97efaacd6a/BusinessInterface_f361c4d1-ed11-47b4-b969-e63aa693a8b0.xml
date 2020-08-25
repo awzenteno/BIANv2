@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyInformationFeedSwitchOperatingSession"
+    id="f361c4d1-ed11-47b4-b969-e63aa693a8b0"
+    documentation="Subscribe to Information Feed Switch Operating Session notification services"/>

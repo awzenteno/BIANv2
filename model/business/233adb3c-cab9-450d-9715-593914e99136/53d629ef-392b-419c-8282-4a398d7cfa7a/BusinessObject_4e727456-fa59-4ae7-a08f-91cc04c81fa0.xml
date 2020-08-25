@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">IndependentAmountTerm"
+    id="4e727456-fa59-4ae7-a08f-91cc04c81fa0"
+    documentation="Defines the specific terms used to calculate an independent amount.&#xA;&#xA;Определяет конкретные термины, используемые для расчета маржевой суммы."/>

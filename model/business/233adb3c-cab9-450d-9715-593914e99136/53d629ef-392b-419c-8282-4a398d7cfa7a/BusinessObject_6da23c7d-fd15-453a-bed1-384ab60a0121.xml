@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PointOfInteraction"
+    id="6da23c7d-fd15-453a-bed1-384ab60a0121"
+    documentation=" Point of interaction (POI) is the entry point to a card payment system. It could be a physical or logical card payment terminal containing software and hardware components, it could be a payment system including a set of card payment terminals linked to a local or remote server, or it could be just an interface to make payments as telephone or Internet browser.&#xA;&#xA;Точка взаимодействия (POI) - точка входа в карточную платежную систему. Это может быть физический или логический карточный платежный терминал, содержащий программные и аппаратные компоненты, это может быть платежная система, включающая набор карточных платежных терминалов, связанных с локальным или удаленным сервером, или это может быть просто интерфейс для совершения платежей в качестве телефона или интернет-браузера."/>

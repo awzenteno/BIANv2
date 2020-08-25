@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retrieve Customer Master Agreement"
+    id="8b8e6324-5e9c-4d0a-bc15-cff8a67632b3">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6337c2b9-d7d3-44fc-8345-8cd9910fec29.xml#6337c2b9-d7d3-44fc-8345-8cd9910fec29"/>
+</archimate:TriggeringRelationship>

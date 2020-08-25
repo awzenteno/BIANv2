@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get billing transactions"
+    id="42f05f5c-6c73-4598-8eea-5876551379c4">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_97c8d86d-e5f2-467e-b1a6-9b2a21b38ed2.xml#97c8d86d-e5f2-467e-b1a6-9b2a21b38ed2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_452cb9bc-8eb5-430e-9949-dd548b2924fb.xml#452cb9bc-8eb5-430e-9949-dd548b2924fb"/>
+</archimate:TriggeringRelationship>

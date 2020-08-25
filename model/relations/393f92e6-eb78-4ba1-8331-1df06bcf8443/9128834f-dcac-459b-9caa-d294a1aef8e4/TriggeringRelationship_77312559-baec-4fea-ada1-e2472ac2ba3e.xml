@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obtain context specific guidance"
+    id="77312559-baec-4fea-ada1-e2472ac2ba3e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_10c24ae9-e157-46eb-b6aa-c95b22fd87dc.xml#10c24ae9-e157-46eb-b6aa-c95b22fd87dc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ba84d12e-d76a-4208-a4e0-71be9cc6657c.xml#ba84d12e-d76a-4208-a4e0-71be9cc6657c"/>
+</archimate:TriggeringRelationship>

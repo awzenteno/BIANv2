@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">FundsCashFlow"
+    id="18bf2c29-674c-4d19-ad71-30a55989e37f"
+    documentation=" Cash movements from or to a fund as a result of investment funds transactions, for example, subscriptions or redemptions.&#xA;&#xA;Движение денежных средств из фонда или в фонд в результате операций с инвестиционными фондами, например, подписки или погашения."/>

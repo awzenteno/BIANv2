@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestDisbursementTransaction"
+    id="c3e405e9-b019-434d-8812-7def39e3c51a"
+    documentation="Request a service under the Disbursement Transaction"/>

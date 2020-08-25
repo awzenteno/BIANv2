@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateInformationFeedAgreement"
+    id="ab4cccae-25d6-465d-bf19-c0880e76540b"
+    documentation="Terminate all or some part of the Information Feed Agreement"/>

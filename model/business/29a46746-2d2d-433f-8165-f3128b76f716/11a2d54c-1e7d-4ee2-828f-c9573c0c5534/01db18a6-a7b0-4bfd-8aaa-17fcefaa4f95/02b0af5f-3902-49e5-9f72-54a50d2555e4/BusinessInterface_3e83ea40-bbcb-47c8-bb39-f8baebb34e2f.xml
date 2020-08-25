@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeEBranchChannelOperatingSessionOutboundWebAccess"
+    id="3e83ea40-bbcb-47c8-bb39-f8baebb34e2f"
+    documentation=" Execute outbound access via the Ebranch network (if this makes sense?)"/>

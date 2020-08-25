@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" retrieveSecuritiesClearing&amp;SettlementTransaction"
+    id="3298aeeb-c1cf-427e-ab7b-9601b09861b3"
+    documentation="Retrieve Securities Clearing &amp; Settlement Transaction related reports"/>

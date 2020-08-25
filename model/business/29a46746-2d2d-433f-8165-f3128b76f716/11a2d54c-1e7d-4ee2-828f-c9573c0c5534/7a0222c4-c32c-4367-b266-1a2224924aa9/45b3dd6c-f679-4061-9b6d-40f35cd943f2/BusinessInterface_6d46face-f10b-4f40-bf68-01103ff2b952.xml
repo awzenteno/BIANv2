@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" retrieveProduct/ServiceAgreement"
+    id="6d46face-f10b-4f40-bf68-01103ff2b952"
+    documentation="Retrieve Product/Service Agreement related reports"/>

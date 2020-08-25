@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executePaymentExecutionTransaction"
+    id="27976748-f58e-4ffc-8207-8d0b1b5b2e0d"
+    documentation=" Execute an automated action against active payment transaction (perhaps terminate)"/>

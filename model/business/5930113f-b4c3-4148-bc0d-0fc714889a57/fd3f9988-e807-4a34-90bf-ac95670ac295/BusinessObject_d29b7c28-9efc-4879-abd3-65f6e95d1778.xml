@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Events"
+    id="d29b7c28-9efc-4879-abd3-65f6e95d1778"
+    documentation="A collection of the events/transactions recorded by the log"/>

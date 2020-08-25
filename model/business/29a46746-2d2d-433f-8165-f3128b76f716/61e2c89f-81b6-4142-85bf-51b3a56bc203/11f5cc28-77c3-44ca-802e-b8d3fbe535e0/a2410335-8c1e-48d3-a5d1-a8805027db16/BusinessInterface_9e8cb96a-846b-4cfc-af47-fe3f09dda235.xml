@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateEmployeeAllocation"
+    id="9e8cb96a-846b-4cfc-af47-fe3f09dda235"
+    documentation="Update elements of the Employee Allocation"/>

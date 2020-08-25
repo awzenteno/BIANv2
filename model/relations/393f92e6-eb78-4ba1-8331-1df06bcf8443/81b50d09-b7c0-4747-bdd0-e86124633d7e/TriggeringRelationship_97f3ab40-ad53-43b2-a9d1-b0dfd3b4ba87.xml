@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get notional pricing"
+    id="97f3ab40-ad53-43b2-a9d1-b0dfd3b4ba87">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_c6548383-b83d-45fb-a560-5f2cc9e18652.xml#c6548383-b83d-45fb-a560-5f2cc9e18652"/>
+</archimate:TriggeringRelationship>

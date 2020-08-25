@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestSuitabilityAssessment"
+    id="3d460e25-ec9c-440f-ba5d-7f51b8503cc7"
+    documentation="Request a service under the Suitability Assessment "/>

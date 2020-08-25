@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCardTransactionSwitchOperatingSession"
+    id="548e4e23-e825-471b-a2ed-7e1b651a4951"
+    documentation="Retrieve card transaction switch operating session related reports"/>

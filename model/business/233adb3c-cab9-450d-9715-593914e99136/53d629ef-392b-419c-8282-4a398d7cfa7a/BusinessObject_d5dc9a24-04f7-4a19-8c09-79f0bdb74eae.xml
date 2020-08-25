@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Jurisdiction"
+    id="d5dc9a24-04f7-4a19-8c09-79f0bdb74eae"
+    documentation=" Specifies the jurisdiction (country, county, state, province, city).&#xA;&#xA;Определяет юрисдикцию (страна, округ, штат, провинция, город)."/>

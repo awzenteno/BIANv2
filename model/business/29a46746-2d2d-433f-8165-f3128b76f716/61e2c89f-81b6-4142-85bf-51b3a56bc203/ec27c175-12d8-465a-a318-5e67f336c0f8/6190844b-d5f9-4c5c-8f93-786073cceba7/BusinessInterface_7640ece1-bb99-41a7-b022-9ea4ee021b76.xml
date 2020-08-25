@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeDocumentHandlingOperatingSessionRetrieval"
+    id="7640ece1-bb99-41a7-b022-9ea4ee021b76"
+    documentation="Execute the retrieval of an existing document (any media/channel)"/>

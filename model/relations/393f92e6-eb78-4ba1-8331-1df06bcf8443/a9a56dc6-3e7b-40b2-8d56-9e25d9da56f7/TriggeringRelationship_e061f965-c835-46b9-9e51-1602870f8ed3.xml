@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Cancel Direct Debit Mandates of account to be closed"
+    id="e061f965-c835-46b9-9e51-1602870f8ed3">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd.xml#ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd"/>
+</archimate:TriggeringRelationship>

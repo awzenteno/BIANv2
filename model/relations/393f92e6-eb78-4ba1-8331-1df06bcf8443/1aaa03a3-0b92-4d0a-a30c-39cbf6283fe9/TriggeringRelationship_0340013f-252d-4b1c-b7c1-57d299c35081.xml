@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get Customer Password and Device ID"
+    id="0340013f-252d-4b1c-b7c1-57d299c35081">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_9e81773f-97ba-48fb-9d42-b086d580e818.xml#9e81773f-97ba-48fb-9d42-b086d580e818"/>
+</archimate:TriggeringRelationship>

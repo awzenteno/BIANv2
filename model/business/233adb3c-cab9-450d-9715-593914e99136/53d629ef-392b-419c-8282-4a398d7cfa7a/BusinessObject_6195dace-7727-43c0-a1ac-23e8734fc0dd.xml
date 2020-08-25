@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ProxyAppointmentDeadline"
+    id="6195dace-7727-43c0-a1ac-23e8734fc0dd"
+    documentation=" Date by which the information on proxy assignment must be received.&#xA;&#xA;Дата, к которой должна быть получена информация о назначении доверенности."/>

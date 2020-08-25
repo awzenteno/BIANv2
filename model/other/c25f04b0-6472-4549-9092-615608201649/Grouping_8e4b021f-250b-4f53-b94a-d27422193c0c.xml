@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loans &amp; Deposits"
+    id="8e4b021f-250b-4f53-b94a-d27422193c0c"
+    documentation=" This Business Domain contains the Service Domains associated with the fulfillment of the main Loan and Deposit products, it includes the core Current Account or DDA product.&#xA;&#xA;&#xA;Данный бизнес-домен содержит сервисные домены, связанные с выполнением основных кредитных и депозитных продуктов, включает в себя основной расчетный счет или продукт DDA."/>

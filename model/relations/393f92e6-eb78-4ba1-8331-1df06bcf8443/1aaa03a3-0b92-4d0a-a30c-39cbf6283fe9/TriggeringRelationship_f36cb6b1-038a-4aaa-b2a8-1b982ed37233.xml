@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get sales product agreement report"
+    id="f36cb6b1-038a-4aaa-b2a8-1b982ed37233">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a475cd9a-29a4-48c5-84bd-7a93517f2c3c.xml#a475cd9a-29a4-48c5-84bd-7a93517f2c3c"/>
+</archimate:TriggeringRelationship>

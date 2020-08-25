@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get Customer preferential rates"
+    id="e1ded77d-0079-4d84-b244-959734b364d8">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_17c6981e-a297-4809-877d-aca6a48c0f0a.xml#17c6981e-a297-4809-877d-aca6a48c0f0a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6337c2b9-d7d3-44fc-8345-8cd9910fec29.xml#6337c2b9-d7d3-44fc-8345-8cd9910fec29"/>
+</archimate:TriggeringRelationship>

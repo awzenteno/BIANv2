@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Debit Card"
+    id="d660632f-b69e-431e-a127-f48de615d89a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bfffa8a5-7404-4230-81e6-f32f4e37e4a7.xml#bfffa8a5-7404-4230-81e6-f32f4e37e4a7"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e7cc73f2-fbf6-40cd-887c-ec6e0caac510.xml#e7cc73f2-fbf6-40cd-887c-ec6e0caac510"/>
+</archimate:TriggeringRelationship>

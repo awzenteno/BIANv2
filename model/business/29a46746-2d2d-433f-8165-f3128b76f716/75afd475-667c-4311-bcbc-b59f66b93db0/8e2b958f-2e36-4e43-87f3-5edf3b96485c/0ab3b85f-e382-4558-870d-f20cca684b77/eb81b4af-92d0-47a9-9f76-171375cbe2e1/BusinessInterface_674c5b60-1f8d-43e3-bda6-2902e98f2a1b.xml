@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateTradingDeskOperatingSession"
+    id="674c5b60-1f8d-43e3-bda6-2902e98f2a1b"
+    documentation="Assign responsibility for and activate the Trading Desk Operating Session"/>

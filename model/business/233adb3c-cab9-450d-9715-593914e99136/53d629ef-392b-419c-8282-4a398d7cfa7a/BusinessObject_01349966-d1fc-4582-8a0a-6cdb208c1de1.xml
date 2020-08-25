@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ChequePartyRole"
+    id="01349966-d1fc-4582-8a0a-6cdb208c1de1"
+    documentation=" Role played by a party in the context of a payment by cheque.&#xA;&#xA;Роль партии в контексте оплаты чеком."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TreasurySettlementSystemRole"
+    id="23bcc27a-88a6-4705-97c3-4d4d1e5ba30a"
+    documentation=" System involved in the settlement chain of one leg of a treasury trade.&#xA;&#xA;Система участвует в расчетной_уплатах цепочке одного этапа казначейской торговли."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateBuildingMaintenanceAgreement"
+    id="6d9efbf7-63dc-4c08-8b3e-309ff1b9203b"
+    documentation="Assign responsibility for the Building Maintenance Agreement"/>

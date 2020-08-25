@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveComplianceReportingAdministrativePlan"
+    id="dfcb752b-3c3c-4eff-a8e2-0ce3a5d48850"
+    documentation="Retrieve Compliance Reporting Administrative Plan related reports"/>

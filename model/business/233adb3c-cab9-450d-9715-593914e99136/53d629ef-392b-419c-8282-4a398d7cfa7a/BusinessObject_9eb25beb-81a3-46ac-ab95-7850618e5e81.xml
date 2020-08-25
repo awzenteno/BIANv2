@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TradeOriginatorRole"
+    id="9eb25beb-81a3-46ac-ab95-7850618e5e81"
+    documentation=" Specifies the trading party at the source of the transaction.&#xA;&#xA;Указывает Торговую сторону у источника сделки."/>

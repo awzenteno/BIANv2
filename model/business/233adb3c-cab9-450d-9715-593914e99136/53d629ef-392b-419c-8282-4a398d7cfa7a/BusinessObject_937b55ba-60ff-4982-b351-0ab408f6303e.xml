@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">LocalBroker"
+    id="937b55ba-60ff-4982-b351-0ab408f6303e"
+    documentation="Party paid a commission following the execution of a trade, as directed by the investment manager.&#xA;&#xA;Сторона выплатила комиссию после заключения сделки по указанию управляющего инвестициями."/>

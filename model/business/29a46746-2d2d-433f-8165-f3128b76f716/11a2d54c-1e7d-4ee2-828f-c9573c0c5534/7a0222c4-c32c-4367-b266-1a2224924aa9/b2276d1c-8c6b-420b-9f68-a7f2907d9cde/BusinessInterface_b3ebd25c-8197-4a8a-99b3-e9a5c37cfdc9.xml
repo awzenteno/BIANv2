@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordProspectProcedure"
+    id="b3ebd25c-8197-4a8a-99b3-e9a5c37cfdc9"
+    documentation="Record information against an active prospect"/>

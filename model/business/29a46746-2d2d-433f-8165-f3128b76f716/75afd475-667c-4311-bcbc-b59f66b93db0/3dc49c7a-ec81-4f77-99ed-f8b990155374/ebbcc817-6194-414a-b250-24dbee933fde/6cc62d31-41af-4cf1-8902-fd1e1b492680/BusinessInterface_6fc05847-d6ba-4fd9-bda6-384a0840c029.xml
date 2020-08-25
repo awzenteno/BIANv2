@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveIssuedDeviceAllocation"
+    id="6fc05847-d6ba-4fd9-bda6-384a0840c029"
+    documentation="Retrieve resource and/or resource allocation report"/>

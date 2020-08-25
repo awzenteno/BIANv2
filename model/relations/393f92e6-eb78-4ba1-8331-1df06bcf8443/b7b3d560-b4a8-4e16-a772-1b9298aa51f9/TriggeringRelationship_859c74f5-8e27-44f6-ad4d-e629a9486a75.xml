@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Register new Product Combination"
+    id="859c74f5-8e27-44f6-ad4d-e629a9486a75">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7d03e0a5-8b04-41f1-b4e9-afaf71a283cc.xml#7d03e0a5-8b04-41f1-b4e9-afaf71a283cc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_37be455f-3fa1-4fd8-b4c9-0c64675b746d.xml#37be455f-3fa1-4fd8-b4c9-0c64675b746d"/>
+</archimate:TriggeringRelationship>

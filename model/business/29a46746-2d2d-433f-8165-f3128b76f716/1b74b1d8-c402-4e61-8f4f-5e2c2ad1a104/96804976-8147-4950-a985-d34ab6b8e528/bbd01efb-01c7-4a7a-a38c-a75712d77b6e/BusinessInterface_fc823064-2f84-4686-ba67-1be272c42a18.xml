@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveFinancialMarketAnalysis"
+    id="fc823064-2f84-4686-ba67-1be272c42a18"
+    documentation="Retrieve Financial Market Analysis related reports"/>

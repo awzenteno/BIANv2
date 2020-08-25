@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyMarketRiskModelSpecification"
+    id="b7adc697-375f-497f-a00f-00bdcce20a54"
+    documentation="Subscribe to Market Risk Model Specification notification services"/>

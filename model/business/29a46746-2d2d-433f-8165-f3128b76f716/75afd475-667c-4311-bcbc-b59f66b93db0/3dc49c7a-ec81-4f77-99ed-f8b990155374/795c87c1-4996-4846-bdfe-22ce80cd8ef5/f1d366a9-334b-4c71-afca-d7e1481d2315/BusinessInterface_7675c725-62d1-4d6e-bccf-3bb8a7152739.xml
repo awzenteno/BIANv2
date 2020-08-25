@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyFinanclalPositionMeasurement"
+    id="7675c725-62d1-4d6e-bccf-3bb8a7152739"
+    documentation="Subscribe to Financial Position Measurement notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveACHFulfillmentOperatingSession"
+    id="f338d5da-04f4-49f2-9135-f68824c0da45"
+    documentation="Retrieve an ACH operating session report"/>

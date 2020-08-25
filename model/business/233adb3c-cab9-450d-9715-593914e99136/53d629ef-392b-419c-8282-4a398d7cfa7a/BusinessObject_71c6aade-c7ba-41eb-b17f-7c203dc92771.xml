@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Resolution"
+    id="71c6aade-c7ba-41eb-b17f-7c203dc92771"
+    documentation=" Specifies an item in the agenda of the meeting. Some resolutions are submitted to the vote of the security holders, some are presented for information only.&#xA;&#xA;Определяет пункт повестки дня собрания. Некоторые резолюции выносятся на голосование держателей ценных бумаг, а некоторые представляются только для информации."/>

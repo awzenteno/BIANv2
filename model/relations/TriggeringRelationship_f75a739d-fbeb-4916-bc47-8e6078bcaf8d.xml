@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Sales Actions"
+    id="f75a739d-fbeb-4916-bc47-8e6078bcaf8d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f1230b21-5d5f-4e78-9bbf-53171a760f46.xml#f1230b21-5d5f-4e78-9bbf-53171a760f46"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5bd7bd7a-be72-46c7-a900-e8554e840897.xml#5bd7bd7a-be72-46c7-a900-e8554e840897"/>
+</archimate:TriggeringRelationship>

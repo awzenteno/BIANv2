@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Allowance"
+    id="d53b58ce-de60-4632-a643-368b0018b875"
+    documentation=" Amount of money deducted from a price or an amount due.&#xA;&#xA;Сумма вычитается из цены или суммы."/>

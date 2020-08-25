@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeFinancialGatewayOperatingSession"
+    id="ed1919e8-9702-4f59-a137-32656676cc2f"
+    documentation="Execute a transaction or task under the Financial Gateway Operating Session"/>

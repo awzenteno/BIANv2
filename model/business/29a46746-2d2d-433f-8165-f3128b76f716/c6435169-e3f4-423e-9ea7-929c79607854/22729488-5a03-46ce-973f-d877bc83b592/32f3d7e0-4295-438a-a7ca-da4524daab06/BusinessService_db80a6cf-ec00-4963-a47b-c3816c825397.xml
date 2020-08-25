@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stock Lending/Repos"
+    id="db80a6cf-ec00-4963-a47b-c3816c825397"
+    documentation="Example of use:&#xA;&#xA;A bank lends stock under a repo transaction to cover a short position&#xA;&#xA;General comment:&#xA;&#xA;A trading function to support stock lending activity between institutional investors, typically to cover short positions&#xA;&#xA;Business Purpose&#xA;:  Orchestrate stock lending and repurchase agreement (repo) transactions&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Банк предоставляет акции по сделке РЕПО для покрытия короткой позиции&#xA;&#xA;Общее замечание:&#xA;&#xA;Торговая функция для поддержки деятельности по кредитованию акций между институциональными инвесторами, как правило, для покрытия коротких позиций&#xA;&#xA;деловая цель&#xA;: Организация сделок по кредитованию и выкупу акций (РЕПО) &#xA;"/>

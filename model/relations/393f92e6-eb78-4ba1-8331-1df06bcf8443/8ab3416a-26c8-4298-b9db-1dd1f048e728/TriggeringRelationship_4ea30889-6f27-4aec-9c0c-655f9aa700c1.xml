@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get sales product performance analysis"
+    id="4ea30889-6f27-4aec-9c0c-655f9aa700c1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c42392ca-acb1-471e-91c8-219057aafc41.xml#c42392ca-acb1-471e-91c8-219057aafc41"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6d46face-f10b-4f40-bf68-01103ff2b952.xml#6d46face-f10b-4f40-bf68-01103ff2b952"/>
+</archimate:TriggeringRelationship>

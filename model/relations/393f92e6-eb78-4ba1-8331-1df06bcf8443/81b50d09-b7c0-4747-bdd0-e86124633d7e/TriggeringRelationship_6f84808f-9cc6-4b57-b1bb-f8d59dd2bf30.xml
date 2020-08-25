@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Determine accounts to be included in a new Sweep agreement"
+    id="6f84808f-9cc6-4b57-b1bb-f8d59dd2bf30">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd.xml#ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd"/>
+</archimate:TriggeringRelationship>

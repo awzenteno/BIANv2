@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyAccountRecoveryProcedure"
+    id="56020a49-3060-4e92-a143-4a091f387606"
+    documentation="Subscribe to Account Recovery Procedure notification services"/>

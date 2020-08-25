@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordLeasingFulfillmentArrangement"
+    id="e294a55c-82ff-44dd-b5ff-fe0d65dacfcb"
+    documentation="Comment:&#xA;&#xA;Record activity details/information against the Leasing"/>

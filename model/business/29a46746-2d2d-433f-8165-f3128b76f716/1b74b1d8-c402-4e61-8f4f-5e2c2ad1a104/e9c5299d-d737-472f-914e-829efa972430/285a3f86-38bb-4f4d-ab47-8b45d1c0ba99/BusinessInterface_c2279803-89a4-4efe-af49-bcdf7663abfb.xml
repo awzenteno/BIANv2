@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registerProductDirectoryServicingInstructions"
+    id="c2279803-89a4-4efe-af49-bcdf7663abfb"
+    documentation=" Register a new product's servicing instructions in the directory"/>

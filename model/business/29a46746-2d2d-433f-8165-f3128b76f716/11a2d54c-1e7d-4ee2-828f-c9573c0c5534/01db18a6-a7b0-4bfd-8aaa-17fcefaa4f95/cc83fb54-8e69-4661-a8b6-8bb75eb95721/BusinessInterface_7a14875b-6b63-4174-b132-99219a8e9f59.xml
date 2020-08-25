@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyATMNetworkManagementPlan"
+    id="7a14875b-6b63-4174-b132-99219a8e9f59"
+    documentation="Subscribe to ATM Network Management Plan notification services"/>

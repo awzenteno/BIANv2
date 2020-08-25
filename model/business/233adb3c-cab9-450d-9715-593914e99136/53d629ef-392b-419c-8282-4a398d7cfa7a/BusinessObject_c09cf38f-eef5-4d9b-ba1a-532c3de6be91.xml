@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PaymentInvestigationCaseResolution"
+    id="c09cf38f-eef5-4d9b-ba1a-532c3de6be91"
+    documentation=" Specifies the status of an investigation case and the actions taken as a result of this status.&#xA;&#xA;Указывает состояние расследования и действия, предпринятые в результате этого состояния."/>

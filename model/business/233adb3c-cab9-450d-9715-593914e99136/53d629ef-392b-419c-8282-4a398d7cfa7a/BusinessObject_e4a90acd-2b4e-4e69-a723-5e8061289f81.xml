@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CreditInstrument"
+    id="e4a90acd-2b4e-4e69-a723-5e8061289f81"
+    documentation="Specifies the instrument to be used for the credit of a payment.&#xA;&#xA;Указывает инструмент, используемый для кредита платежа."/>

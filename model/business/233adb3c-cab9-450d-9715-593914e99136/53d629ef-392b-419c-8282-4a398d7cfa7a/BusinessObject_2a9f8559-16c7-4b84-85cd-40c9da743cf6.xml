@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PaymentObligationPartyRole"
+    id="2a9f8559-16c7-4b84-85cd-40c9da743cf6"
+    documentation="Role played by a party in the context of a payment obligation.&#xA;&#xA;Роль партии в контексте платежное обязательство."/>

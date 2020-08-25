@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesTradeExecution"
+    id="463656eb-68ec-43f7-815d-d7c9f348b2c7"
+    documentation=" Transaction between two counterparties in which they agree to buy and sell a financial instrument. A trade transaction occurs with the matching of the two counterparties orders. There could be several trade transactions necessary to execute the trade.&#xA;&#xA;Сделка между двумя контрагентами, в которой они соглашаются покупать и продавать финансовый инструмент. Торговая сделка происходит при сопоставлении ордеров двух контрагентов. Для совершения сделки может потребоваться несколько торговых операций."/>

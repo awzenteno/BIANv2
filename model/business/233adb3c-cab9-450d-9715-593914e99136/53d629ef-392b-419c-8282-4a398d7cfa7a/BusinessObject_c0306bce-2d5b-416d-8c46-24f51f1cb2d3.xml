@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ExposureCalculation"
+    id="c0306bce-2d5b-416d-8c46-24f51f1cb2d3"
+    documentation="Description of the calculation of the amounts representing the risk that needs to be covered, together with the calculation of the existing coverage.&#xA;&#xA;&#xA;Описание расчета сумм, представляющих риск, который необходимо покрыть, вместе с расчетом существующего покрытия."/>

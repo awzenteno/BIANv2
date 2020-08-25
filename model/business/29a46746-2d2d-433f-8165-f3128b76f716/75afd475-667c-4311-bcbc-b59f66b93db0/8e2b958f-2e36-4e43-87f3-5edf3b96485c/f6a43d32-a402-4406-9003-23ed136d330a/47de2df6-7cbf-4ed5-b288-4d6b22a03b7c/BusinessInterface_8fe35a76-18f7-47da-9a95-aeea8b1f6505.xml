@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyHedgeFundAdministrativePlan"
+    id="8fe35a76-18f7-47da-9a95-aeea8b1f6505"
+    documentation="Subscribe to Hedge Fund Administrative Plan notification services"/>

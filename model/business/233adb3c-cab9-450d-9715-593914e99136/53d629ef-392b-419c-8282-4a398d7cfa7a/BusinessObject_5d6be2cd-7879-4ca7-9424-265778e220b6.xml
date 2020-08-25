@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">BankTransaction"
+    id="5d6be2cd-7879-4ca7-9424-265778e220b6"
+    documentation=" Code of the underlying bank transaction.&#xA;&#xA;Код базовой банковской операции."/>

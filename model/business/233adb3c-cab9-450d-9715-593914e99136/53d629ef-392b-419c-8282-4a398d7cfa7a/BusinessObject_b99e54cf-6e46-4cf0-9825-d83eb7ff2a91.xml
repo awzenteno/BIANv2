@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CollateralPartyRole"
+    id="b99e54cf-6e46-4cf0-9825-d83eb7ff2a91"
+    documentation="Role played by a party in the context of collateral.&#xA;&#xA;Роль стороны в контексте _залога."/>

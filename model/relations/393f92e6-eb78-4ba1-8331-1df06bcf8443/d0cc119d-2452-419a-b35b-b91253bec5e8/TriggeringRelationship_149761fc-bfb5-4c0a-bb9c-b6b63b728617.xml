@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Report loan details"
+    id="149761fc-bfb5-4c0a-bb9c-b6b63b728617">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_2d4a6aaf-db18-4337-bc8b-8a33bd3c5aa2.xml#2d4a6aaf-db18-4337-bc8b-8a33bd3c5aa2"/>
+</archimate:TriggeringRelationship>

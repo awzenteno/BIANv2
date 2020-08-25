@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateFraud/AMLResolutionProcedure"
+    id="b295df7f-c9c7-4189-8aaa-7e10bb6c565b"
+    documentation="Assign responsibility for the Fraud/AML Resolution Procedure"/>

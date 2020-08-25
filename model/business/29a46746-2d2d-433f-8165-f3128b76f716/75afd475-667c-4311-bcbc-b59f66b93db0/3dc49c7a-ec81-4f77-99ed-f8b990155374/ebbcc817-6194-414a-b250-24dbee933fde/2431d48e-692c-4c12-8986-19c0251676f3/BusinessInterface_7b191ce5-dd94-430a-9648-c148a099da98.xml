@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCustomerBillingProcedureInvoice"
+    id="7b191ce5-dd94-430a-9648-c148a099da98"
+    documentation=" Execute/issue a customer invoice"/>

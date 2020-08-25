@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordBranchNetworkAnalysis"
+    id="5cc6b1ac-7872-4f32-befe-562cb8527966"
+    documentation="Record activity details/information against the Branch Network Analysis"/>

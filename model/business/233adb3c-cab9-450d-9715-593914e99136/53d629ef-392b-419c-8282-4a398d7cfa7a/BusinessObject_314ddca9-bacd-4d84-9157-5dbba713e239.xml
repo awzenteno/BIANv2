@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CustodyService"
+    id="314ddca9-bacd-4d84-9157-5dbba713e239"
+    documentation=" A service in which a financial institution holds securities on behalf of the client. Custody provides an investor a place to store assets. Assets in custody are not fungible for the brokerage because they remain on the client's name.&#xA;&#xA;Услуга, в рамках которой финансовое учреждение владеет ценными бумагами от имени клиента. Хранение предоставляет инвестору место для хранения активов. Опекаемые активы невзаимозаменяемы для брокера, потому что они все-еще остаются на имя клиента."/>

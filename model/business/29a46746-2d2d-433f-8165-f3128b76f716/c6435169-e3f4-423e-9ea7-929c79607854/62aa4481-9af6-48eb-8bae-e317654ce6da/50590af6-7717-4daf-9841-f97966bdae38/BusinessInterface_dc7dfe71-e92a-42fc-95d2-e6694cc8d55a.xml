@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateFinancialBookingLog"
+    id="dc7dfe71-e92a-42fc-95d2-e6694cc8d55a"
+    documentation="Update/correct details of sub-ledger posting"/>

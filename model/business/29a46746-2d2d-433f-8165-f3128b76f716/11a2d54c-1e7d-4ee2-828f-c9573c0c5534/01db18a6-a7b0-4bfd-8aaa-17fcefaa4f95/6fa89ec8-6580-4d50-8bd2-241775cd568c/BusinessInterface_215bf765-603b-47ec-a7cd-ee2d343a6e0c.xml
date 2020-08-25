@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBranchCashAllocation"
+    id="215bf765-603b-47ec-a7cd-ee2d343a6e0c"
+    documentation="Retrieve Branch Cash Allocation related reports"/>

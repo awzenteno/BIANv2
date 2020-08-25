@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate loan restructuring process"
+    id="a0448c6d-d6cd-4115-a5c6-dc258c14d7b7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_35489b1d-10dc-4505-aa8d-48fc74dc3414.xml#35489b1d-10dc-4505-aa8d-48fc74dc3414"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_67aa9eb7-7af4-4693-834c-a27e515574f7.xml#67aa9eb7-7af4-4693-834c-a27e515574f7"/>
+</archimate:TriggeringRelationship>

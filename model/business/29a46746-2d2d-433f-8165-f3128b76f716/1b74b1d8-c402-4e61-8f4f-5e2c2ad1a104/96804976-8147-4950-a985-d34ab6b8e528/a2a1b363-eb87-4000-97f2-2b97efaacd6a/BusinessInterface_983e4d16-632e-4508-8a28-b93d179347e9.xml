@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveInformationFeedSwitchOperatingSession"
+    id="983e4d16-632e-4508-8a28-b93d179347e9"
+    documentation="Retrieve Information Feed Switch Operating Session related reports"/>

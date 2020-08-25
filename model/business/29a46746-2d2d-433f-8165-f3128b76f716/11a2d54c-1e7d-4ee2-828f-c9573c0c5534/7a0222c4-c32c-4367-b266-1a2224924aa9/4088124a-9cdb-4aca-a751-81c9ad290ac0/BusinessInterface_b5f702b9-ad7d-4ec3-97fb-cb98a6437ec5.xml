@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerOfferProcedureNegotiation"
+    id="b5f702b9-ad7d-4ec3-97fb-cb98a6437ec5"
+    documentation=" Request the negotiation of terms/pricing"/>

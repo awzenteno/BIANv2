@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateEmployeeAllocation"
+    id="044971d6-1d6f-46c9-87f6-3b748de858d1"
+    documentation="Assign responsibility for and activate the Employee Allocation service"/>

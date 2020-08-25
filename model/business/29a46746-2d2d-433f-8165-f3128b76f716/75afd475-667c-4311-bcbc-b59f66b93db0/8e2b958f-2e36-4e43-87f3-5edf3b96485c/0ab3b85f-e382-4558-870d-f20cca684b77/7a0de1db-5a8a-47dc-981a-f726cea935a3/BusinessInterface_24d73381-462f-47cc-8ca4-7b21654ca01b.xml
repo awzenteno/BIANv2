@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveTradingModelSpecification"
+    id="24d73381-462f-47cc-8ca4-7b21654ca01b"
+    documentation="Retrieve Trading Model Specification related reports"/>

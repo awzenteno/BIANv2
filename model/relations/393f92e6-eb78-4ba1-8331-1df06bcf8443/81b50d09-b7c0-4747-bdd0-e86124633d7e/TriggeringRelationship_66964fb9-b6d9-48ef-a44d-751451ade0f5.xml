@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Set up new deposit account"
+    id="66964fb9-b6d9-48ef-a44d-751451ade0f5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a9c6d1d8-56b1-476e-8693-148245070f4a.xml#a9c6d1d8-56b1-476e-8693-148245070f4a"/>
+</archimate:TriggeringRelationship>

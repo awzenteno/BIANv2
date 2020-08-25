@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateBrokerAgreement"
+    id="b4ca0825-8e8d-4801-b5bd-d8d879ec9edc"
+    documentation=" Update agreement details (as allowed)"/>

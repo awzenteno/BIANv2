@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payments"
+    id="d82a25fb-e05b-44bb-ba99-901c6d6fb1c0"
+    documentation="This Business Domain groups the Service Domains supporting payment transactions, including the various connections to payment networks, central cash management and check processing.&#xA;&#xA;&#xA;&#xA;Этот бизнес-домен группирует Домены обслуживания, поддерживающие платежные операции, включая различные подключения к платежным сетям, централизованное управление денежными средствами и обработку чеков."/>

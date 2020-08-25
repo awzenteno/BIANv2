@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle request for Debit Cards service"
+    id="0f2fdd96-b875-4eb7-8e88-5f2eb2829b1a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_28ad1141-295a-4606-afc1-c114654bad7f.xml#28ad1141-295a-4606-afc1-c114654bad7f"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retrieve Credit Limit"
+    id="cbc62ca8-43ee-40de-b0a5-8af90997a039">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7885c4e8-aaef-4a09-8104-f527820169cb.xml#7885c4e8-aaef-4a09-8104-f527820169cb"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_78a39421-f3df-4ccf-8044-b7ab5e043e0d.xml#78a39421-f3df-4ccf-8044-b7ab5e043e0d"/>
+</archimate:TriggeringRelationship>

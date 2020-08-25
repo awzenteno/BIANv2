@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveFraud/AMLResolutionProcedure"
+    id="c0ee2b5c-7eb3-4808-b3e7-fb85a8da606c"
+    documentation="Retrieve Fraud/AML case report"/>

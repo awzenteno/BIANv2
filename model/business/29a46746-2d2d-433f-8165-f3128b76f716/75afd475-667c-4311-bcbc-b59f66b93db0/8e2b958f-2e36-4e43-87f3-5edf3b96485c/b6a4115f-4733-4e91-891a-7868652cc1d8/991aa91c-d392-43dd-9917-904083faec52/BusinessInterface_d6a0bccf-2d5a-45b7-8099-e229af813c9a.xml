@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyBearerDocumentTransaction"
+    id="d6a0bccf-2d5a-45b7-8099-e229af813c9a"
+    documentation="Comment:&#xA;&#xA;Subscribe to Bearer Document Transaction notification services"/>

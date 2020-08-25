@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordOpenItemProcedure"
+    id="2fbda490-6113-4122-8ff6-20b1be0045af"
+    documentation="Record information against an active open item procedure"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Borrower"
+    id="64c0cd1f-3412-4cf6-9e8f-f81ecdf1a3a5"
+    documentation="borrower / заёмщик, берущий взаймы &#xA; &#xA;Party that has applied, met specific requirements, and received a monetary or securities loan from a lender.&#xA;&#xA;&#xA;Сторона, которая подала заявку, выполнила конкретные требования и получила денежный кредит или кредит под ценные бумаги от кредитора."/>

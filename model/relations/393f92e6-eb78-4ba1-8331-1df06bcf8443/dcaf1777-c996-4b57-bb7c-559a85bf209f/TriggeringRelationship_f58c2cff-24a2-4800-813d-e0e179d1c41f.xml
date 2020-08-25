@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update pending payment order"
+    id="f58c2cff-24a2-4800-813d-e0e179d1c41f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3934c676-337f-43a2-86ea-42038fa8894f.xml#3934c676-337f-43a2-86ea-42038fa8894f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_086ef160-6d8c-425b-b221-5a1b45ad26c8.xml#086ef160-6d8c-425b-b221-5a1b45ad26c8"/>
+</archimate:TriggeringRelationship>

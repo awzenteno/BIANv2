@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCorporateCurrentAccountFulfillmentArrangement"
+    id="ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd"
+    documentation="Comment:&#xA;&#xA;Execute a task under the Corporate Current Account"/>

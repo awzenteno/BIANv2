@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Complete Contact Setup"
+    id="05fa7607-5931-45d3-b6ba-022c3c9b846b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5cfdbaa4-3a1d-4f97-901f-3979b4a588aa.xml#5cfdbaa4-3a1d-4f97-901f-3979b4a588aa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1b23cb33-8f56-4f22-806f-a300bee5fb00.xml#1b23cb33-8f56-4f22-806f-a300bee5fb00"/>
+</archimate:TriggeringRelationship>

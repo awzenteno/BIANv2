@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCorporateTreasuryAnalysis"
+    id="cb1232bd-78d8-4a3a-8506-f322f3ef94ed"
+    documentation="Request a service under the Corporate Treasury Analysis"/>

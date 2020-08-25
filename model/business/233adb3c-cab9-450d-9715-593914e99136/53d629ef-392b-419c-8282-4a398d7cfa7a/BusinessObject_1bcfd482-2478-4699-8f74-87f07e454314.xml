@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CreditTransfer"
+    id="1bcfd482-2478-4699-8f74-87f07e454314"
+    documentation=" Payment made by transferring an amount of money from a debtor to a creditor. The payment flows through one or more financial institutions or systems.&#xA;&#xA;&#xA;Оплата производится путем перечисления денежной суммы от должника кредитору. Оплата проходит через одно или несколько финансовых учреждений или систем."/>

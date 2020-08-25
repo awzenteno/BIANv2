@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">StandingOrder"
+    id="b3d83911-7d66-41a8-8305-1392c1f7fac2"
+    documentation="Standing Order / регламент, распорядок&#xA;&#xA; Instruction given by an account holder to an account servicer to make regular transfers on given dates to the same beneficiary.&#xA;&#xA;Поручение владельца счета к обслуживающему счет, чтобы сделать регулярные переводы на указанные даты на одного получателя."/>

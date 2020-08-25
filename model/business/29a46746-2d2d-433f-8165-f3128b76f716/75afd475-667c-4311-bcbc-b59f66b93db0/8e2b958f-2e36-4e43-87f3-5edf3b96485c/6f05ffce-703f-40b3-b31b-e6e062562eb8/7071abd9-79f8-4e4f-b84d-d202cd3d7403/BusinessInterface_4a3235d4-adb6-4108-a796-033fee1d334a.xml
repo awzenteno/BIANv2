@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateDirectDebitFulfillmentArrangement"
+    id="4a3235d4-adb6-4108-a796-033fee1d334a"
+    documentation="Terminate all or some part of the Direct Debit"/>

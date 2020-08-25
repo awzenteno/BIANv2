@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate replacement loan"
+    id="c15b4317-63a7-4b5a-b690-ca7a221a5229">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1ed107eb-1b9e-4c10-b72c-6cde7579c648.xml#1ed107eb-1b9e-4c10-b72c-6cde7579c648"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_8a792a23-743b-4d85-88a3-a78c57acf636.xml#8a792a23-743b-4d85-88a3-a78c57acf636"/>
+</archimate:TriggeringRelationship>

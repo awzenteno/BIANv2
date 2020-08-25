@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PresentationManagementSession"
+    id="1bbb7a7c-1fc2-4d83-9541-16b8b8351fc5"
+    documentation="An operating session of a presentation management system&#xA;&#xA;Операционная сессия системы _презентующей/отображающей документы_"/>

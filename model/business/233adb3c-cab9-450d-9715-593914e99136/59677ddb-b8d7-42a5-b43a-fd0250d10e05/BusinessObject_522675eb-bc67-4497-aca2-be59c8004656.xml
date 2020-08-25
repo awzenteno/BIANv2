@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProspectStatus"
+    id="522675eb-bc67-4497-aca2-be59c8004656"
+    documentation=" A stage in the lifecycle of a prospect&#xA;&#xA;Note: A prospect becomes a customer once the prospect is offered an agreement&#xA;&#xA;&#xA;&#xA;Этап жизненного цикла _предполагаемого клиента__&#xA;&#xA;Примечание: _предполагаемый клиент__ становится клиентом, как только ему будет предложено соглашение"/>

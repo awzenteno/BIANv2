@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCardCaseProcedure"
+    id="a279c20e-6cb4-4b5b-b88b-d92276fe3026"
+    documentation="Retrieve Card Case Procedure related reports"/>

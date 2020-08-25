@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveConsumerAdviceFulfillmentArrangement"
+    id="4f2b6508-7c85-48f7-8abe-48d87acc7cb3"
+    documentation=" Retrieve consumer advice fulfillment arrangement related reports"/>

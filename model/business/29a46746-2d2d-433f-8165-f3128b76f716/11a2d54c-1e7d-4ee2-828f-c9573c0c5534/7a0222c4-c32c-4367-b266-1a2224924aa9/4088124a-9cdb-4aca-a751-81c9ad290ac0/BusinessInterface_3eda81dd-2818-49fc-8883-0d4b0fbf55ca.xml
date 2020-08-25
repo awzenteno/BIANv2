@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerOfferProcedure"
+    id="3eda81dd-2818-49fc-8883-0d4b0fbf55ca"
+    documentation=" Retrieve customer offer processing report"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ResponsiblePartyRole"
+    id="34257fae-db6a-44cf-b52b-20377da09f28"
+    documentation="Identification of the party who is responsible for the certificate.&#xA;&#xA;Идентификация стороны, ответственной за сертификат."/>

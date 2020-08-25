@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvoiceFinancingAgreement"
+    id="dd6aac1b-622c-4b3a-a8c5-d9b49cac5777"
+    documentation="Set of characteristics that unambiguously identify an invoice financing agreement. An invoice financing agreement between a factor and its client allows to transfer a payment obligation that exists between the client and a third party from the client to the factor.&#xA;&#xA;Набор характеристик, однозначно идентифицирующих договор финансирования по накладной. Договор финансирования счета-фактуры между фактором и его клиентом позволяет передать фактору платежное обязательство, существующее между клиентом и третьим лицом."/>

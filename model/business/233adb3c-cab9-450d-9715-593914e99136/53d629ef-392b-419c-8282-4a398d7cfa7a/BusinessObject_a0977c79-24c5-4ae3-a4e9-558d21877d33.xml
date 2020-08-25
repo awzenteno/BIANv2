@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionSecuritiesEntitlement"
+    id="a0977c79-24c5-4ae3-a4e9-558d21877d33"
+    documentation="Rights for securities entitled to the account owner based on the terms of the corporate action event and the balance of underlying securities.&#xA;&#xA;Права на ценные бумаги принадлежат владельцу счета на основании условий проведения CA и остатка базовых ценных бумаг."/>

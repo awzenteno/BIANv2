@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process request for Amount Block"
+    id="3a11b89b-4385-477c-81e6-1e3f845feae3">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1ed107eb-1b9e-4c10-b72c-6cde7579c648.xml#1ed107eb-1b9e-4c10-b72c-6cde7579c648"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd.xml#ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd"/>
+</archimate:TriggeringRelationship>

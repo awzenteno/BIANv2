@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Update facility settings"
+    id="623a2a6b-ae79-464d-83a2-291e4598a232">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f61d029e-6d80-480b-870a-989a97cd5201.xml#f61d029e-6d80-480b-870a-989a97cd5201"/>
+</archimate:TriggeringRelationship>

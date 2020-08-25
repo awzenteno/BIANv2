@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashAccount"
+    id="41d34cfa-81f2-46cd-b2e5-3292a8ae9eec"
+    documentation=" Account to or from which a cash entry is made.&#xA;&#xA;&#xA;__Счет &quot;на&quot; &quot;из&quot; которого сделана денежная транзакция"/>

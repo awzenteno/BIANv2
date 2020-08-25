@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordFinancialGatewayOperatingSession"
+    id="c020c119-88d3-4e1f-b329-b65046353159"
+    documentation=" Record activity/feedback against the financial gateway operating session"/>

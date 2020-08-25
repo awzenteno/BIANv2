@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ExecutingBrokerRole"
+    id="237592a9-b539-4a43-b08b-174c62888b9c"
+    documentation="Party responsible for executing an order (e.g. an executing or give-up broker).&#xA;&#xA;Сторона, ответственная за исполнение ордера (например, исполняющий или отдающий брокер)."/>

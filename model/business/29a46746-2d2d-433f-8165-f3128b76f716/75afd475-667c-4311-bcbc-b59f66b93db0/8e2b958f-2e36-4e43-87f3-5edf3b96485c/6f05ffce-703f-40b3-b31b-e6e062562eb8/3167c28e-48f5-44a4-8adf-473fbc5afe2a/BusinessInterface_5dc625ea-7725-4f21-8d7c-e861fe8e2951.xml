@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeLockBoxFulfillmentArrangement"
+    id="5dc625ea-7725-4f21-8d7c-e861fe8e2951"
+    documentation="Execute a task under the Lock Box"/>

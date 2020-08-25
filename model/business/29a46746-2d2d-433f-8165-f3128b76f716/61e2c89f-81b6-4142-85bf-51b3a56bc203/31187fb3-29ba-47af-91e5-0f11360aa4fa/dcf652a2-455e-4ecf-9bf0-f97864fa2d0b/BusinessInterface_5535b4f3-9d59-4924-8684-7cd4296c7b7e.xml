@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeSecurityComplianceAssessment"
+    id="5535b4f3-9d59-4924-8684-7cd4296c7b7e"
+    documentation="Obtain authorization for some action under the Security Compliance Assessment"/>

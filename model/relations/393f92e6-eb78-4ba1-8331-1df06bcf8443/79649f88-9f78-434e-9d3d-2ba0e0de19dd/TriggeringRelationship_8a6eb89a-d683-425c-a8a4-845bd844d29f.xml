@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Capture document"
+    id="8a6eb89a-d683-425c-a8a4-845bd844d29f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_db887c83-ae88-471e-bcd2-b369c6d3b3bc.xml#db887c83-ae88-471e-bcd2-b369c6d3b3bc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1e5dab02-b86c-4547-b815-8f1236fe0394.xml#1e5dab02-b86c-4547-b815-8f1236fe0394"/>
+</archimate:TriggeringRelationship>

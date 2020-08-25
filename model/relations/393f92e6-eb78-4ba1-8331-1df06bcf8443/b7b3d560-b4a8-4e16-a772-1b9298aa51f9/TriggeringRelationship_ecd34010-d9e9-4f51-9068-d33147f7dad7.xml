@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Update Product Directory"
+    id="ecd34010-d9e9-4f51-9068-d33147f7dad7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7d03e0a5-8b04-41f1-b4e9-afaf71a283cc.xml#7d03e0a5-8b04-41f1-b4e9-afaf71a283cc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_85e1a2d4-ed5b-4c5d-a357-3d3e03321a9e.xml#85e1a2d4-ed5b-4c5d-a357-3d3e03321a9e"/>
+</archimate:TriggeringRelationship>

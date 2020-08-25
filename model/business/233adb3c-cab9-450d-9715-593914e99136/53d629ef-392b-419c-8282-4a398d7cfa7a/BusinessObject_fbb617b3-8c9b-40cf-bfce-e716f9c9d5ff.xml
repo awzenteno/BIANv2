@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Cheque"
+    id="fbb617b3-8c9b-40cf-bfce-e716f9c9d5ff"
+    documentation="Negotiable instrument instructing a financial institution to pay a specific amount of a specific currency from the account of the drawer with that institution.&#xA;&#xA;Оборотный инструмент, предписывающий финансовому учреждению выплачивать определенную сумму в определенной валюте со счета векселедателя в этом учреждении."/>

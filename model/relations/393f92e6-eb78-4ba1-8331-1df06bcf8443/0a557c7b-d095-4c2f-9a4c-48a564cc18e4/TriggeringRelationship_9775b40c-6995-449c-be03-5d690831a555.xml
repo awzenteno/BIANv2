@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Set up new transaction journal"
+    id="9775b40c-6995-449c-be03-5d690831a555">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_75ae151c-9808-4386-bd4d-5775a35d705b.xml#75ae151c-9808-4386-bd4d-5775a35d705b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_525d55ea-5640-490e-b634-d80453173566.xml#525d55ea-5640-490e-b634-d80453173566"/>
+</archimate:TriggeringRelationship>

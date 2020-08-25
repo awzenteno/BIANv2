@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Settlement"
+    id="415c4189-310a-4921-95a9-4c909cc95b10"
+    documentation="settlement / уплата, рассчет / процесс передачи денег&#xA;&#xA;Process which consists in transferring the proceeds related to a trade from one party to the next one.&#xA;&#xA;Процесс, который заключается в передаче выручки, связанной с торговлей, от одной стороны к другой."/>

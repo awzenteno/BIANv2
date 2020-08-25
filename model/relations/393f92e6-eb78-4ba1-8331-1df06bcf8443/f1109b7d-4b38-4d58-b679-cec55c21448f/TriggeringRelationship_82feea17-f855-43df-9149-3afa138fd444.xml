@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get merchant agreement details"
+    id="82feea17-f855-43df-9149-3afa138fd444">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_819944af-a4af-4030-961b-bac66f213f26.xml#819944af-a4af-4030-961b-bac66f213f26"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_293ac275-07a1-4d36-997c-81217f69d785.xml#293ac275-07a1-4d36-997c-81217f69d785"/>
+</archimate:TriggeringRelationship>

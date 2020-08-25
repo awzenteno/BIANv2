@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Update operational product instances"
+    id="9cb70508-9667-4d94-ae12-6edaa7395983">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_35c23b73-5e47-4a90-8e79-45c7c52c052f.xml#35c23b73-5e47-4a90-8e79-45c7c52c052f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4438373a-49e6-44be-917a-601c1b922fab.xml#4438373a-49e6-44be-917a-601c1b922fab"/>
+</archimate:TriggeringRelationship>

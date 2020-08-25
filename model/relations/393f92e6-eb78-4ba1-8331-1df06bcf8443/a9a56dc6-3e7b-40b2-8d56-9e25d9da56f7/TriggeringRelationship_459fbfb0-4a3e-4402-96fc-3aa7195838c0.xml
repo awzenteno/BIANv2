@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Inform relationship managers on accounts that became dormant"
+    id="459fbfb0-4a3e-4402-96fc-3aa7195838c0">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_34d91427-3bd1-4853-9f95-17a994840316.xml#34d91427-3bd1-4853-9f95-17a994840316"/>
+</archimate:TriggeringRelationship>

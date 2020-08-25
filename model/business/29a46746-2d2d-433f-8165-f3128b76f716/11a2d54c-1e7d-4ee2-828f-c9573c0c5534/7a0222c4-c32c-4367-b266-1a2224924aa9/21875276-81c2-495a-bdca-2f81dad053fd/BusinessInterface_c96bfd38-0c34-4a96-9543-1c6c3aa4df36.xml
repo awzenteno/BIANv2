@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateCommissionTransaction"
+    id="c96bfd38-0c34-4a96-9543-1c6c3aa4df36"
+    documentation="Initiate a Commission Transaction"/>

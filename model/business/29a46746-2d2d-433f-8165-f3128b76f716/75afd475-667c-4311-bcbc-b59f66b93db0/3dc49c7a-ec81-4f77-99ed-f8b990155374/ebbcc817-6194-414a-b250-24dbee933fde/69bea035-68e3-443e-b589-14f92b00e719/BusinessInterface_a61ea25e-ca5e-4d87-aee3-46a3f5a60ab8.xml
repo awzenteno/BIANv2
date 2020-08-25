@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateDisbursementTransaction"
+    id="a61ea25e-ca5e-4d87-aee3-46a3f5a60ab8"
+    documentation="Initiate a disbursement transaction"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveITSystemsPlatformOperatingSession"
+    id="ec491c33-eceb-4bfa-8488-05bc56ff52dc"
+    documentation="Retrieve IT Systems Platform Operating Session related reports"/>

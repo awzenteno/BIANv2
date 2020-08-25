@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Monitor"
+    id="81326583-ceea-4b60-b2f6-aaa181eeed0c"
+    documentation="Monitor and define the status/rating of some entity. &#xA;Examples: Monitor the status and key indicators of a customer to influence on-line interactions and track the status of issued cards for security and access control.&#xA;&#xA;Inactive&#xA;Monitoring-active&#xA;Monitoring-update-pending&#xA;Monitoring-concluded&#xA;"/>

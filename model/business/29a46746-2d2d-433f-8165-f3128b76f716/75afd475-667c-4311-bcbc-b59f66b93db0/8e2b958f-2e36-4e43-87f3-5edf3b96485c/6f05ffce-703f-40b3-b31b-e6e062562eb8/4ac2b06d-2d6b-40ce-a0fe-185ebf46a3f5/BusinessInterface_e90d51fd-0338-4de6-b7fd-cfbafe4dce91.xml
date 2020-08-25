@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCashManagementFulfillmentArrangement"
+    id="e90d51fd-0338-4de6-b7fd-cfbafe4dce91"
+    documentation="Record activity details/information against the Cash Management"/>

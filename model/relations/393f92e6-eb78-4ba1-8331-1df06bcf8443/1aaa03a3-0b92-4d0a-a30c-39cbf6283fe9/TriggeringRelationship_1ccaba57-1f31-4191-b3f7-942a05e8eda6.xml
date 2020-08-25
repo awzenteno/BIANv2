@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate POS Transaction Authorisation/Capture"
+    id="1ccaba57-1f31-4191-b3f7-942a05e8eda6">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6f75126b-f2bc-4fd5-8bcb-2def14961679.xml#6f75126b-f2bc-4fd5-8bcb-2def14961679"/>
+</archimate:TriggeringRelationship>

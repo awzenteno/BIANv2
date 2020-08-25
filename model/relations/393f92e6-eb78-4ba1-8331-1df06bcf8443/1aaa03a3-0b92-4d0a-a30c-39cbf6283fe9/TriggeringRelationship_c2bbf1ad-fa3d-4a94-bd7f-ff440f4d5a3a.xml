@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticate party identy"
+    id="c2bbf1ad-fa3d-4a94-bd7f-ff440f4d5a3a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1dc72423-5867-4285-a617-fc5681f9da06.xml#1dc72423-5867-4285-a617-fc5681f9da06"/>
+</archimate:TriggeringRelationship>

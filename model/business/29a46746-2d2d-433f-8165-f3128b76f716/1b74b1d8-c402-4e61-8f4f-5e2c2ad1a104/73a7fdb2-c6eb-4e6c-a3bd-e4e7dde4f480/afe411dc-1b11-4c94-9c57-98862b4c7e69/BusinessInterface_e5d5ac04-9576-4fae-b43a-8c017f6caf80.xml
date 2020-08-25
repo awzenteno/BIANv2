@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestBrokerAgreement"
+    id="e5d5ac04-9576-4fae-b43a-8c017f6caf80"
+    documentation="Request to review/refresh the terms of the agreement"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveFinancialBookingLog"
+    id="66d7ce03-719f-469f-b377-0741cfbe4117"
+    documentation="Retrieve sub-ledger record extract/report"/>

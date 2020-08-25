@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" notifySalesProduct/ServiceAgreement"
+    id="bf249e3e-faec-40f5-bb35-c620aed921a0"
+    documentation="Subscribe to Sales Product/Service Agreement notification services"/>

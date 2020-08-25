@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCounterpartyCreditRiskMeasurement"
+    id="15cf7600-9fcf-4cb5-bd74-dbf3dd81da5a"
+    documentation="Subscribe to Counterparty Credit Risk Measurement notification services"/>

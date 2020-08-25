@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyFinancialInstrumentDirectory"
+    id="9a4a15ed-0961-434d-a402-27f6d28867a4"
+    documentation="Comment:&#xA;&#xA;Subscribe to Financial Instrument Registration notification services"/>

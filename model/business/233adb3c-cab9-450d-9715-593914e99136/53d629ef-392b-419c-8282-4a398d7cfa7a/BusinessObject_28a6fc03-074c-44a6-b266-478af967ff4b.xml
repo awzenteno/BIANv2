@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CardPaymentStatus"
+    id="28a6fc03-074c-44a6-b266-478af967ff4b"
+    documentation="Status of a payment by card.&#xA;&#xA;&#xA;Статус платежа по карте."/>

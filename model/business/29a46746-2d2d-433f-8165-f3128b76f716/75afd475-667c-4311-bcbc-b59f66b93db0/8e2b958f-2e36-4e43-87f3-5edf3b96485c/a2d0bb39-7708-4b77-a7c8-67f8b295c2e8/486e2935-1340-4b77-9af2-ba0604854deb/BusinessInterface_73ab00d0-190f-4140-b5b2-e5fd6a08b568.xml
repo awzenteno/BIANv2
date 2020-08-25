@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" executeCredit/ChargeCardFulfillmentArrangementBilling"
+    id="73ab00d0-190f-4140-b5b2-e5fd6a08b568"
+    documentation="Execute automated billing action for an arrangement"/>

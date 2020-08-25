@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ContraClearingFirm"
+    id="3b827976-76b3-4c40-b27d-fd8f8a84f270"
+    documentation="Party that is the clearing firm of the counterparty in a trade.&#xA;&#xA;Сторона, которая является клиринговой фирмой контрагента по сделке."/>

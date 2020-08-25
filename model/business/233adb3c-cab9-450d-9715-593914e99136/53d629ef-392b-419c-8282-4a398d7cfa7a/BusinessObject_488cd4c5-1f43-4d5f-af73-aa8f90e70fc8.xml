@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ElectronicAddress"
+    id="488cd4c5-1f43-4d5f-af73-aa8f90e70fc8"
+    documentation=" Address which is accessed by electronic means.&#xA;&#xA;Адрес, к которому осуществляется доступ с помощью электронных средств."/>

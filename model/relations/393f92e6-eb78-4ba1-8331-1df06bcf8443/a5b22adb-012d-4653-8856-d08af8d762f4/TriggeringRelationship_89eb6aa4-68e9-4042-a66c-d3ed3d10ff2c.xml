@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request production systems rollout"
+    id="89eb6aa4-68e9-4042-a66c-d3ed3d10ff2c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_15519ec9-4ec9-406c-9ad6-30bd21c34d6f.xml#15519ec9-4ec9-406c-9ad6-30bd21c34d6f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_44c3a7e5-96ef-46cd-ae0d-8da1fe36733e.xml#44c3a7e5-96ef-46cd-ae0d-8da1fe36733e"/>
+</archimate:TriggeringRelationship>

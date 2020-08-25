@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesTax"
+    id="a6362dff-0e94-411c-bb44-03949f4bb2b8"
+    documentation="Amount of money due to the government or tax authority, according to various pre-defined parameters such as thresholds or income.&#xA;&#xA;Сумма денег, причитающаяся государству или налоговому органу, в соответствии с различными заранее определенными параметрами, такими как пороговые значения или доходы."/>

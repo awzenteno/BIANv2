@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeRewardPointsTransaction"
+    id="5ef3331d-5fc3-47f2-b52a-93137d0cadac"
+    documentation="Execute a task against the active Reward Points Transaction"/>

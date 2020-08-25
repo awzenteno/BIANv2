@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCashDistributionProcedure"
+    id="587fa5c2-628e-4895-a278-8040caeabc0b"
+    documentation="Subscribe to Cash Distribution Procedure notification services"/>

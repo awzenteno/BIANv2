@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEmployeeTrainingAdministrativePlan"
+    id="ce9e94bf-67a6-400f-957c-d5df213d4d15"
+    documentation="Retrieve Employee Training Administrative Plan related reports"/>

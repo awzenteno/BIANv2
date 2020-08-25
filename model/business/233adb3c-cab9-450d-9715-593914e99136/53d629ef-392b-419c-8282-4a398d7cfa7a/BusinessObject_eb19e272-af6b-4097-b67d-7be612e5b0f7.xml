@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Penalty"
+    id="eb19e272-af6b-4097-b67d-7be612e5b0f7"
+    documentation=" Fee charged when the conditions of a contract are not met.&#xA;&#xA;Плата взимается в случае невыполнения условий договора."/>

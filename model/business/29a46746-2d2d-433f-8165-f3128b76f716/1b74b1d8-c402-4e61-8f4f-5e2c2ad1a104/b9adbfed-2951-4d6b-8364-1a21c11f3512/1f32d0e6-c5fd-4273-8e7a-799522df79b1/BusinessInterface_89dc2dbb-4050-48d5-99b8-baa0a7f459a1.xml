@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordPartyDirectory"
+    id="89dc2dbb-4050-48d5-99b8-baa0a7f459a1"
+    documentation="Record usage or feedback against a directory entry"/>

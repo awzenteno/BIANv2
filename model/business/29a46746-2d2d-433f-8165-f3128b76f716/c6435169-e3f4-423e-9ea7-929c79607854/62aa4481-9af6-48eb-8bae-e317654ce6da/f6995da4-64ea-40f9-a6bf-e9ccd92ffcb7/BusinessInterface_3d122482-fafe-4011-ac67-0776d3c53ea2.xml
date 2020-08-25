@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateFraud/AMLResolutionProcedure"
+    id="3d122482-fafe-4011-ac67-0776d3c53ea2"
+    documentation="Update details of an active Fraud/AML case"/>

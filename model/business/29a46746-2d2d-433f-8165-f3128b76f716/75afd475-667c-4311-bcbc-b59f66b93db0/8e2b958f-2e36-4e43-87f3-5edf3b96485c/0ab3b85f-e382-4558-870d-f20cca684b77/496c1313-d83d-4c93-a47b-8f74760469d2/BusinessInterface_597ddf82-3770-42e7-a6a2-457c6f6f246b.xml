@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateTradingCreditPositionMeasurement"
+    id="597ddf82-3770-42e7-a6a2-457c6f6f246b"
+    documentation="Comment:&#xA;&#xA;Terminate all or some part of the Trading Credit Position Measurement"/>

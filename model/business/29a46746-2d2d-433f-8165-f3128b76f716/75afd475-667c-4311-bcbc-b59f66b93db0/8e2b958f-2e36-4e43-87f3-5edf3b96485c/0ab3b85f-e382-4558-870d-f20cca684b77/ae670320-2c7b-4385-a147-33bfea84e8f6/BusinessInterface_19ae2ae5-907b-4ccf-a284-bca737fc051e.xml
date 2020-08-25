@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyMarketOrderTransaction"
+    id="19ae2ae5-907b-4ccf-a284-bca737fc051e"
+    documentation="Subscribe to Market Order Transaction notification services"/>

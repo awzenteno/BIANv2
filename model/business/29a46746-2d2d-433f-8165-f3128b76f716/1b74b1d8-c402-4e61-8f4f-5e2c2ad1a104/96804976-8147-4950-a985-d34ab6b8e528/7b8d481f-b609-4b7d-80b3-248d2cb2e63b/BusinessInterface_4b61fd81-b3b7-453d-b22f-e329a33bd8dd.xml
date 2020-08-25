@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveFinancialInstrumentDirectory"
+    id="4b61fd81-b3b7-453d-b22f-e329a33bd8dd"
+    documentation="Retrieve Financial Instrument Registration related reports"/>

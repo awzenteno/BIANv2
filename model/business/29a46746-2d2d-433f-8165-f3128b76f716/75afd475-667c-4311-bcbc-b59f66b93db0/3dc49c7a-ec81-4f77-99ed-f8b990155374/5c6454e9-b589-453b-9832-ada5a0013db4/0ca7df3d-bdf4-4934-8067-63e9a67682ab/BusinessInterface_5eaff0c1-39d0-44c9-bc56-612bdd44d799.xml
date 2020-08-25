@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCorrespondentBankFulfillmentArrangementInbound"
+    id="5eaff0c1-39d0-44c9-bc56-612bdd44d799"
+    documentation=" Execute inbound correspondent bank payment processing"/>

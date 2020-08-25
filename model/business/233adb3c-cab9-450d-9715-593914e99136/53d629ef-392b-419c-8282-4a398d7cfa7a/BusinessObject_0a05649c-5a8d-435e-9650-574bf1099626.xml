@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ResolutionProposalDeadline"
+    id="0a05649c-5a8d-435e-9650-574bf1099626"
+    documentation="Date and time by which security holders can propose amendments or new resolutions.&#xA;&#xA;Дата и время, к которым держатели ценных бумаг могут предлагать поправки или новые резолюции."/>

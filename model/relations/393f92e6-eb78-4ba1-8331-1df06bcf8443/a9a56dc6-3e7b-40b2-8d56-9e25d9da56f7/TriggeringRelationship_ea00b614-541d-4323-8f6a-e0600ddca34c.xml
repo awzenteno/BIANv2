@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exit if debit amount + transaction fee > Calculated Balance"
+    id="ea00b614-541d-4323-8f6a-e0600ddca34c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_27976748-f58e-4ffc-8207-8d0b1b5b2e0d.xml#27976748-f58e-4ffc-8207-8d0b1b5b2e0d"/>
+</archimate:TriggeringRelationship>

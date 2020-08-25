@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">FATCAStatus"
+    id="40c5a483-576e-44e0-ad41-250012c6b712"
+    documentation=" Foreign Account Tax Compliance Act (FATCA) status and the status source of the investor.&#xA;&#xA;Закон О налоговом соответствии иностранных счетов (FATCA) статус и источник статуса инвестора."/>

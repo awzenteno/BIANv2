@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifySpecialPricingConditionsDirectory"
+    id="6ab9792f-53ea-43af-a549-1835c5f1c205"
+    documentation="Subscribe to special pricing conditions directory notification services"/>

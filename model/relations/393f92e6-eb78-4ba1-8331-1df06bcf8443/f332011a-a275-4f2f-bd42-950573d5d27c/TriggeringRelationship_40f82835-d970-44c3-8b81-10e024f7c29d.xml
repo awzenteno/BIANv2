@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate open item tracking"
+    id="40f82835-d970-44c3-8b81-10e024f7c29d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_12e91020-304e-4781-914d-c1ebc242aff6.xml#12e91020-304e-4781-914d-c1ebc242aff6"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_98d6a368-2d3b-4750-8bf3-a75de1ed310c.xml#98d6a368-2d3b-4750-8bf3-a75de1ed310c"/>
+</archimate:TriggeringRelationship>

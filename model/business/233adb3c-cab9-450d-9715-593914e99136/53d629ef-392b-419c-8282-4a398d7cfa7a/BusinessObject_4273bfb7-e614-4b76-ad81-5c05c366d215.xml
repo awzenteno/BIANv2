@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionElection"
+    id="4273bfb7-e614-4b76-ad81-5c05c366d215"
+    documentation=" Decision taken by the account holder regarding the corporate action event.&#xA;&#xA;Решение, принятое владельцем счета в отношении _CA события."/>

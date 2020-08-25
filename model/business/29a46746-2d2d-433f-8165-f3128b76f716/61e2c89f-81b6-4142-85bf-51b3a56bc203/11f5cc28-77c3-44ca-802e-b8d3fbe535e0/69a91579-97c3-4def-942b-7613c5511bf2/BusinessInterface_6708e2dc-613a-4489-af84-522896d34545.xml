@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registerEmployeeDirectory"
+    id="6708e2dc-613a-4489-af84-522896d34545"
+    documentation="Register a new Employee "/>

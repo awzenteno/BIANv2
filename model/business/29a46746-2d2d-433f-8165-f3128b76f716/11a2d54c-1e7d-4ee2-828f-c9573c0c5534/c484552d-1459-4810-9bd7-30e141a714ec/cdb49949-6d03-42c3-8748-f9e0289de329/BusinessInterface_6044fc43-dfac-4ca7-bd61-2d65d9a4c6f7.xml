@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerContactOperatingSession"
+    id="6044fc43-dfac-4ca7-bd61-2d65d9a4c6f7"
+    documentation=" Request re-authentication of a customer during a contact session"/>

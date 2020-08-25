@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyChannelPortfolioAnalysis"
+    id="d9bcf361-744a-49c6-b2af-bbe4a695979e"
+    documentation="Subscribe to Channel Portfolio Analysis notification services"/>

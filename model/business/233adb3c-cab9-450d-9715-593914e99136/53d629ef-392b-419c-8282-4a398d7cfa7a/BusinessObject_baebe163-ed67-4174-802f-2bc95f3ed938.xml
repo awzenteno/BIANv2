@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MandatePartyRole"
+    id="baebe163-ed67-4174-802f-2bc95f3ed938"
+    documentation=" Role played by a party in the context of a mandate.&#xA;&#xA;Роль партии в контексте мандата."/>

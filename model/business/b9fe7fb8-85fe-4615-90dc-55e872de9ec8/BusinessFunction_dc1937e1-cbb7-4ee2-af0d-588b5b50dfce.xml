@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="->Request"
+    id="dc1937e1-cbb7-4ee2-af0d-588b5b50dfce"
+    documentation="Request for the provision of some service. &#xA;Example: A customer requests that a standing order is set up on the current account."/>

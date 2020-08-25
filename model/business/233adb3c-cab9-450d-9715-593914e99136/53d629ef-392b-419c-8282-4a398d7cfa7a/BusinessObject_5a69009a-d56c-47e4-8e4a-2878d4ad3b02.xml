@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CollateralSubstitution"
+    id="5a69009a-d56c-47e4-8e4a-2878d4ad3b02"
+    documentation="Substitution of collateral by specifying the collateral to be returned and proposing the new type(s) of collateral to be delivered.&#xA;&#xA;Замена залога путем указания подлежащего возврату залога и предложения нового вида залога, подлежащего  поставке."/>

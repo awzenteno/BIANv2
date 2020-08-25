@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ForeignExchangeTrade"
+    id="aa5d3dfe-add9-4c57-8d96-c87235d82740"
+    documentation=" Agreement between two parties in which one party buys a currency and the other party sells a different currency.&#xA;&#xA;Соглашение между двумя сторонами, в котором одна сторона покупает валюту, а другая сторона продает другой валюте."/>

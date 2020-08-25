@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBankGuaranteeFulfillmentArrangement"
+    id="e583d5bb-962e-45f9-8e0e-f70248d8edd8"
+    documentation="Retrieve Bank Guarantee Fulfillment related reports"/>

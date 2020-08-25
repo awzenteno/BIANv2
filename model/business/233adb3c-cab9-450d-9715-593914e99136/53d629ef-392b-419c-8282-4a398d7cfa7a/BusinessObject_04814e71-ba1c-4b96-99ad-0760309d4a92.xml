@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Payment"
+    id="04814e71-ba1c-4b96-99ad-0760309d4a92"
+    documentation=" Payment information and processes required to transfer cash end to end from the debtor to the creditor.&#xA;&#xA;Платежная информация и процессы, необходимые для передачи денежных средств от должника к кредитору."/>

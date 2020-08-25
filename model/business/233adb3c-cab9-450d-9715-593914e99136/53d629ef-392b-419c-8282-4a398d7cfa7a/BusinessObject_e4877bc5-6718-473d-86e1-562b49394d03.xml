@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">GoodsPartyRole"
+    id="e4877bc5-6718-473d-86e1-562b49394d03"
+    documentation=" Role played by a party in the context of handling goods.&#xA;&#xA;Роль партии в контексте обработки товаров."/>

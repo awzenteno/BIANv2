@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateDirectDebitMandateFulfillmentArrangement"
+    id="fe6b7767-1c0f-4e83-aebf-3047271dd37c"
+    documentation="Update elements of the Direct Debit Mandate"/>

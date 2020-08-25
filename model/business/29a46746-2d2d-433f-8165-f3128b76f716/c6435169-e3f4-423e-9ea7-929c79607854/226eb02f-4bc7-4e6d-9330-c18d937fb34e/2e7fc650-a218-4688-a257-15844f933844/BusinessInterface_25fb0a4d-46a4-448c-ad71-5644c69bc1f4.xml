@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyContributionAnalysis"
+    id="25fb0a4d-46a4-448c-ad71-5644c69bc1f4"
+    documentation="Subscribe to Contribution Analysis notification services"/>

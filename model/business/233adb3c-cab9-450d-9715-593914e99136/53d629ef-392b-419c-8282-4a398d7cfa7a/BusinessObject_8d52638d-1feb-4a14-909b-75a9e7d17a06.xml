@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CentralSecuritiesDepositoryRole"
+    id="8d52638d-1feb-4a14-909b-75a9e7d17a06"
+    documentation=" An infrastructure that, holds or controls, the holding of physical or dematerialised financial instruments belonging to all, or a large portion of, the investors in a securities market. This effects the centralised transfer of ownership of such securities by entries on its books and records. The depository may delegate custody to another entity (custodian).&#xA;&#xA;&#xA;Инфраструктура, которая удерживает или контролирует владение физическими или дематериализованными финансовыми инструментами, принадлежащими всем или значительной части инвесторов на рынке ценных бумаг. Это приводит к централизованной передаче права собственности на такие ценные бумаги посредством записей в их бухгалтерских книгах и записях. Депозитарий может делегировать право попечения другому лицу (хранителю).&#xA;&#xA;&#xA;CSD / Central Securities Depository / центральный депозитарий; расчетный депозитарий"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get Location Data for Verification"
+    id="a7677553-ee1c-4f98-998a-ba94d7a49f7f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_33593414-659d-44f0-a0af-6e8cf0b8f27b.xml#33593414-659d-44f0-a0af-6e8cf0b8f27b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_3c521bfb-dabb-4b40-89ba-8b712f2e1467.xml#3c521bfb-dabb-4b40-89ba-8b712f2e1467"/>
+</archimate:TriggeringRelationship>

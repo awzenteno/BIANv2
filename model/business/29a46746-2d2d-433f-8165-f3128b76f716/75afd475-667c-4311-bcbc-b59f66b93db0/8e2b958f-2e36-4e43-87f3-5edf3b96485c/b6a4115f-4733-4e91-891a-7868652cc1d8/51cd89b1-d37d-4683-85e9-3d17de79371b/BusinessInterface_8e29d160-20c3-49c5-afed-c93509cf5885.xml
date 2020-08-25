@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerTaxObligationFulfillmentArrangement"
+    id="8e29d160-20c3-49c5-afed-c93509cf5885"
+    documentation="Retrieve Customer Tax Obligation Product Agreement related reports"/>

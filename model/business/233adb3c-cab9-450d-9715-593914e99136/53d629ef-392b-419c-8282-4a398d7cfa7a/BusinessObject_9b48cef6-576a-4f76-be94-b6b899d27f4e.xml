@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvoiceFinancingStatus"
+    id="9b48cef6-576a-4f76-be94-b6b899d27f4e"
+    documentation=" Status of an invoice financing transaction and of the instructions related to the invoice financing.&#xA;&#xA;Состояние проводки финансирования накладной и инструкций, связанных с финансированием накладной."/>

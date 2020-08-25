@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashClearingSystem"
+    id="ec57e710-3d97-403d-bfad-3145600ce783"
+    documentation=" Clearing system that processes only cash transfers.&#xA;&#xA;&#xA;Клиринговая система (_система безналичных рассчетов_), которая обрабатывает только денежные переводы."/>

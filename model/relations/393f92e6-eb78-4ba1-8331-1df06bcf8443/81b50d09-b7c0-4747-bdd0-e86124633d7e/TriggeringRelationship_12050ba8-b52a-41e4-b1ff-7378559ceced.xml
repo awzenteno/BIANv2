@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get Customer-specific conditions"
+    id="12050ba8-b52a-41e4-b1ff-7378559ceced">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6337c2b9-d7d3-44fc-8345-8cd9910fec29.xml#6337c2b9-d7d3-44fc-8345-8cd9910fec29"/>
+</archimate:TriggeringRelationship>

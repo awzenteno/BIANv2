@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CurrencyExchange"
+    id="0a11dabd-aa3b-4a5a-9a25-d960566344d1"
+    documentation=" Information needed to process a currency exchange or conversion.&#xA;&#xA;Информация, необходимая для обработки обмена или конвертации валюты."/>

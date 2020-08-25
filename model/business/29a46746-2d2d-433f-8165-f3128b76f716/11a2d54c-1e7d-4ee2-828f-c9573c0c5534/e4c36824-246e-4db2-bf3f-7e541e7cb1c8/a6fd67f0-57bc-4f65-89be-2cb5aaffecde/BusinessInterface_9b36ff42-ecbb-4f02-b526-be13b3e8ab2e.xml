@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerCaseManagementPlan"
+    id="9b36ff42-ecbb-4f02-b526-be13b3e8ab2e"
+    documentation="Retrieve Customer Case Management Plan related reports"/>

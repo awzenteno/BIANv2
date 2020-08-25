@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvestigationCaseStatus"
+    id="b1db48fe-317b-464c-942a-7f3ebdcaa2b8"
+    documentation=" Status of an investigation case.&#xA;&#xA;Статус следственного дела."/>

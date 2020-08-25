@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De-activate Sweep service"
+    id="72ce867e-d030-4381-a32a-a8d21d1f69c9">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_30ed4803-05a4-4aa9-901c-901323e976c4.xml#30ed4803-05a4-4aa9-901c-901323e976c4"/>
+</archimate:TriggeringRelationship>

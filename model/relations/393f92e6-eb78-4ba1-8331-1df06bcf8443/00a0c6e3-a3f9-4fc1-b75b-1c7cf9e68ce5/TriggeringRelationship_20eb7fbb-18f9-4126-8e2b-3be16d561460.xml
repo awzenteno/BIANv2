@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record product status and details"
+    id="20eb7fbb-18f9-4126-8e2b-3be16d561460">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_2675c34d-b78d-484f-ad41-36bebbde6b70.xml#2675c34d-b78d-484f-ad41-36bebbde6b70"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_2d4a6aaf-db18-4337-bc8b-8a33bd3c5aa2.xml#2d4a6aaf-db18-4337-bc8b-8a33bd3c5aa2"/>
+</archimate:TriggeringRelationship>

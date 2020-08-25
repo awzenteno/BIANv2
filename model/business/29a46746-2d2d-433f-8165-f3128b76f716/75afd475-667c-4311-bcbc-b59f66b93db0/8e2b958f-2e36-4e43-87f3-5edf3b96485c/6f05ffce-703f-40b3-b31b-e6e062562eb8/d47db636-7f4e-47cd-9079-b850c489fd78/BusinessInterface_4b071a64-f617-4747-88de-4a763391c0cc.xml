@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateTradeFinanceFulfillmentArrangement"
+    id="4b071a64-f617-4747-88de-4a763391c0cc"
+    documentation="Update elements of the Trade Finance"/>

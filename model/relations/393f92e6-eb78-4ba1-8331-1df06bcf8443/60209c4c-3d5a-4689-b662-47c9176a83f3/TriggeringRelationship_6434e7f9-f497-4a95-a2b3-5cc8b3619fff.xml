@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get conditions for early closure"
+    id="6434e7f9-f497-4a95-a2b3-5cc8b3619fff">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ce99301c-ddb2-4c7a-97c5-4ee5a01ddea7.xml#ce99301c-ddb2-4c7a-97c5-4ee5a01ddea7"/>
+</archimate:TriggeringRelationship>

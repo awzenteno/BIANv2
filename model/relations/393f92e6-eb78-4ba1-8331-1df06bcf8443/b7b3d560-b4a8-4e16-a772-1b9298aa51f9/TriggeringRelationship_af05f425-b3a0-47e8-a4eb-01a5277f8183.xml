@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Register Sales Product"
+    id="af05f425-b3a0-47e8-a4eb-01a5277f8183">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7d03e0a5-8b04-41f1-b4e9-afaf71a283cc.xml#7d03e0a5-8b04-41f1-b4e9-afaf71a283cc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_3bf5f2c3-9dc9-4e38-b4ca-598cf94406ac.xml#3bf5f2c3-9dc9-4e38-b4ca-598cf94406ac"/>
+</archimate:TriggeringRelationship>

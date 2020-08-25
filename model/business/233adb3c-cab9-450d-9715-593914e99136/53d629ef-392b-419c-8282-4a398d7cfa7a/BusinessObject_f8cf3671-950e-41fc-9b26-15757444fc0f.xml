@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesQuoteVariable"
+    id="f8cf3671-950e-41fc-9b26-15757444fc0f"
+    documentation=" Proposition of price for a financial instrument.&#xA;&#xA;Предложение цены финансового инструмента."/>

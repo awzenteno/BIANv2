@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Consignee"
+    id="db78bc0c-39a3-45e3-aa90-2c3fbc4046e7"
+    documentation=" Party to whom the goods must be delivered.&#xA;&#xA;Сторона, которой должен быть доставлен товар."/>

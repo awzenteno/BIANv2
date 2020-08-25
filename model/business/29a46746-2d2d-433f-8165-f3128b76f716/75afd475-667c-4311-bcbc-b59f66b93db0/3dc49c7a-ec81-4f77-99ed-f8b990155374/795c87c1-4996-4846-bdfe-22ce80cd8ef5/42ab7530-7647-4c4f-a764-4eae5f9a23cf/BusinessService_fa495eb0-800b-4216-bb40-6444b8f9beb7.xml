@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Counterparty Risk"
+    id="fa495eb0-800b-4216-bb40-6444b8f9beb7"
+    documentation="Example of use:&#xA;A back office function tracks transaction activity and external rating details to maintain counterparty credit ratings&#xA;&#xA;General comment:&#xA;This service domain applies the counterparty credit analysis models to the active counterparties to determine credit ratings that are used to manage counterparty risk&#xA;&#xA;Business Purpose&#xA;:  Maintain and administer a counterparty risk rating&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;Функция бэк-офиса отслеживает активность транзакций и внешние рейтинговые данные для поддержания кредитных рейтингов контрагентов&#xA;&#xA;Общее замечание:&#xA;Эта область обслуживания применяет модели кредитного анализа контрагента к активным контрагентам для определения кредитных рейтингов, используемых для управления рисками контрагента&#xA;&#xA;деловая цель&#xA;: Поддержание и администрирование рейтинга риска контрагента&#xA;"/>

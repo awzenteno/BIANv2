@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerCaseProcedure"
+    id="2b0ae7c1-678b-4093-8708-25cc99eb1c9e"
+    documentation="Request a service under the Customer Case Procedure"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluate Fraud Alert Rules, Models and Scanners"
+    id="07b9d193-54fb-4506-984b-d0e756e08b06">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7885c4e8-aaef-4a09-8104-f527820169cb.xml#7885c4e8-aaef-4a09-8104-f527820169cb"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_c2ad7b1d-e79c-464f-866a-01b69cf3d774.xml#c2ad7b1d-e79c-464f-866a-01b69cf3d774"/>
+</archimate:TriggeringRelationship>

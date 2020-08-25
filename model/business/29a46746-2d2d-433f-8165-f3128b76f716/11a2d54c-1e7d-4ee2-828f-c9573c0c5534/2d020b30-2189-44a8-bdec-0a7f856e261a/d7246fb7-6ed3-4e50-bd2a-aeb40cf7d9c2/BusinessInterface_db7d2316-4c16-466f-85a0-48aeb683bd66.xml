@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrievePromotionalCampaignManagementPlan"
+    id="db7d2316-4c16-466f-85a0-48aeb683bd66"
+    documentation="Retrieve Promotional Campaign Management Plan related reports"/>

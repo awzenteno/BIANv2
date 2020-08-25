@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ClearingMemberRole"
+    id="97ab1959-7ee2-44d5-924b-a413e9608186"
+    documentation=" Member of an exchange's clearing corporation, responsible for executing client trades and involved in the clearing of trades.&#xA;&#xA;Член клиринговой корпорации биржи, ответственный за осуществление клиентских сделок и участвующий в клиринге сделок."/>

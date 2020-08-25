@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get bank portfolio analysis"
+    id="82ba3685-8642-4a1d-acab-96e92ff687ec">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f3507ca8-a321-412e-9858-69d54ea8adee.xml#f3507ca8-a321-412e-9858-69d54ea8adee"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_40f9cb26-4944-423b-a60d-d8302d77f3b0.xml#40f9cb26-4944-423b-a60d-d8302d77f3b0"/>
+</archimate:TriggeringRelationship>

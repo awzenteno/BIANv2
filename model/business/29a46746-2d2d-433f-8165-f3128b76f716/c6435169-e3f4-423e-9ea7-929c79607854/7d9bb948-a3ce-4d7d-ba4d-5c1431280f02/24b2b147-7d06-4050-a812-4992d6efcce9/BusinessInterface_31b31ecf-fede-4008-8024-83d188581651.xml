@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveOpertionalRiskModelSpecification"
+    id="31b31ecf-fede-4008-8024-83d188581651"
+    documentation="Retrieve Operational Risk Model Specification related reports"/>

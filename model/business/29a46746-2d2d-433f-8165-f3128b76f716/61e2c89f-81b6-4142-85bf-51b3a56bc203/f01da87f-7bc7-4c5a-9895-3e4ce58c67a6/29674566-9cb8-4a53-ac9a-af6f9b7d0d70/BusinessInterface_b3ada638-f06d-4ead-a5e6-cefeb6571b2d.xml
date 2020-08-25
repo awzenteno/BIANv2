@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestBuildingMaintenanceAgreement"
+    id="b3ada638-f06d-4ead-a5e6-cefeb6571b2d"
+    documentation="Request a service under the Building Maintenance Agreement"/>

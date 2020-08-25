@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateTradingCreditPositionMeasurement"
+    id="38e59fb2-3ed6-4649-94d1-a1220b13916b"
+    documentation="Assign responsibility for and activate the Trading Credit Position Measurement"/>

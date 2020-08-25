@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerPrecedentsProcedure"
+    id="0206f271-d220-4b27-bd0e-14797ab41253"
+    documentation="Record activity/feedback against an active customer precedent record"/>

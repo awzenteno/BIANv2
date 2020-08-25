@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeeTradingWorkbenchOperatingSession"
+    id="695a778c-2198-48c5-ba62-fd929a732549"
+    documentation="Comment:&#xA;&#xA;Execute a transaction or task under the eTrading Workbench Operating Session"/>

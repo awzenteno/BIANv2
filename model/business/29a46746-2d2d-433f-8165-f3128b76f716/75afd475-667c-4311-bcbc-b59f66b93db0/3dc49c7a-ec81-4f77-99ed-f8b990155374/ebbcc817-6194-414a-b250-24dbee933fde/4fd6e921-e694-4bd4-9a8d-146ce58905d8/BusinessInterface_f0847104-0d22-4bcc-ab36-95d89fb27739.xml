@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveRewardPointsTransaction"
+    id="f0847104-0d22-4bcc-ab36-95d89fb27739"
+    documentation="Retrieve Reward Points Transaction related reports"/>

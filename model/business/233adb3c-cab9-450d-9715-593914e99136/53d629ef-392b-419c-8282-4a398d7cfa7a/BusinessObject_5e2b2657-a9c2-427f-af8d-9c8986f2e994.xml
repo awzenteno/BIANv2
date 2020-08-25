@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionPartyRole"
+    id="5e2b2657-a9c2-427f-af8d-9c8986f2e994"
+    documentation=" Role played by a party in the context of a corporate action.&#xA;&#xA; Роль участника в контексте CA."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerWorkbenchAuthentication"
+    id="44262be6-e841-4e6b-ad80-bb5aef1972fb"
+    documentation=" Authentication of a person who attempts to use the customer workbench&#xA;&#xA;&#xA;Проверка подлинности пользователя, который пытается использовать рабочее место клиента"/>

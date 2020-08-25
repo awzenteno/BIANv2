@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">StatusOriginator"
+    id="4546f23b-2031-482f-98c9-7c07af260262"
+    documentation=" Provides the identification of the originator issuing the transaction reason.&#xA;&#xA;Обеспечивает идентификацию отправителя, выдавшего причину проводки."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">GuaranteePartyRole"
+    id="2dd92a45-7104-450d-9e8e-802832b28b18"
+    documentation="Role played by a party in the context of guarantees.&#xA;&#xA;Роль стороны в контексте гарантий."/>

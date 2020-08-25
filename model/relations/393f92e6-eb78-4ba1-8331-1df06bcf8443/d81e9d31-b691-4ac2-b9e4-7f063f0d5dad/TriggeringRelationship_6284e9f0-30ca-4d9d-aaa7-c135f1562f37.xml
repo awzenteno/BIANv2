@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Monitor incoming funds"
+    id="6284e9f0-30ca-4d9d-aaa7-c135f1562f37">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c435ca21-191a-4dbe-8c1d-5b29a5ebfce9.xml#c435ca21-191a-4dbe-8c1d-5b29a5ebfce9"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_eea62c26-7bc1-4f5f-a159-0956254d8434.xml#eea62c26-7bc1-4f5f-a159-0956254d8434"/>
+</archimate:TriggeringRelationship>

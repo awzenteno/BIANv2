@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveUnitTrustAdministrativePlan"
+    id="403bb1c1-cdb9-4506-94b3-7a8c15ad8a72"
+    documentation="Retrieve Unit Trust Administrative Plan related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PurchaseOrder"
+    id="4c6689c5-6564-4672-b192-3eca805b1ab1"
+    documentation=" Document issued by a buyer and containing the details of a purchase, including description of goods, transport information, payment terms, etc.&#xA;&#xA;Документ, выданный покупателю и содержащий сведения о закупке, в том числе описание товаров, информацию о транспорте, условия оплаты и т. д."/>

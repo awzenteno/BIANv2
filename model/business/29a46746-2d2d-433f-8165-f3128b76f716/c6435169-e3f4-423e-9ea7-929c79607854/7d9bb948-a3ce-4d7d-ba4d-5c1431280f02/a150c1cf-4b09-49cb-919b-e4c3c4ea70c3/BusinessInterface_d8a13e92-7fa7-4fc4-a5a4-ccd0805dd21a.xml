@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveLiquidityRiskModelSpecification"
+    id="d8a13e92-7fa7-4fc4-a5a4-ccd0805dd21a"
+    documentation="Comment:&#xA;&#xA;Retrieve Liquidity Risk Model Specification related reports"/>

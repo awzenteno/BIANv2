@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Leg"
+    id="a2774924-9914-4580-b091-369ad8400712"
+    documentation=" Separate transactions which combined together form a trade.&#xA;&#xA;Отдельные сделки, которые объединяются вместе, образуют сделку."/>

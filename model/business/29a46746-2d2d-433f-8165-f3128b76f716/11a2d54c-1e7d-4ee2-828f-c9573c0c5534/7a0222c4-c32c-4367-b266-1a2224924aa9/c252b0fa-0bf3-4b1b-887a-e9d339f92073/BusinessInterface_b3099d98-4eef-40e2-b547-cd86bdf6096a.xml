@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" requestLead/OpportunityProcedureAssignment"
+    id="b3099d98-4eef-40e2-b547-cd86bdf6096a"
+    documentation=" Request assignment of an active lead/opportunity for processing (elsewhere)"/>

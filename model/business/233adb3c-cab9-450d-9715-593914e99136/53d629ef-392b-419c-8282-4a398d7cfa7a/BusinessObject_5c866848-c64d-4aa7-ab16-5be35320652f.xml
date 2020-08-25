@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ETCServiceProvider"
+    id="5c866848-c64d-4aa7-ab16-5be35320652f"
+    documentation=" Party that provides electronic trade confirmation services to its clients. For example, trade and allocation matching.&#xA;&#xA;Сторона, предоставляющая своим клиентам услуги электронного подтверждения сделок. Например, сопоставление торговли и распределения."/>

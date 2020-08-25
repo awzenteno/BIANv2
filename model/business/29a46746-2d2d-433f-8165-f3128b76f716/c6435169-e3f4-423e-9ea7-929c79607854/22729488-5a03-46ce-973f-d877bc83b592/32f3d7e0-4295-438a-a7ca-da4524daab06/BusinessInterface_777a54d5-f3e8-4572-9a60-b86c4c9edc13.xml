@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateRepoTransaction"
+    id="777a54d5-f3e8-4572-9a60-b86c4c9edc13"
+    documentation="Comment:&#xA;&#xA;Initiate a Repo Transaction"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateACHFulfillmentOperatingSession"
+    id="d4b84cc7-fc80-4a85-96e2-9ed2e0dc4dbd"
+    documentation="Assign responsibility for the ACH fulfillment operating session"/>

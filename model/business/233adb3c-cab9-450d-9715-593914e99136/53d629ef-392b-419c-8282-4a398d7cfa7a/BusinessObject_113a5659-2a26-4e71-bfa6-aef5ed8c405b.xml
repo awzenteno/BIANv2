@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CreditorAgentRole"
+    id="113a5659-2a26-4e71-bfa6-aef5ed8c405b"
+    documentation="Financial institution servicing an account for the creditor.&#xA;&#xA;Финансовое учреждение, обслуживающее счет кредитора."/>

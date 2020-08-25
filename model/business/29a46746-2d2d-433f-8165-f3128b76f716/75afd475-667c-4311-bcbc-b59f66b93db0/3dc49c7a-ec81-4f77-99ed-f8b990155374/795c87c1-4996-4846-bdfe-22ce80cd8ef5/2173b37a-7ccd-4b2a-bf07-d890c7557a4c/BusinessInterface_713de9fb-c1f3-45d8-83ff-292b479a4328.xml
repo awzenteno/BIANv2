@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyAccountReconciliationProcedure"
+    id="713de9fb-c1f3-45d8-83ff-292b479a4328"
+    documentation="Subscribe to Account Reconciliation Procedure notification services"/>

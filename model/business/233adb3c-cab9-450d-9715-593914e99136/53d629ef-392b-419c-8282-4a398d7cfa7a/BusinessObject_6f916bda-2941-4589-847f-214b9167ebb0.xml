@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ReceivingSettlementParty"
+    id="6f916bda-2941-4589-847f-214b9167ebb0"
+    documentation=" Party that receives securities as part of a chain of settlement parties or as ultimate party.&#xA;&#xA;Сторона, которая получает ценные бумаги как часть цепочки расчетных сторон или как конечная сторона."/>

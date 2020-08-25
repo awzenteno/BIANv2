@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" executeSecuritiesClearing&amp;SettlementTransaction"
+    id="350c9c57-84ba-471c-aaee-ce9ba971c66b"
+    documentation="Execute a task against the active Securities Clearing &amp; Settlement Transaction"/>

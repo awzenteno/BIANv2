@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="->Execute"
+    id="d986b9fc-2e8b-4cd9-80e8-e7588090a116"
+    documentation="Execute a task or action on an established facility (note typically creates a result). &#xA;Example: Apply a payment to a charge card."/>

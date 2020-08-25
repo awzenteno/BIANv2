@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Flag eligible for opportunity"
+    id="3ca1a2db-2031-4288-a701-43f45fde778e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_34945909-17a1-4086-b58d-49426a02ce12.xml#34945909-17a1-4086-b58d-49426a02ce12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_2982fcaa-59be-4fab-832a-3241a6e2e106.xml#2982fcaa-59be-4fab-832a-3241a6e2e106"/>
+</archimate:TriggeringRelationship>

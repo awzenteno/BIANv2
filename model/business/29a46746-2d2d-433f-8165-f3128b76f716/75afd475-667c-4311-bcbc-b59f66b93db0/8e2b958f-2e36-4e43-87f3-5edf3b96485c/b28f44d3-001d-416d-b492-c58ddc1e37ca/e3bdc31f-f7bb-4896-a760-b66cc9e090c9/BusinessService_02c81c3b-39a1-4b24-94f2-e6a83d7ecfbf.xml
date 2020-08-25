@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate Loan"
+    id="02c81c3b-39a1-4b24-94f2-e6a83d7ecfbf"
+    documentation="Example of use:&#xA;A corporate customer applies for and gets a loan to fund R&amp;D costs for a their new product/service.&#xA;&#xA;General comment:&#xA;There is a wide range of types of consumer and corporate loan products covered by this generalized loan fulfillment service domain&#xA;&#xA;Business Purpose&#xA;:  Fulfillment of a range of loan products for corporate clients&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;Корпоративный клиент подает заявку и получает кредит для финансирования расходов на НИОКР для своего нового продукта/услуги.&#xA;&#xA;Общее замечание:&#xA;Существует широкий спектр типов потребительских и корпоративных кредитных продуктов, охватываемых этой обобщенной сферой услуг&#xA;&#xA;деловая цель&#xA;: Выполнение ряда кредитных продуктов для корпоративных клиентов"/>

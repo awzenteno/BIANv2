@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Amount Block ID"
+    id="08b42309-e2c4-4ea1-a17d-f4455143a33a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bdba5d90-4777-4c6e-a8a1-f29d5c8f280b.xml#bdba5d90-4777-4c6e-a8a1-f29d5c8f280b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_38df7af2-94fa-4a4c-b48c-86f2db228097.xml#38df7af2-94fa-4a4c-b48c-86f2db228097"/>
+</archimate:TriggeringRelationship>

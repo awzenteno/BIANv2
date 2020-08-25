@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Authorise Credit Booking"
+    id="ec19e29e-9446-4d34-8293-f42b6b47ec27">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_34eabdca-5f1b-43b6-92a4-8a22ae186844.xml#34eabdca-5f1b-43b6-92a4-8a22ae186844"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd.xml#ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd"/>
+</archimate:TriggeringRelationship>

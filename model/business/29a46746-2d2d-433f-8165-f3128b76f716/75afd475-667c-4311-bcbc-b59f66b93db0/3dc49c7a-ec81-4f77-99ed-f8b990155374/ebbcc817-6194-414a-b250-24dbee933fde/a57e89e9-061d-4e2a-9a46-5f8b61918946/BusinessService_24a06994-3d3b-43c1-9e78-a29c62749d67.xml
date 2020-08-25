@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leasing Item Administration"
+    id="24a06994-3d3b-43c1-9e78-a29c62749d67"
+    documentation="Example of use:&#xA;&#xA;Track that a leased product is maintained and insured as per agreements&#xA;&#xA;General comment:&#xA;&#xA;This service domain administers the oversight of leasing items to ensure they are managed appropriately as they typically represent security/collateral against the leasing loan&#xA;&#xA;Business Purpose&#xA;:  Track the status of the assets underlying leasing agreements (for recovery)&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Отслеживать, что арендованный продукт поддерживается и застрахован в соответствии с соглашениями&#xA;&#xA;Общее замечание:&#xA;&#xA;Этот домен услуг управляет надзором за предметами лизинга, чтобы обеспечить их надлежащее управление, поскольку они обычно представляют собой обеспечение / обеспечение лизингового кредита&#xA;&#xA;деловая цель&#xA;: Отслеживать статус активов, лежащих в основе договоров лизинга (для взыскания)"/>

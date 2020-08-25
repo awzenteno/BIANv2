@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyVoiceChannelManagementPlan"
+    id="d4805494-f94a-4ab5-866d-c1495595a119"
+    documentation="Comment:&#xA;&#xA;Subscribe to Voice Channel Management Plan notification services"/>

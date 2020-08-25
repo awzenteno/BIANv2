@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorrespondentClearingFirm"
+    id="b1f18584-2fc0-48c5-bbe5-1a4e9e635097"
+    documentation=" Firm that is going to carry the position on their books at another clearinghouse (exchanges).&#xA;&#xA;Фирма, которая будет нести позицию на своих книгах в другой клиринговой палате (биржах)."/>

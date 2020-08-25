@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerContactPartyRole"
+    id="6c97bbd9-6f90-473d-bd7c-1db6540ed53a"
+    documentation="A role in which a person represents a customer in a relationship with a financial institution&#xA;&#xA;Роль, в которой лицо представляет клиента в отношениях с финансовым учреждением"/>

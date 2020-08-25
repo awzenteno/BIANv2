@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Goods"
+    id="27ef2d9e-4e2f-4ae1-ac85-37d63f733124"
+    documentation=" Good is a physical product that can be delivered to a purchaser and that involves the transfer of ownership from seller to customer.&#xA;&#xA;Хорошо-это физический продукт, который может быть доставлен покупателю и предполагает передачу права собственности от продавца к покупателю."/>

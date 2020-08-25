@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateRewardPointsLog"
+    id="08d99426-5856-429a-80ef-7d0668dc39e1"
+    documentation="Terminate all or some part of the Reward Points Account/Log"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerTaxObligationFulfillmentArrangement"
+    id="be04386c-33de-4deb-b9a0-cbc0aa280556"
+    documentation="Record activity details/information against the Customer Tax Obligation"/>

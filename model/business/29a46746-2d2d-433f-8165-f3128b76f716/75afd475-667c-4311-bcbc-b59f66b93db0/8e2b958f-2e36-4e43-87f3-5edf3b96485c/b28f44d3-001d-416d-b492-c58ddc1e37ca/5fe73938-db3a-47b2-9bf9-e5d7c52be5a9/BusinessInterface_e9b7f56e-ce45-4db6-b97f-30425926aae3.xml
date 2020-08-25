@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestDepositFulfillmentArrangement"
+    id="e9b7f56e-ce45-4db6-b97f-30425926aae3"
+    documentation="Comment:&#xA;&#xA;Request a service under the Deposit"/>

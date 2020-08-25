@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">IntraPositionTransfer"
+    id="ced647f6-7165-4a46-a536-c6cb8d822cb6"
+    documentation="Transfer of securities from one sub-balance to another or from one balance status to another.&#xA;&#xA;Перевод ценных бумаг из одной суб-баланса к другой или от одного состояния равновесия к другому."/>

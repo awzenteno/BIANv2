@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerEventLogSalesEvent"
+    id="6dad4cad-e46a-44d5-b0c2-8c5398ff5c2b"
+    documentation=" Record a customer sales event"/>

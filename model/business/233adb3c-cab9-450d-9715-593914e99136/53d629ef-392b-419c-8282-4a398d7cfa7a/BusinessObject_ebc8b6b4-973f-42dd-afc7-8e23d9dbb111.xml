@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">UndertakingAmount"
+    id="ebc8b6b4-973f-42dd-afc7-8e23d9dbb111"
+    documentation=" Amount of an undertaking such as a guarantee or standby letter of credit.&#xA;&#xA;Сумма обязательства, такого как гарантийный или резервный аккредитив."/>

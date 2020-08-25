@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerSegmentAnalysis"
+    id="9e964b67-3cd9-4abb-9dd4-6ea03a52b7d6"
+    documentation="Record activity details/information against the Customer Segment Analysis"/>

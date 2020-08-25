@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DirectDebit"
+    id="78afeefb-eabf-4992-8218-6eb24c67f7f3"
+    documentation="Payment, initiated by the creditor, to debit a debtor's account in favour of the creditor. A direct debit can be pre-authorised or not. In most countries, authorisation is in the form of a mandate between the debtor and creditor.&#xA;&#xA;Платеж, инициированный кредитором, для дебетования счета должника в пользу кредитора. Прямое дебетование может быть предварительно авторизовано или нет. В большинстве стран санкционирование осуществляется в форме мандата между должником и кредитором."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Verify legal compliance of moving Corporate Current Account"
+    id="2eadf7ef-455f-4872-99cc-4879f1f54992">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_17c6981e-a297-4809-877d-aca6a48c0f0a.xml#17c6981e-a297-4809-877d-aca6a48c0f0a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_edd5da78-3da7-4fb2-bc2d-e24f30dadb7d.xml#edd5da78-3da7-4fb2-bc2d-e24f30dadb7d"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">RedemptionExecution"
+    id="03f89942-1629-43e4-9f2d-e6b4898731b9"
+    documentation=" Execution of a redemption order.&#xA;&#xA;Исполнение ордера на выкуп."/>

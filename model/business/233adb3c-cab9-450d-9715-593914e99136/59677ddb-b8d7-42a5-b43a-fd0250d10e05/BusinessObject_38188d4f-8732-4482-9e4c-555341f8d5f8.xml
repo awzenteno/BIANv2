@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PaymentCardAgreement"
+    id="38188d4f-8732-4482-9e4c-555341f8d5f8"
+    documentation=" An agreement established among the parties involved in a payment card service&#xA;&#xA;&#xA;Соглашение, заключенное между сторонами, участвующими в __предоставлении сервиса платежных карт__"/>

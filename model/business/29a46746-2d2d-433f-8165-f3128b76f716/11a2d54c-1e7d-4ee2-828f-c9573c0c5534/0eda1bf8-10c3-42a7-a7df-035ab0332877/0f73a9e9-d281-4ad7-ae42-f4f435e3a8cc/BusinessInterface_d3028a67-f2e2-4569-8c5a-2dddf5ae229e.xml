@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerCreditRatingMeasurement"
+    id="d3028a67-f2e2-4569-8c5a-2dddf5ae229e"
+    documentation="Subscribe to Customer Credit Rating Measurement notification services"/>

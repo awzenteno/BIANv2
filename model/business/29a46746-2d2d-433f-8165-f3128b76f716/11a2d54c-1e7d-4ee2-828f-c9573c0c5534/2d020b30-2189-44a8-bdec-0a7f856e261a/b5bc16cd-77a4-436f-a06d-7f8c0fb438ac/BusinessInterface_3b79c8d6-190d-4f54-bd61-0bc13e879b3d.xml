@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerSurveyProcedure"
+    id="3b79c8d6-190d-4f54-bd61-0bc13e879b3d"
+    documentation="Retrieve Customer Survey Procedure related reports"/>

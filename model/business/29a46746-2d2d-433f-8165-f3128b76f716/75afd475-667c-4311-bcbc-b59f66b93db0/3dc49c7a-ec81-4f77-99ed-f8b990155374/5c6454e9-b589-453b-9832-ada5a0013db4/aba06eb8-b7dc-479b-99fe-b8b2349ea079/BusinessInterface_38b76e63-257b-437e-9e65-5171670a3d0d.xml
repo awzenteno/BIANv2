@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateFinancialGatewayOperatingSession"
+    id="38b76e63-257b-437e-9e65-5171670a3d0d"
+    documentation="Comment:&#xA;&#xA;Assign responsibility for and activate the Financial Gateway Operating Session"/>

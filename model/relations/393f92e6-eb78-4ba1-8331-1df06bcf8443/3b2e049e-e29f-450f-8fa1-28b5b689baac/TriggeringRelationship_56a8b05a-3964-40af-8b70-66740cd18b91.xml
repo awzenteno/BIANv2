@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notify change of status"
+    id="56a8b05a-3964-40af-8b70-66740cd18b91">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bfffa8a5-7404-4230-81e6-f32f4e37e4a7.xml#bfffa8a5-7404-4230-81e6-f32f4e37e4a7"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_cca01323-1058-408f-a8ee-b930525f75ad.xml#cca01323-1058-408f-a8ee-b930525f75ad"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Execute loan transaction"
+    id="7200a21e-ebe9-4cf0-bb4d-585100bfa566">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5e207b64-5645-4758-ada3-c8c6f2d45010.xml#5e207b64-5645-4758-ada3-c8c6f2d45010"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_238d93cf-d1af-4b6a-a6a1-612f9503d994.xml#238d93cf-d1af-4b6a-a6a1-612f9503d994"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCorrespondenceOperatingSessionBlockMail"
+    id="c8597bcd-e674-4ee0-a728-a736ae045b8f"
+    documentation="Request block mail generation"/>

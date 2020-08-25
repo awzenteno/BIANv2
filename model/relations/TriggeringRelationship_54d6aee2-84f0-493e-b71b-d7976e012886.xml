@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get transaction status and details"
+    id="54d6aee2-84f0-493e-b71b-d7976e012886">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_26b3fb1b-7b13-4af3-853f-0f360eeeebac.xml#26b3fb1b-7b13-4af3-853f-0f360eeeebac"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_dbc161ec-455b-4020-9c09-b32d5c698363.xml#dbc161ec-455b-4020-9c09-b32d5c698363"/>
+</archimate:TriggeringRelationship>

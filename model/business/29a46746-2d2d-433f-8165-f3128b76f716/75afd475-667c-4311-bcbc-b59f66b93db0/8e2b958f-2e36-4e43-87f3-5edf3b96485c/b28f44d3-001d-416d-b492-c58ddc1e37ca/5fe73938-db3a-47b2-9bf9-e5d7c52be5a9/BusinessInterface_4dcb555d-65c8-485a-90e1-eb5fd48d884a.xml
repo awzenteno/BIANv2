@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateDepositFulfillmentArrangement"
+    id="4dcb555d-65c8-485a-90e1-eb5fd48d884a"
+    documentation="Terminate all or some part of the Deposit"/>

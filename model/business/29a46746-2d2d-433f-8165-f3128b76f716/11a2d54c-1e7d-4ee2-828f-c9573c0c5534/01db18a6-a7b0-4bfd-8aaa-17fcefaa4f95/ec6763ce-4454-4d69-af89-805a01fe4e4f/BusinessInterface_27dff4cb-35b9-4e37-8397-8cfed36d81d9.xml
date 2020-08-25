@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCardPOSTerminalOperatingSession"
+    id="27dff4cb-35b9-4e37-8397-8cfed36d81d9"
+    documentation=" Subscribe to card p o s terminal operating session notification services"/>

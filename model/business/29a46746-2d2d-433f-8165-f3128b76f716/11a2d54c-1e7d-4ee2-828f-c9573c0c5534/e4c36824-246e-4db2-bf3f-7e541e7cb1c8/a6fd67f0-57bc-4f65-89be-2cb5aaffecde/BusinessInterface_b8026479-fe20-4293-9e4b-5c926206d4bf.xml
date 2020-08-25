@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerCaseManagementPlan"
+    id="b8026479-fe20-4293-9e4b-5c926206d4bf"
+    documentation="Request a service under the Customer Case Management Plan"/>

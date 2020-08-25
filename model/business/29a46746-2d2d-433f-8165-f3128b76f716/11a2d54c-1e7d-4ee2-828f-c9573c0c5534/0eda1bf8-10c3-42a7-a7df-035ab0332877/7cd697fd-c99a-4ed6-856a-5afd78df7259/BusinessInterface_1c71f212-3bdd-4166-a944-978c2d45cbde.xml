@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateCustomerAccessProfileAgreement"
+    id="1c71f212-3bdd-4166-a944-978c2d45cbde"
+    documentation="Evaluate whether a proposed action is covered by the settings"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CardPaymentPartyRole"
+    id="af077ccc-a89f-4436-99b8-2d32c3f1f67c"
+    documentation=" Role played by a party in the context of a payment by card.&#xA;&#xA;Роль, котрую играет участник в контексте оплаты картой."/>

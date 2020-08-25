@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Add Asset to Credit View"
+    id="2cad8601-17e9-4082-8a2c-40b583d7fb97">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_cb482537-9f2e-4084-b01e-c7c1ce76f40d.xml#cb482537-9f2e-4084-b01e-c7c1ce76f40d"/>
+</archimate:TriggeringRelationship>

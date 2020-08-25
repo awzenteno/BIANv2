@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveITSystemsStrategy"
+    id="34cc7443-6ae1-4ad1-89e2-1c211beecfdc"
+    documentation="Retrieve IT Systems Strategy related reports"/>

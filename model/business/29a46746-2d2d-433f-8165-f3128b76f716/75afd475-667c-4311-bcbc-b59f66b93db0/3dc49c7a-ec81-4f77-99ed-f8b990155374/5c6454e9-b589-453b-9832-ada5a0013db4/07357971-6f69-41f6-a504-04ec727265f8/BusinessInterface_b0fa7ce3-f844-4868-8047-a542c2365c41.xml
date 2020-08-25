@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCentralCashAllocation"
+    id="b0fa7ce3-f844-4868-8047-a542c2365c41"
+    documentation="Retrieve Central Cash Allocation related reports"/>

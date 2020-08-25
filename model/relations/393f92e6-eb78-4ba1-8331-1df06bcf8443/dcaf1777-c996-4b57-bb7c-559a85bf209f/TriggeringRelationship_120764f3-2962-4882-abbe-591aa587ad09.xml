@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Execute account services"
+    id="120764f3-2962-4882-abbe-591aa587ad09">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3934c676-337f-43a2-86ea-42038fa8894f.xml#3934c676-337f-43a2-86ea-42038fa8894f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e7ce2cd3-8b3c-410c-8f3b-62650d5634b5.xml#e7ce2cd3-8b3c-410c-8f3b-62650d5634b5"/>
+</archimate:TriggeringRelationship>

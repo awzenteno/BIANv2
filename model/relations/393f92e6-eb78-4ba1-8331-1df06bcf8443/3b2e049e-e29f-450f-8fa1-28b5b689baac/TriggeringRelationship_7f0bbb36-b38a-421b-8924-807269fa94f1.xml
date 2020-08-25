@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get Client Authentication Token"
+    id="7f0bbb36-b38a-421b-8924-807269fa94f1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bfffa8a5-7404-4230-81e6-f32f4e37e4a7.xml#bfffa8a5-7404-4230-81e6-f32f4e37e4a7"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_55deca79-0795-44b8-a1cf-4b0be32827f6.xml#55deca79-0795-44b8-a1cf-4b0be32827f6"/>
+</archimate:TriggeringRelationship>

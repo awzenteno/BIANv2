@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCustomerContactOperatingSession"
+    id="d297f58f-55f3-4a73-9fe7-26806f0367d9"
+    documentation="Assign responsibility for and activate the Customer Contact Operating Session"/>

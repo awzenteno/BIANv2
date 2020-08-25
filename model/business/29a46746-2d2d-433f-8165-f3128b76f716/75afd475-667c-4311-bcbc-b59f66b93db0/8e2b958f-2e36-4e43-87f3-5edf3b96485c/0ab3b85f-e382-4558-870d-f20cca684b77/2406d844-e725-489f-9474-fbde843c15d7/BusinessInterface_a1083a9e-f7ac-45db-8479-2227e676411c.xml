@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveMarketMakingFulfillmentArrangement"
+    id="a1083a9e-f7ac-45db-8479-2227e676411c"
+    documentation="Comment:&#xA;&#xA;Retrieve Market Making Product Arrangement related reports"/>

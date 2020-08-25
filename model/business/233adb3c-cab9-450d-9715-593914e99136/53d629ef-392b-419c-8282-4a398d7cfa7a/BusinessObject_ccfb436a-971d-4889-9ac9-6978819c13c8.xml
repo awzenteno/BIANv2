@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesPostTradeBooking"
+    id="ccfb436a-971d-4889-9ac9-6978819c13c8"
+    documentation=" Information used to book the executions of a trade.&#xA;&#xA;Информация, используемая для исполнения торговли."/>

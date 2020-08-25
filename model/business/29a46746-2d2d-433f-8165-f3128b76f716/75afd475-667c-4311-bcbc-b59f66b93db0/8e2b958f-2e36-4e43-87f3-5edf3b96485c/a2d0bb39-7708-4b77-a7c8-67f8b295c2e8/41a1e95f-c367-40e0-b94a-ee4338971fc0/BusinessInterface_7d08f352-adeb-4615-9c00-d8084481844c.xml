@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCredit/ChargeCardFinancialCaptureTransaction"
+    id="7d08f352-adeb-4615-9c00-d8084481844c"
+    documentation="Retrieve Credit/Charge Card Financial Capture Transaction related reports"/>

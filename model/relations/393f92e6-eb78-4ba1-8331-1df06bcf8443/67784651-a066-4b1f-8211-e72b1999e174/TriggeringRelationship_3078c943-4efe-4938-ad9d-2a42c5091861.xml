@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate Direct Debit"
+    id="3078c943-4efe-4938-ad9d-2a42c5091861">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_37a1f7d9-de5a-45c1-b745-13a751c6e274.xml#37a1f7d9-de5a-45c1-b745-13a751c6e274"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5b2f7947-5256-4257-86d2-36b61215b391.xml#5b2f7947-5256-4257-86d2-36b61215b391"/>
+</archimate:TriggeringRelationship>

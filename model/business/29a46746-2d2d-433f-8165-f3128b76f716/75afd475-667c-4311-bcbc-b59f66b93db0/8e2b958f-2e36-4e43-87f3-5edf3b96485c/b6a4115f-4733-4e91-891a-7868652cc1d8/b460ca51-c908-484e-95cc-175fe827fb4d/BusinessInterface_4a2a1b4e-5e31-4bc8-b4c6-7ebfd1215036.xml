@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateRemittanceTransaction"
+    id="4a2a1b4e-5e31-4bc8-b4c6-7ebfd1215036"
+    documentation="Update/amend details of an active remittance transaction (repair/terminate)"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordBankGuaranteeFulfillmentArrangement"
+    id="529fe557-8650-411d-8e77-670e265d9427"
+    documentation="Comment:&#xA;&#xA;Record activity details/information against the Bank Guarantee"/>

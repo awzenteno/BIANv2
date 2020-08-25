@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCardClearingProcedure"
+    id="a2facc89-780e-4cc9-93e6-97c05e2a75ac"
+    documentation="Request a service under the card clearing procedure"/>

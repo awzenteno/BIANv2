@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvestmentFundPartyRole"
+    id="0d74f31c-45a7-4c04-ba68-29bbd2d8566a"
+    documentation=" Specifies roles played by a party that are linked to the handling of investment funds but not related to a specific process.&#xA;&#xA;Определяет роли стороны, связанные с управлением инвестиционными фондами, но не связанные с конкретным процессом."/>

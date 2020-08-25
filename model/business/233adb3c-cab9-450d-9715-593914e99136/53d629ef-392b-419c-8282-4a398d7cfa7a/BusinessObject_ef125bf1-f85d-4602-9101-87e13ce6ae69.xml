@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AuthorisationEntity"
+    id="ef125bf1-f85d-4602-9101-87e13ce6ae69"
+    documentation="Party which has delivered or declined the authorisation.&#xA;&#xA;Сторона, которая предоставила или отклонила разрешение."/>

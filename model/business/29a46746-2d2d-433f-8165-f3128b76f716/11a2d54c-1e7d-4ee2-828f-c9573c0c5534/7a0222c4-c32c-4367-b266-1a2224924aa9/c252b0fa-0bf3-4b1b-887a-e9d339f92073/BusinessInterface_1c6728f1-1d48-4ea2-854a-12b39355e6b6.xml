@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" executeLead/OpportunityProcedure"
+    id="1c6728f1-1d48-4ea2-854a-12b39355e6b6"
+    documentation=" Execute an automated capture of a new lead/opportunity"/>

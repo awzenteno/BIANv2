@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCustomerWorkbenchOperatingSession"
+    id="c9573498-4b27-45cf-9691-45d71d69a0e6"
+    documentation="Terminate all or some part of the Customer Workbench Operating Session"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCreditFacilityFulfillmentArrangement"
+    id="15f55fe4-abbe-482e-802e-0d611a4a490b"
+    documentation="Subscribe to Credit Facility Product Arrangement notification services"/>

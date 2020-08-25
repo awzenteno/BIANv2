@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateLeasingFulfillmentArrangement"
+    id="2837ed2c-0370-409a-8a00-07f3c19b802a"
+    documentation="Update elements of the Leasing"/>

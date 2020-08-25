@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MeetingPartyRole"
+    id="5c31c7d9-212a-4ffc-8d54-bf004b64108e"
+    documentation="Role played by a party in the context of a meeting.&#xA;&#xA;Роль партии в контексте встречи."/>

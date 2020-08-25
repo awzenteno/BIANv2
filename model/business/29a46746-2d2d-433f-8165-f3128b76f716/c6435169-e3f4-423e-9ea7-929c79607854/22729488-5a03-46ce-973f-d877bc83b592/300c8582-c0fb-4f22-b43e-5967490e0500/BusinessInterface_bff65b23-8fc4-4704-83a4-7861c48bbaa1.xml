@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateAssetSecuritizationTransaction"
+    id="bff65b23-8fc4-4704-83a4-7861c48bbaa1"
+    documentation="Initiate a Asset Securitization Transaction"/>

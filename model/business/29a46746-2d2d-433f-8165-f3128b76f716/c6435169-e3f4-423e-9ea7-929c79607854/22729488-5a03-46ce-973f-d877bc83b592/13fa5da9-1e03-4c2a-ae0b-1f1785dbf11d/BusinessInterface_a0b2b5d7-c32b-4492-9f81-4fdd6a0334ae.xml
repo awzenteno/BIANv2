@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCorporateTreasuryManagementPlan"
+    id="a0b2b5d7-c32b-4492-9f81-4fdd6a0334ae"
+    documentation=" Retrieve a corporate treasury management report"/>

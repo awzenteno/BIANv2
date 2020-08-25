@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateEmployeeCommissionAgreement"
+    id="a9ce4269-2b74-40c1-9467-b3656663beec"
+    documentation="Comment:&#xA;&#xA;Update elements of the Employee Commission Agreement"/>

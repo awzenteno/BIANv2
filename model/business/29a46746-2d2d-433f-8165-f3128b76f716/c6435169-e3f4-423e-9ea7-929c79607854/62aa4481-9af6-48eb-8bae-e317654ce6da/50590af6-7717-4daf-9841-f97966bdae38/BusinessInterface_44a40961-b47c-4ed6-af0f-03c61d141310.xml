@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyFinancialBookingLog"
+    id="44a40961-b47c-4ed6-af0f-03c61d141310"
+    documentation="Subscribe to Financial Booking Account/Log notification services"/>

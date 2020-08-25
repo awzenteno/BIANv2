@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveDepositFulfillmentArrangement"
+    id="e624726a-9042-4ee1-bea4-b9fa6d3659b3"
+    documentation="Retrieve Deposit Product Arrangement related reports"/>

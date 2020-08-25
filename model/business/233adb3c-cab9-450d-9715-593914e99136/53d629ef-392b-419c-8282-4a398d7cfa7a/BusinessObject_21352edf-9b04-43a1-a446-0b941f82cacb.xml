@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">StockExchange"
+    id="21352edf-9b04-43a1-a446-0b941f82cacb"
+    documentation=" Party that identifies the stock exchange.&#xA;&#xA;Сторона, идентифицирующая фондовую биржу."/>

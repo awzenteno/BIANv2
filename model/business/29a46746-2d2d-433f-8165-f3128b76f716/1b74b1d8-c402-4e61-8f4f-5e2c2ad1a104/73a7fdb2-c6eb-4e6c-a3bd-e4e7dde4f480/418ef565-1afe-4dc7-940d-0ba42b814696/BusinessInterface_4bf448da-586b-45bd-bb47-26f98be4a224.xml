@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveInformationFeedAgreement"
+    id="4bf448da-586b-45bd-bb47-26f98be4a224"
+    documentation="Retrieve Information Feed Agreement related reports"/>

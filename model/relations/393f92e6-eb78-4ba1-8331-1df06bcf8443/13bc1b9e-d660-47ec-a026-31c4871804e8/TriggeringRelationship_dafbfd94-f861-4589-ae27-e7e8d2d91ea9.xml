@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate Sales Product launch"
+    id="dafbfd94-f861-4589-ae27-e7e8d2d91ea9">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b7b20b06-56b5-458e-a33c-cd8c637a4ccc.xml#b7b20b06-56b5-458e-a33c-cd8c637a4ccc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_95590ffb-c6ee-466c-933b-6a80a7905910.xml#95590ffb-c6ee-466c-933b-6a80a7905910"/>
+</archimate:TriggeringRelationship>

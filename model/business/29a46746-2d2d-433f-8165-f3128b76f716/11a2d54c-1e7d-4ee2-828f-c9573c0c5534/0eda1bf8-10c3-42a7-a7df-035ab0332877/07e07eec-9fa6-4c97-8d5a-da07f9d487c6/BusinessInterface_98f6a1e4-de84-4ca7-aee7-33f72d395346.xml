@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerPrecedentsProcedure"
+    id="98f6a1e4-de84-4ca7-aee7-33f72d395346"
+    documentation="Retrieve customer precedent record report"/>

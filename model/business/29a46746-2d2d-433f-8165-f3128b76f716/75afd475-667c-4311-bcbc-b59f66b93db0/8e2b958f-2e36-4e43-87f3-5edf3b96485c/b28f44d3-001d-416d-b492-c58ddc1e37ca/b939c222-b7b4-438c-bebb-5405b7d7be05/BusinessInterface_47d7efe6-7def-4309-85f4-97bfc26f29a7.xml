@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateLoanFulfillmentArrangement"
+    id="47d7efe6-7def-4309-85f4-97bfc26f29a7"
+    documentation="Termination request for an active loan"/>

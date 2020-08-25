@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeEmployeeAccessAssessment"
+    id="b126dbd2-81dd-45d9-8569-7c809ce7c4b5"
+    documentation="Obtain authorization for some action under the Employee Access Assessment"/>

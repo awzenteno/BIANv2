@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Check IP rights"
+    id="cc70c24a-340f-472d-9c29-185d76325565">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7d03e0a5-8b04-41f1-b4e9-afaf71a283cc.xml#7d03e0a5-8b04-41f1-b4e9-afaf71a283cc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_061b5ece-0b71-408c-8fe8-c10b33d3357d.xml#061b5ece-0b71-408c-8fe8-c10b33d3357d"/>
+</archimate:TriggeringRelationship>

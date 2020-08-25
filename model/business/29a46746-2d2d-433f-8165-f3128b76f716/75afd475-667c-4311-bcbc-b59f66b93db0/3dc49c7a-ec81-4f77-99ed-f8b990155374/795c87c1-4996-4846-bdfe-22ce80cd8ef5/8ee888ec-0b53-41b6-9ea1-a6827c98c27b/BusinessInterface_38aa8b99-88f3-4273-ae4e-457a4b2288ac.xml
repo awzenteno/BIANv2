@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyTransactionScheduleFulfillmentArrangement"
+    id="38aa8b99-88f3-4273-ae4e-457a4b2288ac"
+    documentation="Subscribe to Transaction Schedule Product Arrangement notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCurrencyExchangeTransaction"
+    id="531c426d-3f5b-454e-8a09-6101dc4e83e3"
+    documentation="Request a service under the currency exchange transaction"/>

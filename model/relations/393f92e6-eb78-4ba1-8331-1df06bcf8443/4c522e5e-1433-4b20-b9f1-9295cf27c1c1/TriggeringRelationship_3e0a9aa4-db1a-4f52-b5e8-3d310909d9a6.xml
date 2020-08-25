@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Obtain voice service operations activity notification"
+    id="3e0a9aa4-db1a-4f52-b5e8-3d310909d9a6">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f551bcfa-96fd-479b-8676-bf4c930e0739.xml#f551bcfa-96fd-479b-8676-bf4c930e0739"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_3eccfca0-d2f3-47bb-8742-c00d15f9b886.xml#3eccfca0-d2f3-47bb-8742-c00d15f9b886"/>
+</archimate:TriggeringRelationship>

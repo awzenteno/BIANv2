@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerWorkbenchPartyRole"
+    id="891c3126-2bb9-4bf4-9a2d-536f386d07e0"
+    documentation=" A user of the customer workbench&#xA;&#xA;&#xA;Пользователь _воркбенча (рабочего места пользователя)_"/>

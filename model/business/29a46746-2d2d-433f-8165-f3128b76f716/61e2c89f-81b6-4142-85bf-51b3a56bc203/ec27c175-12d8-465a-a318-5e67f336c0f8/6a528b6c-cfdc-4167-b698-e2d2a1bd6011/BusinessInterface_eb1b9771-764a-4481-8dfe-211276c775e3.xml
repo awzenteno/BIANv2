@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCorrespondenceOperatingSessionInbound"
+    id="eb1b9771-764a-4481-8dfe-211276c775e3"
+    documentation="Execute inbound correspondence handling"/>

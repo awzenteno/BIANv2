@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizePartyAuthenticationAssessment"
+    id="ce4297d3-b018-4955-8ac5-38f4193889b9"
+    documentation="Obtain authorization for some action under the Party Authentication Assessment"/>

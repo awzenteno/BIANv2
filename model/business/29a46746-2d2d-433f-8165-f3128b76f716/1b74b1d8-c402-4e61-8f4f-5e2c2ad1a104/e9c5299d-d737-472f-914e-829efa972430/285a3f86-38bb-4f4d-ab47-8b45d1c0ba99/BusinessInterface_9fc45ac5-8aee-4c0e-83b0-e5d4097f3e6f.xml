@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registerProductDirectoryProductSpecifications"
+    id="9fc45ac5-8aee-4c0e-83b0-e5d4097f3e6f"
+    documentation="Register a new product's specification in the directory"/>

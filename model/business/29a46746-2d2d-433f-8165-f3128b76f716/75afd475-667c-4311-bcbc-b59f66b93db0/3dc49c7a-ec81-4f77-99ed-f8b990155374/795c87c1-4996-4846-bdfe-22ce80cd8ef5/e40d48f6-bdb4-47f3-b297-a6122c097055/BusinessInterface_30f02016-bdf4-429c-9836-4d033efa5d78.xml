@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordFinancialPositionLog"
+    id="30f02016-bdf4-429c-9836-4d033efa5d78"
+    documentation="Record a journal transaction (includes classification)"/>

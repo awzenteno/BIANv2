@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get operational risk models"
+    id="f5d86581-0527-4cc2-bf03-68126482e063">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_2a1fbcce-10e1-45e8-a2f5-93b858329a79.xml#2a1fbcce-10e1-45e8-a2f5-93b858329a79"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_31b31ecf-fede-4008-8024-83d188581651.xml#31b31ecf-fede-4008-8024-83d188581651"/>
+</archimate:TriggeringRelationship>

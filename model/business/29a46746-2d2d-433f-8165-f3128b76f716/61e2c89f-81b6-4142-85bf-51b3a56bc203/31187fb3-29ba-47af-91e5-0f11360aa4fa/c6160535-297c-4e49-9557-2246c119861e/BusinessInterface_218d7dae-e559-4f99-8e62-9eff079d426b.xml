@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateInternalAuditAssessment"
+    id="218d7dae-e559-4f99-8e62-9eff079d426b"
+    documentation="Check/verify compliance with Internal Audit related checks/assessments"/>

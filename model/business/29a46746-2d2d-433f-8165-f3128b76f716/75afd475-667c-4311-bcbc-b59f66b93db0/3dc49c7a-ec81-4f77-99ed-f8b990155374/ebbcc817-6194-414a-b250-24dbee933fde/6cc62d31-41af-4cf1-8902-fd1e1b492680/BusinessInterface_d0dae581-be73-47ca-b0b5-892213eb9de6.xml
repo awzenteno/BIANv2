@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="provideIssuedDeviceAllocation"
+    id="d0dae581-be73-47ca-b0b5-892213eb9de6"
+    documentation="Provide a resource on request (earmark and assign)"/>

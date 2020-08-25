@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get Available Documents"
+    id="adf47c09-0498-4435-bb18-6b8b5895682d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_3cae3c9b-a89d-49f2-bb7a-ca76942c910a.xml#3cae3c9b-a89d-49f2-bb7a-ca76942c910a"/>
+</archimate:TriggeringRelationship>

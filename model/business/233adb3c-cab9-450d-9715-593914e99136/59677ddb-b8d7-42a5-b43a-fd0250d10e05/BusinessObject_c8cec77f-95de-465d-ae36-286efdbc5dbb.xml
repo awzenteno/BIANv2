@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BankLoan"
+    id="c8cec77f-95de-465d-ae36-286efdbc5dbb"
+    documentation=" A loan made by a bank that is not syndicated with other lenders&#xA;&#xA;Note: The underwriter of a bank loan is the bank itself, so BankLoan does not have a property that designates the underwriter.&#xA;&#xA;Кредит, выданный банком, который не синдицирован с другими кредиторами&#xA;&#xA;Примечание: андеррайтером банковского кредита является сам банк, поэтому банковский кредит не имеет свойства, которое обозначает андеррайтера."/>

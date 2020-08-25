@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeFinancialGatewayOperatingSessionInbound"
+    id="c727458e-7cab-4d45-b6e2-f036cb77538a"
+    documentation="Execute inbound message processing"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProcurementAdministrativePlan"
+    id="2fd1190b-e286-47b0-8481-5deb8782def0"
+    documentation="Retrieve Procurement Administrative Plan related reports"/>

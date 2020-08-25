@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configureACHFulfillmentOperatingSession"
+    id="47e4ed7d-37d0-42c7-a0e1-1b857ffdbab1"
+    documentation="Amend the configuration arrangements/parameters governing the ACH fulfillment operating session"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">VotingCondition"
+    id="0fc23f4b-2d59-4366-a984-18c13b9e5779"
+    documentation=" Specifies the different voting types, channels and premium.&#xA;&#xA;Определяет различные типы голосования, каналы и премии."/>

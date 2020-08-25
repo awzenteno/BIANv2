@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifySyndicatedLoanFulfillmentArrangement"
+    id="b86f10c0-9b72-4229-8593-5879319f3c5e"
+    documentation="Subscribe to Syndicated Loan Product Arrangement notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateCredit/ChargeCardFinancialCaptureTransaction"
+    id="4589c43c-3958-4525-91cc-264c2ed76f1c"
+    documentation="Comment:&#xA;&#xA;Initiate a Credit/Charge Card Financial Capture Transaction"/>

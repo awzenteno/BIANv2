@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">VoteInstructionRequest"
+    id="0e8161ed-17c7-411a-a23c-1a918ee3ca84"
+    documentation=" Decision of the voting party for one resolution. Several types of decisions can be indicated to allow for split vote specification.&#xA;&#xA;Решение голосующей партии по одному решению. Можно указать несколько типов решений, чтобы разрешить разделение голосования."/>

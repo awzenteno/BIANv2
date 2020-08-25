@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateHelpDeskOperatingSession"
+    id="b6c8e214-a153-41c4-9965-0dc628633150"
+    documentation="Assign responsibility for and activate the Help Desk Operating Session"/>

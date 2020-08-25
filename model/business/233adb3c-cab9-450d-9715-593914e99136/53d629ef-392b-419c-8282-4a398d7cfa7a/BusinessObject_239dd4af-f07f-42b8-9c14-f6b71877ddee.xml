@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MandateStatus"
+    id="239dd4af-f07f-42b8-9c14-f6b71877ddee"
+    documentation=" Specifies whether a mandate is accepted or rejected.&#xA;&#xA;Указывает, принимается или отклоняется мандат."/>

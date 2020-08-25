@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestFinancialGatewayOperatingSession"
+    id="204fc922-5e43-452b-969b-ea3034df49fc"
+    documentation="Request a service under the Financial Gateway Operating Session"/>

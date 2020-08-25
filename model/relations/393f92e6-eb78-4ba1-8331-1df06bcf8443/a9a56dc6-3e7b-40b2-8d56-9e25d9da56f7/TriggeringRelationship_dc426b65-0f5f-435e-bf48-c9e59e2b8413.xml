@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Compute Available Balance"
+    id="dc426b65-0f5f-435e-bf48-c9e59e2b8413">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd.xml#ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd"/>
+</archimate:TriggeringRelationship>

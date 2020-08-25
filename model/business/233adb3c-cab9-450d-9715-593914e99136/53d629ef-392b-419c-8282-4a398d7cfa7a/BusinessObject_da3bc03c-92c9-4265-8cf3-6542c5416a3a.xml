@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">IssuerRole"
+    id="da3bc03c-92c9-4265-8cf3-6542c5416a3a"
+    documentation=" Legal entity that has the right to issue securities.&#xA;&#xA;Юридическое лицо, имеющее право выпуска ценных бумаг."/>

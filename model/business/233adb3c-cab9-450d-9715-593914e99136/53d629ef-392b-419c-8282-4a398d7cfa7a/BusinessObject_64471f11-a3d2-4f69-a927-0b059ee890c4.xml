@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Collateral"
+    id="64471f11-a3d2-4f69-a927-0b059ee890c4"
+    documentation="Assets pledged by a debtor to secure a loan or an exposure and subject to seizure in the event of default.&#xA;&#xA;Активы, заложенные должником для обеспечения кредита или риска и подлежащие аресту в случае неисполнения обязательств."/>

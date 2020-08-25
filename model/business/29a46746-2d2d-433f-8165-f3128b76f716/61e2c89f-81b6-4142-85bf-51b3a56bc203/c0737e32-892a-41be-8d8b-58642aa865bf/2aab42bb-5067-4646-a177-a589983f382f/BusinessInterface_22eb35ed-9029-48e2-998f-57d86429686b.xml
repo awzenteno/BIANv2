@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBusinessArchitectureSpecification"
+    id="22eb35ed-9029-48e2-998f-57d86429686b"
+    documentation="Retrieve Business Architecture Specification related reports"/>

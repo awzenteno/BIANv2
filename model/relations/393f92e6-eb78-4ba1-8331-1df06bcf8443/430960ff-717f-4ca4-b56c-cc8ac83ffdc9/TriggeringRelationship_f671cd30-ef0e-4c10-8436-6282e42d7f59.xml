@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obtain current Customer data"
+    id="f671cd30-ef0e-4c10-8436-6282e42d7f59">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_17c6981e-a297-4809-877d-aca6a48c0f0a.xml#17c6981e-a297-4809-877d-aca6a48c0f0a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1a2593d3-0df1-40dd-ad70-92b388b44ac7.xml#1a2593d3-0df1-40dd-ad70-92b388b44ac7"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check Access Grant"
+    id="ca7c358f-f909-46cc-be00-dbc085e54a0b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_d0dae581-be73-47ca-b0b5-892213eb9de6.xml#d0dae581-be73-47ca-b0b5-892213eb9de6"/>
+</archimate:TriggeringRelationship>

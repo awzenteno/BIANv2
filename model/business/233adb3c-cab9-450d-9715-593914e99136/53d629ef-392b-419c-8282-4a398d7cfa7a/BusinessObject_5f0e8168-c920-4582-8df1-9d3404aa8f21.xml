@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SwitchSubscriptionLeg"
+    id="5f0e8168-c920-4582-8df1-9d3404aa8f21"
+    documentation=" Subscription leg, or switch-in, of a switch order.&#xA;&#xA;Нога подписки, или switch-in, заказа переключателя."/>

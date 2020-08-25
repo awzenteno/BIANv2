@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateMarketOrderTransaction"
+    id="ab7aa478-7e7c-47c5-99df-fdf0bd72c314"
+    documentation="Comment:&#xA;&#xA;Update elements of the Market Order Transaction"/>

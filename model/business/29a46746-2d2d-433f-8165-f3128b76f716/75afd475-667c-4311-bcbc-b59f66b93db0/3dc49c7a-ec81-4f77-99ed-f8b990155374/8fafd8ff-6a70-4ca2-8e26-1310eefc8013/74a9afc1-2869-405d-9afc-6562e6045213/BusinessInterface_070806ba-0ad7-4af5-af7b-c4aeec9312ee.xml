@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCollateralAssetAdministrativePlan"
+    id="070806ba-0ad7-4af5-af7b-c4aeec9312ee"
+    documentation="Retrieve collateral administration activity reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordServicingEventLog"
+    id="09e10e4f-12f6-4388-af91-9a86f03f1445"
+    documentation="Record activity details/transaction information against the Servicing Event Account/Log"/>

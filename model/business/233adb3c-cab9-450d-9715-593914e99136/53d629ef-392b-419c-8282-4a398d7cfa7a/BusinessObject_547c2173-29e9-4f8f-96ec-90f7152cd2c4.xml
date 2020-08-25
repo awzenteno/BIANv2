@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DisputeManagement"
+    id="547c2173-29e9-4f8f-96ec-90f7152cd2c4"
+    documentation=" Provides the dispute details on the variation margin and/or the segregated independent amount.&#xA;&#xA;Предоставляет подробную информацию о споре по вариационной марже и/или отдельной независимой сумме."/>

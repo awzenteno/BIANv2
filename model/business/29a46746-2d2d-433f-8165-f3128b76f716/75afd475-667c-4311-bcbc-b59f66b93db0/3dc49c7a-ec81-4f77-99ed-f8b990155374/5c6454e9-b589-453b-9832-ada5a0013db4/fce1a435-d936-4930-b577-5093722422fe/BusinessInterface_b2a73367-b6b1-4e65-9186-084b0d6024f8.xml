@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveChequeProcessingOperatingSession"
+    id="b2a73367-b6b1-4e65-9186-084b0d6024f8"
+    documentation="Retrieve Cheque Processing Operating Session related reports"/>

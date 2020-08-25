@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyHumanResourcesStrategy"
+    id="35ea8f38-32bd-41e7-a633-5b1ef5a5d7ee"
+    documentation="Subscribe to Human Resources Strategy notification services"/>

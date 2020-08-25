@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CardPayment"
+    id="7ca2f84a-6700-4e40-8099-192c9b80db32"
+    documentation="Payment through an electronic money product.&#xA;&#xA;Оплата через продукт электронных денег."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateMerchant FulfillmentArrangement"
+    id="ffb5520b-d39a-41cb-97ad-bf2812921f59"
+    documentation=" Terminate all or some part of the merchant fulfillment arrangement"/>

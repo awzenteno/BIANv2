@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerBehaviorAnalysis"
+    id="21c5b03b-c712-4161-94e2-6d457754fe92"
+    documentation="Record activity details/information against the Customer Behavior Analysis"/>

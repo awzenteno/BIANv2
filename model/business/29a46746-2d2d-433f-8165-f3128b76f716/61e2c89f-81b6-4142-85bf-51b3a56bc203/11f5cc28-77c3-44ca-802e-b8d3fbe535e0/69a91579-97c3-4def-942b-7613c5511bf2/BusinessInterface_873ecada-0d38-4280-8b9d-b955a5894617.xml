@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateEmployeeDirectory"
+    id="873ecada-0d38-4280-8b9d-b955a5894617"
+    documentation="Update elements of the Employee Directory "/>

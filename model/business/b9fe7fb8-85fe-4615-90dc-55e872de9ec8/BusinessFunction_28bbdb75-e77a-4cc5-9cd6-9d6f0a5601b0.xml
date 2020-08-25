@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="->Register"
+    id="28bbdb75-e77a-4cc5-9cd6-9d6f0a5601b0"
+    documentation="Record the details of a newly identified entity. &#xA;Example: Capture a new customer's details."/>

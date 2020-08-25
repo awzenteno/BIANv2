@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Configure production release evaluation settings"
+    id="4054ce6d-3349-4bbe-a1cd-1597f31e1798">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_15519ec9-4ec9-406c-9ad6-30bd21c34d6f.xml#15519ec9-4ec9-406c-9ad6-30bd21c34d6f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_24ac6a82-28ce-4b7e-8bb6-775078b206b8.xml#24ac6a82-28ce-4b7e-8bb6-775078b206b8"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerCaseRootCauseAnalysis"
+    id="577733c2-8078-4a28-8a33-4702e0864d9f"
+    documentation="Subscribe to Customer Case Root Cause Analysis notification services"/>

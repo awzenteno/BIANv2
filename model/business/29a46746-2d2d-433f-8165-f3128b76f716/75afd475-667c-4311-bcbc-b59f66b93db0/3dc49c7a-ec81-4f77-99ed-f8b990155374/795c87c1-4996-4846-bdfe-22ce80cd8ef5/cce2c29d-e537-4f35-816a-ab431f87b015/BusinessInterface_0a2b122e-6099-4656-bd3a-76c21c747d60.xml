@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateFraudCaseAssessment"
+    id="0a2b122e-6099-4656-bd3a-76c21c747d60"
+    documentation="Activate the Fraud Case Assessment service"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerAgreement"
+    id="a9a20d1b-cf1c-4999-b7ac-cc9bc2826a9f"
+    documentation="Subscribe to Customer Agreement notification services"/>

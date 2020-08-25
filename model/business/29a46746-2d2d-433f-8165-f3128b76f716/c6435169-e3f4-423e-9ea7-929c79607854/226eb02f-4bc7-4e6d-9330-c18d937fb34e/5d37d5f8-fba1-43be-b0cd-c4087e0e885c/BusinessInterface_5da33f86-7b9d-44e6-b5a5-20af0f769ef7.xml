@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifySegmentStrategy"
+    id="5da33f86-7b9d-44e6-b5a5-20af0f769ef7"
+    documentation="Subscribe to Segment Strategy notification services"/>

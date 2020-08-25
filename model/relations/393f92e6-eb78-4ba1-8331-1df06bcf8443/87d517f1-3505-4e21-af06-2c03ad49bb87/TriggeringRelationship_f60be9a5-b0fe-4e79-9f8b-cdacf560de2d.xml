@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Execute Credit Booking on Holding Account"
+    id="f60be9a5-b0fe-4e79-9f8b-cdacf560de2d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_34eabdca-5f1b-43b6-92a4-8a22ae186844.xml#34eabdca-5f1b-43b6-92a4-8a22ae186844"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4aebb839-8b17-41c3-9d71-518b9304179b.xml#4aebb839-8b17-41c3-9d71-518b9304179b"/>
+</archimate:TriggeringRelationship>

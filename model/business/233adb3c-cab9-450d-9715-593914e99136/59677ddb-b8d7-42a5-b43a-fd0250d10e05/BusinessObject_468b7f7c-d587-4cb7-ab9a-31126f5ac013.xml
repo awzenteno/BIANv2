@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DocumentHandlingSession"
+    id="468b7f7c-d587-4cb7-ab9a-31126f5ac013"
+    documentation="An operating session of a document handling system&#xA;&#xA;Рабочий сеанс системы обработки документов"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Activate advanced voice service operating session"
+    id="a798678b-c322-4898-94de-410ced5bf70e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bc335029-0187-4e43-bb1a-b52159b2dfe2.xml#bc335029-0187-4e43-bb1a-b52159b2dfe2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_9b2c608b-3601-418f-93dd-b45d04d4a760.xml#9b2c608b-3601-418f-93dd-b45d04d4a760"/>
+</archimate:TriggeringRelationship>

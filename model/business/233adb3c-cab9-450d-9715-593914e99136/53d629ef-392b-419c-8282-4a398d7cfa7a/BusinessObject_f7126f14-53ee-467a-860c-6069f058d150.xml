@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Authentication"
+    id="f7126f14-53ee-467a-860c-6069f058d150"
+    documentation=" Data related to the authentication of the cardholder.&#xA;&#xA;Данные, связанные с аутентификацией владельца карты."/>

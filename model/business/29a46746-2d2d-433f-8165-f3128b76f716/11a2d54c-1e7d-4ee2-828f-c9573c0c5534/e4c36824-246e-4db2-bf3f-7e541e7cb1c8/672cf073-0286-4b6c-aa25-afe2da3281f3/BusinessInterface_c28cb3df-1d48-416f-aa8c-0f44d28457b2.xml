@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateCustomerCaseProcedure"
+    id="c28cb3df-1d48-416f-aa8c-0f44d28457b2"
+    documentation="Update work tasks and activity details for the Customer Case Procedure"/>

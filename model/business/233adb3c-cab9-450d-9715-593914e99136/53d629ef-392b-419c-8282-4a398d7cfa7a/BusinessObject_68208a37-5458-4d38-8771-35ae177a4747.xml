@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CommercialTrade"
+    id="68208a37-5458-4d38-8771-35ae177a4747"
+    documentation="Commercial details of a trade transaction between a buyer and a seller.&#xA;&#xA;Коммерческие детали торговой сделки между покупателем и продавцом."/>

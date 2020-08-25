@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerReferenceDataDirectory"
+    id="3a0c749d-af2d-46cc-83f6-9f51d88ae307"
+    documentation="Retrieve a customer reference directory record/report"/>

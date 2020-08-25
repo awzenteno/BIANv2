@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configureFinancialPositionLog"
+    id="525d55ea-5640-490e-b634-d80453173566"
+    documentation="Amend the configuration arrangements/parameters governing the Financial Position Account/Log"/>

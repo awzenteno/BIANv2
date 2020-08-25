@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate customer billing"
+    id="892154c2-17af-4efb-816e-b724353be0c1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_75ae151c-9808-4386-bd4d-5775a35d705b.xml#75ae151c-9808-4386-bd4d-5775a35d705b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_2d7ba212-fc72-4a16-8c1b-2f10d5879ac9.xml#2d7ba212-fc72-4a16-8c1b-2f10d5879ac9"/>
+</archimate:TriggeringRelationship>

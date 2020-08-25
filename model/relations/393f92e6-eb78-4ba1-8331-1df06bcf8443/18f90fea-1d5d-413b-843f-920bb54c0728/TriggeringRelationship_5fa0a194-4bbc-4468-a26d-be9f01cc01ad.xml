@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get issued device (application) details"
+    id="5fa0a194-4bbc-4468-a26d-be9f01cc01ad">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_613d4fa2-b9d0-4863-b878-1f3573f8d0b3.xml#613d4fa2-b9d0-4863-b878-1f3573f8d0b3"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6fc05847-d6ba-4fd9-bda6-384a0840c029.xml#6fc05847-d6ba-4fd9-bda6-384a0840c029"/>
+</archimate:TriggeringRelationship>

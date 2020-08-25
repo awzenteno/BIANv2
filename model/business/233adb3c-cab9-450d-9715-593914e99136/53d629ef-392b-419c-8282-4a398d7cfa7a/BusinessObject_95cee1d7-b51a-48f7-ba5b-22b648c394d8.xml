@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TerminalManagementSystem"
+    id="95cee1d7-b51a-48f7-ba5b-22b648c394d8"
+    documentation=" Terminal management system (TMS), has in charge the maintenance of the terminal, including monitoring, software update, configuration parameters management.&#xA;&#xA;Терминальная система управления (TMS), имеет на попечении обслуживание сборов_плат, включая контроль, актуализацию программного обеспечения, управление параметров конфигурации."/>

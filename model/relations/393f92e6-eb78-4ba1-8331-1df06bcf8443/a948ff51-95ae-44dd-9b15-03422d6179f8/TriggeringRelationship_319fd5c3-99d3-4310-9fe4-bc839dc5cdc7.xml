@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request risk adjustments"
+    id="319fd5c3-99d3-4310-9fe4-bc839dc5cdc7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a72c9ace-f56a-4968-985f-1feb3eed46fa.xml#a72c9ace-f56a-4968-985f-1feb3eed46fa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5a5e80b7-dfaf-453b-9e1a-71577be2cfbe.xml#5a5e80b7-dfaf-453b-9e1a-71577be2cfbe"/>
+</archimate:TriggeringRelationship>

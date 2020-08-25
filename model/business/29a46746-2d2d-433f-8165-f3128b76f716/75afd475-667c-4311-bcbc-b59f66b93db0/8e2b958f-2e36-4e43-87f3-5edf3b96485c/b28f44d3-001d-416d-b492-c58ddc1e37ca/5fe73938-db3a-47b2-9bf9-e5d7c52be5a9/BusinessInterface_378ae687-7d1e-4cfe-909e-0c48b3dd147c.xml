@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateDepositFulfillmentArrangement"
+    id="378ae687-7d1e-4cfe-909e-0c48b3dd147c"
+    documentation="Update elements of the Deposit"/>

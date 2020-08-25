@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DuplicateCase"
+    id="36d12f5e-cc65-4aa3-ba4a-febc843e79a7"
+    documentation=" Outcome that results in closing a case as duplicate because the same issue has been reported by another party.&#xA;&#xA;Результат, который приводит к закрытию дела как дубликат, потому что та же проблема была сообщена другой стороной."/>

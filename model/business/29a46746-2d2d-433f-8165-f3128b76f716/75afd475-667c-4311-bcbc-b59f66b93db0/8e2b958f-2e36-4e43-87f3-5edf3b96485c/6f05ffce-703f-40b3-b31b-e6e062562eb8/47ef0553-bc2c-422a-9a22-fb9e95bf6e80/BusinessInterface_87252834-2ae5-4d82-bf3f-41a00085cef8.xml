@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateBankGuaranteeFulfillmentArrangement"
+    id="87252834-2ae5-4d82-bf3f-41a00085cef8"
+    documentation="Update elements of the Bank Guarantee"/>

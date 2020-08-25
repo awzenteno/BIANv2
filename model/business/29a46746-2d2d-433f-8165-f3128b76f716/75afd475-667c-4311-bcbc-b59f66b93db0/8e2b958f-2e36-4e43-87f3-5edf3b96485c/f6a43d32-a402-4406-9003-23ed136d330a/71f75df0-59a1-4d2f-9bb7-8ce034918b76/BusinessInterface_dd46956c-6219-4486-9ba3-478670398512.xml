@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateSecuritiesAllocationTransaction"
+    id="dd46956c-6219-4486-9ba3-478670398512"
+    documentation="Update elements of the Securities Allocation Transaction"/>

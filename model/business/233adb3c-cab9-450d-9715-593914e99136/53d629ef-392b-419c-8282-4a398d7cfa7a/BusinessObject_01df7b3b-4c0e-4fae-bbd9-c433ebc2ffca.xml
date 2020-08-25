@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InterestCalculation"
+    id="01df7b3b-4c0e-4fae-bbd9-c433ebc2ffca"
+    documentation=" Set of parameters used to calculate an interest amount.&#xA;&#xA;Набор параметров, используемых для расчета суммы Вознаграждения."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveContactCenterManagementPlan"
+    id="2db9aa10-9898-43e0-b518-2c2eabc18bee"
+    documentation="Retrieve Contact Center Management Plan related reports"/>

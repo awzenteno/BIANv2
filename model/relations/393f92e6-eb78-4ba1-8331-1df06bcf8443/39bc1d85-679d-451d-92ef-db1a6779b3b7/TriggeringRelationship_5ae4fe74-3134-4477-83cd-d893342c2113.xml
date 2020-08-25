@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get activity report"
+    id="5ae4fe74-3134-4477-83cd-d893342c2113">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_57a94651-81f3-4742-9c34-c29bc2366153.xml#57a94651-81f3-4742-9c34-c29bc2366153"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_b2df41fd-f6e9-467a-a0d8-51ced0ae4a08.xml#b2df41fd-f6e9-467a-a0d8-51ced0ae4a08"/>
+</archimate:TriggeringRelationship>

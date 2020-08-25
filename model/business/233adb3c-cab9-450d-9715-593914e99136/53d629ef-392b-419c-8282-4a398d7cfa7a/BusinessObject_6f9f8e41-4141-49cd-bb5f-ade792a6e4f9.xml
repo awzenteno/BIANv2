@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Invoice"
+    id="6f9f8e41-4141-49cd-bb5f-ade792a6e4f9"
+    documentation=" General information about an invoice, such as number, issue date date and monetary amounts.&#xA;&#xA;Общие сведения о накладной, такие как номер, дата выпуска и денежные суммы."/>

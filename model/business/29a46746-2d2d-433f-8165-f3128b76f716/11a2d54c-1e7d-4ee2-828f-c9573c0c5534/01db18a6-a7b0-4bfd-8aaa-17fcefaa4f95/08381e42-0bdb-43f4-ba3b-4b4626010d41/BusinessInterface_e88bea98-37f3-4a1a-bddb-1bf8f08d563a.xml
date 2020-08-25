@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveVoiceChannelOperatingSession"
+    id="e88bea98-37f3-4a1a-bddb-1bf8f08d563a"
+    documentation=" Retrieve an voice channel operating session report"/>

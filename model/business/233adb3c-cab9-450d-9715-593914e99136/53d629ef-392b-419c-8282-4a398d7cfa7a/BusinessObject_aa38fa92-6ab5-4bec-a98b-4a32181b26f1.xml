@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ChoiceCorporateAction"
+    id="aa38fa92-6ab5-4bec-a98b-4a32181b26f1"
+    documentation=" Mandatory with choice corporate action event that involves a choice on behalf of the owner of the securities. The shareholders are given a chance to choose among several options.&#xA;&#xA;Обязательное с выбором корпоративное мероприятие, которое предполагает выбор от имени владельца ценных бумаг. Акционерам предоставляется возможность выбора из нескольких вариантов."/>

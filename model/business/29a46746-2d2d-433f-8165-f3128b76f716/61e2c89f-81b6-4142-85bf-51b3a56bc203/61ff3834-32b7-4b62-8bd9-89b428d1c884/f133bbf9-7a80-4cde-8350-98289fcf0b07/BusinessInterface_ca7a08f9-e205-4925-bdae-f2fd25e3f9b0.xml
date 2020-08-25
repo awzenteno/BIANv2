@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordInternalNetworkOperatingSession"
+    id="ca7a08f9-e205-4925-bdae-f2fd25e3f9b0"
+    documentation="Record activity details/information against the Internal Network Operating Session"/>

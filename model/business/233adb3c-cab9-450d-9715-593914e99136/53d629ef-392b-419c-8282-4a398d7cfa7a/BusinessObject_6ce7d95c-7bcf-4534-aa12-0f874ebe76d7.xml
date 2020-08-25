@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Status"
+    id="6ce7d95c-7bcf-4534-aa12-0f874ebe76d7"
+    documentation=" The status of an instruction, advice or request.&#xA;&#xA;Состояние инструкции, рекомендации или запроса."/>

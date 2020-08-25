@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate Product Broker Agreement"
+    id="e1c59272-d972-49bf-aec5-b4137c6ccc7d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5f998303-f2ff-415b-9cde-f89f78a4c514.xml#5f998303-f2ff-415b-9cde-f89f78a4c514"/>
+</archimate:TriggeringRelationship>

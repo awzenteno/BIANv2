@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Response"
+    id="15a44abb-0235-4d6e-9f36-4ca21a36dc80"
+    documentation="Response of a requested service.&#xA;&#xA;Ответ запрашиваемой услуги."/>

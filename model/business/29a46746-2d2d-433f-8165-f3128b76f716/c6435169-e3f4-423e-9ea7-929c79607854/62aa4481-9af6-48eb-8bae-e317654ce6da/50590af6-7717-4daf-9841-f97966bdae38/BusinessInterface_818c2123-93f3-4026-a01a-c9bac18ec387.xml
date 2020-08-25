@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" activateFinancialBookingLog"
+    id="818c2123-93f3-4026-a01a-c9bac18ec387"
+    documentation="Assign responsibility for the Financial Booking Account/Log"/>

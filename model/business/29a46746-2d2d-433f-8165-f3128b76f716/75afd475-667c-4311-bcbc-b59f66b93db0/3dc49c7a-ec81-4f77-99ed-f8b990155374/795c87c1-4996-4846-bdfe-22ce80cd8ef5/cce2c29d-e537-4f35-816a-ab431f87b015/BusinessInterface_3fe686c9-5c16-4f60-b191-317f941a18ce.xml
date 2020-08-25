@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeFraudCaseAssessment"
+    id="3fe686c9-5c16-4f60-b191-317f941a18ce"
+    documentation="Obtain authorization for some action under the Fraud Case Assessment"/>

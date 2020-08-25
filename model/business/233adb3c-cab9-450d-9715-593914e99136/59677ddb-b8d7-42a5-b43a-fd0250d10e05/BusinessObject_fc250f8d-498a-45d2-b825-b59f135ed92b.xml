@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UnderwritingStatus"
+    id="fc250f8d-498a-45d2-b825-b59f135ed92b"
+    documentation=" A stage in the lifecycle of an underwriting decision&#xA;&#xA;Этап жизненного цикла решения по андеррайтингу"/>

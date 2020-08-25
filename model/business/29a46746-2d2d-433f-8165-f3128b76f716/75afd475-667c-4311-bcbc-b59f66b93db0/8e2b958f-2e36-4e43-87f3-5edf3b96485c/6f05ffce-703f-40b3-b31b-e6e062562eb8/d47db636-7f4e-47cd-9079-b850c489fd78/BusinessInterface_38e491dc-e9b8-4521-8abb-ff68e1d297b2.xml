@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveTradeFinanceFulfillmentArrangement"
+    id="38e491dc-e9b8-4521-8abb-ff68e1d297b2"
+    documentation="Retrieve Trade Finance Product Arrangement related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerPositionAnalysis"
+    id="cd96ed8c-20ae-4a25-8512-77bbbfe8d955"
+    documentation="Request a service under the customer position analysis"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluatePartyAuthenticationAssessmentBehavior"
+    id="1dc72423-5867-4285-a617-fc5681f9da06"
+    documentation="Evaluate authenticity based on behavioral patterns"/>

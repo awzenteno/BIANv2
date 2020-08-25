@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateServiceProviderAgreement"
+    id="760ca76f-6834-4ea6-b269-e0dc1146ae16"
+    documentation="Comment:&#xA;&#xA;Check/verify compliance with Service Provider Agreement related checks/assessments"/>

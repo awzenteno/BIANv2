@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">VotingPartyRole"
+    id="486b33b3-ebf6-4a8f-b530-96d89aad96bd"
+    documentation=" Party that has indicated its voting decision on one agenda item or on the entirety of the agenda.&#xA;&#xA;Сторона, которая сообщила о своем решении голосовать по одному пункту повестки дня или по всей повестке дня."/>

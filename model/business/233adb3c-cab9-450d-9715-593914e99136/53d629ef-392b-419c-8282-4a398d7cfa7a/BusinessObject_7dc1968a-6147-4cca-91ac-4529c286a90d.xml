@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionDeadline"
+    id="7dc1968a-6147-4cca-91ac-4529c286a90d"
+    documentation="Time constraints for processing corporate actions.&#xA;&#xA;Временные ограничения на обработку корпоративных действий."/>

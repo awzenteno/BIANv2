@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCorporateDepositFulfillmentArrangement"
+    id="4a127217-95a0-46fa-ae4a-bad57f70a709"
+    documentation=" Subscribe to corporate deposit fulfillment arrangement notification services"/>

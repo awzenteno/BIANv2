@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorise Debit Refund Booking of Internal Direct Debit"
+    id="97f6e25a-00e5-48f2-898e-03eeda4e9d9a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_324110ee-9391-464c-b217-aa7ea115bd55.xml#324110ee-9391-464c-b217-aa7ea115bd55"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd.xml#ba1329b3-afc9-4cda-a65a-5bc9c8d85ebd"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesSwapLeg"
+    id="e5eb4a6a-309a-4e51-b16b-5d63e2ec1d0d"
+    documentation=" Contains the details of one of the legs of a swap, both in time (spot versus [partial] forward details) and the side (sell versus buy).&#xA;&#xA;Содержит сведения об одном из сегментов свопа, как во времени (спот против [частичных] форвардных деталей), так и в стороне (продажа против покупки)."/>

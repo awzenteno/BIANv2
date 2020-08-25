@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ChargeAgent"
+    id="79f65843-4f12-4cf2-a347-186392ac9c51"
+    documentation="Party that takes the transaction charges or to which the transaction charges are due.&#xA;&#xA;Сторона, которая взимает операционные расходы или к которой относятся операционные расходы."/>

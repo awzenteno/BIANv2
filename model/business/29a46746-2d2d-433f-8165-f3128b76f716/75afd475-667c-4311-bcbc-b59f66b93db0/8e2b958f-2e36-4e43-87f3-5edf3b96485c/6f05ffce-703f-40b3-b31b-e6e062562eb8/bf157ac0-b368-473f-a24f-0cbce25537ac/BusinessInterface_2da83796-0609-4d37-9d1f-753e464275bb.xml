@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordProjectFinanceFulfillmentArrangement"
+    id="2da83796-0609-4d37-9d1f-753e464275bb"
+    documentation="Record activity details/information against the Project Finance"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Claim against bank guarantee"
+    id="c8ff55ea-0f13-451d-ac5a-e26c1f828ca4">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_7777d1f1-2781-4859-9e94-9fdf082125b9.xml#7777d1f1-2781-4859-9e94-9fdf082125b9"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateServicingEventLog"
+    id="ec46fed6-33d1-4e3f-a216-921bae3c3a73"
+    documentation="Update details of a logged servicing record"/>

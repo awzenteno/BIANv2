@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyTradedPositionTransaction"
+    id="5ab5647d-8de0-4c8f-9869-838909373e7f"
+    documentation="Subscribe to Traded Position Transaction notification services"/>

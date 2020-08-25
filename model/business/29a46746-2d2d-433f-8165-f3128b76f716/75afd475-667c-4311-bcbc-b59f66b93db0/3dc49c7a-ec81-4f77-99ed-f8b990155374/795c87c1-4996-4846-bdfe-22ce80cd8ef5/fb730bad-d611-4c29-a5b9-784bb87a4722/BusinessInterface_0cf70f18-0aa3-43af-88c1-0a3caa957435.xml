@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateRewardPointsLog"
+    id="0cf70f18-0aa3-43af-88c1-0a3caa957435"
+    documentation="Update elements of the Reward Points Account/Log"/>

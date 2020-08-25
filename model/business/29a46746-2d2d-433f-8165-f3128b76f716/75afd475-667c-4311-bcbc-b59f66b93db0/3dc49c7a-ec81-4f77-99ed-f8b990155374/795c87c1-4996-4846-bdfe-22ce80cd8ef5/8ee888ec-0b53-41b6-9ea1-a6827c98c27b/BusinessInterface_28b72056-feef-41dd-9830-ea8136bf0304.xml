@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeTransactionScheduleFulfillmentArrangement"
+    id="28b72056-feef-41dd-9830-ea8136bf0304"
+    documentation="Comment:&#xA;&#xA;Execute a task under the Transaction Schedule"/>

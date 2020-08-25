@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Tranche"
+    id="59c460f1-709d-4d95-8991-98545409d2e2"
+    documentation=" One of a number of related assets offered as part of the same transaction. The detachment point less the attachment point represents the maximum loss.&#xA;&#xA;Один из нескольких связанных активов, предлагаемых в рамках одной и той же сделки. Точка отсоединения меньше точки прикрепления представляет максимальную потерю."/>

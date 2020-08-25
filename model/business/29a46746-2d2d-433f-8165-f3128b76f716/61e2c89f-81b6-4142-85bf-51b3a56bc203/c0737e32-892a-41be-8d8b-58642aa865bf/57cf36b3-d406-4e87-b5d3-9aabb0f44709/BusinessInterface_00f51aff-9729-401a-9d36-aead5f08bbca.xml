@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCorporatePolicySpecification"
+    id="00f51aff-9729-401a-9d36-aead5f08bbca"
+    documentation="Subscribe to Corporate Policy Specification notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordContributionAnalysis"
+    id="0934d0d9-3b55-4126-b64b-284b3c1f8d6a"
+    documentation="Record activity details/information against the Contribution Analysis"/>

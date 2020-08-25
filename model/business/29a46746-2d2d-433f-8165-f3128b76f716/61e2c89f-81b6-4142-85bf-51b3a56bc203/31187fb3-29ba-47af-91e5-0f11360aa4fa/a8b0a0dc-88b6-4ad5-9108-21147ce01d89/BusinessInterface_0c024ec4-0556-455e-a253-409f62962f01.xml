@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeSecurityComplianceProcedure"
+    id="0c024ec4-0556-455e-a253-409f62962f01"
+    documentation="Execute a task under the Security Compliance Procedure"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Maximum Exposure Limit for Charge Card"
+    id="8a66b90d-feb2-4577-826a-11b072ca9600">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c2164bd8-b0d5-4e2d-ba1a-77a38269f945.xml#c2164bd8-b0d5-4e2d-ba1a-77a38269f945"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_416ba766-5a27-4aa3-9a1b-6f62cde595fc.xml#416ba766-5a27-4aa3-9a1b-6f62cde595fc"/>
+</archimate:TriggeringRelationship>

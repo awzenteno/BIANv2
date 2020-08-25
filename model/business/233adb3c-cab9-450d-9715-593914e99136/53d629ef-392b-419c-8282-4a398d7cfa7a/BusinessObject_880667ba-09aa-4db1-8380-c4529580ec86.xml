@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ThirdPartyRole"
+    id="880667ba-09aa-4db1-8380-c4529580ec86"
+    documentation=" Party that can use the facilities of a system through one of its members.&#xA;&#xA;Сторона, которая может использовать возможности системы через одного из своих членов."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProductionRiskModelSpecification"
+    id="c3a24562-99b2-4493-a942-e676a1213d8f"
+    documentation="Retrieve Production Risk Model Specification related reports"/>

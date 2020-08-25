@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateCustomerAccessProfileAgreementSettings"
+    id="653444c5-85c4-4f3c-857e-7237a009e5db"
+    documentation="Initiate/set-up the customer channel usage settings"/>

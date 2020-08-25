@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ChargeAccountAgent"
+    id="bec808f2-ba32-43af-9e50-e2d8f0eeddbd"
+    documentation=" Agent that services a charge account.&#xA;&#xA;Агент, обслуживающий платежный счет."/>

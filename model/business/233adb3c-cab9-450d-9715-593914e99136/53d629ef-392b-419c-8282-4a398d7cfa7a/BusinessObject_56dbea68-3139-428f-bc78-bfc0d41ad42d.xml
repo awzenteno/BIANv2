@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MeetingInitiatorRole"
+    id="56dbea68-3139-428f-bc78-bfc0d41ad42d"
+    documentation=" Specifies a party, other than the issuer, that requested that the meeting take place. It may be a court of justice or an association of security holders.&#xA;&#xA;Указывает сторону, отличную от издателя, которая запросила проведение собрания. Это может быть суд или ассоциация владельцев ценных бумаг."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordFraudCaseAssessment"
+    id="36c2e1ae-0ce5-4808-b12f-8fe37d351283"
+    documentation="Record activity details/information against an ongoing Fraud Case Assessment evaluation"/>

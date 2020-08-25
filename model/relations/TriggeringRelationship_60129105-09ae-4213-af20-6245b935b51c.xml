@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate Payment Orders for Salary Payments to External Accounts"
+    id="60129105-09ae-4213-af20-6245b935b51c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_26b3fb1b-7b13-4af3-853f-0f360eeeebac.xml#26b3fb1b-7b13-4af3-853f-0f360eeeebac"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ba5c1a26-55ab-4263-a77e-fc3843e0e9f6.xml#ba5c1a26-55ab-4263-a77e-fc3843e0e9f6"/>
+</archimate:TriggeringRelationship>

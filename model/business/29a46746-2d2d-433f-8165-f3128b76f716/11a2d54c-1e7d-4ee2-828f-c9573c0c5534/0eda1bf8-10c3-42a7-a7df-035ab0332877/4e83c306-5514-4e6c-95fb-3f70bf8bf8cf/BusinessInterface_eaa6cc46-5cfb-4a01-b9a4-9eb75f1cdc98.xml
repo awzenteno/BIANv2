@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerPropositionAgreement"
+    id="eaa6cc46-5cfb-4a01-b9a4-9eb75f1cdc98"
+    documentation="Retrieve Customer Proposition Agreement related reports "/>

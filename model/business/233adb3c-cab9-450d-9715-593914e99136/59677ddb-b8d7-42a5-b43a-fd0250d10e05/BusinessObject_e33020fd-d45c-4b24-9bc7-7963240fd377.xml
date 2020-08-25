@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CorrespondentBankRegistry"
+    id="e33020fd-d45c-4b24-9bc7-7963240fd377"
+    documentation="A registry whose entries represent banks playing the role of a correspondent bank&#xA;&#xA;&#xA;Реестр, записи в котором представляют банки, играющие роль банка-корреспондента"/>

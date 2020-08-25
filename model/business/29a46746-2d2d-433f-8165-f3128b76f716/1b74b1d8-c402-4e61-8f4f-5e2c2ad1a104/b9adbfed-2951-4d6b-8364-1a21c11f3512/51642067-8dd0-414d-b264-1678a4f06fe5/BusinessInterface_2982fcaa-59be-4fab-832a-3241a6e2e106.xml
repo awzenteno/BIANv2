@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordPartyMeasurementCustomerState"
+    id="2982fcaa-59be-4fab-832a-3241a6e2e106"
+    documentation=" Record details about the status of the party relationship"/>

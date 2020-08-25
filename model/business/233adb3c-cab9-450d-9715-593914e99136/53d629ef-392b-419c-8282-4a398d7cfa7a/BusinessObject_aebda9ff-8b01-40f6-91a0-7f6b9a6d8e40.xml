@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MeetingStatusReason"
+    id="aebda9ff-8b01-40f6-91a0-7f6b9a6d8e40"
+    documentation="Specifies the underlying reason for a status of a meeting or related instructions.&#xA;&#xA;Указывает основную причину состояния собрания или связанных инструкций."/>

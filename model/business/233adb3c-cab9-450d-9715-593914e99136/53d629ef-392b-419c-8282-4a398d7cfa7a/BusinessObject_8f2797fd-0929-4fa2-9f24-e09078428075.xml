@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SubmittingPartyRole"
+    id="8f2797fd-0929-4fa2-9f24-e09078428075"
+    documentation=" Specifies the party which submits trade data sets to a system or to a counterparty.&#xA;&#xA;Указывает сторону, которая передает наборы торговых данных в систему или контрагенту."/>

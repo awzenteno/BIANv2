@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Analyse risks"
+    id="2a9df63c-64e4-4d73-8a43-fa42fcd705f4">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c435ca21-191a-4dbe-8c1d-5b29a5ebfce9.xml#c435ca21-191a-4dbe-8c1d-5b29a5ebfce9"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_99b7156d-f767-4992-b214-0780f5271734.xml#99b7156d-f767-4992-b214-0780f5271734"/>
+</archimate:TriggeringRelationship>

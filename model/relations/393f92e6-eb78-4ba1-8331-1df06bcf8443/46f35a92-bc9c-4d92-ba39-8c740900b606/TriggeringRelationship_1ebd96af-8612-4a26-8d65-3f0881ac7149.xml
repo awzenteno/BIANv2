@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request Out of Pattern Spend Analysis"
+    id="1ebd96af-8612-4a26-8d65-3f0881ac7149">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7885c4e8-aaef-4a09-8104-f527820169cb.xml#7885c4e8-aaef-4a09-8104-f527820169cb"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_416ba766-5a27-4aa3-9a1b-6f62cde595fc.xml#416ba766-5a27-4aa3-9a1b-6f62cde595fc"/>
+</archimate:TriggeringRelationship>

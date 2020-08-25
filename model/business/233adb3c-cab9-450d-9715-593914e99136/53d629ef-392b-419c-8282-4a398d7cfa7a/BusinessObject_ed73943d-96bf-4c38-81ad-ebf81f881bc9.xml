@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Quorum"
+    id="ed73943d-96bf-4c38-81ad-ebf81f881bc9"
+    documentation=" Specifies whether a quorum is required or not together with the quorum parameters.&#xA;&#xA;Указывает, требуется ли кворум вместе с параметрами кворума."/>

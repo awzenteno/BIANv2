@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashProceedsDefinition"
+    id="a3c802d3-d623-428d-a983-d7a4caf5392d"
+    documentation=" Definition of the cash proceeds for a corporate action in generic terms; that is, before applying it to specific securities holding. An example would be the definition of a dividend payment where all the information will be given in general on a per share basis.&#xA;&#xA;&#xA;???????&#xA;Определение денежных поступлений от корпоративного действия в общих чертах; то есть до применения его к конкретному холдингу ценных бумаг. Примером может служить определение выплаты дивидендов, когда вся информация будет предоставляться в целом на основе каждой акции."/>

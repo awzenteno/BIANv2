@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveOpenItemProcedure"
+    id="efb61f47-e76c-4717-bdfc-0b6cb14ade85"
+    documentation=" Retrieve open item report"/>

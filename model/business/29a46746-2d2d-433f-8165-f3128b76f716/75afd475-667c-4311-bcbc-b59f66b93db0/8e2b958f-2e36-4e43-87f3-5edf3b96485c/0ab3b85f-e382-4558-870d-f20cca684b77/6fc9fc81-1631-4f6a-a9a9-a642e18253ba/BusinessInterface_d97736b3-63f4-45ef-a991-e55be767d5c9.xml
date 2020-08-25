@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestProgramTradingOperatingSession"
+    id="d97736b3-63f4-45ef-a991-e55be767d5c9"
+    documentation="Request a service under the Program Trading Operating Session"/>

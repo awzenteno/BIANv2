@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveeTradingWorkbenchOperatingSession"
+    id="79ac7ed2-f961-46c0-85e6-7d6d3ef05a93"
+    documentation="Retrieve eTrading Workbench Operating Session related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" registerProductDirectorySuitability/EligibilityRules"
+    id="a49ecb67-268f-44ee-a977-706977b1895a"
+    documentation=" Register a new product's eligibility/suitability rules in the directory"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerContactSessionProcedureCustomerQuery"
+    id="7252b1d9-73d7-4f8c-ba75-32ee222d5aaa"
+    documentation=" Request a product/service query"/>

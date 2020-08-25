@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateCorrespondentBankFulfillmentArrangement"
+    id="6e783143-8a95-4cc1-8121-fa5fde4e8659"
+    documentation=" Initiate/set-up a new correspondent bank arrangement/facility"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SwitchExecutionSubscriptionLeg"
+    id="69e0ee64-3228-48ed-a1a5-a1439be5dc22"
+    documentation=" Execution of the subscription part, in a switch between investment funds or investment fund classes.&#xA;&#xA;Выполнение подписной части, при переключении между инвестиционными фондами или классами инвестиционных фондов."/>

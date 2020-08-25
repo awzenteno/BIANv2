@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCardTransactionSwitchOperatingSession"
+    id="1662a2cc-ca8a-44e0-b191-7e60eea607af"
+    documentation="Terminate all or some part of the card transaction switch operating session"/>

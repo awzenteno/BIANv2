@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeOrganizationStrategy"
+    id="db0de991-6d4d-4b6a-a093-56cb23172315"
+    documentation="Obtain authorization for some action under the Organization Strategy"/>

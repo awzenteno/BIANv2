@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCustomerCaseProcedure"
+    id="e16d81fa-2a88-409c-83f9-9974b402ce4d"
+    documentation="Execute a task under the Customer Case Procedure"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeHumanResourcesStrategy"
+    id="670558a7-2d92-4607-936d-9151156fec62"
+    documentation="Obtain authorization for some action under the Human Resources Strategy"/>

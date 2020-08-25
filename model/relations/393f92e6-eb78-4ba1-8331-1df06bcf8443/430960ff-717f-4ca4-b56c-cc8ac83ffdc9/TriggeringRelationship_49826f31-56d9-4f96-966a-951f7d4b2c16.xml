@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record insights for advisory services"
+    id="49826f31-56d9-4f96-966a-951f7d4b2c16">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_17c6981e-a297-4809-877d-aca6a48c0f0a.xml#17c6981e-a297-4809-877d-aca6a48c0f0a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_c54076ee-8926-44d4-96f1-c6a6270f26ca.xml#c54076ee-8926-44d4-96f1-c6a6270f26ca"/>
+</archimate:TriggeringRelationship>

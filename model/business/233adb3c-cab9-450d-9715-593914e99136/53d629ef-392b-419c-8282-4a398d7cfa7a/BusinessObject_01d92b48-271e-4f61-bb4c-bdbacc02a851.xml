@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CollateralManagement"
+    id="01d92b48-271e-4f61-bb4c-bdbacc02a851"
+    documentation="Set of operations relative to the management of collateral, variation margins, default fund participation and independent amount.&#xA;&#xA;Набор операций по управлению залогами, вариационной маржой, участием Фонда по умолчанию и независимой суммой.&#xA;&#xA;&#xA;variation margin / вариационная маржа&#xA;"/>

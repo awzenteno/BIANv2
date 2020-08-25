@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SettlementInstructionSystemRole"
+    id="a2f4f27f-e534-4d4b-8dc0-cb0f6cbdfc20"
+    documentation=" Identification of a specific system or set of rules and/or processes to be applied at the settlement place.&#xA;&#xA;Определение конкретной системы или набора правил и / или процессов, которые должны применяться в месте урегулирования."/>

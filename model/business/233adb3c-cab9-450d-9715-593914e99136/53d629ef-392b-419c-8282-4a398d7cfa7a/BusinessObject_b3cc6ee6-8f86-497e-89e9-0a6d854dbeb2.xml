@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesSettlement"
+    id="b3cc6ee6-8f86-497e-89e9-0a6d854dbeb2"
+    documentation="Settlement of the securities in a securities transaction, that is, the instruction to deliver or receive securities, involving the payment of an amount of money or not.&#xA;&#xA;Осуществление расчетов по ценным бумагам в сделке с ценными бумагами, то есть поручение на поставку или получение ценных бумаг, предполагающее выплату денежной суммы или нет."/>

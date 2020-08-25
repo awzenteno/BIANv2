@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get collections report"
+    id="cdc8e081-b697-42d7-a735-bbe6a4ee6cea">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b0712271-c7aa-4f28-afb1-828e366fa0f6.xml#b0712271-c7aa-4f28-afb1-828e366fa0f6"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5e2ca3e1-9845-4cca-a64d-f381f5cf4dc4.xml#5e2ca3e1-9845-4cca-a64d-f381f5cf4dc4"/>
+</archimate:TriggeringRelationship>

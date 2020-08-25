@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRegistry"
+    id="93fdb23d-708d-4bf2-9058-1db38ff782c6"
+    documentation=" A registry whose entries represent parties that can be organizations or persons&#xA;&#xA;&#xA;Реестр, записи которого представляют стороны, которые могут быть организациями или лицами"/>

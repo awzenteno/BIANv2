@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerEventLog"
+    id="97efdc5b-cbd7-4afb-b664-43ca1aa64645"
+    documentation="Subscribe to Customer Event Account/Log notification services"/>

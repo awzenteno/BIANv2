@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateCustomerAgreementLegalTerms"
+    id="9d0c4488-7b5b-48c7-b80d-4548fc22fa5f"
+    documentation="Initiate/set-up the legal aspect of the customer agreement (apply/negotiate terms)"/>

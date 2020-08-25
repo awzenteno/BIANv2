@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCorrespondentBankDirectory"
+    id="c2e7ac69-162f-4433-8b70-e01d22921081"
+    documentation="Comment:&#xA;&#xA;Subscribe to Correspondent Bank Registration notification services"/>

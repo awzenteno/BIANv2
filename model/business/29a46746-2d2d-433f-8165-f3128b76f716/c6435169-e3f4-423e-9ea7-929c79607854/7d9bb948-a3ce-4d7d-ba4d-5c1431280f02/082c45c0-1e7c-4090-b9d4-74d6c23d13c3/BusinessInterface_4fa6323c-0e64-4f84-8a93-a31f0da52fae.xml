@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveContributionModelSpecification"
+    id="4fa6323c-0e64-4f84-8a93-a31f0da52fae"
+    documentation="Retrieve Contribution Model Specification related reports"/>

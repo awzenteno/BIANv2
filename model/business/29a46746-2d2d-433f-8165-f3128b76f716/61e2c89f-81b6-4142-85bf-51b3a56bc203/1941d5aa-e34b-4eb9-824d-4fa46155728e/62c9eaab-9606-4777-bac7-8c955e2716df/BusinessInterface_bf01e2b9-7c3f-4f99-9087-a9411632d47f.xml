@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEnterpriseCommunicationManagementPlan"
+    id="bf01e2b9-7c3f-4f99-9087-a9411632d47f"
+    documentation="Comment:&#xA;&#xA;Retrieve Enterprise Communication Management Plan related reports"/>

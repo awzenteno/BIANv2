@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SettlementTimeRequest"
+    id="6447b7e9-0b2c-4fdf-872d-721d2cdbe0f5"
+    documentation=" Provides information on the requested settlement time(s) of the payment instruction.&#xA;&#xA;Предоставляет информацию о запрашиваемых  сроках _уплаты в платежной инструкции."/>

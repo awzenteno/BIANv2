@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerContactOperatingSession"
+    id="f0b9a686-a4ed-403b-885d-b4b2c7c95665"
+    documentation="Subscribe to Customer Contact Operating Session notification services"/>

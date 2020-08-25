@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashAccountContract"
+    id="1d65ee86-c9e1-4288-9eae-e74ce683b551"
+    documentation=" Account contract established between the organisation or the group to which the organisation belongs, and the account servicer.&#xA;&#xA;&#xA;Договор о счете, заключенный между организацией или группой, к которой принадлежит организация, и обслуживающим счет лицом."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Open Loan account (for Corporate Customer)"
+    id="302d743d-6b4e-41ef-8783-e6b5a7a4872b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c435ca21-191a-4dbe-8c1d-5b29a5ebfce9.xml#c435ca21-191a-4dbe-8c1d-5b29a5ebfce9"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6207172d-4f7f-4170-b5f0-5b818d8e6ac9.xml#6207172d-4f7f-4170-b5f0-5b818d8e6ac9"/>
+</archimate:TriggeringRelationship>

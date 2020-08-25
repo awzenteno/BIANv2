@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyPrivatePlacementFulfillmentArrangement"
+    id="35e830bd-f445-443a-b205-06ee5b5d5875"
+    documentation="Subscribe to Private Placement Product Arrangement notification services"/>

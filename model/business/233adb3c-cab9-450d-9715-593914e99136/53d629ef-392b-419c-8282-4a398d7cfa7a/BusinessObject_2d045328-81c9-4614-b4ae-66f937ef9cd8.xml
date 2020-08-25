@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SwitchRedemptionLeg"
+    id="2d045328-81c9-4614-b4ae-66f937ef9cd8"
+    documentation=" Redemption leg, or switch-out, of a switch transaction.&#xA;&#xA;Этап погашения или отключения транзакции switch."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerPositionAnalysis"
+    id="ac22d89c-4f0a-431a-ba69-8d51347a6864"
+    documentation="Subscribe to customer position analysis notification services"/>

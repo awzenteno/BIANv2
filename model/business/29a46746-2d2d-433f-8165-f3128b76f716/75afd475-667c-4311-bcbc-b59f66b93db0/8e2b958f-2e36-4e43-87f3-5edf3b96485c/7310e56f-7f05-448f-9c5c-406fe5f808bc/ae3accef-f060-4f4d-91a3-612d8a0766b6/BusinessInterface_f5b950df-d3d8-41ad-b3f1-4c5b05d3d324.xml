@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeManagedInvestmentPortfolioFulfillmentArrangement"
+    id="f5b950df-d3d8-41ad-b3f1-4c5b05d3d324"
+    documentation="Execute a task under the Managed Investment Portfolio"/>

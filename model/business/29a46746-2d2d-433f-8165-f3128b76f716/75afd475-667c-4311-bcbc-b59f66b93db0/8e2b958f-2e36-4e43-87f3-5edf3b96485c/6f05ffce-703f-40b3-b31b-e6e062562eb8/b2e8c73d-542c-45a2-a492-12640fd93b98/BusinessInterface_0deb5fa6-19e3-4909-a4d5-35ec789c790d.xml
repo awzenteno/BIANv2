@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateSyndicatedLoanFulfillmentArrangement"
+    id="0deb5fa6-19e3-4909-a4d5-35ec789c790d"
+    documentation="Terminate all or some part of the Syndicated Loan"/>

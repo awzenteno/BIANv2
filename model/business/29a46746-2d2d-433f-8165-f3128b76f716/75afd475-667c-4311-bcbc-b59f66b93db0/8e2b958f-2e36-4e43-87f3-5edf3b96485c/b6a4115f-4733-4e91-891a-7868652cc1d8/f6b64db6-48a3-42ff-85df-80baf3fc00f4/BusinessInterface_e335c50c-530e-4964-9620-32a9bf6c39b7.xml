@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateCurrencyExchangeTransaction"
+    id="e335c50c-530e-4964-9620-32a9bf6c39b7"
+    documentation=" Initiate a currency exchange transaction"/>

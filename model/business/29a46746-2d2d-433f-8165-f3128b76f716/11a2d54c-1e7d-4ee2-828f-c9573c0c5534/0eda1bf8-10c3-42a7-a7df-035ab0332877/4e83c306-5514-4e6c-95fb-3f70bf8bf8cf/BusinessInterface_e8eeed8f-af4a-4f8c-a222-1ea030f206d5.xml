@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCustomerPropositionAgreement"
+    id="e8eeed8f-af4a-4f8c-a222-1ea030f206d5"
+    documentation="Terminate all or some part of the Customer Proposition Agreement "/>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mortgage"
+    id="b0712271-c7aa-4f28-afb1-828e366fa0f6"
+    documentation="Example of use:&#xA;A consumer customer applies for and gets a mortgage for a new house purchase&#xA;&#xA;General comment:&#xA;&#xA;Business Purpose&#xA;:  Fulfillment of a range of loan products for for the purpose of property purchase&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;Потребительский клиент подает заявку и получает ипотечный кредит на покупку нового дома&#xA;&#xA;Общее замечание:&#xA;&#xA;деловая цель&#xA;: Выполнение ряда кредитных продуктов для целей приобретения недвижимости"/>

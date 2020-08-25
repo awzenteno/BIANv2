@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">NonClearingMemberRole"
+    id="9d4c90c9-fc48-4ba3-a4d2-6155f2c85333"
+    documentation=" Party that is involved in a trade but which must clear the trade through a member of an exchange's clearing corporation.&#xA;&#xA;Сторона, которая участвует в торговле, но которая должна очистить торговлю через члена клиринговой корпорации биржи."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestRepoTransaction"
+    id="090b6071-576b-4485-aab4-09d41ecfd193"
+    documentation="Request a service under the Repo Transaction"/>

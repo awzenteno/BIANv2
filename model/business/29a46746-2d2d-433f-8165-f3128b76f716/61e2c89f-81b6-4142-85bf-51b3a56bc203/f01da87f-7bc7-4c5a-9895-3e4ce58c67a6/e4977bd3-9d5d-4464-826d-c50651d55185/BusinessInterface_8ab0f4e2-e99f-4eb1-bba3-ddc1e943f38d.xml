@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveOfficeEquipmentAdministrativePlan"
+    id="8ab0f4e2-e99f-4eb1-bba3-ddc1e943f38d"
+    documentation="Retrieve Office Equipment Administrative Plan related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerSegmentAnalysis"
+    id="cb676a58-15c4-400a-80c3-449d181468af"
+    documentation="Request a service under the Customer Segment Analysis"/>

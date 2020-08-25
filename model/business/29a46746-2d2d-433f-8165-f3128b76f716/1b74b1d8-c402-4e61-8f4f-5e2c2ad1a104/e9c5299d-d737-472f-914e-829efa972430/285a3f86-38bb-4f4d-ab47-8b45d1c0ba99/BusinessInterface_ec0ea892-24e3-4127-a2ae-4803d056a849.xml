@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateProductDirectory"
+    id="ec0ea892-24e3-4127-a2ae-4803d056a849"
+    documentation="Assign responsibility for the product directory"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Device"
+    id="f63d2d33-cd4f-492d-8b1f-def03721c6b6"
+    documentation=" A mechanism created to serve a particular need, such as a credit card, a smart phone, an electronic signature, an electronic key, etc.&#xA;&#xA;&#xA;Механизм, созданный для обслуживания конкретной _нужды, например, кредитная карта, смартфон, электронная подпись, электронный ключ и т. д."/>

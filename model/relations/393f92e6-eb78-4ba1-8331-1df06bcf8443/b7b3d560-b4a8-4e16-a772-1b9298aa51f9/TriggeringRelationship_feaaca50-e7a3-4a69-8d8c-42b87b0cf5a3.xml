@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Determine Sales Product validity"
+    id="feaaca50-e7a3-4a69-8d8c-42b87b0cf5a3">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7d03e0a5-8b04-41f1-b4e9-afaf71a283cc.xml#7d03e0a5-8b04-41f1-b4e9-afaf71a283cc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6d46face-f10b-4f40-bf68-01103ff2b952.xml#6d46face-f10b-4f40-bf68-01103ff2b952"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyMarketMakingFulfillmentArrangement"
+    id="b0c14058-c6fa-4142-aa73-8c429c2d5f16"
+    documentation="Comment:&#xA;&#xA;Subscribe to Market Making Product Arrangement notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ATMTotal"
+    id="cea4ee5b-bd56-4b4c-bbd7-39e597c5f4f6"
+    documentation=" Current totals of the ATM.&#xA;&#xA;Количество банкоматов"/>

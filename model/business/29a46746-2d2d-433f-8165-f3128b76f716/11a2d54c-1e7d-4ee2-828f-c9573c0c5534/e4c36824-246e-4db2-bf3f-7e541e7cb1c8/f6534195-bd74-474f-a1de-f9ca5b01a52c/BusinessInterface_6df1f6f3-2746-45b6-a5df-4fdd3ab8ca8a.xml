@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateServicingOrderProcedure"
+    id="6df1f6f3-2746-45b6-a5df-4fdd3ab8ca8a"
+    documentation="Update work tasks and activity details for the Customer Order Procedure"/>

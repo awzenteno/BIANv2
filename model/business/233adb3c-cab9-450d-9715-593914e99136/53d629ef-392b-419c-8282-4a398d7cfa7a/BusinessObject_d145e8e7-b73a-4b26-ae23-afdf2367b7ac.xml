@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionEventRegistration"
+    id="d145e8e7-b73a-4b26-ae23-afdf2367b7ac"
+    documentation="Specifies the official date and identification of the event.&#xA;&#xA;Указывает официальную дату и идентификацию события."/>

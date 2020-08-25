@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCorporateTreasuryAnalysis"
+    id="9326b907-366e-42cc-88ba-4e7155cbaf6c"
+    documentation="Retrieve Corporate Treasury Analysis related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyAssetSecuritizationTransaction"
+    id="9f0785ad-5fa7-4811-8acd-735253efee8a"
+    documentation="Comment:&#xA;&#xA;Subscribe to Asset Securitization Transaction notification services"/>

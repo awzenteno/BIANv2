@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestDocumentHandlingOperatingSessionProvisioning"
+    id="a66411e6-63d5-42f7-9ecb-c87b45a47a23"
+    documentation="Request provisioning (arrange obtaining) a document"/>

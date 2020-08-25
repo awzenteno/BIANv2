@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyHelpDeskOperatingSession"
+    id="eea4d3c9-50a9-4ac3-b604-5c188146d184"
+    documentation="Subscribe to Help Desk Operating Session notification services"/>

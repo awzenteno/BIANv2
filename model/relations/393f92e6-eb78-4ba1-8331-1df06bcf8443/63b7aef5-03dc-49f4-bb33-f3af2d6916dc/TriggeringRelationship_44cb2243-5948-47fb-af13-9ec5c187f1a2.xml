@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issue Customer Passwords and Tokens"
+    id="44cb2243-5948-47fb-af13-9ec5c187f1a2">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_33593414-659d-44f0-a0af-6e8cf0b8f27b.xml#33593414-659d-44f0-a0af-6e8cf0b8f27b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_d0dae581-be73-47ca-b0b5-892213eb9de6.xml#d0dae581-be73-47ca-b0b5-892213eb9de6"/>
+</archimate:TriggeringRelationship>

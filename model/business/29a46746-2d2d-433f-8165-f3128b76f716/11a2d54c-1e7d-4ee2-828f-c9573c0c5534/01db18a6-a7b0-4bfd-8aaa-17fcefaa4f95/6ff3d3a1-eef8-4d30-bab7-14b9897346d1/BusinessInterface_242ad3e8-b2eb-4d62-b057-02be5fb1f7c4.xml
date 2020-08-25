@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBranchLocationManagementPlan"
+    id="242ad3e8-b2eb-4d62-b057-02be5fb1f7c4"
+    documentation="Retrieve Branch Location Management Plan related reports"/>

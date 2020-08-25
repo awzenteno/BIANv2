@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCredit/ChargeCardFulfillmentArrangementTransaction"
+    id="5f1aeadd-d4ba-4072-a662-abb48338edc5"
+    documentation="Execute card transaction against the facility"/>

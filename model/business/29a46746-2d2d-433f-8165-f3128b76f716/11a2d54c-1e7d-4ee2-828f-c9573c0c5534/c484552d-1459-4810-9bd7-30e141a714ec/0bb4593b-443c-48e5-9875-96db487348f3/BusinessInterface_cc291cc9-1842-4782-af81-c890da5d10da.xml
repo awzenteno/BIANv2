@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerContactSessionProcedureCustomerAuthentication"
+    id="cc291cc9-1842-4782-af81-c890da5d10da"
+    documentation="Request additional customer authentication"/>

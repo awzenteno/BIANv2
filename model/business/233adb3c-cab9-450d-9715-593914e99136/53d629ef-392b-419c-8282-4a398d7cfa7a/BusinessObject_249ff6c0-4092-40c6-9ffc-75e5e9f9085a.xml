@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">BankingTransaction"
+    id="249ff6c0-4092-40c6-9ffc-75e5e9f9085a"
+    documentation=" Transaction executed by the client of a financial institution from/to the account serviced by the financial institution, such as mortgage payment.&#xA;&#xA;Сделка, совершенная клиентом финансового учреждения с / на счет, обслуживаемый финансовым учреждением, например, ипотечный платеж."/>

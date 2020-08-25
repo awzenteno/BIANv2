@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TransactionRisk"
+    id="5d7cc5ec-6a91-45f5-9a39-6f90e277402c"
+    documentation=" Calculation of the exposure amount that one party has vis-a-vis one counterparty or a central system, based on the transactions that are not yet settled.&#xA;&#xA;Расчет суммы риска, которую одна сторона имеет по отношению к одному контрагенту или центральной системе, на основе проводок, которые еще не сопоставлены."/>

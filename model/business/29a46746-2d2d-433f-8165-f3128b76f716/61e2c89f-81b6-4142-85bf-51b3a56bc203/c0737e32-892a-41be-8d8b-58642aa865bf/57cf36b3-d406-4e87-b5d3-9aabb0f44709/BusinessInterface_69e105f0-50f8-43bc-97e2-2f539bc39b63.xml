@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCorporatePolicySpecification"
+    id="69e105f0-50f8-43bc-97e2-2f539bc39b63"
+    documentation="Retrieve Corporate Policy Specification related reports"/>

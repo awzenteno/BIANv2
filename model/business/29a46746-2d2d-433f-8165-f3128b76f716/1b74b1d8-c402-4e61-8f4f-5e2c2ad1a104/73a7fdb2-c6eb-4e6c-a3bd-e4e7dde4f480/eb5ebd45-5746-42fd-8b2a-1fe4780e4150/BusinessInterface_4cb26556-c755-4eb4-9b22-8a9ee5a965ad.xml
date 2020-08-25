@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveSubCustodianAgreement"
+    id="4cb26556-c755-4eb4-9b22-8a9ee5a965ad"
+    documentation="Comment:&#xA;&#xA;Retrieve SubCustodian Agreement related reports"/>

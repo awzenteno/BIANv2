@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestLoanFulfillmentArrangement"
+    id="251452bd-fed8-409b-9825-fd4a581b3c54"
+    documentation="Request a service under the loan fulfillment arrangement"/>

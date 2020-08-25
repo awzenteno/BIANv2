@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PresentationManagementSystem"
+    id="d28c0815-d07f-407d-84b5-0a6623069e4e"
+    documentation="A set of applications -- typically automated -- that assists in managing the presentation of documents&#xA;&#xA;Note: Documentation presentation includes sending documents over communication channels, and is called correspondence in some communities&#xA;&#xA;&#xA;&#xA;Набор приложений, обычно автоматизированных, которые помогают управлять представлением документов&#xA;&#xA;Примечание. Представление документации включает отправку документов по каналам связи и в некоторых сообществах называется перепиской"/>

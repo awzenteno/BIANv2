@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerPropositionAgreement"
+    id="d89b309b-5fa7-4726-bd72-2ec657f5ef78"
+    documentation="Subscribe to Customer Proposition Agreement notification services "/>

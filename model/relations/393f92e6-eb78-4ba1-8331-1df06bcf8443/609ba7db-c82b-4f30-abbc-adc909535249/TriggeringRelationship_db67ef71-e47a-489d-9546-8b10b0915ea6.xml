@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Remove Sweep service from the Customer's list of services"
+    id="db67ef71-e47a-489d-9546-8b10b0915ea6">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_cd8f8dd1-bd79-4ed1-a2c9-9de0f6ba586f.xml#cd8f8dd1-bd79-4ed1-a2c9-9de0f6ba586f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e4e31b7c-e294-49af-a13e-be7ca01e7e07.xml#e4e31b7c-e294-49af-a13e-be7ca01e7e07"/>
+</archimate:TriggeringRelationship>

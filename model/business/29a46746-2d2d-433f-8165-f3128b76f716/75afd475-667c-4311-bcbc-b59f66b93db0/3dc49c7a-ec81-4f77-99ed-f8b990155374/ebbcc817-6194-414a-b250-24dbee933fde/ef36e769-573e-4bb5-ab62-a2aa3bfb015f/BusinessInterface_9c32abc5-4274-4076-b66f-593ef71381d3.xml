@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCardTransactionSwitchOperatingSession"
+    id="9c32abc5-4274-4076-b66f-593ef71381d3"
+    documentation="Record activity details/information against the card transaction switch operating session"/>

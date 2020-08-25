@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="provideCustomerServicingResourceAllocationPreAssignment"
+    id="5c119379-ecb8-4a25-ab55-e1557f6585e7"
+    documentation=" Provide a resource allocation booked for future assignment"/>

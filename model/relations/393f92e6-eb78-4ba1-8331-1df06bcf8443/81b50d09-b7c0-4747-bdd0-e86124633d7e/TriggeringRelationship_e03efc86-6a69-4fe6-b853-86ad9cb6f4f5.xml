@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get customer’s preferred choice"
+    id="e03efc86-6a69-4fe6-b853-86ad9cb6f4f5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1a2593d3-0df1-40dd-ad70-92b388b44ac7.xml#1a2593d3-0df1-40dd-ad70-92b388b44ac7"/>
+</archimate:TriggeringRelationship>

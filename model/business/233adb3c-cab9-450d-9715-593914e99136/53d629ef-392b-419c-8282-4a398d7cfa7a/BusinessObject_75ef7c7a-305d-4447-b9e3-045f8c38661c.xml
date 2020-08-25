@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ShipFrom"
+    id="75ef7c7a-305d-4447-b9e3-045f8c38661c"
+    documentation=" Party from whom the goods are dispatched.&#xA;&#xA;Сторона, от которой отправляется товар."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveDunningProcedure"
+    id="691cdd71-6c14-432e-8e53-512d260729e4"
+    documentation="Retrieve delinquency processing report"/>

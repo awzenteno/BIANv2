@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveHelpDeskOperatingSession"
+    id="02eee4c7-9129-4ded-a211-6e8b4d938a2b"
+    documentation="Retrieve Help Desk Operating Session related reports"/>

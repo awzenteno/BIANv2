@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AuthorisedAccountModifier"
+    id="fa2292e9-64b6-47e5-9990-73773babcb1d"
+    documentation=" Authorised sender of a message related to the life cycle of an account.&#xA;&#xA;Авторизованный отправитель сообщения, связанного с жизненным циклом учетной записи."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateBrokerAgreementRegulatoryTerms"
+    id="5f998303-f2ff-415b-9cde-f89f78a4c514"
+    documentation="Initiate/set-up the agreement (apply/negotiate regulatory terms)"/>

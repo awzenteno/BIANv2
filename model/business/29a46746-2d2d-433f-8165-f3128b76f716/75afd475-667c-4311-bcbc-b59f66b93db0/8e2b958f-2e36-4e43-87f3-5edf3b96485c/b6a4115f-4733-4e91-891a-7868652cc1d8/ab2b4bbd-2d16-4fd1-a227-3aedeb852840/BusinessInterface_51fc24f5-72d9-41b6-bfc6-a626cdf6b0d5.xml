@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordServiceProductFulfillmentArrangement"
+    id="51fc24f5-72d9-41b6-bfc6-a626cdf6b0d5"
+    documentation=" Record activity details/information against the service product fulfillment arrangement"/>

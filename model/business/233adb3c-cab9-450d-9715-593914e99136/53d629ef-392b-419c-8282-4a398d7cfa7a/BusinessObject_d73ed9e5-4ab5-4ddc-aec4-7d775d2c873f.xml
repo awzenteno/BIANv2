@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DirectDebitMandate"
+    id="d73ed9e5-4ab5-4ddc-aec4-7d775d2c873f"
+    documentation="Authorisation in favour of the creditor given by the debtor to debit its own account.&#xA;&#xA;Предоставленное должником разрешение кредитору дебетовать свой собственный счет."/>

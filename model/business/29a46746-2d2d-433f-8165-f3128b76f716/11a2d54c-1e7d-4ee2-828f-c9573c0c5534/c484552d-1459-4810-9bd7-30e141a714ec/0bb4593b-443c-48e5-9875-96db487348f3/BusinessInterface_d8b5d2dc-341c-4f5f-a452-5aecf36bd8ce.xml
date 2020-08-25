@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerContactSessionProcedure"
+    id="d8b5d2dc-341c-4f5f-a452-5aecf36bd8ce"
+    documentation=" Retrieve contact session report"/>

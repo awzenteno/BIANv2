@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get collateral allocation details"
+    id="373e1690-b15b-4a9e-ba77-51c1fa325307">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1ed107eb-1b9e-4c10-b72c-6cde7579c648.xml#1ed107eb-1b9e-4c10-b72c-6cde7579c648"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1d3e2123-8161-4e72-99d7-147d7b0fdeec.xml#1d3e2123-8161-4e72-99d7-147d7b0fdeec"/>
+</archimate:TriggeringRelationship>

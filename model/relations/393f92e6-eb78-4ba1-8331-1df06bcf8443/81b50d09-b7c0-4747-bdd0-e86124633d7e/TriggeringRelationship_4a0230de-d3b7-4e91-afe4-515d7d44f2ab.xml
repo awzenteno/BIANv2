@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get internal credit rating"
+    id="4a0230de-d3b7-4e91-afe4-515d7d44f2ab">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5890a34e-fee5-4229-a83c-d79eb1f7727d.xml#5890a34e-fee5-4229-a83c-d79eb1f7727d"/>
+</archimate:TriggeringRelationship>

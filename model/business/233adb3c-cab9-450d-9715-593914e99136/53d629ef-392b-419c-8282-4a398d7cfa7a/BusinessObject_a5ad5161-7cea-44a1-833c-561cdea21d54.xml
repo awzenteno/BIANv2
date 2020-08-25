@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">StandingOrderResponsible"
+    id="a5ad5161-7cea-44a1-833c-561cdea21d54"
+    documentation=" Party responsible for creating, maintaining and deleting a standing order.&#xA;&#xA;&#xA;Сторона, ответственная за создание, поддержание и удаление постоянного поручения."/>

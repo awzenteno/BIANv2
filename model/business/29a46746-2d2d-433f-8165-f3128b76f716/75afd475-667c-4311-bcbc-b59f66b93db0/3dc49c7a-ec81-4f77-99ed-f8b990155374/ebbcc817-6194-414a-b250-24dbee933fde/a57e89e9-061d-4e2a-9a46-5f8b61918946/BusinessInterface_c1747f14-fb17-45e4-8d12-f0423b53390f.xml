@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestLeasingItemAdministrativePlan"
+    id="c1747f14-fb17-45e4-8d12-f0423b53390f"
+    documentation="Request a service under the Leasing Item Administrative Plan"/>

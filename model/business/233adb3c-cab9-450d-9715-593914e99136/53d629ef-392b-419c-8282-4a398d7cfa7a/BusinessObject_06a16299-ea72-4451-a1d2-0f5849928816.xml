@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PaymentInstruction"
+    id="06a16299-ea72-4451-a1d2-0f5849928816"
+    documentation=" Instruction to pay an amount of money to an ultimate beneficiary, on behalf of an originator. This instruction may have to be forwarded several times to complete the settlement chain.&#xA;&#xA;Поручение выплатить сумму денег конечному бенефициару от имени составителя. Эту инструкцию, возможно, придется переслать несколько раз для завершения цепочки расчетов."/>

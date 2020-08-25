@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suitability Checking"
+    id="69d8b047-b111-48e3-81a0-6c0e4a8aca5b"
+    documentation="Example of use:&#xA;&#xA;All counterparties are checked for a proposed trade&#xA;&#xA;General comment:&#xA;&#xA;This production control capability checks that all involved counterparties are suited to a proposed market trade&#xA;&#xA;Business Purpose&#xA;:  Confirm that all involved counterparties are suitable for a proposed market trade.&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Все контрагенты проверяются на предложенную сделку&#xA;&#xA;Общее замечание:&#xA;&#xA;Эта возможность контроля производства проверяет, что все вовлеченные контрагенты подходят для предлагаемой рыночной торговли&#xA;&#xA;деловая цель&#xA;: Убедитесь, что все вовлеченные контрагенты подходят для предлагаемой рыночной торговли.&#xA;"/>

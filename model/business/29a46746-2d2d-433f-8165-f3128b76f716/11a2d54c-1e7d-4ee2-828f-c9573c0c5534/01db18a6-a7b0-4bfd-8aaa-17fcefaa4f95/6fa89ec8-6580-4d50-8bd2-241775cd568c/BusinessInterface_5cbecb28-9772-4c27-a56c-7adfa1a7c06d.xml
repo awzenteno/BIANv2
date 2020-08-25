@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyBranchCashAllocation"
+    id="5cbecb28-9772-4c27-a56c-7adfa1a7c06d"
+    documentation="Subscribe to Branch Cash Allocation notification services"/>

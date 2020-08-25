@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deactivate closed account"
+    id="06d6a553-17fe-4c0a-955d-5582849c149d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_566cda82-543b-43a5-91c6-6fcf249385ea.xml#566cda82-543b-43a5-91c6-6fcf249385ea"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_982cb52c-d1d9-4e30-8e41-71fbea6ff393.xml#982cb52c-d1d9-4e30-8e41-71fbea6ff393"/>
+</archimate:TriggeringRelationship>

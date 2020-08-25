@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvestmentFundOrder"
+    id="e113d06f-201a-4262-bc94-2b644b3d00ed"
+    documentation=" An investor's instruction to either subscribe or redeem an amount of money or its equivalent, for example other assets, into or out of an investment fund.&#xA;&#xA;Распоряжение инвестора о подписке или выкупе суммы денег или ее эквивалента, например, других активов, в инвестиционный фонд или из него."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesBlockingDeadline"
+    id="fb6a857a-a2b0-49f2-b3c5-aac317512100"
+    documentation="Date by which the securities should be blocked.&#xA;&#xA;Дата, до которой ценные бумаги должны быть заблокированы."/>

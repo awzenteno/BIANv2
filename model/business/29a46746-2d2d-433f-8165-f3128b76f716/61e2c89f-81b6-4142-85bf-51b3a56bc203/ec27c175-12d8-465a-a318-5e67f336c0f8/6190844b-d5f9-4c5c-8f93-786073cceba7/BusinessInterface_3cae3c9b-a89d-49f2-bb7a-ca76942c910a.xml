@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveDocumentHandlingOperatingSession"
+    id="3cae3c9b-a89d-49f2-bb7a-ca76942c910a"
+    documentation="Retrieve a document services report"/>

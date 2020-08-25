@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBrokeredProductManagementPlan"
+    id="17e7b9a2-fc37-43ec-ae5e-c210cde2aa72"
+    documentation="Retrieve Brokered Product Management Plan related reports"/>

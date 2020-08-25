@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateBearerDocumentTransaction"
+    id="4e586ef4-2375-498f-a610-fdace50e7adb"
+    documentation="Comment:&#xA;&#xA;Update elements of the Bearer Document Transaction"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCurrentAccountFulfillmentArrangement"
+    id="042f4c11-f74f-4619-8194-9901dd98d9f2"
+    documentation="Retrieve current account reports (e.g. balances, statements, account configuration)"/>

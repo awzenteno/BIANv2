@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate Customer Agreement"
+    id="6944a96c-3af9-47c4-9dcb-e1ec0fad8e7f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f1230b21-5d5f-4e78-9bbf-53171a760f46.xml#f1230b21-5d5f-4e78-9bbf-53171a760f46"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_7d3c7234-c776-4e07-b71c-19c7daf0fb36.xml#7d3c7234-c776-4e07-b71c-19c7daf0fb36"/>
+</archimate:TriggeringRelationship>

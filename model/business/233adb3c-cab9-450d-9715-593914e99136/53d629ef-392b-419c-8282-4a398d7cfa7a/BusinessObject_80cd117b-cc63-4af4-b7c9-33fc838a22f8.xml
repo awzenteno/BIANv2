@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ExposureTerm"
+    id="80cd117b-cc63-4af4-b7c9-33fc838a22f8"
+    documentation=" Specifies the terms used to calculate a risk exposure and its coverage.&#xA;&#xA;Определяет термины, используемые для расчета риска и его покрытие."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record help text"
+    id="a203871b-c2bd-4e2b-a4b6-d5b4cde1b33a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_999a4e22-5238-4ec5-9185-7c146bc84825.xml#999a4e22-5238-4ec5-9185-7c146bc84825"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4c8c6435-0c17-4d0f-a6c2-b801624ad726.xml#4c8c6435-0c17-4d0f-a6c2-b801624ad726"/>
+</archimate:TriggeringRelationship>

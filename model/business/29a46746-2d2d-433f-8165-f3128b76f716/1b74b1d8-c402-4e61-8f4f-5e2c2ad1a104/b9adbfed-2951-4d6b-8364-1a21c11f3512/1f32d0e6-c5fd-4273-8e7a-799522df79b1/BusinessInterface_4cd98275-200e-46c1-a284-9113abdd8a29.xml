@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registerPartyDirectoryPartyReference"
+    id="4cd98275-200e-46c1-a284-9113abdd8a29"
+    documentation="Register a new party directory entry"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">EnteringFirm"
+    id="18fc8bcb-dfe8-4666-b32e-bb2949457da0"
+    documentation=" Broker that has recorded or reported an execution of a trade. When an entering firm that is not a party to a trade enters the trade into a trade recording system, any inquiries can be directed to the appropriate source.&#xA;&#xA;Брокер, который зарегистрировал или сообщил об исполнении сделки. Когда входящая в сделку фирма, не являющаяся стороной сделки, входит в систему регистрации сделок, любые запросы могут быть направлены в соответствующий источник."/>

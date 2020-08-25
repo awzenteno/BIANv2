@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveTaxAdministrationManagementPlan"
+    id="80221c02-0c05-4749-b2f4-6c38f0ee9488"
+    documentation="Retrieve Tax Administration Management Plan related reports"/>

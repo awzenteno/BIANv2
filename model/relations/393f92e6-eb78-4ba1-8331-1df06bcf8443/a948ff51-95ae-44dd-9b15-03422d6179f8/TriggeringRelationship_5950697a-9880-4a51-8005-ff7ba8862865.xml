@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get customer credit assessment"
+    id="5950697a-9880-4a51-8005-ff7ba8862865">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a72c9ace-f56a-4968-985f-1feb3eed46fa.xml#a72c9ace-f56a-4968-985f-1feb3eed46fa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5890a34e-fee5-4229-a83c-d79eb1f7727d.xml#5890a34e-fee5-4229-a83c-d79eb1f7727d"/>
+</archimate:TriggeringRelationship>

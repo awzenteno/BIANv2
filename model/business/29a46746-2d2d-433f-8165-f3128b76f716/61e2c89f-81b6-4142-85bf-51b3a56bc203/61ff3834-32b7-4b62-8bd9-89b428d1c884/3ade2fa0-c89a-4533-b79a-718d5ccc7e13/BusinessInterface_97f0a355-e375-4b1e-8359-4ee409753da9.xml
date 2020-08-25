@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestHelpDeskOperatingSession"
+    id="97f0a355-e375-4b1e-8359-4ee409753da9"
+    documentation="Request a service under the Help Desk Operating Session"/>

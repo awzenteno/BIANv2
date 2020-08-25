@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveMutualFundAdministrativePlan"
+    id="bf686738-0876-408d-85e4-c9d5d7a3724b"
+    documentation="Retrieve Mutual Fund Administrative Plan related reports"/>

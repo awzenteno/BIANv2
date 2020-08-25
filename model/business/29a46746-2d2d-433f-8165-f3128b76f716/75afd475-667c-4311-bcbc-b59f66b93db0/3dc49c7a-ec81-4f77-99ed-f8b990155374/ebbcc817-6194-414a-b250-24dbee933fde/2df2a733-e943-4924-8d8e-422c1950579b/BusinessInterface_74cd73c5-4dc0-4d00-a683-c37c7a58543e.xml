@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveIssuedDeviceMeasurement"
+    id="74cd73c5-4dc0-4d00-a683-c37c7a58543e"
+    documentation="Retrieve a monitored item measurement/status report"/>

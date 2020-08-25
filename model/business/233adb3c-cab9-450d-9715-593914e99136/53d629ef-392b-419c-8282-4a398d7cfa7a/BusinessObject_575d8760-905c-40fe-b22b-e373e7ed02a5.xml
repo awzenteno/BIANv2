@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Limit"
+    id="575d8760-905c-40fe-b22b-e373e7ed02a5"
+    documentation=" Value used for risk containment in a system or towards counterparts. The limit may be a current limit or a default limit.&#xA;&#xA;Значение, используемое для сдерживания риска в системе или по отношению к аналогам. Пределом может быть текущий предел или предел по умолчанию."/>

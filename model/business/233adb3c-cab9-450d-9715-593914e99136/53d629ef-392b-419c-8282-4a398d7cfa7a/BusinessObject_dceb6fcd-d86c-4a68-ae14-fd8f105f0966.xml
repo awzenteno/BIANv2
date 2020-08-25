@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Trade"
+    id="dceb6fcd-d86c-4a68-ae14-fd8f105f0966"
+    documentation="trade/ результат заказа: поставка товара &#xA;&#xA;Result of an order between at least two parties. A trade relates to the delivery of goods and services, cash or securities.&#xA;&#xA;Результат заказа между по крайней мере двумя сторонами. Торговля относится к поставке товаров и услуг, денежных средств или ценных бумаг."/>

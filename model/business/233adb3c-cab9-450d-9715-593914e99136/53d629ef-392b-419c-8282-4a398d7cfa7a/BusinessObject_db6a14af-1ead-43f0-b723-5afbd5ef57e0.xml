@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CardPaymentAcquiring"
+    id="db6a14af-1ead-43f0-b723-5afbd5ef57e0"
+    documentation=" Payment processes initiated by a payment card.&#xA;&#xA;Инициированный процесс оплаты банковской картой."/>

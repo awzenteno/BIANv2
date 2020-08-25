@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="->Configure"
+    id="7097c383-2e3b-4315-8cb2-f86e18f41458"
+    documentation="Change the operating parameters for an ongoing service/capability. &#xA;Example: Change on-line ATMs in the network to take machines out of service."/>

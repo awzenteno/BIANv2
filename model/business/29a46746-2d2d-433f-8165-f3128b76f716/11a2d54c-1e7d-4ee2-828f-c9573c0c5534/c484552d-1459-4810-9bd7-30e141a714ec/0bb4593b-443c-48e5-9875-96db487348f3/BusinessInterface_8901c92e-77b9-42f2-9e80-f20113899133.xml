@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerContactSessionProcedureCustomerCase"
+    id="8901c92e-77b9-42f2-9e80-f20113899133"
+    documentation=" Request raising/access customer case"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send Direct Debit Message"
+    id="81656a78-2e4c-407c-bd14-5a1e21caa65a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_340fcb16-0f61-4a98-9980-3307680d4fe8.xml#340fcb16-0f61-4a98-9980-3307680d4fe8"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ed1919e8-9702-4f59-a137-32656676cc2f.xml#ed1919e8-9702-4f59-a137-32656676cc2f"/>
+</archimate:TriggeringRelationship>

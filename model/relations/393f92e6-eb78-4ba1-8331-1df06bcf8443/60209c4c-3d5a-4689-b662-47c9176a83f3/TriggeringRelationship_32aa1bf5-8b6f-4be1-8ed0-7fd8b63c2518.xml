@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Change Corporate Deposit attached current account"
+    id="32aa1bf5-8b6f-4be1-8ed0-7fd8b63c2518">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f1a9787d-2eb7-4e48-b3bb-8109fcbec17d.xml#f1a9787d-2eb7-4e48-b3bb-8109fcbec17d"/>
+</archimate:TriggeringRelationship>

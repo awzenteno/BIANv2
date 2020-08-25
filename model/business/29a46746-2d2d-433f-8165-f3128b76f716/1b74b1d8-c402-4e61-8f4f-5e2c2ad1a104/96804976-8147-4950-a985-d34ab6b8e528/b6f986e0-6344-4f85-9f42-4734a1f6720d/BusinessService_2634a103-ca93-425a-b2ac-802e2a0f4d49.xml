@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Provider Operation"
+    id="2634a103-ca93-425a-b2ac-802e2a0f4d49"
+    documentation="Example of use:&#xA;&#xA;A trader has subscribed to and references market price feeds at their trading desk&#xA;&#xA;General comment:&#xA;&#xA;This service domain handles the day to day operations of all contracted on and off-line market information feeds&#xA;&#xA;Business Purpose&#xA;:  Operate the interface for importing data feeds from commercial information providers and internal broadcast pages&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Трейдер подписался на каналы рыночных цен и ссылается на них в своем торговом столе&#xA;&#xA;Общее замечание:&#xA;&#xA;Этот домен обслуживания обрабатывает повседневные операции всех контрактных и автономных каналов рыночной информации&#xA;&#xA;деловая цель&#xA;: Управление интерфейсом для импорта каналов данных из коммерческих поставщиков информации и внутренних широковещательных страниц"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCurrentAccountFulfillmentArrangementLien"
+    id="5ef58306-6a6d-4884-aee9-82f723a8f83d"
+    documentation=" Request the set-up/update of an account lien"/>

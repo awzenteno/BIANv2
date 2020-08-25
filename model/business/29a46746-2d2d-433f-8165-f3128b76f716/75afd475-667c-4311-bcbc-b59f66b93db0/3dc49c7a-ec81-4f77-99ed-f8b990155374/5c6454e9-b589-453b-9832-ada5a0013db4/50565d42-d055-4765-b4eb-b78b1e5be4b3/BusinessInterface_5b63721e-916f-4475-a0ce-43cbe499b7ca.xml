@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyFinancialNetworkGatewayAnalysis"
+    id="5b63721e-916f-4475-a0ce-43cbe499b7ca"
+    documentation="Subscribe to Financial Network Gateway Analysis notification services"/>

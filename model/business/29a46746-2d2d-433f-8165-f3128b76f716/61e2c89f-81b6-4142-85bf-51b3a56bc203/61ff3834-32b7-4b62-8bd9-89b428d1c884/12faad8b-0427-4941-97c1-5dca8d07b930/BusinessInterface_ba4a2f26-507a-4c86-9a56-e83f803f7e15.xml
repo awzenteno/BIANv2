@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateITSystemAssessment"
+    id="ba4a2f26-507a-4c86-9a56-e83f803f7e15"
+    documentation="Check/verify compliance with IT System related checks/assessments"/>

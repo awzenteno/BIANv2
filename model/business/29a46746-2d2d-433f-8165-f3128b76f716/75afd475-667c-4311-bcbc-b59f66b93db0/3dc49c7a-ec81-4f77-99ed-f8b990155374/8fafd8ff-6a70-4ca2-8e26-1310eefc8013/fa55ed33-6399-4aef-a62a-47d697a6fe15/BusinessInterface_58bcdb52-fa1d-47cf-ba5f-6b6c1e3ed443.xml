@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCollateralAssetLiquidationProcedure"
+    id="58bcdb52-fa1d-47cf-ba5f-6b6c1e3ed443"
+    documentation="Record activity details/information against the Collateral Asset Liquidation Procedure"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestProductDirectory"
+    id="fc2b89a3-201a-4521-9340-73fb22dcd9ed"
+    documentation=" Request a refresh/update check of the product directry record"/>

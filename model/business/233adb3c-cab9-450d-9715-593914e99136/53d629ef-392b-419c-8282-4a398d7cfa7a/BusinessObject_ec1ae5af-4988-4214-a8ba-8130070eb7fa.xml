@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashDeposit"
+    id="ec1ae5af-4988-4214-a8ba-8130070eb7fa"
+    documentation=" Amount of money representing a value paid by a debtor to an agent bank.&#xA;&#xA;Денежная сумма, представляющая собой стоимость, уплаченную должником банку-агенту."/>

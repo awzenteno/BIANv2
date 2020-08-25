@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminatePartyMeasurement"
+    id="3f784cb5-9c16-487d-92f6-976032be440e"
+    documentation="Terminate all or some part of the Party Measurement"/>

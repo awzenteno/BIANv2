@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateGuidelineComplianceAssessment"
+    id="4a72ded4-ec2e-483c-9774-eae09c6f63a7"
+    documentation=" Request a guideline compliance assessment"/>

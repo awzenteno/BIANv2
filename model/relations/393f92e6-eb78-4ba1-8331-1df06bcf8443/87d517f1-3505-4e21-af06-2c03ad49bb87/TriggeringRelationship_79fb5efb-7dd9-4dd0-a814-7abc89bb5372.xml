@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify if Direct Debit confirmation"
+    id="79fb5efb-7dd9-4dd0-a814-7abc89bb5372">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_34eabdca-5f1b-43b6-92a4-8a22ae186844.xml#34eabdca-5f1b-43b6-92a4-8a22ae186844"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_27976748-f58e-4ffc-8207-8d0b1b5b2e0d.xml#27976748-f58e-4ffc-8207-8d0b1b5b2e0d"/>
+</archimate:TriggeringRelationship>

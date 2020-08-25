@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestSubCustodianAgreement"
+    id="e804f6f1-9042-4025-9b35-dc5c4a985fda"
+    documentation="Request a service under the SubCustodian Agreement "/>

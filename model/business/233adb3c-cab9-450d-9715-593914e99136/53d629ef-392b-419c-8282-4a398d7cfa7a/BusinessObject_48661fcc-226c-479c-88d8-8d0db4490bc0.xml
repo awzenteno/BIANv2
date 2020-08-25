@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CardPaymentValidation"
+    id="48661fcc-226c-479c-88d8-8d0db4490bc0"
+    documentation="Results and parameters of the card payment verification.&#xA;&#xA;Результаты и параметры верификации платежа по карте."/>

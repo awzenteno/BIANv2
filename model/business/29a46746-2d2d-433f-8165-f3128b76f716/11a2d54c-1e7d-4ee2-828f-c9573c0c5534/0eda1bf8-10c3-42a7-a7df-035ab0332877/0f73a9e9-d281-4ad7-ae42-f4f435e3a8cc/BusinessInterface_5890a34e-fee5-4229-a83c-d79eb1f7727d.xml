@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerCreditRatingMeasurement"
+    id="5890a34e-fee5-4229-a83c-d79eb1f7727d"
+    documentation="Retrieve a customer credit assessment"/>

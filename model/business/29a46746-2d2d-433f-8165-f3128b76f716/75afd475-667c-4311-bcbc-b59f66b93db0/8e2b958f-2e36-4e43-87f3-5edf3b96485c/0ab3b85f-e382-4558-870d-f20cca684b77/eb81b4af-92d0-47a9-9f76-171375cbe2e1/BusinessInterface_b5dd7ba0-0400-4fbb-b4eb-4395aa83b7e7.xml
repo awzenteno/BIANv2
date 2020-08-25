@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveTradingDeskOperatingSession"
+    id="b5dd7ba0-0400-4fbb-b4eb-4395aa83b7e7"
+    documentation="Retrieve Trading Desk Operating Session related reports"/>

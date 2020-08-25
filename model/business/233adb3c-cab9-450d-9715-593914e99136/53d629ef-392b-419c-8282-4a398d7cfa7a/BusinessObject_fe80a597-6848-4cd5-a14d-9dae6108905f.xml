@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">RedemptionSchedule"
+    id="fe80a597-6848-4cd5-a14d-9dae6108905f"
+    documentation=" Describes the reason and terms for early partial or total redemption, amortisation or extension of an issue.&#xA;&#xA;Описывает причину и условия досрочного частичного или полного погашения, амортизации или продления выпуска."/>

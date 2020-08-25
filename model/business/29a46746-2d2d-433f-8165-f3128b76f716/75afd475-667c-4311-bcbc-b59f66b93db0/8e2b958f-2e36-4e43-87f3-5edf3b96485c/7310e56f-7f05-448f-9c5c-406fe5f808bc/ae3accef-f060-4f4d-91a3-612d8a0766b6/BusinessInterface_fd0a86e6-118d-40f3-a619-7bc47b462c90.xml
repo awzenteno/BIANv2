@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyManagedInvestmentPortfolioFulfillmentArrangement"
+    id="fd0a86e6-118d-40f3-a619-7bc47b462c90"
+    documentation="Comment:&#xA;&#xA;Subscribe to Managed Investment Portfolio Product Arrangement notification services"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request change of terms"
+    id="ad445e31-f2eb-49cc-a73f-35d65ce45924">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1ed107eb-1b9e-4c10-b72c-6cde7579c648.xml#1ed107eb-1b9e-4c10-b72c-6cde7579c648"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e83d5459-7e6e-4aa7-ae3d-883bd1a51bc7.xml#e83d5459-7e6e-4aa7-ae3d-883bd1a51bc7"/>
+</archimate:TriggeringRelationship>

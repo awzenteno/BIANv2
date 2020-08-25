@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateInvestorMembership"
+    id="44d776fc-c340-44f9-9d75-78b6d244c5db"
+    documentation="Update elements of the Investor Enrollment"/>

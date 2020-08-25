@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestPaymentOrderTransaction"
+    id="fa1bbd75-142a-4718-aad7-4ee443b7d759"
+    documentation=" Request work/decisioning for an active payment order"/>

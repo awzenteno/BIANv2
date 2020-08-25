@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ClearingExceptionPartyRole"
+    id="c01ea6ab-928b-44d2-92db-391f5387dd6c"
+    documentation="Identifies the party that is exempt from a clearing obligation.&#xA;&#xA;Определяет сторону, которая освобождается от обязательства по клирингу."/>

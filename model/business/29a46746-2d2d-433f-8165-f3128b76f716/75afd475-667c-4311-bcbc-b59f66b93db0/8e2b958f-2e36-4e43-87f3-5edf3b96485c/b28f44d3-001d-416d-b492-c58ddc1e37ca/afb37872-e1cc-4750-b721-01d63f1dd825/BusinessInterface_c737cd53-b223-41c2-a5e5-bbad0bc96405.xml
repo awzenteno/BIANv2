@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateLeasingFulfillmentArrangement"
+    id="c737cd53-b223-41c2-a5e5-bbad0bc96405"
+    documentation="Terminate all or some part of the Leasing"/>

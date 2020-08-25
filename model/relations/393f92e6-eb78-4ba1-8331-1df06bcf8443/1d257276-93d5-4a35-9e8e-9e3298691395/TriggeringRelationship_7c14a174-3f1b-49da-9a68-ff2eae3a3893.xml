@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate collateral liquidation"
+    id="7c14a174-3f1b-49da-9a68-ff2eae3a3893">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b0712271-c7aa-4f28-afb1-828e366fa0f6.xml#b0712271-c7aa-4f28-afb1-828e366fa0f6"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4f47654d-dbd5-4192-9c2a-8570c66cf752.xml#4f47654d-dbd5-4192-9c2a-8570c66cf752"/>
+</archimate:TriggeringRelationship>

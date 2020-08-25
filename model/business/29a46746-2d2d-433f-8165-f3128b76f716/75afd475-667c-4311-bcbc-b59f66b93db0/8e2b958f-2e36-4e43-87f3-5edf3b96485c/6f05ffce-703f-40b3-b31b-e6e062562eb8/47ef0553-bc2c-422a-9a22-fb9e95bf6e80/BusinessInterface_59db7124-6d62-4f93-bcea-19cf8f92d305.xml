@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyBankGuaranteeFulfillmentArrangement"
+    id="59db7124-6d62-4f93-bcea-19cf8f92d305"
+    documentation="Comment:&#xA;&#xA;Subscribe to Bank Guarantee Fulfillment notification services"/>

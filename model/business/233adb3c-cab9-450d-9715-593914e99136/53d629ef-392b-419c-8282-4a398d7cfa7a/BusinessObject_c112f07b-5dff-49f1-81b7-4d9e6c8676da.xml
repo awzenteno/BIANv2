@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">QuoteOriginator"
+    id="c112f07b-5dff-49f1-81b7-4d9e6c8676da"
+    documentation=" Originator of the quote.&#xA;&#xA;Автор котировки."/>

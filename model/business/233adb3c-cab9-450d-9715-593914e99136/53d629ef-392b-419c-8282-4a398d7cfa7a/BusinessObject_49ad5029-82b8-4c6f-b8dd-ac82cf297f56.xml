@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DebtorAgentRole"
+    id="49ad5029-82b8-4c6f-b8dd-ac82cf297f56"
+    documentation=" Financial institution servicing an account for the debtor.&#xA;&#xA;Финансовое учреждение, обслуживающее счет должника."/>

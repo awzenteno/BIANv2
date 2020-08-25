@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestBranchLocationAdministrativePlan"
+    id="7f12e451-63da-402b-b98e-34cbd891216a"
+    documentation="Request a service under the Branch Location Administrative Plan"/>

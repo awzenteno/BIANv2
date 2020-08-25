@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CounterpartyRisk"
+    id="a534bd31-6c3f-45b4-93eb-eee06b5d7869"
+    documentation=" Calculation of the exposure amount that one party has vis-a-vis one counterparty or a central system, based on its credit risk.&#xA;&#xA;Расчет суммы риска, которую одна сторона имеет по отношению к одному контрагенту или центральной системе, на основе кредитного риска."/>

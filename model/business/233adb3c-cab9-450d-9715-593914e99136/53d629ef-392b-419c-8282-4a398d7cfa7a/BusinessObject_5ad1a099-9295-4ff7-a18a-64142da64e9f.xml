@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AcceptorRole"
+    id="5ad1a099-9295-4ff7-a18a-64142da64e9f"
+    documentation=" Entity accepting payment related cards.&#xA;&#xA;Организация, принимающая карты, связанные с оплатой."/>

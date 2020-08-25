@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveMarketOrderTransaction"
+    id="27ceb723-b15c-40f0-93aa-c4a7a8c108ee"
+    documentation="Retrieve Market Order Transaction related reports"/>

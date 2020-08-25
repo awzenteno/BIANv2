@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" authorizeProduct/ServiceDiscountAssessment"
+    id="2603c3e9-4d82-441e-b4e7-cee30d16fe05"
+    documentation="Obtain authorization for some action under the Product/Service Discount Assessment"/>

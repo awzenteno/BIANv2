@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateFinancialPositionLog"
+    id="982cb52c-d1d9-4e30-8e41-71fbea6ff393"
+    documentation="Update details of logged transaction journal record"/>

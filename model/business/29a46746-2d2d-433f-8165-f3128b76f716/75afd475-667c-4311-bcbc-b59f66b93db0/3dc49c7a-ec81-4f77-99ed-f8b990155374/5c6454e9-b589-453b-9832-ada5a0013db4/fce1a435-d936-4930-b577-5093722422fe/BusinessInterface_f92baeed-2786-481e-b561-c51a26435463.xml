@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configureChequeProcessingOperatingSession"
+    id="f92baeed-2786-481e-b561-c51a26435463"
+    documentation="Amend the configuration arrangements/parameters governing the Cheque Processing Operating Session"/>

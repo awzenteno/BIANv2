@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AccountContract"
+    id="442e047c-8b33-4089-aaa8-63a38f4eecdd"
+    documentation="Agreement between an account servicer and an account owner about the services linked to an account.&#xA;&#xA;&#xA;Соглашение между __узлом обслуживания счетов__   и владельцем учетной записи об услугах, связанных с учетной записью."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AccountService"
+    id="62a1cc5d-4b6e-49c3-b1b5-39ecdec27042"
+    documentation="Services linked to an account which are available to the account owner or to the holder of a mandate.&#xA;&#xA;&#xA;Услуги, связанные со счетом, которые доступны владельцу счета или держателю _полномочий_."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">VoteWithPremiumDeadline"
+    id="340c0807-c63f-4b3c-b1bf-bfcd7f5eef5d"
+    documentation=" Specifies the different deadlines available for submitting vote instructions to take advantage of the premium.&#xA;&#xA;Определяет различные сроки, доступные для подачи инструкций по голосованию, чтобы воспользоваться премией."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCounterpartyCreditRiskMeasurement"
+    id="6ec38dd4-6963-43f6-98bb-c760be84a9da"
+    documentation="Terminate all or some part of the Counterparty Credit Risk Measurement"/>

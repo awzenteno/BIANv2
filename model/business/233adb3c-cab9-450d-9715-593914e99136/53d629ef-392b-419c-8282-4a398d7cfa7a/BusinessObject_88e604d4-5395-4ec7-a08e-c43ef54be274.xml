@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesPegOrderInstruction"
+    id="88e604d4-5395-4ec7-a08e-c43ef54be274"
+    documentation=" Instructions specific to pegged orders, which consist in an investor buying large amounts of the underlying asset of a derivative it holds.&#xA;&#xA;Инструкции, специфичные для привязанных ордеров, которые состоят в том, что инвестор покупает большие суммы базового актива производного инструмента, который он держит."/>

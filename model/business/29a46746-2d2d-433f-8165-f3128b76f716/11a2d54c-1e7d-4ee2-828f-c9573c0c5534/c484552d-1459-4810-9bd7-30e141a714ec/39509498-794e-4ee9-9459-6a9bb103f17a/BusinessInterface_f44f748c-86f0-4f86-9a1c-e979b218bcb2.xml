@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="provideCustomerServicingResourceAllocationByAvailability"
+    id="f44f748c-86f0-4f86-9a1c-e979b218bcb2"
+    documentation=" Provide a resource on request (earmark and assign) by availability/status"/>

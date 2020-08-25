@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveInternalAuditAssessment"
+    id="1a3a870f-52ee-4420-b112-839e46d06eab"
+    documentation="Comment:&#xA;&#xA;Retrieve Internal Audit Assessment related reports"/>

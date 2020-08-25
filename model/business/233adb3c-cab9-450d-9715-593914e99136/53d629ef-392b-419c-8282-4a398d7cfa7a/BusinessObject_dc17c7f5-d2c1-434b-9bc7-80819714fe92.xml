@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">BuyOrSellIndicationOfInterest"
+    id="dc17c7f5-d2c1-434b-9bc7-80819714fe92"
+    documentation=" Intention to buy or sell a financial Instrument.&#xA;&#xA;Намерение купить или продать финансовый инструмент."/>

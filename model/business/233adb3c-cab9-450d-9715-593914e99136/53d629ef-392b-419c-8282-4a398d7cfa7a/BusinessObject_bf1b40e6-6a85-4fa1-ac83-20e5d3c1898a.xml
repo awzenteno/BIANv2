@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CommissionRecipient"
+    id="bf1b40e6-6a85-4fa1-ac83-20e5d3c1898a"
+    documentation=" Party entitled to the amount of money resulting from a commission.&#xA;&#xA;Сторона, имеющая право на сумму денег, полученную в результате комиссии."/>

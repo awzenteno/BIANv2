@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">RedemptionOrder"
+    id="ba231965-8385-477c-bbc8-32e0fdba6db6"
+    documentation=" Instruction from an investor to sell investment fund units back to the fund.&#xA;&#xA;Распоряжение инвестора о продаже паев инвестиционного фонда обратно в Фонд."/>

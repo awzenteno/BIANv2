@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">FixingCondition"
+    id="c648f812-bdac-4bb7-a154-20f27ede7092"
+    documentation=" Set of parameters used to calculate a rate for instance the fixing rate to be applied to a non-deliverable agreement.&#xA;&#xA;Набор параметров, используемых для расчета ставки, например фиксированной ставки, применяемой к договору, не подлежащему поставке."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerWorkbenchOperatingSessionLog-on"
+    id="2963a9a0-8d70-4ff3-9d77-42cdb128f118"
+    documentation="Request customer log-on handling to initiate bank session"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateProjectFinanceFulfillmentArrangement"
+    id="8c7eab9f-6f15-448e-81fa-474e69047a0c"
+    documentation="Update elements of the Project Finance"/>

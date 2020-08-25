@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEmployeeCommissionAgreement"
+    id="3cb3621a-c6a5-414c-bd8e-e0a713f76295"
+    documentation="Retrieve Employee Commission Agreement related reports"/>

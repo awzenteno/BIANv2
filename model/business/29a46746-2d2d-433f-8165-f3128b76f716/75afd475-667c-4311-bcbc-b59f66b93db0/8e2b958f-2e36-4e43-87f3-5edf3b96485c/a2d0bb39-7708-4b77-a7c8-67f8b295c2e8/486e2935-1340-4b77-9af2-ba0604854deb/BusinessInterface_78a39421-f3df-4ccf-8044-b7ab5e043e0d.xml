@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCredit/ChargeCardFulfillmentArrangement"
+    id="78a39421-f3df-4ccf-8044-b7ab5e043e0d"
+    documentation="Retrieve credit/charge card arrangement reports (e.g. statements)"/>

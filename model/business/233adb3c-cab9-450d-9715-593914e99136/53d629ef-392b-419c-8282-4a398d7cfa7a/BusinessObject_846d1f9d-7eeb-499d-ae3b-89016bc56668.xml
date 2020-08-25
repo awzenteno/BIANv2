@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DeliveringAgent"
+    id="846d1f9d-7eeb-499d-ae3b-89016bc56668"
+    documentation=" Party that delivers securities to the receiving agent at the place of settlement. For example, a central securities depository.&#xA;&#xA;Сторона, которая доставляет ценные бумаги получающему агенту по месту расчетов. Например, Центральный депозитарий ценных бумаг."/>

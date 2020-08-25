@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordEmployeeAccessAssessment"
+    id="b7b12fd2-b11d-4f95-a73f-ae668a0088b8"
+    documentation="Record activity details/information against an ongoing Employee Access Assessment evaluation "/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PaymentInvestigationCaseRejection"
+    id="3260471e-efbd-4c2c-9972-d9f1de569609"
+    documentation="Specifies the rejection of an activity linked to a payment. The rejected activity may be the assignment of an investigation case, the cancellation or the modification of a payment.&#xA;&#xA;Указывает отклонение действия, связанного с платежом. Отклоненная деятельность может быть назначением следственного дела, отменой или изменением платежа."/>

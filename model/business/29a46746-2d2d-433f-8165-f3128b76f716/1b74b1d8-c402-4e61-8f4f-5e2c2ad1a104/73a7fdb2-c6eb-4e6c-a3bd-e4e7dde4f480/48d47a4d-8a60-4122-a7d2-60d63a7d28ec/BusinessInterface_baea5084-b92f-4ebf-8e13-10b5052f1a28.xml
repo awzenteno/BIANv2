@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCorrespondentBankDirectory"
+    id="baea5084-b92f-4ebf-8e13-10b5052f1a28"
+    documentation=" Request a refresh/check of a correspondent bank directory entry"/>

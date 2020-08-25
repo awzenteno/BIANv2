@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Drawee"
+    id="f7843c6f-7bc2-46e4-a29d-eb26b9bd181f"
+    documentation=" Financial institution on which a cheque is drawn, ie, the financial institution that services the account of the entity that issued the cheque.&#xA;&#xA;Финансовое учреждение, на котором выписан чек, т. е. финансовое учреждение, обслуживающее счет лица, выдавшего чек."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Book Asset on Balance Sheet"
+    id="90968aea-46f4-4325-b292-feae769492f7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_2d4a6aaf-db18-4337-bc8b-8a33bd3c5aa2.xml#2d4a6aaf-db18-4337-bc8b-8a33bd3c5aa2"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configurePartyAuthenticationAssessment"
+    id="7c98bd3f-047e-4cb3-a538-1cc59337691f"
+    documentation="Comment:&#xA;&#xA;Amend the configuration arrangements/parameters governing the Party Authentication Assessment service"/>

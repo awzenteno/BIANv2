@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestFraudModelSpecification"
+    id="de5f1659-ba1a-41b1-8cfd-f0137112ef2a"
+    documentation="Request access to a Fraud Model Specification"/>

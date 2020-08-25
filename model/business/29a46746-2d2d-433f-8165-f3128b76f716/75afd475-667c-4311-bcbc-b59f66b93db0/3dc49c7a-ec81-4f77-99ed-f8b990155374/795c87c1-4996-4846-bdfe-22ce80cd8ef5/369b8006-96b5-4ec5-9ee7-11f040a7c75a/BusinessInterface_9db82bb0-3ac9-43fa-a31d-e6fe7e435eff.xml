@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerPositionAnalysis"
+    id="9db82bb0-3ac9-43fa-a31d-e6fe7e435eff"
+    documentation="Record activity details/information against the customer position analysis"/>

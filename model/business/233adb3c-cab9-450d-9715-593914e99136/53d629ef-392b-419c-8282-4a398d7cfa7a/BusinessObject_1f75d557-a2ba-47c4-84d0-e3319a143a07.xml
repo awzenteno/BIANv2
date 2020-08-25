@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MeetingAttendeeRole"
+    id="1f75d557-a2ba-47c4-84d0-e3319a143a07"
+    documentation=" Security holder who will attend and vote at the meeting in person and/or a person assigned by the security holder to attend the meeting without having any voting rights or taking any action.&#xA;&#xA;Владелец ценной бумаги, который будет присутствовать и голосовать на собрании лично и / или лицо, назначенное владельцем ценной бумаги для участия в собрании без права голоса или принятия каких-либо действий."/>

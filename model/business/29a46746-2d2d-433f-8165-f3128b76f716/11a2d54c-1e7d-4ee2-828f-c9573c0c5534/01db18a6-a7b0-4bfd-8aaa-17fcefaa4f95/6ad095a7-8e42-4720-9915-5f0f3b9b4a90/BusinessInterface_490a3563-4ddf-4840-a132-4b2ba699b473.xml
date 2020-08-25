@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestEBranchChannelManagementPlan"
+    id="490a3563-4ddf-4840-a132-4b2ba699b473"
+    documentation="Request a service under the EBranch Channel Management Plan"/>

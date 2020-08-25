@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordChannelPortfolioAnalysis"
+    id="db35d49c-4467-4766-a5ea-c6cc3a2b54ba"
+    documentation="Record activity details/information against the Channel Portfolio Analysis"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Flag User/TPP as Out of Pattern"
+    id="bde589cb-4355-4ec4-839b-bc5ba03c6c97">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_16dffb0b-3a23-42d4-a289-7390d8f211db.xml#16dffb0b-3a23-42d4-a289-7390d8f211db"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_04c52497-71d7-4c6d-a247-e702366bbead.xml#04c52497-71d7-4c6d-a247-e702366bbead"/>
+</archimate:TriggeringRelationship>

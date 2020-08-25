@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Place deposit in the market"
+    id="f0066f57-454f-4011-806a-e54bdf27cf9c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_566cda82-543b-43a5-91c6-6fcf249385ea.xml#566cda82-543b-43a5-91c6-6fcf249385ea"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_aebf4b42-f4b1-4f47-825f-599cdc216374.xml#aebf4b42-f4b1-4f47-825f-599cdc216374"/>
+</archimate:TriggeringRelationship>

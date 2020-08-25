@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCorrespondenceOperatingSession"
+    id="495cf290-6e97-4bf7-86a0-1c26813feaa9"
+    documentation=" Retrieve an correspondence operating session report"/>

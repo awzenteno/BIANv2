@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Allocation"
+    id="77061b26-7ccb-4d5b-8516-aba1e49abbec"
+    documentation="Distribution of the (block) trade (transactions) by the investor or investment manager to different underlying clients, ie, investment funds&#xA;&#xA;&#xA; Распределение (блок) торговли (сделок) инвестором или управляющим инвестициями между различными базовыми клиентами, т. е. инвестиционными фондами."/>

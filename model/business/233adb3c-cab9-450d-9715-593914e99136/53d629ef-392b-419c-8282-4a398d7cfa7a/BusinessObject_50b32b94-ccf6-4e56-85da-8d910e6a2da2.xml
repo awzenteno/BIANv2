@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">VoteResult"
+    id="50b32b94-ccf6-4e56-85da-8d910e6a2da2"
+    documentation=" Specifies whether an agenda item of a general meeting has been accepted or rejected, together with the number of votes.&#xA;&#xA;Указывает, был ли принят или отклонен пункт повестки дня Общего собрания, а также количество голосов."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record e-branch operations incident details"
+    id="96f48936-2a8e-45e9-9b9d-85d1d92df3c4">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3049efbc-a429-4d99-8a1d-a5c9ca2237b4.xml#3049efbc-a429-4d99-8a1d-a5c9ca2237b4"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_04c52497-71d7-4c6d-a247-e702366bbead.xml#04c52497-71d7-4c6d-a247-e702366bbead"/>
+</archimate:TriggeringRelationship>

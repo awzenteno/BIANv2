@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeTrustServicesFulfillmentArrangement"
+    id="af8c6579-b1d2-4069-aa33-cb9b503f5b11"
+    documentation="Comment:&#xA;&#xA;Execute a task under the Trust Services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveInternalNetworkOperatingSession"
+    id="8613cd8b-0c62-492c-9ff1-797796d35910"
+    documentation="Retrieve Internal Network Operating Session related reports"/>

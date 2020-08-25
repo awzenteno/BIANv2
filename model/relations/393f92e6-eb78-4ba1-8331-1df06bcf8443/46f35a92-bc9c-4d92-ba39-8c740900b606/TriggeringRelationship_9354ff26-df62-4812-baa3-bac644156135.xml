@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluate Stand-in Authorisation"
+    id="9354ff26-df62-4812-baa3-bac644156135">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7885c4e8-aaef-4a09-8104-f527820169cb.xml#7885c4e8-aaef-4a09-8104-f527820169cb"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_7cc1d71d-60e4-4e22-a118-8e38daf1a24c.xml#7cc1d71d-60e4-4e22-a118-8e38daf1a24c"/>
+</archimate:TriggeringRelationship>

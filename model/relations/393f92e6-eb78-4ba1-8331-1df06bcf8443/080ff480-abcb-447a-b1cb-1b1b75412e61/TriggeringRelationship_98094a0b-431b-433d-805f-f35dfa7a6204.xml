@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Analyse History"
+    id="98094a0b-431b-433d-805f-f35dfa7a6204">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_16dffb0b-3a23-42d4-a289-7390d8f211db.xml#16dffb0b-3a23-42d4-a289-7390d8f211db"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_73c9782f-4b1d-401d-9422-37c951eee03c.xml#73c9782f-4b1d-401d-9422-37c951eee03c"/>
+</archimate:TriggeringRelationship>

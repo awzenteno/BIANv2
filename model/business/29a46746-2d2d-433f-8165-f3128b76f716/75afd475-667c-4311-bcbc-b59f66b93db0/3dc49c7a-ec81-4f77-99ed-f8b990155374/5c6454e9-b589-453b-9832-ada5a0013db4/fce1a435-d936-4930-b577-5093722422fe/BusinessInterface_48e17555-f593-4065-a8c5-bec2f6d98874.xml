@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateChequeProcessingOperatingSession"
+    id="48e17555-f593-4065-a8c5-bec2f6d98874"
+    documentation="Assign responsibility for and activate the Cheque Processing Operating Session"/>

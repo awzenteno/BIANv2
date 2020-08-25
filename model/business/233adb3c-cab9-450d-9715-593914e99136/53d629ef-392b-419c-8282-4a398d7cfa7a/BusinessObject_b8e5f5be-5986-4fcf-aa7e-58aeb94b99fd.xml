@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">LotBreakdown"
+    id="b8e5f5be-5986-4fcf-aa7e-58aeb94b99fd"
+    documentation=" Number of securities purchased or sold in one transaction. In terms of options, a lot represents the number of contracts contained in one derivative security.&#xA;&#xA;Количество ценных бумаг, купленных или проданных за одну сделку. С точки зрения опционов, лот представляет собой количество контрактов, содержащихся в одной производной ценной бумаге."/>

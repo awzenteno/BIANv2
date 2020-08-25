@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeInternalNetworkOperatingSession"
+    id="207b0d04-a9d8-4d98-8ba6-a21696320849"
+    documentation="Execute a transaction or task under the Internal Network Operating Session"/>

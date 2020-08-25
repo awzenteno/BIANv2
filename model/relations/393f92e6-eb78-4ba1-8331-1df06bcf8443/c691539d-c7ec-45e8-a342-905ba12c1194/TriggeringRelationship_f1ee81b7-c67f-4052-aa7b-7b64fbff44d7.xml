@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initiate campaign"
+    id="f1ee81b7-c67f-4052-aa7b-7b64fbff44d7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f3507ca8-a321-412e-9858-69d54ea8adee.xml#f3507ca8-a321-412e-9858-69d54ea8adee"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_fff48c8c-63c0-48f4-940f-83c0e0e062cb.xml#fff48c8c-63c0-48f4-940f-83c0e0e062cb"/>
+</archimate:TriggeringRelationship>

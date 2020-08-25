@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateBrokeredProductManagementPlan"
+    id="12fa4ce9-c89f-4314-b383-af8a2f02ec54"
+    documentation="Terminate all or some part of the Brokered Product Management Plan"/>

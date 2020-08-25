@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyContributionModelSpecification"
+    id="ce02e8ca-a23a-4643-9c8b-b33b7edea5c7"
+    documentation="Subscribe to Contribution Model Specification notification services"/>

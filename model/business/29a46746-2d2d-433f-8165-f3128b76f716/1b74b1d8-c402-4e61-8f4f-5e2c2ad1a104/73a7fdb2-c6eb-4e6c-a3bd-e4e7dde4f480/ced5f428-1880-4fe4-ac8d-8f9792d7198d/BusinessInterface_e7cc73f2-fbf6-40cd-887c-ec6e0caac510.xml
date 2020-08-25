@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifySupplierAgreement"
+    id="e7cc73f2-fbf6-40cd-887c-ec6e0caac510"
+    documentation="Subscribe to Supplier Agreement notification services"/>

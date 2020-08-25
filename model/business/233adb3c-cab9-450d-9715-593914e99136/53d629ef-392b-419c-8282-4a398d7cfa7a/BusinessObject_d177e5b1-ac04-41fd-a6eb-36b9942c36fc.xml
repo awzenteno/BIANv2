@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CreditSideTaxDebtor"
+    id="d177e5b1-ac04-41fd-a6eb-36b9942c36fc"
+    documentation=" Party on the credit side of the transaction to which the tax applies.&#xA;&#xA;Сторона по кредитной стороне сделки, к которой применяется налог."/>

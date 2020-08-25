@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestBankGuaranteeFulfillmentArrangement"
+    id="7777d1f1-2781-4859-9e94-9fdf082125b9"
+    documentation="Comment:&#xA;&#xA;Request a service under the Bank Guarantee"/>

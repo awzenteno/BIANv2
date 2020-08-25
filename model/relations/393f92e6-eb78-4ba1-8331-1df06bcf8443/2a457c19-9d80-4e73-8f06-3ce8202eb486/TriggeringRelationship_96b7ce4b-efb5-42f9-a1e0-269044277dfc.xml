@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Provide usage feedback"
+    id="96b7ce4b-efb5-42f9-a1e0-269044277dfc">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f78ed185-5069-4c89-a26d-bb67f2c36a8e.xml#f78ed185-5069-4c89-a26d-bb67f2c36a8e"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a3204096-5f36-409f-9761-1147f02bcd59.xml#a3204096-5f36-409f-9761-1147f02bcd59"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeMarketAssetValuationProcedure"
+    id="210c996f-d9de-49f4-abc1-76e285d7648f"
+    documentation="Comment:&#xA;&#xA;Execute a task under the Market Asset Valuation Procedure"/>

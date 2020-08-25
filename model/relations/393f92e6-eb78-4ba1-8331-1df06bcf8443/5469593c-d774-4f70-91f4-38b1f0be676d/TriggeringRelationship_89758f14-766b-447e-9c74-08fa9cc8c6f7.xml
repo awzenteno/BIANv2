@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Validate Merchant"
+    id="89758f14-766b-447e-9c74-08fa9cc8c6f7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_e78a5453-2009-4ca1-931b-be1e5c74cc24.xml#e78a5453-2009-4ca1-931b-be1e5c74cc24"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6f75126b-f2bc-4fd5-8bcb-2def14961679.xml#6f75126b-f2bc-4fd5-8bcb-2def14961679"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Update Issued Device Status"
+    id="a74f6c16-b42b-47a8-a433-5f80fef8f83a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_435b3f41-e0b8-45e0-a676-e669f1853f6e.xml#435b3f41-e0b8-45e0-a676-e669f1853f6e"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_60510586-ce88-42ae-a28d-8ad71a03d499.xml#60510586-ce88-42ae-a28d-8ad71a03d499"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateBusinessUnitAccountingLog"
+    id="d63d72c7-f506-4fe9-b874-95ae3fea0dbd"
+    documentation="Update elements of the Business Unit Accounting Account/Log"/>

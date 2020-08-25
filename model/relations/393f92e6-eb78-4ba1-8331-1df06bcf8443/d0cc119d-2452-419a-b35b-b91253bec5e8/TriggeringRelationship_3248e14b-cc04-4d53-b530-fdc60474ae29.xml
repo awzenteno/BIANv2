@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Set Loan Installment Invoice to Paid"
+    id="3248e14b-cc04-4d53-b530-fdc60474ae29">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_74bdbe52-8419-453b-8413-ae333ee53e25.xml#74bdbe52-8419-453b-8413-ae333ee53e25"/>
+</archimate:TriggeringRelationship>

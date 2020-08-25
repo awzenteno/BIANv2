@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCardNetworkParticipantFulfillmentArrangement"
+    id="5957422f-58a3-4e31-a445-ca7c94a8cf3f"
+    documentation="Retrieve card network participant fulfillment arrangement related reports"/>

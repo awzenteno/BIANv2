@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestBusinessUnitManagementPlan"
+    id="b2e100b7-a9f9-4cd6-ab1a-40595ffe57f0"
+    documentation="Request a service under the Business Unit Management Plan"/>

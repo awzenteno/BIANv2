@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordServicingEventLogServicingActivityEvent"
+    id="1faa71f3-25a9-45dc-9600-70af806c90de"
+    documentation="Record a servicing activity event (e.g. work assignment for outbound sales activity)"/>

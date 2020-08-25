@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activate Party"
+    id="6aaf23b2-4cbd-4ab7-9e62-b3f012fe2e42">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_33593414-659d-44f0-a0af-6e8cf0b8f27b.xml#33593414-659d-44f0-a0af-6e8cf0b8f27b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_97684c53-9c1c-40f0-bc68-c26136ce2828.xml#97684c53-9c1c-40f0-bc68-c26136ce2828"/>
+</archimate:TriggeringRelationship>

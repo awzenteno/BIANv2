@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCardPOSTerminalOperatingSession"
+    id="14d75ae7-4fe4-4c2c-af54-7415ee782e01"
+    documentation=" Retrieve card p o s terminal operating session related reports"/>

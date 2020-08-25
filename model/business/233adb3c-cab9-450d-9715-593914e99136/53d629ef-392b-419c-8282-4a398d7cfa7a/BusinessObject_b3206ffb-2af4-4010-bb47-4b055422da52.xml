@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">StatusReason"
+    id="b3206ffb-2af4-4010-bb47-4b055422da52"
+    documentation=" Specifies the underlying reason for the status of an object.&#xA;&#xA;Указывает основную причину состояния объекта."/>

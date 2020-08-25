@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateAssetSecuritizationTransaction"
+    id="0ec4e02b-59e2-4ccd-893c-e74814666eb7"
+    documentation="Update elements of the Asset Securitization Transaction"/>

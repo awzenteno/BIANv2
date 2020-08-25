@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveManagementManualSpecification"
+    id="bbdfc820-9553-42a4-9ac0-f4c2178660ee"
+    documentation="Retrieve Management Manual Specification related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateACHFulfillmentOperatingSession"
+    id="1a01684c-c675-4498-93ad-428572198cbf"
+    documentation="Terminate all or some part of the ACH fulfillment operating session"/>

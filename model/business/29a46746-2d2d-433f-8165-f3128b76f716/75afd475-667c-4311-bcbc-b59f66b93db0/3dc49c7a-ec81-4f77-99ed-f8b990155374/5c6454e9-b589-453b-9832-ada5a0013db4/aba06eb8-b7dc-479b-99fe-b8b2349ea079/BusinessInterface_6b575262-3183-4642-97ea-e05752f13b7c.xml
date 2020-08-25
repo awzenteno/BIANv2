@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configureFinancialGatewayOperatingSession"
+    id="6b575262-3183-4642-97ea-e05752f13b7c"
+    documentation="Configure the financial gateway (e.g. suspend access to a specific bank/location)"/>

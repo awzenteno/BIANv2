@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyProductPortfolioAnalysis"
+    id="0773a64b-3271-47fc-9286-e67c96dedd89"
+    documentation="Subscribe to Product Portfolio Analysis notification services"/>

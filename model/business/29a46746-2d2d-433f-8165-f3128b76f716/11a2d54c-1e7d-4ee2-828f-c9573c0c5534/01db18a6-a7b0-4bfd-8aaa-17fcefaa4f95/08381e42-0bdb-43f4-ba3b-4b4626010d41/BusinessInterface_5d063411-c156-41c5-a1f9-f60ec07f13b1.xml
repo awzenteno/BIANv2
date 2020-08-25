@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestVoiceChannelOperatingSession"
+    id="5d063411-c156-41c5-a1f9-f60ec07f13b1"
+    documentation=" Request specific work tasks provided by the voice operation facility (e.g. broadcast)"/>

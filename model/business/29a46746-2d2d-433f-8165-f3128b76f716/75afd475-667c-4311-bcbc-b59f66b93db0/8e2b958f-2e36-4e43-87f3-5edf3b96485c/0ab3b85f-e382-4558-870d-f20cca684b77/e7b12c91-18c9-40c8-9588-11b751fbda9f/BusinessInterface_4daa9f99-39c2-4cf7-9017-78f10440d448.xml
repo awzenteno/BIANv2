@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyTradingPositionManagementPlan"
+    id="4daa9f99-39c2-4cf7-9017-78f10440d448"
+    documentation="Subscribe to Trading Position Management Plan notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeProspectCampaignProcedure"
+    id="b9dc8546-a655-4c86-af35-221f16021c74"
+    documentation="Execute a task under the Prospect Campaign Procedure"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeMerchant FulfillmentArrangement"
+    id="33585534-c4ee-4673-b489-ca06b7169572"
+    documentation=" Execute a task under the merchant fulfillment arrangement"/>

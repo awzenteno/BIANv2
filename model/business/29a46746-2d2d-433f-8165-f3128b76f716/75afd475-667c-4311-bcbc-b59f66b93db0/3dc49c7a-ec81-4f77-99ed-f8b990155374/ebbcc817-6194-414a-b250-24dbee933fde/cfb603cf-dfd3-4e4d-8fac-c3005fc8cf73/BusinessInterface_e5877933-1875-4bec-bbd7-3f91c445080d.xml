@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeDunningProcedure"
+    id="e5877933-1875-4bec-bbd7-3f91c445080d"
+    documentation="Execute a customer contact/chasing exchange (automated)"/>

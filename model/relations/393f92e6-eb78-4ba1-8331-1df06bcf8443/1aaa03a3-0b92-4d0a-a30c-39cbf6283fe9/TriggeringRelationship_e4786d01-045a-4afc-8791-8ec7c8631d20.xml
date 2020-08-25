@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get facility report"
+    id="e4786d01-045a-4afc-8791-8ec7c8631d20">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f2682940-3520-4ebd-a2cf-932e42fc2ed7.xml#f2682940-3520-4ebd-a2cf-932e42fc2ed7"/>
+</archimate:TriggeringRelationship>

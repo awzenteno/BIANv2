@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Provide Device as Access Token (Card)"
+    id="f0283b22-27d2-47e0-8e01-8f34d0ef72d5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c2164bd8-b0d5-4e2d-ba1a-77a38269f945.xml#c2164bd8-b0d5-4e2d-ba1a-77a38269f945"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_d0dae581-be73-47ca-b0b5-892213eb9de6.xml#d0dae581-be73-47ca-b0b5-892213eb9de6"/>
+</archimate:TriggeringRelationship>

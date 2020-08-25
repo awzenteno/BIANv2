@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PrimaryOwner"
+    id="5fce2362-d294-429d-b184-46d766c581f6"
+    documentation=" Single owner of the investment account or, when the ownership is split among several owners, the primary owner is the one giving its address and account details for the registration.&#xA;&#xA;Один владелец инвестиционного счета или, когда право собственности разделено между несколькими владельцами, основным владельцем является тот, кто указывает свой адрес и реквизиты счета для регистрации."/>

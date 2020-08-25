@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quote Management"
+    id="9e1de275-fb10-4b84-a0ce-bd0639644a0c"
+    documentation="Example of use:&#xA;&#xA;A market specialist tracks and provides on going buy/sell process for selected securities&#xA;&#xA;General comment:&#xA;&#xA;This facility enables a bank to publish prices to attract trading activity&#xA;&#xA;Business Purpose&#xA;:  Provide buy sell quotes for traded instruments&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Специалист по рынку отслеживает и обеспечивает процесс покупки / продажи выбранных ценных бумаг&#xA;&#xA;Общее замечание:&#xA;&#xA;Данный механизм позволяет банку публиковать цены для привлечения торговой активности&#xA;&#xA;деловая цель&#xA;: Предоставление котировок buy sell для торгуемых инструментов&#xA;"/>

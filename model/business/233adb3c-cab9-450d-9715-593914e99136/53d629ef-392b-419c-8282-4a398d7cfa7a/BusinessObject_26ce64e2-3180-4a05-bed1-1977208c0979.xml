@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SettlementPartyRole"
+    id="26ce64e2-3180-4a05-bed1-1977208c0979"
+    documentation=" Role played by a party in a settlement process.&#xA;&#xA;Роль партии в процессе урегулирования."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyBusinessOperationRiskModelSpecification"
+    id="62c862ff-f4fb-4fb4-813a-9dbe682492c0"
+    documentation="Subscribe to Business Operation Risk Model Specification notification services"/>

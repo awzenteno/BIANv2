@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate Standing Order execution"
+    id="cf574e5c-153b-4366-aad2-e1e23c4a39c5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e5dfe1a1-00c8-4e32-a78b-3b10c9f3073e.xml#e5dfe1a1-00c8-4e32-a78b-3b10c9f3073e"/>
+</archimate:TriggeringRelationship>

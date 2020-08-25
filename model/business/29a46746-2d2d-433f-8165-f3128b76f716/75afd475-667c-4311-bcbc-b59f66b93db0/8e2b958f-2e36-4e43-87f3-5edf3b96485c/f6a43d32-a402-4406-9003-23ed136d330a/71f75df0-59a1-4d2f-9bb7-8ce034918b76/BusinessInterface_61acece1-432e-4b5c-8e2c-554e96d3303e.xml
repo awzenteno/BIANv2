@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestSecuritiesAllocationTransaction"
+    id="61acece1-432e-4b5c-8e2c-554e96d3303e"
+    documentation="Request a service under the Securities Allocation Transaction"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TradeIdentification"
+    id="92ca99d0-5acb-4165-8543-d286cc1af8e7"
+    documentation=" Specifies the different identifications associated with a trade.&#xA;&#xA;Указывает различные идентификаторы, связанные с торговлей."/>

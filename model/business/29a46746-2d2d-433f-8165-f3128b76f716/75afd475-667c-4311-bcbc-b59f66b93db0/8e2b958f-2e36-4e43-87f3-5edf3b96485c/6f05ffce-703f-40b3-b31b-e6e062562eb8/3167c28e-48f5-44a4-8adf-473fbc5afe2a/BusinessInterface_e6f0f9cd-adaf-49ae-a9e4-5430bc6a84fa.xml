@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveLockBoxFulfillmentArrangement"
+    id="e6f0f9cd-adaf-49ae-a9e4-5430bc6a84fa"
+    documentation="Retrieve Lock Box Product Arrangement related reports"/>

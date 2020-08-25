@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCardCaseProcedure"
+    id="bcfef532-f4f3-45ed-b086-99c005dd077b"
+    documentation="Execute a task under the Card Case Procedure"/>

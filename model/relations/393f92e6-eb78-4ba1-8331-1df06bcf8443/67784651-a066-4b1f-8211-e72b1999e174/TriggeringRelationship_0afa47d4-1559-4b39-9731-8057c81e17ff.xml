@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get Second Line Authorisation"
+    id="0afa47d4-1559-4b39-9731-8057c81e17ff">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_37a1f7d9-de5a-45c1-b745-13a751c6e274.xml#37a1f7d9-de5a-45c1-b745-13a751c6e274"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_956f9dff-b911-478e-acdd-1a1afefbcaa3.xml#956f9dff-b911-478e-acdd-1a1afefbcaa3"/>
+</archimate:TriggeringRelationship>

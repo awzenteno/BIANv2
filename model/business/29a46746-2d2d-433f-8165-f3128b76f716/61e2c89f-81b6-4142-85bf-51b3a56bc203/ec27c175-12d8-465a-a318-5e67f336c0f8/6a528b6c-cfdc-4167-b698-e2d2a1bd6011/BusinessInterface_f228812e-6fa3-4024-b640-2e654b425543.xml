@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCorrespondenceOperatingSession"
+    id="f228812e-6fa3-4024-b640-2e654b425543"
+    documentation="Assign responsibility for and activate the Correspondence Operating Session"/>

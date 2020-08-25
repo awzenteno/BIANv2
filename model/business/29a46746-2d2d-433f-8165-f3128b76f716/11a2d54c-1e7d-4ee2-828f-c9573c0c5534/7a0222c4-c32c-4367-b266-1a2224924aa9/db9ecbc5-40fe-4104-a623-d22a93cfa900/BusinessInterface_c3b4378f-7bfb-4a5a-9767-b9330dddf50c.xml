@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" authorizeProduct/CustomerCombinationAssessment"
+    id="c3b4378f-7bfb-4a5a-9767-b9330dddf50c"
+    documentation="Authorize/confirm proposed product is eligible"/>

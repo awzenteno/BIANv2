@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestBranchNetworkManagementPlan"
+    id="ce637842-6cef-486f-b670-fd83ce36dabc"
+    documentation="Request a service under the Branch Network Management Plan"/>

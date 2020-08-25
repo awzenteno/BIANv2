@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get financial market news, analysis &amp; prices"
+    id="fbb589ab-1cbd-48cb-86a7-8ebea2eaf2cb">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_9e0df3c7-7c57-40a2-8505-5fa4de34ca7a.xml#9e0df3c7-7c57-40a2-8505-5fa4de34ca7a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_983e4d16-632e-4508-8a28-b93d179347e9.xml#983e4d16-632e-4508-8a28-b93d179347e9"/>
+</archimate:TriggeringRelationship>

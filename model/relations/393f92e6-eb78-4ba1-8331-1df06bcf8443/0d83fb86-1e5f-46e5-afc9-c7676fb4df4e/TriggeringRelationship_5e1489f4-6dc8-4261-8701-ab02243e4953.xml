@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get instrument valuation"
+    id="5e1489f4-6dc8-4261-8701-ab02243e4953">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_ae4c959f-7a6f-4754-a4d3-d366e2c2783c.xml#ae4c959f-7a6f-4754-a4d3-d366e2c2783c"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_210c996f-d9de-49f4-abc1-76e285d7648f.xml#210c996f-d9de-49f4-abc1-76e285d7648f"/>
+</archimate:TriggeringRelationship>

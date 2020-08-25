@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">IntermediateAgentRole"
+    id="ba6d7892-9de3-4526-8ef0-bb61f5429d8e"
+    documentation=" Financial institution that receives a financing request from the financing requestor and forwards it to the first agent for execution.&#xA;&#xA;Финансовое учреждение, которое получает запрос на финансирование от запрашивающей стороны и направляет его первому агенту для исполнения."/>

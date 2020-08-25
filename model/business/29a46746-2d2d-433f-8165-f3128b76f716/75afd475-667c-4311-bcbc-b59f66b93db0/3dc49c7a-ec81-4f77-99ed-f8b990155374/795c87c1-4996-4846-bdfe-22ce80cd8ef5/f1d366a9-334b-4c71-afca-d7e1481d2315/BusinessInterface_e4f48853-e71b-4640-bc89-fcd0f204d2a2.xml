@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateFinanclalPositionMeasurement"
+    id="e4f48853-e71b-4640-bc89-fcd0f204d2a2"
+    documentation="Assign responsibility for and activate the Financial Position Measurement"/>

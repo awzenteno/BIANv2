@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Drawer"
+    id="55206aa7-fbcb-471a-944a-e35e3b2f0ce8"
+    documentation=" Account owner that issues a cheque ordering the drawee bank to pay a specific amount, upon demand, to the payee.&#xA;&#xA;Финансовое учреждение, на котором выписан чек, т. е. финансовое учреждение, обслуживающее счет лица, выдавшего чек."/>

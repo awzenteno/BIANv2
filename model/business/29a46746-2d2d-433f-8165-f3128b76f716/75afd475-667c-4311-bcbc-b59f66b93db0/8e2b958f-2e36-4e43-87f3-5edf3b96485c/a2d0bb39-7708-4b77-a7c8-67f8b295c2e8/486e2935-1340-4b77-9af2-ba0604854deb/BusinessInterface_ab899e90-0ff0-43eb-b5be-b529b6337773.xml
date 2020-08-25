@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCredit/ChargeCardFulfillmentArrangement"
+    id="ab899e90-0ff0-43eb-b5be-b529b6337773"
+    documentation=" Request a credit/charge account service"/>

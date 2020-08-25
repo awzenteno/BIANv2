@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Define onboarding Channels"
+    id="fe5be4a9-dece-4a0f-84f3-c54949253829">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7d03e0a5-8b04-41f1-b4e9-afaf71a283cc.xml#7d03e0a5-8b04-41f1-b4e9-afaf71a283cc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_78f10f12-16c0-4429-a163-62477498f42f.xml#78f10f12-16c0-4429-a163-62477498f42f"/>
+</archimate:TriggeringRelationship>

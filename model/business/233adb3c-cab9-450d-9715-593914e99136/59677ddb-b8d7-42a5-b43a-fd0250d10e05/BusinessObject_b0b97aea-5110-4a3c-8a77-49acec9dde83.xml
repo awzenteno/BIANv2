@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DunningManagement"
+    id="b0b97aea-5110-4a3c-8a77-49acec9dde83"
+    documentation="Dunning / требовать уплаты просроченного долга&#xA;&#xA;A management process that governs how dunning is handled&#xA;&#xA;Процесс управления, который управляет тем, как обрабатывается __уплата просроченного долга__"/>

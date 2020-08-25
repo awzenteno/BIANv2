@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CurrencyOption"
+    id="25b246c5-3954-478d-84cc-15670c96820d"
+    documentation=" Right to buy (call) or sell (put) an underlying amount in one currency against another amount in another currency at a predetermined exchange rate, within a specified period of time or at a specified date and time.&#xA;&#xA;Право купить (call) или продать (put) базовый сумма в одной валюте против другой суммы в другой валюте по заранее установленному курсу в течение определенного периода времени или на определенную дату и время."/>

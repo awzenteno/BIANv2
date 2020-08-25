@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestEmployeeCertificationAssessment"
+    id="d69f3f79-2d3d-4e00-8407-b17db211b345"
+    documentation="Request a service under the Employee Certification Assessment "/>

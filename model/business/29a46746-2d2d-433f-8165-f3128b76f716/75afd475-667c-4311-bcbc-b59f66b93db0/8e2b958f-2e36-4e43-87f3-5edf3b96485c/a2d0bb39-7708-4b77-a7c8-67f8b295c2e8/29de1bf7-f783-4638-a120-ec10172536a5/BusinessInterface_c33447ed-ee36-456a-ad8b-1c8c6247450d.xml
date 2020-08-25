@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCredit/ChargeCardBillingTransaction"
+    id="c33447ed-ee36-456a-ad8b-1c8c6247450d"
+    documentation="Retrieve Credit/Charge Card Billing Transaction related reports"/>

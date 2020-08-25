@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get transaction authorization report"
+    id="44bb8b5c-8c47-4adf-94b6-153f7a0420d2">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_aa0564fc-a3bc-4f8e-9769-4ca4f9a812e6.xml#aa0564fc-a3bc-4f8e-9769-4ca4f9a812e6"/>
+</archimate:TriggeringRelationship>

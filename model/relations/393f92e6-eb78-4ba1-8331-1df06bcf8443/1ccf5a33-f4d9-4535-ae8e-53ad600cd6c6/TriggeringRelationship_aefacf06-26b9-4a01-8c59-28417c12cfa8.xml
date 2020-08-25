@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request liquidation of collateral asset"
+    id="aefacf06-26b9-4a01-8c59-28417c12cfa8">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1ed107eb-1b9e-4c10-b72c-6cde7579c648.xml#1ed107eb-1b9e-4c10-b72c-6cde7579c648"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_26836ea7-1e87-4f83-bbaa-58effbcd1ee3.xml#26836ea7-1e87-4f83-bbaa-58effbcd1ee3"/>
+</archimate:TriggeringRelationship>

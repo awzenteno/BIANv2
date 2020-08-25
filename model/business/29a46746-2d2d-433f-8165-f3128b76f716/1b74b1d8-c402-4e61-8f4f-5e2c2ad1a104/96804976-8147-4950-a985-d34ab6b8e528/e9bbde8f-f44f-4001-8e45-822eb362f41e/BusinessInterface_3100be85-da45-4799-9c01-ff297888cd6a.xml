@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateLocationDirectory"
+    id="3100be85-da45-4799-9c01-ff297888cd6a"
+    documentation="Assign responsibility for the location directory"/>

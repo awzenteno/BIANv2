@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ShipTo"
+    id="10d17003-8202-450d-8b18-3ec71ed09ed7"
+    documentation=" Party to whom the goods must be delivered.&#xA;&#xA;Сторона, которой должен быть доставлен товар."/>

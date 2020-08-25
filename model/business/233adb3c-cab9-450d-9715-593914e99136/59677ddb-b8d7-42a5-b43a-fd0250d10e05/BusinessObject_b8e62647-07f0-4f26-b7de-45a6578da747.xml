@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerContactAuthentication"
+    id="b8e62647-07f0-4f26-b7de-45a6578da747"
+    documentation="Authentication of the customer involved in a contact with a bank&#xA;&#xA;Аутентификация клиента, участвующего в контакте с банком"/>

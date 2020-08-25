@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveServicingEventLog"
+    id="b3fe4937-e099-4620-9e29-ed7473fd69ef"
+    documentation="Retrieve log record extract/report"/>

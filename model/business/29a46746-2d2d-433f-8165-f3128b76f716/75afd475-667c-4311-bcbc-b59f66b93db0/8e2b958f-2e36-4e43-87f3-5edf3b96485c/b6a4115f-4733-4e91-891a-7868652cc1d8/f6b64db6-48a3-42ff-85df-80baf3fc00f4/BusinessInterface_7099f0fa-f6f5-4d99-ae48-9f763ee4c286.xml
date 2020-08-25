@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCurrencyExchangeTransaction"
+    id="7099f0fa-f6f5-4d99-ae48-9f763ee4c286"
+    documentation=" Execute a task under the currency exchange transaction"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configureTradingDeskOperatingSession"
+    id="e0ab53a8-a88a-4152-923b-57309757efff"
+    documentation="Amend the configuration arrangements/parameters governing the Trading Desk Operating Session"/>

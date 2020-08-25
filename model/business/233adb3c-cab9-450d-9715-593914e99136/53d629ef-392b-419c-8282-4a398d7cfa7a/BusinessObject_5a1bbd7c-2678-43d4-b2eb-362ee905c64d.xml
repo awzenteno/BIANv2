@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MarginCall"
+    id="5a1bbd7c-2678-43d4-b2eb-362ee905c64d"
+    documentation=" Specifies the calculation and the resulting margin and independent amount needed to cover the risk exposure of one party versus another.&#xA;&#xA;Определяет расчет и полученную маржу и независимую сумму, необходимые для покрытия риска одной стороны по сравнению с другой."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ValuationStatistics"
+    id="216a9703-85d4-4743-8679-05a5b119f698"
+    documentation=" Statistical data related to the price change of a security.&#xA;&#xA;Статистические данные, связанные с изменением цены ценной бумаги."/>

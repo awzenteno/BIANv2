@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerContactSessionProcedureCustomerOrder"
+    id="47d59ae4-bbdf-4695-8725-eb5093845cd2"
+    documentation="Request raising a customer order"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cancel Debit Cards service of a Corporate Current Account"
+    id="b8413d09-73b7-4a5d-ad67-90b522bdca6c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_21623b5e-4558-4726-b17c-e95ef8e98df0.xml#21623b5e-4558-4726-b17c-e95ef8e98df0"/>
+</archimate:TriggeringRelationship>

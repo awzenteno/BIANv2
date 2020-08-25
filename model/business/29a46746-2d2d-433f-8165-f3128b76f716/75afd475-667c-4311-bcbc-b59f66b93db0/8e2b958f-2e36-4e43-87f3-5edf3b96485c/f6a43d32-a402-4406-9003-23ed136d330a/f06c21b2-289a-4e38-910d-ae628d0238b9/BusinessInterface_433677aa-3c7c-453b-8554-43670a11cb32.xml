@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestTradeMatchingOperatingSession"
+    id="433677aa-3c7c-453b-8554-43670a11cb32"
+    documentation="Request a service under the Trade Matching Operating Session"/>

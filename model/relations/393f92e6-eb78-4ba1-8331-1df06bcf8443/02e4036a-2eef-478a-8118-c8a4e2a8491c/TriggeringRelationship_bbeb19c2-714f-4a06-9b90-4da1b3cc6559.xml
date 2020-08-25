@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Start Contact Setup Session"
+    id="bbeb19c2-714f-4a06-9b90-4da1b3cc6559">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3049efbc-a429-4d99-8a1d-a5c9ca2237b4.xml#3049efbc-a429-4d99-8a1d-a5c9ca2237b4"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1b23cb33-8f56-4f22-806f-a300bee5fb00.xml#1b23cb33-8f56-4f22-806f-a300bee5fb00"/>
+</archimate:TriggeringRelationship>

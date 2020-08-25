@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateLeasingItemAdministrativePlan"
+    id="733c39c2-3885-467a-9571-1cca33b4823c"
+    documentation="Update tasks or elements of the Leasing Item Administrative Plan"/>

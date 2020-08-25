@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">IntroducingFirm"
+    id="8e077fa3-0d5e-4753-b2d0-0db7cb2b7a7d"
+    documentation=" Party (broker or other intermediary) that owns the relationship with the investor. It can relay an order directly to the trading floor, or give clients direct access to the floor.&#xA;&#xA;Сторона (брокер или иной посредник), которой принадлежат отношения с инвестором. Он может передавать ордер непосредственно в торговую площадку или предоставлять клиентам прямой доступ к площадке."/>

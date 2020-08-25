@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyDirectDebitMandateFulfillmentArrangement"
+    id="2b2d07f3-5b7e-4d32-bf48-31432a811467"
+    documentation="Subscribe to Direct Debit Mandate Product Arrangement notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeVoiceChannelOperatingSessionOutboundVoiceAccess"
+    id="f48bb4cd-ad4e-4e28-ad8e-7ca10a2158a8"
+    documentation="Execute an outbound voice session (provide outside line)"/>

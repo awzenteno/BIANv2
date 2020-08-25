@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProductTrainingProcedure"
+    id="5485bc52-9972-4cef-9dc5-469313568efe"
+    documentation="Retrieve Product Training Procedure related reports"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Confirm Sweep sequence with Customer"
+    id="f855dcb9-49b7-467e-a6a8-e2e4248b69db">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1a2593d3-0df1-40dd-ad70-92b388b44ac7.xml#1a2593d3-0df1-40dd-ad70-92b388b44ac7"/>
+</archimate:TriggeringRelationship>

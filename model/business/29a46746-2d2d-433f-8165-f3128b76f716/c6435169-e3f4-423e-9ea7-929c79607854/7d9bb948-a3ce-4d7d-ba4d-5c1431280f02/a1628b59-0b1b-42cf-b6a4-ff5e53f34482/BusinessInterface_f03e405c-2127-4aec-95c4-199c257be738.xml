@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyMarketAssetValuationModelSpecification"
+    id="f03e405c-2127-4aec-95c4-199c257be738"
+    documentation="Comment:&#xA;&#xA;Subscribe to Market Asset Valuation Model Specification notification services"/>

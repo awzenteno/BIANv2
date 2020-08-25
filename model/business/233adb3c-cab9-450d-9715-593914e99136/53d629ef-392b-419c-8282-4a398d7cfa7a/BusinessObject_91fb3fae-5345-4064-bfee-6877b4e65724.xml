@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Assigner"
+    id="91fb3fae-5345-4064-bfee-6877b4e65724"
+    documentation="Assigner / назначающее лицо&#xA;&#xA;Party who assigns the case.&#xA;&#xA;Сторона, которая назначает обращение."/>

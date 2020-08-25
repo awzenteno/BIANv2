@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCurrentAccountFulfillmentArrangement"
+    id="d4bb64c6-3bb5-4086-af65-613bc868886d"
+    documentation="Subscribe to Current Account Product Arrangement notification services (either for single current accounts or for reports for the SD Current Account)"/>

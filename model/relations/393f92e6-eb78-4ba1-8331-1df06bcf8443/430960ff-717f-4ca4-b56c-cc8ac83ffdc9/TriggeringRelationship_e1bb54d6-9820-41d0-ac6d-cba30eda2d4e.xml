@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get existing Amount Blocks and Account Blocks"
+    id="e1bb54d6-9820-41d0-ac6d-cba30eda2d4e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_17c6981e-a297-4809-877d-aca6a48c0f0a.xml#17c6981e-a297-4809-877d-aca6a48c0f0a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_82edfbe1-1e15-4f0c-bfd6-8aa0da9c84b7.xml#82edfbe1-1e15-4f0c-bfd6-8aa0da9c84b7"/>
+</archimate:TriggeringRelationship>

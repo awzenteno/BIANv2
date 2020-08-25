@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestPointOfServiceOperatingSession"
+    id="e35a23c5-174b-40d0-9bcf-1f3528b5657c"
+    documentation="Request an assisted servicing session"/>

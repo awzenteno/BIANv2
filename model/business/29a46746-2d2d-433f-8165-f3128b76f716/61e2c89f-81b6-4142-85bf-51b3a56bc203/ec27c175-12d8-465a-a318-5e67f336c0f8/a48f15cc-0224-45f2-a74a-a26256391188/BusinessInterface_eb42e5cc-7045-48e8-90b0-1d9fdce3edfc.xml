@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordArchiveOperatingSession"
+    id="eb42e5cc-7045-48e8-90b0-1d9fdce3edfc"
+    documentation="Comment:&#xA;&#xA;Record activity details/information against the Archive Operating Session"/>

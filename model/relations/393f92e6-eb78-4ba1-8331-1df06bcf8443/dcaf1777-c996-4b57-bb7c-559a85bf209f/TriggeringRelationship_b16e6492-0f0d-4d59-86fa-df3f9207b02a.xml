@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request FX currency exchange quote to FX dealer (Manages the related FX book/position and cover position with appropriate market orders such as FX spot)"
+    id="b16e6492-0f0d-4d59-86fa-df3f9207b02a"
+    documentation=" Request FX currency exchange quote to FX dealer (Manages the related FX book/position and cover position with appropriate market orders such as FX spot)">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3934c676-337f-43a2-86ea-42038fa8894f.xml#3934c676-337f-43a2-86ea-42038fa8894f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f005e844-4ef3-47dd-8740-098703e2d3fa.xml#f005e844-4ef3-47dd-8740-098703e2d3fa"/>
+</archimate:TriggeringRelationship>

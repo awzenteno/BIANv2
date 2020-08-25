@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeProgramTradingOperatingSession"
+    id="0672ef36-5c6c-4b36-b870-5739952867f0"
+    documentation="Comment:&#xA;&#xA;Execute a transaction or task under the Program Trading Operating Session"/>

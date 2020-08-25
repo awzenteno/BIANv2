@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateProductDirectory"
+    id="85e1a2d4-ed5b-4c5d-a357-3d3e03321a9e"
+    documentation="Update an existing product directory entry"/>

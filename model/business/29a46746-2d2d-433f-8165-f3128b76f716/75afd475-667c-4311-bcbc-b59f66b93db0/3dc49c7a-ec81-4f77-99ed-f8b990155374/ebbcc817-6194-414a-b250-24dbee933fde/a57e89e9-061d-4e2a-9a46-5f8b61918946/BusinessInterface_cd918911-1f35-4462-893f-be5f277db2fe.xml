@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateLeasingItemAdministrativePlan"
+    id="cd918911-1f35-4462-893f-be5f277db2fe"
+    documentation="Terminate all or some part of the Leasing Item Administrative Plan"/>

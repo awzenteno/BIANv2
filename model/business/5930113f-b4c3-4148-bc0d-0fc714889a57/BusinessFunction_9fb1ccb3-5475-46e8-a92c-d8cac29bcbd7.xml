@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Agree Terms"
+    id="9fb1ccb3-5475-46e8-a92c-d8cac29bcbd7"
+    documentation="Maintain the terms and conditions that apply to a commercial relationship. &#xA;Example: Define and maintain the terms govering the contratcual relationship with a customer.&#xA;&#xA;No-agreement&#xA;Agreement-pending&#xA;Agreement-in-force&#xA;Agreement-update-pending&#xA;Agreement-expired"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCustomerOfferProcedureDocumentExtract"
+    id="c5cfa58e-d716-4034-988b-3c678bec20da"
+    documentation="Execute the extract of customer reference data from provided documentation"/>

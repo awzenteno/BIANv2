@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestBusinessUnitFinanceAnalysis"
+    id="b96bab3e-24c5-4b0e-ab82-f1c2022d1084"
+    documentation="Request a service under the Business Unit Finance Analysis"/>

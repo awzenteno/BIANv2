@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Execute Incoming Payment Transaction"
+    id="8c56005b-0099-4ec2-ab17-999cf44c4d40">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_37a1f7d9-de5a-45c1-b745-13a751c6e274.xml#37a1f7d9-de5a-45c1-b745-13a751c6e274"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_27976748-f58e-4ffc-8207-8d0b1b5b2e0d.xml#27976748-f58e-4ffc-8207-8d0b1b5b2e0d"/>
+</archimate:TriggeringRelationship>

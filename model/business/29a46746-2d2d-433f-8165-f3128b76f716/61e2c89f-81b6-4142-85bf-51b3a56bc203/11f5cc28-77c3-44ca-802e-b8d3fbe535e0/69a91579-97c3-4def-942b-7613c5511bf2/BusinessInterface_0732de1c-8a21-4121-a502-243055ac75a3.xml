@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEmployeeDirectory"
+    id="0732de1c-8a21-4121-a502-243055ac75a3"
+    documentation="Retrieve Employee Registration related reports"/>

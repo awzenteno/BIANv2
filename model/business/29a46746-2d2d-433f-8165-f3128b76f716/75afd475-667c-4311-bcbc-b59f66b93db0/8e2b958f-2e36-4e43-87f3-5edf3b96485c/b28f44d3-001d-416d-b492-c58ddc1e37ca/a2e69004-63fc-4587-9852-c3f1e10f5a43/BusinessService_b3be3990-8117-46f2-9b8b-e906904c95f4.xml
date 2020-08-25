@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loan"
+    id="b3be3990-8117-46f2-9b8b-e906904c95f4"
+    documentation="Example of use:&#xA;&#xA;A consumer customer applies for and gets a mortgage for a new house purchase&#xA;&#xA;General comment:&#xA;&#xA;There is a wide range of types of consumer and corporate loan products covered by this generalized loan fulfillment service domain&#xA;&#xA;Business Purpose&#xA;:  Fulfillment of a range of loan products (including consumer and corporate loans)&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Потребительский клиент подает заявку и получает ипотечный кредит на покупку нового дома&#xA;&#xA;Общее замечание:&#xA;&#xA;Существует широкий спектр типов потребительских и корпоративных кредитных продуктов, охватываемых этой обобщенной сферой услуг&#xA;&#xA;деловая цель&#xA;: Выполнение комплекса кредитных продуктов (включая потребительские и корпоративные кредиты)"/>

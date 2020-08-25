@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEnterpriseContinuityAssuranceManagementPlan"
+    id="55aaddee-75a0-49b7-a5d6-2e628366be31"
+    documentation="Retrieve Enterprise Continuity Assurance Management Plan related reports"/>

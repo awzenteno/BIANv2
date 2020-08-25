@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get Applicable Precedents"
+    id="6e66ca28-7b3a-4ce4-8949-b3f14c4c039e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_98f6a1e4-de84-4ca7-aee7-33f72d395346.xml#98f6a1e4-de84-4ca7-aee7-33f72d395346"/>
+</archimate:TriggeringRelationship>

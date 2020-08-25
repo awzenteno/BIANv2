@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyChannelActivityAnalysis"
+    id="44549977-d3a8-4e9d-8b77-192b09e6005c"
+    documentation="Subscribe to Channel Activity Analysis notification services"/>

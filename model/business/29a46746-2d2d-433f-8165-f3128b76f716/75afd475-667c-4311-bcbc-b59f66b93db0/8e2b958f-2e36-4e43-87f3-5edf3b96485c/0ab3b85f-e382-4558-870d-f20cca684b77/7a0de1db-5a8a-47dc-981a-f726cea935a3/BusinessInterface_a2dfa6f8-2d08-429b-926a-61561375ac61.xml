@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="createTradingModelSpecification"
+    id="a2dfa6f8-2d08-429b-926a-61561375ac61"
+    documentation="Create/register a Trading Model Specification"/>

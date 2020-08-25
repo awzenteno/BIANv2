@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateTradedPositionTransaction"
+    id="d273a1f8-fd0d-42a8-96d3-d1be4159af2f"
+    documentation="Update elements of the Traded Position Transaction"/>

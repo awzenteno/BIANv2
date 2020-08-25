@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initiate dunning process for loan"
+    id="8964e1cd-8c6b-4952-a658-53a6cc34e364">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e5877933-1875-4bec-bbd7-3f91c445080d.xml#e5877933-1875-4bec-bbd7-3f91c445080d"/>
+</archimate:TriggeringRelationship>

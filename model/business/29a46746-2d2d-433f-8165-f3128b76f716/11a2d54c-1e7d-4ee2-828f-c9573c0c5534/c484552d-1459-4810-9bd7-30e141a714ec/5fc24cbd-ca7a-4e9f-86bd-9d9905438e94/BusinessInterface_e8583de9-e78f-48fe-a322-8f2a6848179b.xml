@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluatePartyAuthenticationAssessmentDevice"
+    id="e8583de9-e78f-48fe-a322-8f2a6848179b"
+    documentation=" Evaluate authenticity based on device identifiers"/>

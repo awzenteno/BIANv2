@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AutomaticVariation"
+    id="8ccba79a-d489-4be7-aec6-9f0bf6ae9ae3"
+    documentation="standby letter of credit /  резервный аккредитив / гарантийный аккредитив&#xA;&#xA;&#xA;Predefined variations that may be attributable to an undertaking such as a guarantee or standby letter of credit.&#xA;&#xA;&#xA;Предопределенные изменения, которые могут быть отнесены на счет обязательства, такого как гарантия или резервный аккредитив.&#xA;&#xA;&#xA;&#xA;_____Резервный аккредитив - это письменное обязательство банка-эмитента перед бенефициаром (экспортером, поставщиком) произвести платеж за приказодателя (импортера, покупателя) в случае невыполнения последним своих договорных обязательств и предъявлении бенефициаром письменного требования платежа&#xA;"/>

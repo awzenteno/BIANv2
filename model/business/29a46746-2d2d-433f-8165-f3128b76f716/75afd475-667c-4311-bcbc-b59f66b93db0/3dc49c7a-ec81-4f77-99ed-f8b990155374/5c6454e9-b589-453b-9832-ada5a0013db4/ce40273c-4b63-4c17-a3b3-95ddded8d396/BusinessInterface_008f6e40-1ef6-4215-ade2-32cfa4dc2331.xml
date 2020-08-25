@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestECommerceGatewayOperatingSession"
+    id="008f6e40-1ef6-4215-ade2-32cfa4dc2331"
+    documentation="Request a service under the e commerce gateway operating session"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate new bank guarantee"
+    id="5aa7a018-de13-40f4-8e2f-82a3d3749212">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_01ea65ee-24b3-49d7-9809-6af4fe88bbd6.xml#01ea65ee-24b3-49d7-9809-6af4fe88bbd6"/>
+</archimate:TriggeringRelationship>

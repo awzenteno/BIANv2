@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateConsumerAdviceFulfillmentArrangement"
+    id="e2e303ba-db99-446a-9616-41ba87e5270a"
+    documentation="Update work tasks and activity details for the consumer advice fulfillment arrangement"/>

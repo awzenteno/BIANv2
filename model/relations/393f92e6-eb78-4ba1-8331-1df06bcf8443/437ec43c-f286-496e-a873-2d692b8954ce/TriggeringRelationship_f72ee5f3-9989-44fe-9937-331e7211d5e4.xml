@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Reconfigure campaign"
+    id="f72ee5f3-9989-44fe-9937-331e7211d5e4">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_43307d38-0e2b-491f-9c3a-3fea8aa1394d.xml#43307d38-0e2b-491f-9c3a-3fea8aa1394d"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_0de0c6a2-6843-4493-91f4-488453c02355.xml#0de0c6a2-6843-4493-91f4-488453c02355"/>
+</archimate:TriggeringRelationship>

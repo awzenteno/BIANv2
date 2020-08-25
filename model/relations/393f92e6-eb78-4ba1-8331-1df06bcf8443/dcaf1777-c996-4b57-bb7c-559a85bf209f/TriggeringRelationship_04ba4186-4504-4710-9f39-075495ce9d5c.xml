@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Manage FX cash float"
+    id="04ba4186-4504-4710-9f39-075495ce9d5c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3934c676-337f-43a2-86ea-42038fa8894f.xml#3934c676-337f-43a2-86ea-42038fa8894f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_59d22580-abed-4e74-a3cc-3e5102200d93.xml#59d22580-abed-4e74-a3cc-3e5102200d93"/>
+</archimate:TriggeringRelationship>

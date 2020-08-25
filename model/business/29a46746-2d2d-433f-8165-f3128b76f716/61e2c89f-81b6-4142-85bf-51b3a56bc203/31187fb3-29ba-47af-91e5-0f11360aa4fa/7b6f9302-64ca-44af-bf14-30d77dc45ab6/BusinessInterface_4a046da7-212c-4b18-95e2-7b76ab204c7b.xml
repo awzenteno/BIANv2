@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateProcurementAdministrativePlan"
+    id="4a046da7-212c-4b18-95e2-7b76ab204c7b"
+    documentation="Terminate all or some part of the Procurement Administrative Plan"/>

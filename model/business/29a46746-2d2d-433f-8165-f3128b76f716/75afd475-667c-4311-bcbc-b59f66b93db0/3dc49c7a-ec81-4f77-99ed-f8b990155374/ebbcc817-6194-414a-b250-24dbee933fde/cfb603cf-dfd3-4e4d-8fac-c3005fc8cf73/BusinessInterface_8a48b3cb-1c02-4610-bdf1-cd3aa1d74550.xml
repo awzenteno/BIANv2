@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyDunningProcedure"
+    id="8a48b3cb-1c02-4610-bdf1-cd3aa1d74550"
+    documentation="Subscribe to Dunning Procedure notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Maintain"
+    id="57891770-86ed-4b80-9b8b-370276761743"
+    documentation="Provide a maintenance service and repair devices/equipment as necessary. &#xA;Example: Establish a maintenance and repair program covering the PC technology used in the central offices.&#xA;&#xA;Inactive&#xA;Maintenance-service-active&#xA;Maint-pending-in-use&#xA;Maint-pending-inactive&#xA;Under-repair&#xA;Repair-completed-in-use&#xA;Maintenance-service-concluded&#xA;"/>

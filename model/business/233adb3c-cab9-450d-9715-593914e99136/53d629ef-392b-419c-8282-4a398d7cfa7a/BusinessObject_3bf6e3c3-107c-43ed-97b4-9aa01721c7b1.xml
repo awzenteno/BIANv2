@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CollateralMovement"
+    id="3bf6e3c3-107c-43ed-97b4-9aa01721c7b1"
+    documentation="Provides the agreed amount and the collateral movement direction.&#xA;&#xA;Обеспечивает согласованную сумму и направление движения залога."/>

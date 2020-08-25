@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Signature"
+    id="2ecc98ea-b465-4e16-9ce4-2f33f06bbc2a"
+    documentation=" Additional security provision attached to a contract. A (numeric) signature can be used as evidence of origin and integrity, i.e., authenticity of the signed data. A judge can accept this evidence as proof.&#xA;&#xA;Дополнительное обеспечение безопасности, прилагаемое к контракту. (Цифровая) подпись может использоваться в качестве доказательства происхождения и целостности, т. е. подлинности подписанных данных. Судья может принять эти доказательства в качестве доказательства."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCorrespondentBankFulfillmentArrangement"
+    id="fb90c7f6-bc8b-421a-a9da-0f6233610a15"
+    documentation="Termination request for an in force correspondent bank arrangement"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Retrieve Issuer Information"
+    id="4baee3fe-b00e-46ac-ae15-594eef38d1cc">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_89cf424b-074e-45ff-969e-6d5aee528111.xml#89cf424b-074e-45ff-969e-6d5aee528111"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5957422f-58a3-4e31-a445-ca7c94a8cf3f.xml#5957422f-58a3-4e31-a445-ca7c94a8cf3f"/>
+</archimate:TriggeringRelationship>

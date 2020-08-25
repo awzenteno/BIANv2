@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Register"
+    id="306f199b-def9-4c47-a7b3-5f1d7d75f6b7"
+    documentation="Capture and maintain reference information about some type of entity. &#xA;Example: Register customer reference details in a directory.&#xA;&#xA;Inactive&#xA;Directory-active&#xA;Directory -active-item-current&#xA;Directory-suspended&#xA;Directory-expired"/>

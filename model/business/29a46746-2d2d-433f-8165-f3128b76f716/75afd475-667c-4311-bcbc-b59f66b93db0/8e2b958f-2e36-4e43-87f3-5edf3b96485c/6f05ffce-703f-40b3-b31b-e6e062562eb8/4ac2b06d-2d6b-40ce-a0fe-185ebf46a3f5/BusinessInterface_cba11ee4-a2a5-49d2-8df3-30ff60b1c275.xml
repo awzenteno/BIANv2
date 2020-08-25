@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCashManagementFulfillmentArrangement"
+    id="cba11ee4-a2a5-49d2-8df3-30ff60b1c275"
+    documentation="Request a service under the Cash Management"/>

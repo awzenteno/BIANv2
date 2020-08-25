@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesBalance"
+    id="8bd8d5fd-76ba-4fe9-be08-ea249b4e681b"
+    documentation=" Net position of a segregated holding, in a single security, within the overall position held in a securities account. A securities balance is calculated from the sum of securities' receipts minus the sum of securities' deliveries.&#xA;&#xA;Чистая позиция сегрегированного холдинга в рамках одной ценной бумаги в рамках общей позиции на счете ценных бумаг. Баланс ценных бумаг рассчитывается из суммы поступлений ценных бумаг за вычетом суммы поставок ценных бумаг."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Configure routing logic under load"
+    id="13f9e1af-7942-464c-882f-5e1a45c15276">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5cfdbaa4-3a1d-4f97-901f-3979b4a588aa.xml#5cfdbaa4-3a1d-4f97-901f-3979b4a588aa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5828e4d1-63f0-4ea5-a7cf-1654bd85a928.xml#5828e4d1-63f0-4ea5-a7cf-1654bd85a928"/>
+</archimate:TriggeringRelationship>

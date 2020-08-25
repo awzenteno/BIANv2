@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Calculate termination fees"
+    id="4e267b8c-235b-445f-9e31-3757e359d85f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_cd8f8dd1-bd79-4ed1-a2c9-9de0f6ba586f.xml#cd8f8dd1-bd79-4ed1-a2c9-9de0f6ba586f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_63361366-ff82-4769-86b8-d5807ec65658.xml#63361366-ff82-4769-86b8-d5807ec65658"/>
+</archimate:TriggeringRelationship>

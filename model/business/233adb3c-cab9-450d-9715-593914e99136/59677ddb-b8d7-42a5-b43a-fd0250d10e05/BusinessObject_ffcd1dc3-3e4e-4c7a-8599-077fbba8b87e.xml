@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerMasterAgreement"
+    id="ffcd1dc3-3e4e-4c7a-8599-077fbba8b87e"
+    documentation=" A master agreement that governs the relationship between a bank and a bank's customer.&#xA;&#xA;Note: A customer can be a complex corporate entity with multiple subsidiaries operating in different geopolitical areas. The customer agreement is linked to as many product agreements as needed for all in-force products&#xA;&#xA;&#xA;Генеральное соглашение, регулирующее отношения между банком и клиентом банка.&#xA;&#xA;Примечание: клиент может быть сложным юридическим лицом с несколькими дочерними компаниями, работающими в разных геополитических областях. Клиентское соглашение связано с таким количеством соглашений о продуктах, которое необходимо для всех действующих продуктов"/>

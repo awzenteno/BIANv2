@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Customer request to establish a Corporate Deposit Agreement"
+    id="3fdf6808-9979-4fc7-b417-cb1b97f29495">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e973af32-ea9d-495f-beb6-ef059b6077d0.xml#e973af32-ea9d-495f-beb6-ef059b6077d0"/>
+</archimate:TriggeringRelationship>

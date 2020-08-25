@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCurrentAccountFulfillmentArrangementSweep"
+    id="b888a915-67fe-47e1-aef1-071d07d35ed1"
+    documentation=" Request the set-up/amendment of an account sweep arrangement"/>

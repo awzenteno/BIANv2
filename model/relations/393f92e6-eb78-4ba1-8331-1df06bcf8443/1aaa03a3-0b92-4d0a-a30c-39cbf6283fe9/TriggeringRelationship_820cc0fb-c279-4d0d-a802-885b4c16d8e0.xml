@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request Transaction Authorisation"
+    id="820cc0fb-c279-4d0d-a802-885b4c16d8e0">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_19867853-c401-4fc3-b4da-1ac79c90f8aa.xml#19867853-c401-4fc3-b4da-1ac79c90f8aa"/>
+</archimate:TriggeringRelationship>

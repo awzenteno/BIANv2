@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveRegulatoryComplianceAssessment"
+    id="fbd5938b-9844-43c7-a963-0d14c5019d24"
+    documentation=" Retrieve a regulatory compliance assessment report"/>

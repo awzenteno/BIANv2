@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="->Record"
+    id="d16df00e-b304-4985-89a9-8fc78508d6d6"
+    documentation="Capture transaction or event detail associated with a life cycle step . &#xA;Example: An employee logs time spent working on a project against the plan."/>

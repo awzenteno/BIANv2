@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateATMNetworkOperatingSession"
+    id="140e61f0-3fd3-4c6b-bb67-8e0b83c1f8ea"
+    documentation="Terminate all or some part of the ATM Network Operating Session"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateManagedInvestmentPortfolioAgreement"
+    id="68f016d2-747f-4e63-ba07-1346f2d4c28f"
+    documentation="Check/verify compliance with Managed Investment Portfolio Agreement related checks/assessments"/>

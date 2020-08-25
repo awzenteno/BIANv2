@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordDunningProcedure"
+    id="f218e772-0359-4a97-ad23-ebdad3e1830e"
+    documentation=" Record information against a delinquency process (e.g. received payment)"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Process payment against facility"
+    id="457a8148-cea8-43f8-9fcd-62f0dacccb24">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_37a1f7d9-de5a-45c1-b745-13a751c6e274.xml#37a1f7d9-de5a-45c1-b745-13a751c6e274"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_8549ea6c-584e-4c61-a459-2198cfa9bd76.xml#8549ea6c-584e-4c61-a459-2198cfa9bd76"/>
+</archimate:TriggeringRelationship>

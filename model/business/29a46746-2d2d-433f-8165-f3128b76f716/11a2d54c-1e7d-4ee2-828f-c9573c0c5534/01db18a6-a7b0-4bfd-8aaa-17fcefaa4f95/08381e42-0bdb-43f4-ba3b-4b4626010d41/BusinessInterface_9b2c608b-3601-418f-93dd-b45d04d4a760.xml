@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateVoiceChannelOperatingSession"
+    id="9b2c608b-3601-418f-93dd-b45d04d4a760"
+    documentation="Comment:&#xA;&#xA;Assign responsibility for and activate the Voice Channel Operating Session"/>

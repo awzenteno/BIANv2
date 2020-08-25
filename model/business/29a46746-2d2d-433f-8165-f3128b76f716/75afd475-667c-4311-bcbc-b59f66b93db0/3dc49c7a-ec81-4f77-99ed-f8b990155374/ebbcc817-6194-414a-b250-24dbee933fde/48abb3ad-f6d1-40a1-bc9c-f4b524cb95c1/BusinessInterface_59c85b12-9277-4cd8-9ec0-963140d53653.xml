@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateOpenItemProcedure"
+    id="59c85b12-9277-4cd8-9ec0-963140d53653"
+    documentation="Update details of an active open item procedure"/>

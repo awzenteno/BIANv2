@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update customer details"
+    id="ceb45044-c868-4bae-a39b-0dabf7b2f8cf">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_87252834-2ae5-4d82-bf3f-41a00085cef8.xml#87252834-2ae5-4d82-bf3f-41a00085cef8"/>
+</archimate:TriggeringRelationship>

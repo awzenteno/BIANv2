@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" retrieveCredit/ChargeCardAuthorizationAssessment"
+    id="abed5802-1bdc-4a77-9729-a3353f06f0c8"
+    documentation="Retrieve Credit/Charge Card Authorization Assessment related reports"/>

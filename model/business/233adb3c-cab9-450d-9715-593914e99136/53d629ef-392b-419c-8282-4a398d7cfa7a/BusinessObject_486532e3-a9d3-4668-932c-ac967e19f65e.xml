@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesTransfer"
+    id="486532e3-a9d3-4668-932c-ac967e19f65e"
+    documentation=" Completion of a securities settlement instruction, wherein securities are delivered/debited from a securities account and received/credited to the designated securities account.&#xA;&#xA;Заполнение расчетной инструкции по ценным бумагам, в которой ценные бумаги доставляются/дебетуются со счета ценных бумаг и поступают/зачисляются на указанный счет ценных бумаг."/>

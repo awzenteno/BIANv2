@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CarrierAgent"
+    id="53cf58c3-83a5-44e5-a7de-47d7d0f069e2"
+    documentation=" Carrier's agent (for example, shipping company) that acts on behalf of the carrier and may be the issuer of transport documents.&#xA;&#xA;Агент перевозчика (например, судоходная компания), который действует от имени перевозчика и может выдавать транспортные документы."/>

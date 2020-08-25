@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordChannelActivityLog"
+    id="04c52497-71d7-4c6d-a247-e702366bbead"
+    documentation="Record activity details/transaction information against the Channel Activity Account/Log"/>

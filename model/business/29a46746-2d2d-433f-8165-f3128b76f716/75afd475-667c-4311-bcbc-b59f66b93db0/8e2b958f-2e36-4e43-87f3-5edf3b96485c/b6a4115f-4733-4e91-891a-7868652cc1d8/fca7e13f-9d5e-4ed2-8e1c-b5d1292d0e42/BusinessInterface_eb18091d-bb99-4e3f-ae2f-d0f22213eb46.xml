@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordTrustServicesFulfillmentArrangement"
+    id="eb18091d-bb99-4e3f-ae2f-d0f22213eb46"
+    documentation="Record activity details/information against the trust services fulfillment arrangement"/>

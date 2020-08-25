@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestTradingPositionManagementPlan"
+    id="0f78df8e-2b71-4bd6-9ab8-6d0de58c3920"
+    documentation="Request a service under the Trading Position Management Plan"/>

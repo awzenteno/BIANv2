@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiatePaymentExecutionTransaction"
+    id="119ed2fd-468b-4530-a2cc-05ea99a02533"
+    documentation="Initiate a payment execution transaction"/>

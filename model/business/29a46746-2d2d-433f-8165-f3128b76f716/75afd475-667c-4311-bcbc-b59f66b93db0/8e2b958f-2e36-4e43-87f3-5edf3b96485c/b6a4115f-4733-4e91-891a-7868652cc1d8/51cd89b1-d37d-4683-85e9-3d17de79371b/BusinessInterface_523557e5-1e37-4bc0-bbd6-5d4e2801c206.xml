@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCustomerTaxObligationFulfillmentArrangement"
+    id="523557e5-1e37-4bc0-bbd6-5d4e2801c206"
+    documentation="Terminate all or some part of the Customer Tax Obligation"/>

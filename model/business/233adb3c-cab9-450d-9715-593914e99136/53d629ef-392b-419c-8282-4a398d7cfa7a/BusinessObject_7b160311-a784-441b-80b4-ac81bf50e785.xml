@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionStatus"
+    id="7b160311-a784-441b-80b4-ac81bf50e785"
+    documentation="Status of the corporate action process.&#xA;&#xA;Состояние процесса CA."/>

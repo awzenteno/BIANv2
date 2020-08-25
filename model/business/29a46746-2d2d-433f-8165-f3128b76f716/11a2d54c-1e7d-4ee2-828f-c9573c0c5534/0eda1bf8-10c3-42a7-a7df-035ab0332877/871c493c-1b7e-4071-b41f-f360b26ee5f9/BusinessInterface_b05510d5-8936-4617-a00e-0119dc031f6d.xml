@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registerCustomerReferenceDataDirectoryRelationship"
+    id="b05510d5-8936-4617-a00e-0119dc031f6d"
+    documentation="Register a customer relationship/associations between existing customer records"/>

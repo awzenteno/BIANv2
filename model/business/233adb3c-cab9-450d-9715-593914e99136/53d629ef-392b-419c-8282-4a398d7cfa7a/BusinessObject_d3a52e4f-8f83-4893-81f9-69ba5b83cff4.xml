@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AccountStatus"
+    id="d3a52e4f-8f83-4893-81f9-69ba5b83cff4"
+    documentation=" Specifies the status of an account or the status of the processing of the actions linked to the management of an account.&#xA;&#xA;&#xA;&#xA;Указывает состояние учетной записи или состояние обработки действий, связанных с управлением учетной записью."/>

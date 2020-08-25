@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestPrivatePlacementFulfillmentArrangement"
+    id="b7a4f1c5-ab49-4825-8cd4-2a69054e9233"
+    documentation="Request a service under the Private Placement"/>

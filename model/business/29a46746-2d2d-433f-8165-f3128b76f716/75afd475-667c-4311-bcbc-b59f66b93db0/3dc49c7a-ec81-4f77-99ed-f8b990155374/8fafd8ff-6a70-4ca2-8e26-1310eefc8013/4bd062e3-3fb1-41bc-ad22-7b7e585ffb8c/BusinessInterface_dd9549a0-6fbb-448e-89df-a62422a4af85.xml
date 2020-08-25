@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="provideCollateralAssetAllocationEarmark"
+    id="dd9549a0-6fbb-448e-89df-a62422a4af85"
+    documentation="Provide/earmark a collateral asset"/>

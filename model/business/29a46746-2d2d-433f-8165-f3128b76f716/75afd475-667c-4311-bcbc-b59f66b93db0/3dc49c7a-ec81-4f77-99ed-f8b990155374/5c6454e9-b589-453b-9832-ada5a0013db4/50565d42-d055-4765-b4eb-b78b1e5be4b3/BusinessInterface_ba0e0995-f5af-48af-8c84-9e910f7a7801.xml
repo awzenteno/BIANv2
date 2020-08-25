@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestFinancialNetworkGatewayAnalysis"
+    id="ba0e0995-f5af-48af-8c84-9e910f7a7801"
+    documentation="Request a service under the Financial Network Gateway Analysis"/>

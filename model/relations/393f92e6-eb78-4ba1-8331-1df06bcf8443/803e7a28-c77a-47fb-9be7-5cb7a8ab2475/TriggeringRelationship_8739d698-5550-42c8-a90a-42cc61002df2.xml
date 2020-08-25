@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Process request for refund of Outgoing Direct Debit"
+    id="8739d698-5550-42c8-a90a-42cc61002df2">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_340fcb16-0f61-4a98-9980-3307680d4fe8.xml#340fcb16-0f61-4a98-9980-3307680d4fe8"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6ef8a0f0-bd96-45f1-8858-d3c12c8e48d7.xml#6ef8a0f0-bd96-45f1-8858-d3c12c8e48d7"/>
+</archimate:TriggeringRelationship>

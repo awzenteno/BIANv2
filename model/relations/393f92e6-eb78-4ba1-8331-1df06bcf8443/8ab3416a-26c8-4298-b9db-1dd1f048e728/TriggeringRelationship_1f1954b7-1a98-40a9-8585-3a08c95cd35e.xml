@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get production testing analysis"
+    id="1f1954b7-1a98-40a9-8585-3a08c95cd35e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c42392ca-acb1-471e-91c8-219057aafc41.xml#c42392ca-acb1-471e-91c8-219057aafc41"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1a7690f4-889a-4d29-9514-087ea4b975c8.xml#1a7690f4-889a-4d29-9514-087ea4b975c8"/>
+</archimate:TriggeringRelationship>

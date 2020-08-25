@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InstructingReimbursementAgent"
+    id="ddbf3be1-b2a9-473f-b1ba-eaa61e288553"
+    documentation=" Specifies the agent through which the instructing agent will reimburse the instructed agent.&#xA;Usage: If the instructing and instructed agents have the same reimbursement agent, then only InstructingReimbursementAgent must be used.&#xA;&#xA;Указывает агент, через которого инструктирующий агент возместит расходы указанному агенту.&#xA;Использование: если инструктирующие и проинструктированные агенты имеют один и тот же агент возмещения, необходимо использовать только InstructingReimbursementAgent."/>

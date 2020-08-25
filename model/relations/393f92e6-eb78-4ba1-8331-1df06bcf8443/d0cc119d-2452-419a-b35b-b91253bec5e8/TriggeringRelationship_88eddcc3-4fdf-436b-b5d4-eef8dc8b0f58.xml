@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get open item report"
+    id="88eddcc3-4fdf-436b-b5d4-eef8dc8b0f58">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_efb61f47-e76c-4717-bdfc-0b6cb14ade85.xml#efb61f47-e76c-4717-bdfc-0b6cb14ade85"/>
+</archimate:TriggeringRelationship>

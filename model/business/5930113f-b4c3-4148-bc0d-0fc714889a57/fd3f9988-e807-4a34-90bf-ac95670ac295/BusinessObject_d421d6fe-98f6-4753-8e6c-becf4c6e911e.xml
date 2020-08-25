@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assignments"
+    id="d421d6fe-98f6-4753-8e6c-becf4c6e911e"
+    documentation="A collection of one or more specific assignments of inventory allowing for different allocation types and states"/>

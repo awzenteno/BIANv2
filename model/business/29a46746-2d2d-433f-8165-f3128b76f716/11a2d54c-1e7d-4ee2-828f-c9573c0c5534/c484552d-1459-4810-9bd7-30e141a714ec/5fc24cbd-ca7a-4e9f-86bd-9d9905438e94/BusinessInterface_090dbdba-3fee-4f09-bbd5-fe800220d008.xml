@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluatePartyAuthenticationAssessmentBiometric"
+    id="090dbdba-3fee-4f09-bbd5-fe800220d008"
+    documentation=" Evaluate authenticity based on biometric characteristics"/>

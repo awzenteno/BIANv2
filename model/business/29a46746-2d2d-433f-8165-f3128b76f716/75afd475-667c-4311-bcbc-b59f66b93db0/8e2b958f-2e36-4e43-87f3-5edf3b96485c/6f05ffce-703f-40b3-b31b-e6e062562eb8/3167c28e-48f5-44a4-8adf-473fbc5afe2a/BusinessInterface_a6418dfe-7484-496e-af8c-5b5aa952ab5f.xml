@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestLockBoxFulfillmentArrangement"
+    id="a6418dfe-7484-496e-af8c-5b5aa952ab5f"
+    documentation="Comment:&#xA;&#xA;Request a service under the Lock Box"/>

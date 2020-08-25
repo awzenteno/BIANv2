@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeInformationFeedOperatingSession"
+    id="aea8bcbf-2eb7-4738-80f5-ea7727240de3"
+    documentation="Execute a transaction or task under the Information Feed Operating Session"/>

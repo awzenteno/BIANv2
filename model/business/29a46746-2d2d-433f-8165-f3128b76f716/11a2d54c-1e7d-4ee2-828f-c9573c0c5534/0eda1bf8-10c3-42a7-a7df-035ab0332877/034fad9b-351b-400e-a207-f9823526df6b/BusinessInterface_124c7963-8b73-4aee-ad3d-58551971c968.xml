@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCustomerEventLog"
+    id="124c7963-8b73-4aee-ad3d-58551971c968"
+    documentation="Assign responsibility for the Customer Event Account/Log"/>

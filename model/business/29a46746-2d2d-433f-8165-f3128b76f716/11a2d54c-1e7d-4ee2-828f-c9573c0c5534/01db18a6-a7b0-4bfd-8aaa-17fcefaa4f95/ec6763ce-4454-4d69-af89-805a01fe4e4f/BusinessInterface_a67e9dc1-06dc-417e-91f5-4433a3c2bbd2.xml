@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCardPOSTerminalOperatingSession"
+    id="a67e9dc1-06dc-417e-91f5-4433a3c2bbd2"
+    documentation="Record activity details/information against the card p o s terminal operating session"/>

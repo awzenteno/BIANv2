@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyUnitTrustAdministrativePlan"
+    id="00213dc9-cfa5-4b61-931c-60dde4159080"
+    documentation="Subscribe to Unit Trust Administrative Plan notification services"/>

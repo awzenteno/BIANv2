@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AssetHolding"
+    id="56cfc3f7-efb0-4d4e-b19a-819202f4eba2"
+    documentation="Specifies in terms of value and quantity the assets.&#xA;&#xA;&#xA;Специфицирован в терминах количества ассетов&#xA;&#xA;"/>

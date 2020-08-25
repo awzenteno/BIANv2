@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Set up supporting account"
+    id="93628c53-8a31-4be1-ae9e-b24cdc196a9f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bee24759-5f99-41af-b2cc-86a2bea45551.xml#bee24759-5f99-41af-b2cc-86a2bea45551"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5eb7a6e4-0b6f-4ea2-b283-8ef1b2d426bc.xml#5eb7a6e4-0b6f-4ea2-b283-8ef1b2d426bc"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">BillTo"
+    id="03def0e0-26c9-4b6a-8991-4f8e0c847d75"
+    documentation=" Party to be invoiced for the purchase.&#xA;&#xA;Сторона, которой выставляется счет на покупку."/>

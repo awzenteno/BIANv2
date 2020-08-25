@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record Product changes"
+    id="558ee571-80f2-43f9-845c-e31d097754c5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_35c23b73-5e47-4a90-8e79-45c7c52c052f.xml#35c23b73-5e47-4a90-8e79-45c7c52c052f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_85e1a2d4-ed5b-4c5d-a357-3d3e03321a9e.xml#85e1a2d4-ed5b-4c5d-a357-3d3e03321a9e"/>
+</archimate:TriggeringRelationship>

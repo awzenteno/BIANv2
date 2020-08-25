@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestSecurityComplianceAssessment"
+    id="e6b42cd9-1bb1-4c50-8620-c7481a0d14f8"
+    documentation="Request a service under the Security Compliance Assessment "/>

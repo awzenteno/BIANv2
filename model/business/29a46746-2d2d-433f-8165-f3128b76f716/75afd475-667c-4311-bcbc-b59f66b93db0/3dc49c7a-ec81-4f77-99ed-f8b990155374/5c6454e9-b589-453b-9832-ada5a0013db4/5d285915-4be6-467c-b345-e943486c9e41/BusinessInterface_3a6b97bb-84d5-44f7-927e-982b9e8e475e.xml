@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCardFinancialSettlementProcedure"
+    id="3a6b97bb-84d5-44f7-927e-982b9e8e475e"
+    documentation="Request a service under the card financial settlement procedure"/>

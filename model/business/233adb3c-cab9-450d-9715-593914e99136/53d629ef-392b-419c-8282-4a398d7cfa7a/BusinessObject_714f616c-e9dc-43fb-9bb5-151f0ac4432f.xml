@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AccountLink"
+    id="714f616c-e9dc-43fb-9bb5-151f0ac4432f"
+    documentation=" Defines the link between the accounts held with a market infrastructure.&#xA;&#xA;&#xA;Определяет связь между счетами, хранящимися в инфраструктуре рынка."/>

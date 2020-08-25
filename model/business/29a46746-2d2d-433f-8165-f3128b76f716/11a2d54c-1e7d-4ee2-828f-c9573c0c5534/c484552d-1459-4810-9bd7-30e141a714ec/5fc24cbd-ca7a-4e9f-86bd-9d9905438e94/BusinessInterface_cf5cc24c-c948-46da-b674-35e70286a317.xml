@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluatePartyAuthenticationAssessment"
+    id="cf5cc24c-c948-46da-b674-35e70286a317"
+    documentation="Check/verify compliance with Party Authentication related checks/assessments"/>

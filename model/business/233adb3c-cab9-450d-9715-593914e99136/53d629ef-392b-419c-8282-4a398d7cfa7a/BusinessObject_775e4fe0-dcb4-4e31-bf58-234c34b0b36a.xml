@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashAccountMandate"
+    id="775e4fe0-dcb4-4e31-bf58-234c34b0b36a"
+    documentation=" Authorisation given to a mandate holder to perform some operation on an account.&#xA;&#xA;Доверенность выданная уполномоченномуЛицу_ на проведение каких-либо операций по счету."/>

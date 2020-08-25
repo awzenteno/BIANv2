@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerCaseManagementPlan"
+    id="ff2232bf-53c0-43da-879f-d2f0b04a9c5e"
+    documentation="Subscribe to Customer Case Management Plan notification services"/>

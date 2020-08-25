@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCorporateDepositFulfillmentArrangement"
+    id="c6521e80-96a6-4386-a598-674111a8f461"
+    documentation="Retrieve corporate deposit fulfillment arrangement related reports"/>

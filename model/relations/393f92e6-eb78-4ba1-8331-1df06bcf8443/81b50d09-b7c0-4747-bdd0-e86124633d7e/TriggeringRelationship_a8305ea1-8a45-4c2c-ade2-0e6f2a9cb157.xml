@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Manage Commercial Paper deal"
+    id="a8305ea1-8a45-4c2c-ade2-0e6f2a9cb157">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_0d22fdd4-e5e6-47e4-ae6b-24c045ce5839.xml#0d22fdd4-e5e6-47e4-ae6b-24c045ce5839"/>
+</archimate:TriggeringRelationship>

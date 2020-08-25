@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateSecurityComplianceAssessment"
+    id="94d2c872-77ba-476d-9a6a-b76f63f51019"
+    documentation="Check/verify compliance with Security Compliance related checks/assessments"/>

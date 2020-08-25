@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateIssuedDeviceMeasurement"
+    id="a2bb8402-de47-46bb-857f-1ee1b98e04ef"
+    documentation="Assign responsibility for and activate the Issued Device Measurement"/>

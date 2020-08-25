@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retrieve Card Details"
+    id="1d7924eb-5987-483f-95e7-f9b6fe89b88e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c2164bd8-b0d5-4e2d-ba1a-77a38269f945.xml#c2164bd8-b0d5-4e2d-ba1a-77a38269f945"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_74cd73c5-4dc0-4d00-a683-c37c7a58543e.xml#74cd73c5-4dc0-4d00-a683-c37c7a58543e"/>
+</archimate:TriggeringRelationship>

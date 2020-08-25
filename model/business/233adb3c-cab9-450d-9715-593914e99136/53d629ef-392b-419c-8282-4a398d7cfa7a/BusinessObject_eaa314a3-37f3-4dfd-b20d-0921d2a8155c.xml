@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ForeignExchangeSwap"
+    id="eaa314a3-37f3-4dfd-b20d-0921d2a8155c"
+    documentation=" Combination of two foreign exchange trades, in opposite directions, for different value dates and for the same pair(s) of currencies.&#xA;&#xA;Комбинация двух валютных сделок, в противоположных направлениях, для разных дат валютирования и для одной и той же пары валют."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check action covered by agreement"
+    id="a733509c-bcfb-45f8-a432-c0fc8e8d52c6">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7d03e0a5-8b04-41f1-b4e9-afaf71a283cc.xml#7d03e0a5-8b04-41f1-b4e9-afaf71a283cc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_fb2425dd-9d7e-4f3f-bc9a-04351cf6f509.xml#fb2425dd-9d7e-4f3f-bc9a-04351cf6f509"/>
+</archimate:TriggeringRelationship>

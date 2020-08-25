@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">JointOwner"
+    id="526c666d-41fe-481f-a5a0-e0ca7aefd5c7"
+    documentation="Co-owner of an investment account when the ownership is assigned to more than one party.&#xA;&#xA;Совладелец инвестиционного счета, если право собственности принадлежит более чем одной стороне."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executePublicOfferingFulfillmentArrangement"
+    id="d064f10d-9a66-4bfe-8d44-5ddfc5c6b97d"
+    documentation="Comment:&#xA;&#xA;Execute a task under the Public Offering"/>

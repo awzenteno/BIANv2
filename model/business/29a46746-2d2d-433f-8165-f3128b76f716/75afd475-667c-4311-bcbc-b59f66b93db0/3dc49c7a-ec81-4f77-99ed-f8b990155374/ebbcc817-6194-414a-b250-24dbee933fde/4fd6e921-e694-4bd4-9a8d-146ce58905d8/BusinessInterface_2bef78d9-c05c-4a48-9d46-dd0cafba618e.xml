@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestRewardPointsTransaction"
+    id="2bef78d9-c05c-4a48-9d46-dd0cafba618e"
+    documentation="Request a service under the Reward Points Transaction"/>

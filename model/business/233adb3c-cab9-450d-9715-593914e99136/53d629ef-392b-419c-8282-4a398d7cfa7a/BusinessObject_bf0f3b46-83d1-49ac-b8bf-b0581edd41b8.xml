@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionEvent"
+    id="bf0f3b46-83d1-49ac-b8bf-b0581edd41b8"
+    documentation="CA / Corporate Action / событие,решение  совета директоров&#xA;&#xA;&#xA;An event determined by a corporation's board of directors, that changes the existing corporate capital structure or financial condition.&#xA;&#xA;Событие, определяемое советом директоров корпорации, которое изменяет существующую структуру корпоративного капитала или финансового состояния."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">OrderBook"
+    id="9e6f097c-a99b-4644-b0f3-12977328d5b1"
+    documentation="Record of orders to buy and sell a financial instrument.&#xA;&#xA;Запись ордеров на покупку и продажу финансового инструмента."/>

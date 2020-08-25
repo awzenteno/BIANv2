@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Retrieve Product material distribution"
+    id="629bf241-ed2d-412a-bcb5-78a1657e1841">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a9797b9d-8967-4651-99e2-fc445c1b6523.xml#a9797b9d-8967-4651-99e2-fc445c1b6523"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4c4e85c7-6083-493f-aa03-caaf2ce5a86d.xml#4c4e85c7-6083-493f-aa03-caaf2ce5a86d"/>
+</archimate:TriggeringRelationship>

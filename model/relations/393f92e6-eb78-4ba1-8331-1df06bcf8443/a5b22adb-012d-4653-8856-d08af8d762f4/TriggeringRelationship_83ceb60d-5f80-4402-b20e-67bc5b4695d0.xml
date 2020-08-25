@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get product systems operations report"
+    id="83ceb60d-5f80-4402-b20e-67bc5b4695d0">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_15519ec9-4ec9-406c-9ad6-30bd21c34d6f.xml#15519ec9-4ec9-406c-9ad6-30bd21c34d6f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_55fe0423-c8fa-4029-8728-4f17150ec8a6.xml#55fe0423-c8fa-4029-8728-4f17150ec8a6"/>
+</archimate:TriggeringRelationship>

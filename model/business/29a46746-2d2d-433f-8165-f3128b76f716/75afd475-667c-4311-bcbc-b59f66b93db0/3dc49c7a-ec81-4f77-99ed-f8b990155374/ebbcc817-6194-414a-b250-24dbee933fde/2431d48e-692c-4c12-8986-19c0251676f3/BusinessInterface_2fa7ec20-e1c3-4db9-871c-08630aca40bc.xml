@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerBillingProcedure"
+    id="2fa7ec20-e1c3-4db9-871c-08630aca40bc"
+    documentation="Subscribe to Customer Billing Procedure notification services"/>

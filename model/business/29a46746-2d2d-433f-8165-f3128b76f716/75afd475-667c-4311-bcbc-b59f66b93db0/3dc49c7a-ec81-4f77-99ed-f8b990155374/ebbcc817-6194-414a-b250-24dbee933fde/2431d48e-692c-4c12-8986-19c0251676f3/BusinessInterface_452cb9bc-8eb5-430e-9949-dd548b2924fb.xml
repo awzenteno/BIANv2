@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerBillingProcedure"
+    id="452cb9bc-8eb5-430e-9949-dd548b2924fb"
+    documentation=" Retrieve customer billing procedure report"/>

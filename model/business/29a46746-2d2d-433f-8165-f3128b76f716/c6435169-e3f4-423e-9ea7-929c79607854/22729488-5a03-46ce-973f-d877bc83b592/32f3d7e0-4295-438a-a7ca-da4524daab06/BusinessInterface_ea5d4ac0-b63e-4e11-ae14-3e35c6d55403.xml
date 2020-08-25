@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" executeRepoTransaction"
+    id="ea5d4ac0-b63e-4e11-ae14-3e35c6d55403"
+    documentation="Comment:&#xA;&#xA;Execute a task against the active Repo Transaction"/>

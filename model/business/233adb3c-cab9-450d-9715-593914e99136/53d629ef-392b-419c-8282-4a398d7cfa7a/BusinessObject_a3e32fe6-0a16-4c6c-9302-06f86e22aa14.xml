@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">BaselineStatus"
+    id="a3e32fe6-0a16-4c6c-9302-06f86e22aa14"
+    documentation="Indicates the status of a baseline.&#xA;&#xA;Указывает состояние базы/отправной_точки."/>

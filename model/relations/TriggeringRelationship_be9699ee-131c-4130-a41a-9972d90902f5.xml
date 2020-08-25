@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conduct Credit Process of Corporate Customer Onboarding"
+    id="be9699ee-131c-4130-a41a-9972d90902f5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f1230b21-5d5f-4e78-9bbf-53171a760f46.xml#f1230b21-5d5f-4e78-9bbf-53171a760f46"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_76976280-0399-4dbe-a001-f099f3ce0b3e.xml#76976280-0399-4dbe-a001-f099f3ce0b3e"/>
+</archimate:TriggeringRelationship>

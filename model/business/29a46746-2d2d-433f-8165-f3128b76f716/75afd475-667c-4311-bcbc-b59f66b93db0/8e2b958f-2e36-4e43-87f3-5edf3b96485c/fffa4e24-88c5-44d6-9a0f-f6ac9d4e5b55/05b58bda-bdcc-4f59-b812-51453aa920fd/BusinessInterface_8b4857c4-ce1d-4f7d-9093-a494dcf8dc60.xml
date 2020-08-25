@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordPublicOfferingFulfillmentArrangement"
+    id="8b4857c4-ce1d-4f7d-9093-a494dcf8dc60"
+    documentation="Record activity details/information against the Public Offering"/>

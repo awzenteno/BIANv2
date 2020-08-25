@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveMarketRiskModelSpecification"
+    id="e5dade54-3b41-4128-92b9-38f47a154739"
+    documentation="Retrieve Market Risk Model Specification related reports"/>

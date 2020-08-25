@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Netting"
+    id="cd122b38-4c05-4dd7-a275-0d7d7c7620a5"
+    documentation="Offset of payables against receivables to reduce credit exposure to a counterparty.&#xA;&#xA;Взаимозачет кредиторской задолженности с дебиторской задолженностью для уменьшения кредитного риска контрагенту."/>

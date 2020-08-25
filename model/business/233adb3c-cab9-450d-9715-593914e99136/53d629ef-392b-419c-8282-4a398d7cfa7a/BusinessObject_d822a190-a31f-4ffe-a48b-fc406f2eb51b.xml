@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TerminalManagerRole"
+    id="d822a190-a31f-4ffe-a48b-fc406f2eb51b"
+    documentation=" Identifies the party which is the terminal manager (TM) to contact for the maintenance.&#xA;&#xA;Определяет сторону, которая является менеджером терминала (TM), чтобы связаться для обслуживания."/>

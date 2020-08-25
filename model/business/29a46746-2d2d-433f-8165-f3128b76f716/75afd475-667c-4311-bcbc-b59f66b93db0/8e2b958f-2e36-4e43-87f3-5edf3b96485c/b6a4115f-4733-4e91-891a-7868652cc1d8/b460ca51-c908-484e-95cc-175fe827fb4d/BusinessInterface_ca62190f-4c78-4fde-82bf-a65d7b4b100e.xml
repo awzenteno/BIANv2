@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestRemittanceTransaction"
+    id="ca62190f-4c78-4fde-82bf-a65d7b4b100e"
+    documentation=" Request set up for a repeating remittance transaction"/>

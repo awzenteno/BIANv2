@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateFinancialPositionLog"
+    id="1de18663-a8cd-4cd5-9fb4-a10e65b48056"
+    documentation="Assign responsibility for the Financial Position Account/Log"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyACHFulfillmentOperatingSession"
+    id="3b68cc92-339e-422f-8598-d56346deb13b"
+    documentation="Subscribe to ACH fulfillment operating session notification services"/>

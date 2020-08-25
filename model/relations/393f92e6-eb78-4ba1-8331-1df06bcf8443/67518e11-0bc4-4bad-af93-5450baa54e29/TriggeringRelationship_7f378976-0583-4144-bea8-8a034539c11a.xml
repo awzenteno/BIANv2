@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get employee access profile"
+    id="7f378976-0583-4144-bea8-8a034539c11a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bef84b1d-2e26-4ff0-9762-f1b383b32596.xml#bef84b1d-2e26-4ff0-9762-f1b383b32596"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_560ddc66-b939-4920-9a40-c26d6516f920.xml#560ddc66-b939-4920-9a40-c26d6516f920"/>
+</archimate:TriggeringRelationship>

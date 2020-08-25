@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InterestManagement"
+    id="6fe2debd-56e7-42c6-bf17-a02730d2d3ce"
+    documentation=" Management of interest which consists into calculating the interest, requesting its payment or distributing the interest proceeds.&#xA;&#xA;Управление процентами, которое заключается в начислении процентов, запросе их выплаты или распределении  вознаграждений _дохода."/>

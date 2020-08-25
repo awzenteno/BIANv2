@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get currency exchange rate for an FX transaction"
+    id="373e8cd1-6dd2-4f9b-88ac-291107a16653">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3934c676-337f-43a2-86ea-42038fa8894f.xml#3934c676-337f-43a2-86ea-42038fa8894f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_983e4d16-632e-4508-8a28-b93d179347e9.xml#983e4d16-632e-4508-8a28-b93d179347e9"/>
+</archimate:TriggeringRelationship>

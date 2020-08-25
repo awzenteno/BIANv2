@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Open Corporate Deposit"
+    id="c63c5c90-73a8-45e3-ad33-eda3d62236b5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_86cf0240-73c7-4e90-b609-2e397002e804.xml#86cf0240-73c7-4e90-b609-2e397002e804"/>
+</archimate:TriggeringRelationship>

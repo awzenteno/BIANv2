@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Update customer details on sales product agreement"
+    id="a67a4456-fb4b-48b2-849f-16cc16bbccd1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_92d9cdd4-a84f-4189-a58c-c387a528c151.xml#92d9cdd4-a84f-4189-a58c-c387a528c151"/>
+</archimate:TriggeringRelationship>

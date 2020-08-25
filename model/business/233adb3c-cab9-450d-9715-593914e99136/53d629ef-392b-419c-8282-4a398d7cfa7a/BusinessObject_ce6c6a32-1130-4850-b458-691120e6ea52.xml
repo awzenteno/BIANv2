@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AccountOwnerRole"
+    id="ce6c6a32-1130-4850-b458-691120e6ea52"
+    documentation=" Party that legally owns the account.&#xA;&#xA;Сторона, которая юридически владеет счетом."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateMerchantRelationshipAgreement"
+    id="083bb684-9d3c-41fe-81d8-31f0278db6a2"
+    documentation="Check/verify compliance with Merchant Relationship Agreement related checks/assessments"/>

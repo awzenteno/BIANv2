@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateChannelActivityLog"
+    id="0ea1fe53-089b-4bab-9d04-1d22c8b7f8d7"
+    documentation="Update details of logged record"/>

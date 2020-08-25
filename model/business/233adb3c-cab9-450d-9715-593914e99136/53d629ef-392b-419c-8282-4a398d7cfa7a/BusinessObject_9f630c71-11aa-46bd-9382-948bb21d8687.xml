@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">BookEntry"
+    id="9f630c71-11aa-46bd-9382-948bb21d8687"
+    documentation="book entry / accounting entry / проводка&#xA;&#xA;Movement of cash between two accounts. One account is debited and the other account is credited.&#xA;&#xA;Движение денежных средств между двумя счетами. Один счет дебетуется, а другой кредитуется."/>

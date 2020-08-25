@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateSyndicateMembership"
+    id="9bacf124-7adb-4218-a670-2342fb326ecf"
+    documentation="Comment:&#xA;&#xA;Update elements of the Syndicate Enrollment"/>

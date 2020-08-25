@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestProspectProcedureOn-Boarding"
+    id="ff508aa8-0147-465a-8ece-205823f9d7cb"
+    documentation="Request a workstep to capture/classify a new prospect"/>

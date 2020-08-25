@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Reverse Outgoing Direct Debit Transaction"
+    id="dc18753c-3731-4152-8dab-b3644e99e51e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_9cfb6df8-2504-4d3b-a8ce-ac374a4d3433.xml#9cfb6df8-2504-4d3b-a8ce-ac374a4d3433"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ba5c1a26-55ab-4263-a77e-fc3843e0e9f6.xml#ba5c1a26-55ab-4263-a77e-fc3843e0e9f6"/>
+</archimate:TriggeringRelationship>

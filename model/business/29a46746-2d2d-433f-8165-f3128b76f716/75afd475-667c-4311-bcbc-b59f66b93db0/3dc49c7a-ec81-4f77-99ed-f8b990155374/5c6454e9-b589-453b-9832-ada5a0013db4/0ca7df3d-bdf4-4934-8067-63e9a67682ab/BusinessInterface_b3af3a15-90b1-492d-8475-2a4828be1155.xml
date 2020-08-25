@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="?executeCorrespondentBankCLEARINGENTRYFulfillmentArrangement"
+    id="b3af3a15-90b1-492d-8475-2a4828be1155"
+    documentation="Execute a clearing entry under the Correspondent Bank Arrangement"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerEventLog"
+    id="023092d1-567e-4dbc-9e1e-c18fed26c122"
+    documentation="Record activity details/transaction information against the Customer Event Account/Log"/>

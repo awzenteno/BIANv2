@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateEmployeeAccessAssessment"
+    id="5a767db2-cff2-4c2f-853e-257cefab23da"
+    documentation="Check/verify compliance with Employee Access related checks/assessments"/>

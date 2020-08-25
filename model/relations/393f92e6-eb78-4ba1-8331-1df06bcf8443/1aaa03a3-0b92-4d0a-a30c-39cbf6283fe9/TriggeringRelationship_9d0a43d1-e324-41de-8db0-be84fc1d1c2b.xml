@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate Outgoing Payment Order"
+    id="9d0a43d1-e324-41de-8db0-be84fc1d1c2b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ba5c1a26-55ab-4263-a77e-fc3843e0e9f6.xml#ba5c1a26-55ab-4263-a77e-fc3843e0e9f6"/>
+</archimate:TriggeringRelationship>

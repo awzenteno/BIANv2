@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyMutualFundAdministrativePlan"
+    id="e3c64359-e321-429f-a631-c36639fc64ae"
+    documentation="Subscribe to Mutual Fund Administrative Plan notification services"/>

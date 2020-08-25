@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Customer Product/Service eligibility for moving of account"
+    id="d1c969b7-2267-4e25-89dd-d4a3420d467f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e4e31b7c-e294-49af-a13e-be7ca01e7e07.xml#e4e31b7c-e294-49af-a13e-be7ca01e7e07"/>
+</archimate:TriggeringRelationship>

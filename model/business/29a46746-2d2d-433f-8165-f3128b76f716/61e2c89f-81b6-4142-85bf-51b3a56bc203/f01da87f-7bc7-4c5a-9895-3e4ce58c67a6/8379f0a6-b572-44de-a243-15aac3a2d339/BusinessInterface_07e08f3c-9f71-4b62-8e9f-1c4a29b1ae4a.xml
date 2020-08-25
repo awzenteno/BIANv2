@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestBuildingPortfolioAnalysis"
+    id="07e08f3c-9f71-4b62-8e9f-1c4a29b1ae4a"
+    documentation="Request a service under the Building Portfolio Analysis"/>

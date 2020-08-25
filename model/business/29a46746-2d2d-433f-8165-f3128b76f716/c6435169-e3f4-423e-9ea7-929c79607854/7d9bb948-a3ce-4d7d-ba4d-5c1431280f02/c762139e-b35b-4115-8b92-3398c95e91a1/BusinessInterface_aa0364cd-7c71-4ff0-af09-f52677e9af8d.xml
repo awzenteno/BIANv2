@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestEconomicCapitalAnalysis"
+    id="aa0364cd-7c71-4ff0-af09-f52677e9af8d"
+    documentation="Comment:&#xA;&#xA;Request a service under the Economic Capital Analysis"/>

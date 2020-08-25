@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluatePartyAuthenticationAssessmentDocument"
+    id="2e71c667-c7d5-46e3-81c0-93f87d8d82b8"
+    documentation=" Evaluate authenticity based on government issued document content"/>

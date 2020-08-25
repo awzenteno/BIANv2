@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TradePartyRole"
+    id="a229b956-5d3b-4651-97d7-4c253e53bde0"
+    documentation=" Trading party in a commercial, securities, treasury trade. This role may also represent parties which play different intermediary roles in a trade.&#xA;&#xA;Торговая сторона в коммерческой, ценных бумагах, казначейской торговле. Эта роль может также представлять стороны, которые играют различные посреднические роли в торговле."/>

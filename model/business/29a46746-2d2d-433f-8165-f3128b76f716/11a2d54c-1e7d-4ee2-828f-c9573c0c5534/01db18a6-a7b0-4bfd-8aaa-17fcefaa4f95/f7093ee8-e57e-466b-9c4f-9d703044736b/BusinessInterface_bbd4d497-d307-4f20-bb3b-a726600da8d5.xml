@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCashDistributionProcedure"
+    id="bbd4d497-d307-4f20-bb3b-a726600da8d5"
+    documentation="Retrieve Cash Distribution Procedure related reports"/>

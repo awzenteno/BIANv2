@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Settlement Obligation Management"
+    id="07333f14-c280-4b74-ab61-a6fa455c1461"
+    documentation=" Example of use:&#xA;&#xA;A collection of market trades are cleared and settled. Counterparty specific SSIs are referenced in the process&#xA;&#xA;General comment:&#xA;&#xA;This service domain handles the complex back office capability to administer the clearing and settlement of confirmed trades. This includes the generation of contract notes and selected reporting obligations&#xA;&#xA;Business Purpose&#xA;:  Orchestrate the clearing and settlement of market transactions&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Коллекция рыночных сделок очищается и сопоставляется. В процессе упоминаются конкретные SSIs контрагента&#xA;&#xA;Общее замечание:&#xA;&#xA;Этот домен услуг обрабатывает сложную возможность бэк-офиса для администрирования клиринга и урегулирования подтвержденных сделок. Это включает создание примечаний к контракту и отдельных обязательств по отчетности&#xA;&#xA;деловая цель&#xA;: Организация клиринга и расчетов по рыночным сделкам&#xA;"/>

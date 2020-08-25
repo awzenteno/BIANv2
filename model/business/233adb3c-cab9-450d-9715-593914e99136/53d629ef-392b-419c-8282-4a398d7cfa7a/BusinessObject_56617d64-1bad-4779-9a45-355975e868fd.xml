@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionOption"
+    id="56617d64-1bad-4779-9a45-355975e868fd"
+    documentation=" Provides information about the alternatives available to an account owner when participating to a corporate action event. This is defined at a general level without looking at the specificities of the securities balances.&#xA;&#xA;Предоставляет сведения об альтернативах, доступных владельцу учетной записи при участии в CA. Это определяется на общем уровне без учета специфики остатков ценных бумаг."/>

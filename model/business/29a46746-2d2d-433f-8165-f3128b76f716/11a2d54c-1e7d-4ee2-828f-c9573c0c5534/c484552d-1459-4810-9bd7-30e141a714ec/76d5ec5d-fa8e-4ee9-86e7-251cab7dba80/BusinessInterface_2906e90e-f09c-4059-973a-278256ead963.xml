@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyPointOfServiceOperatingSession"
+    id="2906e90e-f09c-4059-973a-278256ead963"
+    documentation="Subscribe to Point Of Service Operating Session notification services"/>

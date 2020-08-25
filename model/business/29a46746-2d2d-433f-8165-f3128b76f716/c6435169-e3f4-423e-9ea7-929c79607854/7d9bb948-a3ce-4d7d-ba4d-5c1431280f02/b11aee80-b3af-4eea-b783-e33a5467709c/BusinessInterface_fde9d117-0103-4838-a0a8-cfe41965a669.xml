@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveinterestRateGapRiskAnalysis"
+    id="fde9d117-0103-4838-a0a8-cfe41965a669"
+    documentation="Retrieve Interest Rate Gap Risk Analysis related reports"/>

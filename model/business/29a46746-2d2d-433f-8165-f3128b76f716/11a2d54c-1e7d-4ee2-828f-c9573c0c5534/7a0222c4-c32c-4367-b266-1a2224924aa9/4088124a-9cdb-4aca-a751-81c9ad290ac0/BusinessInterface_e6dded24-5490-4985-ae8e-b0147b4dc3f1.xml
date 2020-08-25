@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerOfferProcedure"
+    id="e6dded24-5490-4985-ae8e-b0147b4dc3f1"
+    documentation="Record information against an active customer offer"/>

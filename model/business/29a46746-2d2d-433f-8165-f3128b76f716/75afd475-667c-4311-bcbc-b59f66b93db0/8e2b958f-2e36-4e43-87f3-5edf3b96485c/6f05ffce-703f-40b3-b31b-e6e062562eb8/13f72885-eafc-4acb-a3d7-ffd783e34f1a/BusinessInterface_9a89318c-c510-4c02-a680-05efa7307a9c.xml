@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestLetterOfCreditTransaction"
+    id="9a89318c-c510-4c02-a680-05efa7307a9c"
+    documentation="Request a service under the Letter Of Credit Transaction"/>

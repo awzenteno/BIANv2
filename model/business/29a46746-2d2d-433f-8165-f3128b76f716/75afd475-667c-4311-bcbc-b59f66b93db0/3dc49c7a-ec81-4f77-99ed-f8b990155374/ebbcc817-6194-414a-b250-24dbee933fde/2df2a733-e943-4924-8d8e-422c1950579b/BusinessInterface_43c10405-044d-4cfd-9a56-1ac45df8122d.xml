@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordIssuedDeviceMeasurementStatusInstruction"
+    id="43c10405-044d-4cfd-9a56-1ac45df8122d"
+    documentation="Record details updating status of a monitored item"/>

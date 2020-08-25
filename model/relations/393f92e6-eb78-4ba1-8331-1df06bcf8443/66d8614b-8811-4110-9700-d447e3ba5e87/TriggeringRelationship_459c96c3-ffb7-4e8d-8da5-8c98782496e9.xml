@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request specific voice channel analysis"
+    id="459c96c3-ffb7-4e8d-8da5-8c98782496e9">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bc335029-0187-4e43-bb1a-b52159b2dfe2.xml#bc335029-0187-4e43-bb1a-b52159b2dfe2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_9f16348b-bf82-46e7-863b-f07343e1121e.xml#9f16348b-bf82-46e7-863b-f07343e1121e"/>
+</archimate:TriggeringRelationship>

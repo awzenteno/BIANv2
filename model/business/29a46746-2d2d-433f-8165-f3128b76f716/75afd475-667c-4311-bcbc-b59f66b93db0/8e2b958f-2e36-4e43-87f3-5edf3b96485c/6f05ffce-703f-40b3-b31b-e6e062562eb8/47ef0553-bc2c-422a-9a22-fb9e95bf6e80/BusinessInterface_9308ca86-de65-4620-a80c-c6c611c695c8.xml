@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateBankGuaranteeFulfillmentArrangement"
+    id="9308ca86-de65-4620-a80c-c6c611c695c8"
+    documentation="Terminate all or some part of the Bank Guarantee Fulfillment"/>

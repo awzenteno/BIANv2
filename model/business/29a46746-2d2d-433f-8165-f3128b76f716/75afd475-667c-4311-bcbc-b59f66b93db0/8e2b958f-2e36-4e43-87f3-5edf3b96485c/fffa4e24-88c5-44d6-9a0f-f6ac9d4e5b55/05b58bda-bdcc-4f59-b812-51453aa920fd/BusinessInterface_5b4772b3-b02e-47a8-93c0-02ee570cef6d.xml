@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyPublicOfferingFulfillmentArrangement"
+    id="5b4772b3-b02e-47a8-93c0-02ee570cef6d"
+    documentation="Subscribe to Public Offering Product Arrangement notification services"/>

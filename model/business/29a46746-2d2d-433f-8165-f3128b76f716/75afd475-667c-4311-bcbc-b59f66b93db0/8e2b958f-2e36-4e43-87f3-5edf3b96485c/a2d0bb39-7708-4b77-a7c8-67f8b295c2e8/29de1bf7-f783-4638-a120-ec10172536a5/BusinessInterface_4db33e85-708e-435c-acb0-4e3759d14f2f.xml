@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" initiateCredit/ChargeCardBillingTransaction"
+    id="4db33e85-708e-435c-acb0-4e3759d14f2f"
+    documentation="Comment:&#xA;&#xA;Initiate a Credit/Charge Card Billing Transaction"/>

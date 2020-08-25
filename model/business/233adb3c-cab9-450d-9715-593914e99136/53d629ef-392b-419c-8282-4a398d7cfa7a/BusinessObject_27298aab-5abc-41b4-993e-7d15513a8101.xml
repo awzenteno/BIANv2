@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ClearingPlace"
+    id="27298aab-5abc-41b4-993e-7d15513a8101"
+    documentation="Infrastructure that may be a component of a clearing house and which facilitates clearing and settlement for its members by standing between the buyer and the seller. It may net transactions and it substitutes itself as settlement counterparty for each position.&#xA;&#xA;Инфраструктура, которая может быть компонентом информационно-координационного центра и которая облегчает клиринг и расчеты для его членов, выступая между покупателем и продавцом. Он может выполнять нетто-транзакции и заменять себя в качестве расчетного контрагента по каждой позиции."/>

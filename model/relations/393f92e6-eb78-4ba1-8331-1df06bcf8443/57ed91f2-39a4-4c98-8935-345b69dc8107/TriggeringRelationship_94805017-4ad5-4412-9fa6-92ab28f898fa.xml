@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get sales product transaction reports"
+    id="94805017-4ad5-4412-9fa6-92ab28f898fa">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5e207b64-5645-4758-ada3-c8c6f2d45010.xml#5e207b64-5645-4758-ada3-c8c6f2d45010"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_6d46face-f10b-4f40-bf68-01103ff2b952.xml#6d46face-f10b-4f40-bf68-01103ff2b952"/>
+</archimate:TriggeringRelationship>

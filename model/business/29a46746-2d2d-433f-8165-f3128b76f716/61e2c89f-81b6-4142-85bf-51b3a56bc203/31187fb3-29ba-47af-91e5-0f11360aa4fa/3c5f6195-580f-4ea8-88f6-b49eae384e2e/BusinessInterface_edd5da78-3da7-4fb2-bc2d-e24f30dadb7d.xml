@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateLegalComplianceAssessment"
+    id="edd5da78-3da7-4fb2-bc2d-e24f30dadb7d"
+    documentation="Check/verify compliance with Legal Compliance related checks/assessments"/>

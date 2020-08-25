@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cancel Direct Debit Mandates for a Direct Debits service agreement"
+    id="544d40e7-ec3f-48fa-b8f7-93eadd84dd74">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5bff13f0-6f54-402d-b0a7-718fade7b1bb.xml#5bff13f0-6f54-402d-b0a7-718fade7b1bb"/>
+</archimate:TriggeringRelationship>

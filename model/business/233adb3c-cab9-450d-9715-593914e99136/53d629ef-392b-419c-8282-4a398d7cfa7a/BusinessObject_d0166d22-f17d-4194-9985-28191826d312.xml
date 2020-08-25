@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">RegistrationBeneficiary"
+    id="d0166d22-f17d-4194-9985-28191826d312"
+    documentation="Party in whose name securities are registered.&#xA;&#xA;Сторона, на имя которой зарегистрированы ценные бумаги."/>

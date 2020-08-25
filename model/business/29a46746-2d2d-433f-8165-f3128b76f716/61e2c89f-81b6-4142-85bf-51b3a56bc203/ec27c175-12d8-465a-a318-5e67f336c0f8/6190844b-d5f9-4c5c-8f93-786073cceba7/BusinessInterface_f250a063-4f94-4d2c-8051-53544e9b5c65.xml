@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeDocumentHandlingOperatingSessionAmendments"
+    id="f250a063-4f94-4d2c-8051-53544e9b5c65"
+    documentation="Execute updates/amendments to the content/status of a document"/>

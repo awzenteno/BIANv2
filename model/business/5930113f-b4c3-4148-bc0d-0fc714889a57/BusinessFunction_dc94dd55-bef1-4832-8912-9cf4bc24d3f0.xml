@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Enroll"
+    id="dc94dd55-bef1-4832-8912-9cf4bc24d3f0"
+    documentation="Maintain a membership for some group or related collection of parties. &#xA;Example: Administer the memebrship status of a syndicate of investors.&#xA;&#xA;Inactive&#xA;Active-enrollment&#xA;Active-enrollment-suspended&#xA;Enrollment-service-concluded&#xA;"/>

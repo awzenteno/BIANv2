@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerReferenceDataDirectory"
+    id="546a8399-eeaa-4611-bacc-0990e9e4b312"
+    documentation=" Subscribe to customer reference data directory notification services"/>

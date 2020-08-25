@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Verify dormancy status"
+    id="ef7c3241-33c3-4713-a1ed-7befb114960e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_82edfbe1-1e15-4f0c-bfd6-8aa0da9c84b7.xml#82edfbe1-1e15-4f0c-bfd6-8aa0da9c84b7"/>
+</archimate:TriggeringRelationship>

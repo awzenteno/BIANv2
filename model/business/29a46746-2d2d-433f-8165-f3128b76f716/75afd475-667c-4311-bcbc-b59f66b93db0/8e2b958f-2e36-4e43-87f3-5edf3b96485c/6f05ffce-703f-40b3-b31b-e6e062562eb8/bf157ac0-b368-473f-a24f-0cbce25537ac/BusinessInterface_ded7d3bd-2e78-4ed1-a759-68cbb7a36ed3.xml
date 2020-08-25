@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProjectFinanceFulfillmentArrangement"
+    id="ded7d3bd-2e78-4ed1-a759-68cbb7a36ed3"
+    documentation="Retrieve Project Finance Product Arrangement related reports"/>

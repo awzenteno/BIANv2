@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvestorRole"
+    id="9b286ca9-7d68-409b-85f7-eeb7800b4e01"
+    documentation=" Party that makes investment decisions. Identifies the beneficiary or its broker.&#xA;&#xA;Сторона, которая принимает инвестиционные решения. Идентифицирует получателя или брокера."/>

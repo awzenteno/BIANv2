@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateInternalAuditAssessment"
+    id="d3dc7753-ec1c-4b62-a877-8ddeb33fb3ef"
+    documentation="Activate the Internal Audit Assessment service"/>

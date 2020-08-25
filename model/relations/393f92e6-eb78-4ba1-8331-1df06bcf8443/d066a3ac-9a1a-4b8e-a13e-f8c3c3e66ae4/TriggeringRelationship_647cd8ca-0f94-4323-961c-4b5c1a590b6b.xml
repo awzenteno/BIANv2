@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check product/service eligibility &amp; terms"
+    id="647cd8ca-0f94-4323-961c-4b5c1a590b6b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_154c9b03-ad50-474e-a5b4-9c4df749194a.xml#154c9b03-ad50-474e-a5b4-9c4df749194a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_56abeed3-eebf-4efd-8904-accaf81e95af.xml#56abeed3-eebf-4efd-8904-accaf81e95af"/>
+</archimate:TriggeringRelationship>

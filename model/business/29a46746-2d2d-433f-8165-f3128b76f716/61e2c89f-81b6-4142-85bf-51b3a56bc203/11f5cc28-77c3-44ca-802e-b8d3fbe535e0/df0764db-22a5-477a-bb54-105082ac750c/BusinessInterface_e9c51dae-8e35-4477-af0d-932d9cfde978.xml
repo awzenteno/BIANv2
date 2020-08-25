@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEmployeeBenefitsAdministrativePlan"
+    id="e9c51dae-8e35-4477-af0d-932d9cfde978"
+    documentation="Comment:&#xA;&#xA;Retrieve Employee Benefits Administrative Plan related reports"/>

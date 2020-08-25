@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyECommerceGatewayOperatingSession"
+    id="a947bf8b-bd76-4c79-bdb7-f4e0641a2ca5"
+    documentation=" Subscribe to e commerce gateway operating session notification services"/>

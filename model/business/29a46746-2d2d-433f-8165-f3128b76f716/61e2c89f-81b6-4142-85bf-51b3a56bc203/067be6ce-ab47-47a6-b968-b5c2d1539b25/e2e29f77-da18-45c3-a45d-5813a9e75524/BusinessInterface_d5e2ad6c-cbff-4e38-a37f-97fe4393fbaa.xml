@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordFinancialStatementsAnalysis"
+    id="d5e2ad6c-cbff-4e38-a37f-97fe4393fbaa"
+    documentation="Record activity details/information against the Financial Statements Analysis"/>

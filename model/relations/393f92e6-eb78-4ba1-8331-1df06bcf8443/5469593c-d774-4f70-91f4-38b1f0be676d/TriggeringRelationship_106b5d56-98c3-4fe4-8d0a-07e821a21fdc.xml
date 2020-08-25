@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retrieve Merchant Characteristics"
+    id="106b5d56-98c3-4fe4-8d0a-07e821a21fdc">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_e78a5453-2009-4ca1-931b-be1e5c74cc24.xml#e78a5453-2009-4ca1-931b-be1e5c74cc24"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1189e96b-4155-408f-897e-da5cd0f56e21.xml#1189e96b-4155-408f-897e-da5cd0f56e21"/>
+</archimate:TriggeringRelationship>

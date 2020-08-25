@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyATMNetworkOperatingSession"
+    id="301d2c15-b9f2-4d4f-8bc9-5e25565fc6cb"
+    documentation="Subscribe to ATM Network Operating Session notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateSalesProduct/ServiceAgreement"
+    id="b966d74d-7677-4cc3-8546-8fe459bb2c94"
+    documentation="Initiate the termination processing of the sales product/service agreement"/>

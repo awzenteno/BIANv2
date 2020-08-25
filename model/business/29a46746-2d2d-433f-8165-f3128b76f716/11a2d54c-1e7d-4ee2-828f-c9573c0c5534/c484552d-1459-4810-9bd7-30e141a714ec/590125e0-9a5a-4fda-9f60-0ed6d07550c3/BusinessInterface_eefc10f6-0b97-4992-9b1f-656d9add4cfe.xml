@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeInteractiveTransactionAssessment"
+    id="eefc10f6-0b97-4992-9b1f-656d9add4cfe"
+    documentation="Request transaction authorization"/>

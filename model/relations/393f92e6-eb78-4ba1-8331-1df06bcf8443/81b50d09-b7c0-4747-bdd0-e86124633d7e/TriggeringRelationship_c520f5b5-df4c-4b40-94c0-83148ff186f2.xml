@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obtain underwriting decision"
+    id="c520f5b5-df4c-4b40-94c0-83148ff186f2">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a05472a3-8a56-4f2b-92c8-d466e5c9b429.xml#a05472a3-8a56-4f2b-92c8-d466e5c9b429"/>
+</archimate:TriggeringRelationship>

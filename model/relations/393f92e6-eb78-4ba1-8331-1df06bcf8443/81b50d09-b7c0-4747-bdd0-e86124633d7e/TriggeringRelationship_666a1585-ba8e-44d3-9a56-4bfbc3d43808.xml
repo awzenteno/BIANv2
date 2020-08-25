@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Execute Customer Onboarding"
+    id="666a1585-ba8e-44d3-9a56-4bfbc3d43808">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_77abbf11-67e3-49e3-99ae-73eab7bc5a96.xml#77abbf11-67e3-49e3-99ae-73eab7bc5a96"/>
+</archimate:TriggeringRelationship>

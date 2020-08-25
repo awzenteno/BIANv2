@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBankRelationshipManagementPlan"
+    id="5b95d38a-4b6d-4f87-9b5c-72b9fbb7023e"
+    documentation="Comment:&#xA;&#xA;Retrieve Bank Relationship Management Plan related reports"/>

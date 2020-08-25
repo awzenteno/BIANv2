@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeMarketTradeReportingOperatingSession"
+    id="d9eb774d-8d76-4e05-a03f-07722bd45fac"
+    documentation="Comment:&#xA;&#xA;Execute a transaction or task under the Market Trade Reporting Operating Session"/>

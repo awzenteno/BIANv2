@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestServicingRootCauseAnalysis"
+    id="576e5595-6daa-469e-b13d-4cc86747f82b"
+    documentation="Request a service under the Servicing Root Cause Analysis"/>

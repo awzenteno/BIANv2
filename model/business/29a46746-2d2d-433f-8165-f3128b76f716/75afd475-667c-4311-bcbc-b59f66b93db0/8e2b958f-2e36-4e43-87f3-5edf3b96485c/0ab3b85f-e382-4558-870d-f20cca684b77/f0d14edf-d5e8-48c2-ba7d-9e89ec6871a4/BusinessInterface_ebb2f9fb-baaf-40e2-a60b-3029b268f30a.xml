@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveSuitabilityAssessment"
+    id="ebb2f9fb-baaf-40e2-a60b-3029b268f30a"
+    documentation="Comment:&#xA;&#xA;Retrieve Suitability Assessment related reports"/>

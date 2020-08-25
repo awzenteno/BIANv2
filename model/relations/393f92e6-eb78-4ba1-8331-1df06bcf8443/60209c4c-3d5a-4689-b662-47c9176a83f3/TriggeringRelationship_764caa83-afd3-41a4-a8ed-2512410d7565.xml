@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get interest rates for Corporate Deposit"
+    id="764caa83-afd3-41a4-a8ed-2512410d7565">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f38745b0-1f7b-4725-9dd8-46b126391400.xml#f38745b0-1f7b-4725-9dd8-46b126391400"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_aebf4b42-f4b1-4f47-825f-599cdc216374.xml#aebf4b42-f4b1-4f47-825f-599cdc216374"/>
+</archimate:TriggeringRelationship>

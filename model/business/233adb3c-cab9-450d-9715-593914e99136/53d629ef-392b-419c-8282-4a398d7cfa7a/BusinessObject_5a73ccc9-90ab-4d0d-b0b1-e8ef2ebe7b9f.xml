@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ThirdReimbursementAgent"
+    id="5a73ccc9-90ab-4d0d-b0b1-e8ef2ebe7b9f"
+    documentation=" Specifies the branch of the instructed agent where the amount of money will be made available when different from the instructed reimbursement agent.&#xA;&#xA;Указывает филиала обученный агент, где количество денег будет доступна, когда отличается от поручил агенту возмещения."/>

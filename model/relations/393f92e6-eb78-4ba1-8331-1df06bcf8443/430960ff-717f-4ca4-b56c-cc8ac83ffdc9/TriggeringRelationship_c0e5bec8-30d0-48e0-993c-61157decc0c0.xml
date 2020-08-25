@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Take decision to unblock Corporate Current Account"
+    id="c0e5bec8-30d0-48e0-993c-61157decc0c0">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_17c6981e-a297-4809-877d-aca6a48c0f0a.xml#17c6981e-a297-4809-877d-aca6a48c0f0a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_34d91427-3bd1-4853-9f95-17a994840316.xml#34d91427-3bd1-4853-9f95-17a994840316"/>
+</archimate:TriggeringRelationship>

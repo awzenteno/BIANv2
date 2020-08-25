@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateSupplierAgreement"
+    id="159d3a98-d5d6-4473-a038-61f697c9cb72"
+    documentation="Terminate all or some part of the Supplier Agreement"/>

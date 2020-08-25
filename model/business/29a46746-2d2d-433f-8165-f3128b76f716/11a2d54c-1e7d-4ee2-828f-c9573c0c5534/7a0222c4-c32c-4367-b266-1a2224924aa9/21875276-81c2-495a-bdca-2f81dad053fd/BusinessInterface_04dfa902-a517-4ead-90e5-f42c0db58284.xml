@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCommissionTransaction"
+    id="04dfa902-a517-4ead-90e5-f42c0db58284"
+    documentation="Subscribe to Commission Transaction notification services"/>

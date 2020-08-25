@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Liquidity Risk Models"
+    id="b368b732-2af7-4a57-9e2c-2bdddb2ebd5b"
+    documentation="Example of use:&#xA;&#xA;Financial engineers develop and refine liquidity risk management models&#xA;&#xA;General comment:&#xA;&#xA;These models are applied in the gap analysis (maturity ladders) to manage interest rate and currency related liquidity risk&#xA;&#xA;&#xA;Business Purpose&#xA;:  Develop and maintain models for dispositive and structural liquidity risk management, including liquidity gap analysis, Liquidity at Risk (LaR) and Liquidity Value at Risk (LVaR).&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Финансовые инженеры разрабатывают и совершенствуют модели управления риском ликвидности&#xA;&#xA;Общее замечание:&#xA;&#xA;Эти модели применяются в гэп-анализе (лестницы зрелости) для управления процентными ставками и валютным риском ликвидности&#xA;&#xA;&#xA;деловая цель&#xA;: Разработка и поддержка моделей управления рисками ликвидности, включая анализ разрыва ликвидности, ликвидности в зоне риска (LaR) и ликвидности в зоне риска (LVaR).&#xA;"/>

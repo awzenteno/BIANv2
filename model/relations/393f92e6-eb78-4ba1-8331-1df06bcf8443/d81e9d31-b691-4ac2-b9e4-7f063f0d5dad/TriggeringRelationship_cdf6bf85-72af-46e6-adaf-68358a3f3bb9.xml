@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get data of professional market parties"
+    id="cdf6bf85-72af-46e6-adaf-68358a3f3bb9">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c435ca21-191a-4dbe-8c1d-5b29a5ebfce9.xml#c435ca21-191a-4dbe-8c1d-5b29a5ebfce9"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5b95d38a-4b6d-4f87-9b5c-72b9fbb7023e.xml#5b95d38a-4b6d-4f87-9b5c-72b9fbb7023e"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerServicingResourceAllocation"
+    id="7283d039-3771-4a22-a404-9bc6715a4474"
+    documentation="Retrieve resource and/or resource allocation report"/>

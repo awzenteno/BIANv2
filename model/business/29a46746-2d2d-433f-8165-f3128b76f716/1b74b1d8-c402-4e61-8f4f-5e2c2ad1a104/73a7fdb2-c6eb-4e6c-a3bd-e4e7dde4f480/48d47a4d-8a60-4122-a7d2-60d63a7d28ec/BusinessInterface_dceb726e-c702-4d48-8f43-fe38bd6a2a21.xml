@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCorrespondentBankDirectory"
+    id="dceb726e-c702-4d48-8f43-fe38bd6a2a21"
+    documentation=" Retrieve a correspondent bank directory record/report"/>

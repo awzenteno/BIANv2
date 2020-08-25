@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configureEmployeeAllocation"
+    id="5035fe77-35f5-4ba0-87c0-7d36e08fb2af"
+    documentation="Amend the configuration arrangements/parameters governing the Employee Allocation service"/>

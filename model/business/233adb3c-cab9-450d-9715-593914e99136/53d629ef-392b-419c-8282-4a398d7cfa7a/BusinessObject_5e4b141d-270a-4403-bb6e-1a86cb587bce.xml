@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TradeCertificatePartyRole"
+    id="5e4b141d-270a-4403-bb6e-1a86cb587bce"
+    documentation=" Role played by a party in the context of issuing trade certificates.&#xA;&#xA;Роль стороны в контексте выдачи торговых сертификатов.&#xA;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyQuotationProcedure"
+    id="10e65ca4-25d0-4baa-a32f-22655e2e2d13"
+    documentation="Subscribe to Quotation Procedure notification services"/>

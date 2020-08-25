@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Instrument Valuation"
+    id="2706a726-cf4e-456e-9c1e-33b5c8cc85f7"
+    documentation="Example of use:&#xA;&#xA;A selection of market assets are valued using a number of valuation perspectives&#xA;&#xA;General comment:&#xA;&#xA;A service providing a range of securities valuation services including 'mark to market' to support trading and securities holding reporting activity&#xA;&#xA;Business Purpose&#xA;:  Provide securities valuation services, including mark to market and other pricing mechanisms&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Выбор рыночных активов оценивается с использованием ряда перспектив оценки&#xA;&#xA;Общее замечание:&#xA;&#xA;Услуга по предоставлению комплекса услуг по оценке ценных бумаг, в том числе &quot;mark to market&quot; для поддержки торговой и отчетной деятельности холдинга ценных бумаг&#xA;&#xA;деловая цель&#xA;: Предоставление услуг по оценке ценных бумаг, включая маркировку на рынке и другие механизмы ценообразования&#xA;"/>

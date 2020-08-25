@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MeetingParticipationRegistrationDeadline"
+    id="2e72c697-a7d6-4b76-8e68-72848b2246bc"
+    documentation="Date and time by which the beneficial owner or agent must notify of their intention to participate in the meeting process in order to be allowed to participate in the meeting event.&#xA;&#xA;Дата и время, к которым бенефициарный владелец или агент должен уведомить о своем намерении участвовать в процессе собрания, чтобы иметь возможность участвовать в мероприятии собрания."/>

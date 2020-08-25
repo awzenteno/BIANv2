@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PaymentCardService"
+    id="b31960a8-944b-4955-8a83-4881c723e22a"
+    documentation=" A service that offers customers the use of payment cards&#xA;&#xA;&#xA;Сервис, который предлагает клиентам использование платежных карт"/>

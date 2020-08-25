@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordRewardPointsLog"
+    id="90b79f1d-22b3-4cb8-8b6c-f61ee57d63ea"
+    documentation="Record activity details/transaction information against the Reward Points Account/Log"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Update tax records"
+    id="3ca437e9-334e-40c4-a5b1-b8fcb1470668">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_97c8d86d-e5f2-467e-b1a6-9b2a21b38ed2.xml#97c8d86d-e5f2-467e-b1a6-9b2a21b38ed2"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_be04386c-33de-4deb-b9a0-cbc0aa280556.xml#be04386c-33de-4deb-b9a0-cbc0aa280556"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Link corporate Current Account to related party"
+    id="ad5c62d6-1933-4e31-9c16-053f1f303469">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5d55924d-b3b2-4fdf-8221-ff520fa28b2d.xml#5d55924d-b3b2-4fdf-8221-ff520fa28b2d"/>
+</archimate:TriggeringRelationship>

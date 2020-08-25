@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateBranchCashAllocation"
+    id="abbdffcc-ffd5-4952-9fa4-c3eb159bbdc2"
+    documentation="Update elements of the Branch Cash Allocation"/>

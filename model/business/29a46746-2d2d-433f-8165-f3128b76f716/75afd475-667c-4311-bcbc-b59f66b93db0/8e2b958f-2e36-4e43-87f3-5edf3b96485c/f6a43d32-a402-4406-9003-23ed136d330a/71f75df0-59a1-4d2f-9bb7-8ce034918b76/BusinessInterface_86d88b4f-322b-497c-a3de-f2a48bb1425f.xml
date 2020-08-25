@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifySecuritiesAllocationTransaction"
+    id="86d88b4f-322b-497c-a3de-f2a48bb1425f"
+    documentation="Subscribe to Securities Allocation Transaction notification services"/>

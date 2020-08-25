@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordVoiceChannelOperatingSession"
+    id="af765911-7523-48a1-a231-903adbe24114"
+    documentation="Record activity/feedback against the voice channel operating session"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PaymentIdentification"
+    id="e18b810d-2f13-47e2-aa15-1af3727a9a6f"
+    documentation="Specifies the different identifications associated with a payment transaction.&#xA;&#xA;Указывает различные идентификаторы, связанные с проводкой платежа."/>

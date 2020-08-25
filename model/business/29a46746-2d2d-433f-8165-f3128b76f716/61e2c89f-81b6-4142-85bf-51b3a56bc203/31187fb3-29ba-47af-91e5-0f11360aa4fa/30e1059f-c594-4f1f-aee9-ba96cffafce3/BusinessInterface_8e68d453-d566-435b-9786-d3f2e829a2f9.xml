@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveFixedAssetRegisterAdministrativePlan"
+    id="8e68d453-d566-435b-9786-d3f2e829a2f9"
+    documentation="Retrieve Fixed Asset Register Administrative Plan related reports"/>

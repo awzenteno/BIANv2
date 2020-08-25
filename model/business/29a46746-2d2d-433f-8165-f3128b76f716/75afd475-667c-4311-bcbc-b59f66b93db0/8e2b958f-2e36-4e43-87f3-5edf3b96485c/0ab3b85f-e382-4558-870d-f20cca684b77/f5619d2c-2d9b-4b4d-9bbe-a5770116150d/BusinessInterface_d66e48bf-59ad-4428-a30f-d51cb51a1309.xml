@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeQuotationProcedure"
+    id="d66e48bf-59ad-4428-a30f-d51cb51a1309"
+    documentation="Comment:&#xA;&#xA;Execute a task under the Quotation Procedure"/>

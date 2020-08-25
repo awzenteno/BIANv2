@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvoicerRole"
+    id="d35887d1-5cd3-4961-a0aa-bae822b22ee9"
+    documentation=" Party identified as the liable party on the face of a commercial invoice.&#xA;&#xA;Сторона, идентифицированная как ответственная сторона на лицевой стороне коммерческого счета."/>

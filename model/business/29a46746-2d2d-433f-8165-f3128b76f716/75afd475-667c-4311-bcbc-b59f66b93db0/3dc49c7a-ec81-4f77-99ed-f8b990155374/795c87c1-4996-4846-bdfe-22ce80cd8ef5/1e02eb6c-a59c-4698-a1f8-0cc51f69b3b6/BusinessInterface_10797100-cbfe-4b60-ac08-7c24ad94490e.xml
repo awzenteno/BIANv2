@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyProductCombinationFulfillmentArrangement"
+    id="10797100-cbfe-4b60-ac08-7c24ad94490e"
+    documentation=" Subscribe to product combination fulfillment arrangement notification services"/>

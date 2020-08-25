@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">NetworkAccess"
+    id="553018b1-5d3b-4a22-9215-afd43eeed16d"
+    documentation="Parameters used to access a network.&#xA;&#xA;Параметры, используемые для доступа к сети."/>

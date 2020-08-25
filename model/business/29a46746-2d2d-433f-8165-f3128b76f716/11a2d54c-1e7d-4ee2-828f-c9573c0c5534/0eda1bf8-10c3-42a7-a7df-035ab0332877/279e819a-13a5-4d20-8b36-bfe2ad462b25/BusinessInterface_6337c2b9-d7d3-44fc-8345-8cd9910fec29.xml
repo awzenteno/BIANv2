@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerAgreement"
+    id="6337c2b9-d7d3-44fc-8345-8cd9910fec29"
+    documentation=" Retrieve customer agreement report"/>

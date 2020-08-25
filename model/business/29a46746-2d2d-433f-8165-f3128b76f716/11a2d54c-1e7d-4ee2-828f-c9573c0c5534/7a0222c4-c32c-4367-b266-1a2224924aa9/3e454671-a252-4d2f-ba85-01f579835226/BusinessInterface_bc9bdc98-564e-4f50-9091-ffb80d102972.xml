@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateEmployeeCommissionAgreement"
+    id="bc9bdc98-564e-4f50-9091-ffb80d102972"
+    documentation="Check/verify compliance with Employee Commission Agreement related checks/assessments"/>

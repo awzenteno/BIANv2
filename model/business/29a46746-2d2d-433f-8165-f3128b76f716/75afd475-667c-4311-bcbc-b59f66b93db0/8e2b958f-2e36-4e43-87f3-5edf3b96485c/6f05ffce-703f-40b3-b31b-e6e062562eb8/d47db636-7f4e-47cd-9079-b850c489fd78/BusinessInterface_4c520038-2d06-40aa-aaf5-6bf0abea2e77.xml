@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyTradeFinanceFulfillmentArrangement"
+    id="4c520038-2d06-40aa-aaf5-6bf0abea2e77"
+    documentation="Subscribe to Trade Finance Product Arrangement notification services"/>

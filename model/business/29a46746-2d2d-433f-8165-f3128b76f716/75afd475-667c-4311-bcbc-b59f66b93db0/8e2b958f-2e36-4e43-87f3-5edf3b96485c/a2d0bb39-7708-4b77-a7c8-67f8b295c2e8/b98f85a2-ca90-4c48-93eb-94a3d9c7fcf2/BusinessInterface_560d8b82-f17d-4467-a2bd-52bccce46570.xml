@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyMerchantRelationshipAgreement"
+    id="560d8b82-f17d-4467-a2bd-52bccce46570"
+    documentation="Subscribe to Merchant Relationship Agreement notification services"/>

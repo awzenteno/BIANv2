@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerCaseProcedure"
+    id="b03f1342-7643-48e2-a862-1235717e6454"
+    documentation="Retrieve Customer Case Procedure related reports"/>

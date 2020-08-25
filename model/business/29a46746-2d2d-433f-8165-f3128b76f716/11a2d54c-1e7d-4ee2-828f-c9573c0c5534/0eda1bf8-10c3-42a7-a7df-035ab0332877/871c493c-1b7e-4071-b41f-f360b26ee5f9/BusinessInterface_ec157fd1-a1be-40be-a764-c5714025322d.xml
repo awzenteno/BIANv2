@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registerCustomerReferenceDataDirectoryBankRelationship"
+    id="ec157fd1-a1be-40be-a764-c5714025322d"
+    documentation="Register bank relationship/activity details against an existing customer record"/>

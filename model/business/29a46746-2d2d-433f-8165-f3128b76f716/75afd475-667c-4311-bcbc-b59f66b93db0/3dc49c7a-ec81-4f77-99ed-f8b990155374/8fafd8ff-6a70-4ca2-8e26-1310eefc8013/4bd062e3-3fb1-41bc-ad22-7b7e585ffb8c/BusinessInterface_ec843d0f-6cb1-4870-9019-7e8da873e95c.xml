@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCollateralAssetAllocation"
+    id="ec843d0f-6cb1-4870-9019-7e8da873e95c"
+    documentation="Assign responsibility for and activate the Collateral Asset Allocation service"/>

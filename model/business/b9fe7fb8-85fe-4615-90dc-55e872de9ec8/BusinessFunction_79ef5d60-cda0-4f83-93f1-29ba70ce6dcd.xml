@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="->Retrieve"
+    id="79ef5d60-cda0-4f83-93f1-29ba70ce6dcd"
+    documentation="Return information/report as requested. &#xA;Examples: Obtain an account balance. Request a report covering activity analysis."/>

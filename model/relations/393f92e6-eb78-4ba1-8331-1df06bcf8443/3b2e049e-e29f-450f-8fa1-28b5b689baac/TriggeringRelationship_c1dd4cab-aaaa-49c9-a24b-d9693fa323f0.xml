@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process fraud case"
+    id="c1dd4cab-aaaa-49c9-a24b-d9693fa323f0">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bfffa8a5-7404-4230-81e6-f32f4e37e4a7.xml#bfffa8a5-7404-4230-81e6-f32f4e37e4a7"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_0a2b122e-6099-4656-bd3a-76c21c747d60.xml#0a2b122e-6099-4656-bd3a-76c21c747d60"/>
+</archimate:TriggeringRelationship>

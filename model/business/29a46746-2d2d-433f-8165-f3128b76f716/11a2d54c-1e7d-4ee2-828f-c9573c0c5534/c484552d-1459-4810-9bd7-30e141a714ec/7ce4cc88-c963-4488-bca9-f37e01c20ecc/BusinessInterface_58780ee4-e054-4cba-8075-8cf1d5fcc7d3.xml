@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyInteractiveHelpServiceOperatingSession"
+    id="58780ee4-e054-4cba-8075-8cf1d5fcc7d3"
+    documentation="Subscribe to Interactive Help Service Operating Session notification services"/>

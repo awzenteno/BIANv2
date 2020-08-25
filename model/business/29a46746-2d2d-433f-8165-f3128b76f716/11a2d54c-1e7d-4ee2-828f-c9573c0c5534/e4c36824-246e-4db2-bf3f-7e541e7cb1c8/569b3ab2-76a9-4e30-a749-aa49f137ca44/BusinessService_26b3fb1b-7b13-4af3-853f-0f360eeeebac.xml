@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Initiation(NEW)"
+    id="26b3fb1b-7b13-4af3-853f-0f360eeeebac"
+    documentation="Business Purpose&#xA;:&#xA; Initiate the processing of a credit transfer. This will include validations that are required to determine if the request for a credit transfer is complete and valid.&#xA;&#xA;Example of use:&#xA;&#xA;A customer gives an instruction to transfer a sum of money from his current account to the account of a beneficiary inside or outside the bank. In order to transform this into a Payment Order, Payment Initiation takes in the instruction, conducts a number of completeness and validation checks and subsequently initiates a Payment Order. If the execution of the Payment Order requires a fee to be charged, Payment Initiation will create a separate Payment Order for this.&#xA;&#xA;General comment:&#xA;&#xA;Payment Initiation has an orchestrating role in the initial stage of handling a credit transfer.&#xA;&#xA;Payment Initiation does not have a role in the execution of a direct debit instruction."/>

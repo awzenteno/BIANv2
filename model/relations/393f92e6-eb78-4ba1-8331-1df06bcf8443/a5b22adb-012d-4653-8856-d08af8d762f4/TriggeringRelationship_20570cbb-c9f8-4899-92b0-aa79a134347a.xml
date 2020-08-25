@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get system deployment report"
+    id="20570cbb-c9f8-4899-92b0-aa79a134347a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_15519ec9-4ec9-406c-9ad6-30bd21c34d6f.xml#15519ec9-4ec9-406c-9ad6-30bd21c34d6f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_80cda704-3d48-472d-8262-8f6451f256c8.xml#80cda704-3d48-472d-8262-8f6451f256c8"/>
+</archimate:TriggeringRelationship>

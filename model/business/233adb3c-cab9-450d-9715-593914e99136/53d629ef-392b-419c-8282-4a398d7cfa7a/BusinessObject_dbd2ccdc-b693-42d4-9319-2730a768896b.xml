@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesOptionTrade"
+    id="dbd2ccdc-b693-42d4-9319-2730a768896b"
+    documentation=" Process of buying or selling an option which has securities as underlying asset.&#xA;&#xA;Процесс покупки или продажи опциона, который имеет ценные бумаги в качестве базового актива."/>

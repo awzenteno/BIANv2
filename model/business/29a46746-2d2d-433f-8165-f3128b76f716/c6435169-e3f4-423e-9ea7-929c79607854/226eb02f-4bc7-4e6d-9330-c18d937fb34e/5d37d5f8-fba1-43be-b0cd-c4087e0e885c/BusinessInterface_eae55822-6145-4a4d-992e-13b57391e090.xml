@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeSegmentStrategy"
+    id="eae55822-6145-4a4d-992e-13b57391e090"
+    documentation="Obtain authorization for some action under the Segment Strategy"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Configure prospect management activity"
+    id="71cf7530-a1f2-427c-a4d7-5121a22691c8">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c42392ca-acb1-471e-91c8-219057aafc41.xml#c42392ca-acb1-471e-91c8-219057aafc41"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_092fa0e0-ad21-44ce-bda2-822edabd7f75.xml#092fa0e0-ad21-44ce-bda2-822edabd7f75"/>
+</archimate:TriggeringRelationship>

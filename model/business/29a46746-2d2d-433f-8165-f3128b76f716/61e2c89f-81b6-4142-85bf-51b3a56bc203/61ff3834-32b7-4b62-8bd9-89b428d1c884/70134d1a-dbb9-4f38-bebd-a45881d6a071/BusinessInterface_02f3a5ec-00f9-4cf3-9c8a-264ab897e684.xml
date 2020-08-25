@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyITSystemOperatingSession"
+    id="02f3a5ec-00f9-4cf3-9c8a-264ab897e684"
+    documentation="Subscribe to IT System Operating Session notification services"/>

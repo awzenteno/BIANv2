@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="provideCollateralAssetAllocation"
+    id="c229c85e-f8e8-4877-9607-f79349812d53"
+    documentation="Provide a Collateral Asset Allocation"/>

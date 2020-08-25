@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeACHFulfillmentOperatingSessionOutbound"
+    id="77ffd67e-ab24-48f3-8eb8-58e157f8ff6b"
+    documentation=" Execute outbound ACH payment processing"/>

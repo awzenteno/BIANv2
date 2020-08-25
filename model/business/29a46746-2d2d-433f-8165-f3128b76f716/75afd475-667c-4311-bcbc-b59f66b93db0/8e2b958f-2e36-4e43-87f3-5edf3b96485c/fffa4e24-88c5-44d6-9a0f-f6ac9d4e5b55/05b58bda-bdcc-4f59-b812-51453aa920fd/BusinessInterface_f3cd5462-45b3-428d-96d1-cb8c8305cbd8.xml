@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrievePublicOfferingFulfillmentArrangement"
+    id="f3cd5462-45b3-428d-96d1-cb8c8305cbd8"
+    documentation="Comment:&#xA;&#xA;Retrieve Public Offering Product Arrangement related reports"/>

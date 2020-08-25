@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProduct/ServiceAssessment"
+    id="6394b2e1-4952-4c87-a982-b0ad7464e16d"
+    documentation="Retrieve Product/Service Assessment related reports"/>

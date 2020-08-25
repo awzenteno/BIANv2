@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Compile combined account statement"
+    id="8d2d2c19-8e89-4b39-b645-51d13c37ed8f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_ecb84762-f6fa-4906-957f-f791028782fc.xml#ecb84762-f6fa-4906-957f-f791028782fc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_9db82bb0-3ac9-43fa-a31d-e6fe7e435eff.xml#9db82bb0-3ac9-43fa-a31d-e6fe7e435eff"/>
+</archimate:TriggeringRelationship>

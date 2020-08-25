@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Quote"
+    id="27ae782d-fc95-4bfa-8f35-f96af29587b6"
+    documentation=" Indicates whether the quote details are indicated as an offer, a bid or a mid of a security, commodity, currency (the latter being an average of the offer and the bid).&#xA;&#xA; Указывает, указываются ли детали котировки в виде предложения, предложения или Амида ценной бумаги, товара, валюты (последняя является средним значением предложения и предложения)."/>

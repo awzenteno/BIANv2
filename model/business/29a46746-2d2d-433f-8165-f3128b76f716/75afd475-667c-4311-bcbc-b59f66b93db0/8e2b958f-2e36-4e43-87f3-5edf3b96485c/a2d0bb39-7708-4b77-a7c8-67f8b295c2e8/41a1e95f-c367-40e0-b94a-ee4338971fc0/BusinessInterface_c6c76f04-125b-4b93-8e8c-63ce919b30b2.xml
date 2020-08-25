@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCredit/ChargeCardFinancialCaptureTransaction"
+    id="c6c76f04-125b-4b93-8e8c-63ce919b30b2"
+    documentation="Execute a task against the active Credit/Charge Card Financial Capture Transaction"/>

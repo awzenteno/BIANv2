@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordChannelActivityAnalysis"
+    id="73c9782f-4b1d-401d-9422-37c951eee03c"
+    documentation=" Record feedback and input for an channel activity analysis"/>

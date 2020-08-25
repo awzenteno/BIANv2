@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MeetingParticipation"
+    id="c67598fa-95d1-47c5-b5e9-32b5b3571a92"
+    documentation="Specifies the number of voting rights and of outstanding securities.&#xA;&#xA;Определяет количество прав голоса и находящихся в обращении ценных бумаг."/>

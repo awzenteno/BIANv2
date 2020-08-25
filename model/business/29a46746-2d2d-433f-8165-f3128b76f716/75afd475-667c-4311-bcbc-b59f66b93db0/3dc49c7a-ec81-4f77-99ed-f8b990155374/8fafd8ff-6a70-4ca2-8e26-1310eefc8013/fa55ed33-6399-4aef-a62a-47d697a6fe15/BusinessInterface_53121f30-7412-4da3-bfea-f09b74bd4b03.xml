@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCollateralAssetLiquidationProcedure"
+    id="53121f30-7412-4da3-bfea-f09b74bd4b03"
+    documentation="Comment:&#xA;&#xA;Subscribe to Collateral Asset Liquidation Procedure notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestManagedInvestmentPortfolioFulfillmentArrangement"
+    id="fc56653f-56bc-47d2-9f28-dccc55ff2731"
+    documentation="Request a service under the Managed Investment Portfolio"/>

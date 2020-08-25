@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCustomerContactOperatingSession"
+    id="c325aeec-c293-4616-bb7a-2f4c4b341778"
+    documentation="Terminate all or some part of the Customer Contact Operating Session"/>

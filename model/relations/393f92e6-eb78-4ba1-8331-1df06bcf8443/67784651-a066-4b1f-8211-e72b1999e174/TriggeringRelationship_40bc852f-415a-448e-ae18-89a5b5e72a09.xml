@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Direct Debit Agreement"
+    id="40bc852f-415a-448e-ae18-89a5b5e72a09">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_37a1f7d9-de5a-45c1-b745-13a751c6e274.xml#37a1f7d9-de5a-45c1-b745-13a751c6e274"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_30fb84aa-52c1-4aae-afa9-0e933e04476a.xml#30fb84aa-52c1-4aae-afa9-0e933e04476a"/>
+</archimate:TriggeringRelationship>

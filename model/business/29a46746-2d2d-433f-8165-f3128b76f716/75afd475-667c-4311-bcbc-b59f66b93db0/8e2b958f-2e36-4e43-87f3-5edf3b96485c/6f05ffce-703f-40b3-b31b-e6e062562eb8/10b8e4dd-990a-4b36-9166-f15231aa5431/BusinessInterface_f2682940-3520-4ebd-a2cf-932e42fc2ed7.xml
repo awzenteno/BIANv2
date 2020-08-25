@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCreditFacilityFulfillmentArrangement"
+    id="f2682940-3520-4ebd-a2cf-932e42fc2ed7"
+    documentation="Retrieve Credit Facility Product Arrangement related reports"/>

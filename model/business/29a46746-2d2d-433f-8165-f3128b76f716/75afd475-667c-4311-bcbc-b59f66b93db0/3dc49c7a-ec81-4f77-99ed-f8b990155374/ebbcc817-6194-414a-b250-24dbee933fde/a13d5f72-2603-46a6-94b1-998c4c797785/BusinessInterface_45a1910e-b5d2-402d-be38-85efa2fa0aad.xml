@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateChannelActivityLog"
+    id="45a1910e-b5d2-402d-be38-85efa2fa0aad"
+    documentation="Assign responsibility for the Channel Activity Account/Log"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateProspectProcedure"
+    id="e80eb378-1546-40c3-9e45-aa3aa5cb5577"
+    documentation=" Update details of an active prospect"/>

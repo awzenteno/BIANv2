@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateCustomerServicingResourceAllocation"
+    id="c9fac2d7-6a62-438c-b360-96455447e7d7"
+    documentation="Update elements of the Customer Servicing Resource Allocation"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Re-link Corporate Current Account to other Facility (new Customer)"
+    id="3d9897ea-3772-4431-a643-0f6a1d999293">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_17bcf450-dd89-436c-9351-e746db6543c1.xml#17bcf450-dd89-436c-9351-e746db6543c1"/>
+</archimate:TriggeringRelationship>

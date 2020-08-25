@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCurrentAccountFulfillmentArrangement"
+    id="fbee5d13-08c1-4258-ab32-f57ab36a19ce"
+    documentation="Termination request for an in force current account"/>

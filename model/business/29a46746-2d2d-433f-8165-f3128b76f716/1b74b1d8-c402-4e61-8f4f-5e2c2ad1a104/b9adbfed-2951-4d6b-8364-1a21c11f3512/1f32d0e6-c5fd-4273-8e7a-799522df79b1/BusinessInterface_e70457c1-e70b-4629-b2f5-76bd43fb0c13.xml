@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrievePartyDirectory"
+    id="e70457c1-e70b-4629-b2f5-76bd43fb0c13"
+    documentation="Retrieve a party directory record/report"/>

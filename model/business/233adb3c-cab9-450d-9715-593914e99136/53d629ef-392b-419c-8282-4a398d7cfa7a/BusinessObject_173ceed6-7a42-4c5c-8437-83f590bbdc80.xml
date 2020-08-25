@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Document"
+    id="173ceed6-7a42-4c5c-8437-83f590bbdc80"
+    documentation="General information that unambiguously identifies a document, such as identification number and issue date time.&#xA;&#xA;Общие сведения, однозначно идентифицирующие документ, такие как идентификационный номер и дата выпуска."/>

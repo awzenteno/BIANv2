@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveChannelActivityLog"
+    id="035d3346-ff69-4526-8cac-014fdef19808"
+    documentation=" Retrieve channel activity log record extract/report"/>

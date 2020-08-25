@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="initiateBearerDocumentTransaction"
+    id="50393cb7-b4c1-43f4-ad9a-4fcf2183a676"
+    documentation="Initiate a Bearer Document Transaction"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCreditFacilityFulfillmentArrangement"
+    id="269da323-d881-4583-8210-6b60950470f3"
+    documentation="Terminate all or some part of the Credit Facility"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ClaimsAgent"
+    id="5d3d7ae7-cb5b-4dac-93cb-bfff28b8bf25"
+    documentation=" Party where claims under the insurance policy have to be addressed.&#xA;&#xA;Сторона, в которой должны быть урегулированы претензии по страховому полису."/>

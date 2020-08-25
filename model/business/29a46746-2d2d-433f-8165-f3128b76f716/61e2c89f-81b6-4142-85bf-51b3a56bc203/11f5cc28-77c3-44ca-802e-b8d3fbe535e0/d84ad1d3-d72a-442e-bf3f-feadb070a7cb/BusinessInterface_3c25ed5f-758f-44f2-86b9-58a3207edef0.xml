@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateEmployeeAgreement"
+    id="3c25ed5f-758f-44f2-86b9-58a3207edef0"
+    documentation="Update elements of the Employee Agreement"/>

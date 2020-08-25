@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Disburse funds"
+    id="b247311f-6f6b-4f99-a705-e156c26f20bd">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c435ca21-191a-4dbe-8c1d-5b29a5ebfce9.xml#c435ca21-191a-4dbe-8c1d-5b29a5ebfce9"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_c43ee8bc-468a-4e31-9169-e63f38740548.xml#c43ee8bc-468a-4e31-9169-e63f38740548"/>
+</archimate:TriggeringRelationship>

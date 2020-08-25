@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordEmployeeAllocation"
+    id="5e95f258-84dc-4bd4-b3be-37f53988720a"
+    documentation="Record activity/utilization details/information against the Employee Allocation"/>

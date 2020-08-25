@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecurityCertificateHolderRole"
+    id="3d885aff-bad5-486b-86a7-c2818bb3b39e"
+    documentation=" Holder of the security certificate.&#xA;&#xA;Обладатель сертификата безопасности."/>

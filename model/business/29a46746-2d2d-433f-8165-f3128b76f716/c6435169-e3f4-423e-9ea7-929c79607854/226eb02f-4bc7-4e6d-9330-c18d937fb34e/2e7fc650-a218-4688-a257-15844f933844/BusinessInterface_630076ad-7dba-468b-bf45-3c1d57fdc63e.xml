@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestContributionAnalysis"
+    id="630076ad-7dba-468b-bf45-3c1d57fdc63e"
+    documentation="Request a service under the Contribution Analysis"/>

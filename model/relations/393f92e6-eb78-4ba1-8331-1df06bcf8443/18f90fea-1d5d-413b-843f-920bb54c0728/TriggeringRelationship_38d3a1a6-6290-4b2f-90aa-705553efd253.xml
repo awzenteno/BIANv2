@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Request access to the eBranch portal"
+    id="38d3a1a6-6290-4b2f-90aa-705553efd253">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_613d4fa2-b9d0-4863-b878-1f3573f8d0b3.xml#613d4fa2-b9d0-4863-b878-1f3573f8d0b3"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_20537b6f-b307-45ad-8bca-154bff2e83db.xml#20537b6f-b307-45ad-8bca-154bff2e83db"/>
+</archimate:TriggeringRelationship>

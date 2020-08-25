@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateDunningProcedure"
+    id="60c12ce3-0f91-4b9a-b869-68f32d207ebe"
+    documentation=" Update details of an active delinquency process"/>

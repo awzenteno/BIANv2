@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AgentCorporateActionStandingInstruction"
+    id="30a0d194-f1f6-4379-b625-be74d9c49cb6"
+    documentation="Set-up at the issuer (agent) of a standing instruction originating from the CSD Participants. These standing instructions allow the participant to indicate details for the distribution of the outturn resources of a CA event outside of the CSD. A standing instruction can be accepted or rejected by the issuer (agent) and a CSD participant can amend or cancel a standing instruction.&#xA;&#xA;&#xA;&#xA;&#xA;Настройка у эмитента (агента) постоянной инструкции, исходящей от участников кур. Эти постоянные инструкции позволяют участнику указать детали для распределения ресурсов выхода события CA вне CSD. Постоянное поручение может быть принято или отклонено эмитентом (агентом), а участник кур может изменить или отменить постоянное поручение.&#xA;&#xA;&#xA;CSD / Central Securities Depository / центральный депозитарий; расчетный депозитарий"/>

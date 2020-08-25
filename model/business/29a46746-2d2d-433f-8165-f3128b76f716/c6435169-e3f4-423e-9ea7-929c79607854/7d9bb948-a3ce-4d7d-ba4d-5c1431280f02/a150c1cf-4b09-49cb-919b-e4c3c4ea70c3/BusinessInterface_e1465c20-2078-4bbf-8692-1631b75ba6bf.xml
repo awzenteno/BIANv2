@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="createLiquidityRiskModelSpecification"
+    id="e1465c20-2078-4bbf-8692-1631b75ba6bf"
+    documentation="Create/register a Liquidity Risk Model Specification"/>

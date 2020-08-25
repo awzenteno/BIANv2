@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeTradeMatchingOperatingSession"
+    id="e681b2c7-5dbc-442c-a088-f428f99138cc"
+    documentation="Execute a transaction or task under the Trade Matching Operating Session"/>

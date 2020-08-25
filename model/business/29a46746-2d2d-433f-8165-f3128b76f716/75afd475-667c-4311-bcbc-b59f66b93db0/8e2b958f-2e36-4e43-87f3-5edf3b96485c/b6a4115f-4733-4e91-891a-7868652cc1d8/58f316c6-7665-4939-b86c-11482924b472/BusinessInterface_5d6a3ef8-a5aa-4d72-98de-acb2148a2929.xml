@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyTrustServicesFulfillmentArrangement"
+    id="5d6a3ef8-a5aa-4d72-98de-acb2148a2929"
+    documentation="Subscribe to Trust Services Product Arrangement notification services"/>

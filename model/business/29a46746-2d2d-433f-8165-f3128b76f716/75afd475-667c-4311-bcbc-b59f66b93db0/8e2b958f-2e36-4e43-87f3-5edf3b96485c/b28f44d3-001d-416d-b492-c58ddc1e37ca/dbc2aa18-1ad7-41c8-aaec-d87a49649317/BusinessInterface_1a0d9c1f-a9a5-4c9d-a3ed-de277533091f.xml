@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifySavingsAccountFulfillmentArrangement"
+    id="1a0d9c1f-a9a5-4c9d-a3ed-de277533091f"
+    documentation=" Subscribe to savings account fulfillment arrangement notification services"/>

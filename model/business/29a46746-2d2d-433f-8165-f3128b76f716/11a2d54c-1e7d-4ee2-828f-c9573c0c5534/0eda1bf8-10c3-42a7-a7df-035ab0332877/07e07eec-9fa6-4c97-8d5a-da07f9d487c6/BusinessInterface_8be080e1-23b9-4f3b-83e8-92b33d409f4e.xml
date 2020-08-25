@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateCustomerPrecedentsProcedure"
+    id="8be080e1-23b9-4f3b-83e8-92b33d409f4e"
+    documentation=" Update details of an active customer precedent record"/>

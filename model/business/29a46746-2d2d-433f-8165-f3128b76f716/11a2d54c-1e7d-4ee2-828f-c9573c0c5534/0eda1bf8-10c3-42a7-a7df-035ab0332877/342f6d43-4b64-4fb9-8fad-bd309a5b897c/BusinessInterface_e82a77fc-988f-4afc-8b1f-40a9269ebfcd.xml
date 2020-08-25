@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCustomerBehaviorAnalysis"
+    id="e82a77fc-988f-4afc-8b1f-40a9269ebfcd"
+    documentation="Assign responsibility for the Customer Behavior Analysis"/>

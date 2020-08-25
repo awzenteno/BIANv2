@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateCustomerOfferProcedure"
+    id="c835836a-a9a0-48cf-b4ca-eddc43e9604f"
+    documentation="Update details of an active customer offer"/>

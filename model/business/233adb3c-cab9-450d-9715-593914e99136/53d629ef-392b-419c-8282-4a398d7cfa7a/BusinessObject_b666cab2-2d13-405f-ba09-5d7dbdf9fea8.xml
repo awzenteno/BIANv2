@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashEntry"
+    id="b666cab2-2d13-405f-ba09-5d7dbdf9fea8"
+    documentation=" Posting of an item to a cash account, in the context of a cash transaction, that results in an increase or decrease to the balance of the account.&#xA;&#xA;__Публикация значения на денежный счет, в контексте денежной транзакции, , которая приводит к увеличению или уменьшению сальдо счета."/>

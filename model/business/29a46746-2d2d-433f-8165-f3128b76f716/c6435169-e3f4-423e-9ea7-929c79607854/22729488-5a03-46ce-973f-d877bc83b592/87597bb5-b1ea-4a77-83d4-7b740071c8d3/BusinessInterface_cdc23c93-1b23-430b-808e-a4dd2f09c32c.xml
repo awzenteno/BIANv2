@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeAsset&amp;LiabilityPortfolioStrategy"
+    id="cdc23c93-1b23-430b-808e-a4dd2f09c32c"
+    documentation="Obtain authorization for some action under the Asset &amp; Liability Portfolio Strategy"/>

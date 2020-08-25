@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get servicing event report"
+    id="467fdd72-c52f-4334-8463-6fb6d4e99e16">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_10c24ae9-e157-46eb-b6aa-c95b22fd87dc.xml#10c24ae9-e157-46eb-b6aa-c95b22fd87dc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_b3fe4937-e099-4620-9e29-ed7473fd69ef.xml#b3fe4937-e099-4620-9e29-ed7473fd69ef"/>
+</archimate:TriggeringRelationship>

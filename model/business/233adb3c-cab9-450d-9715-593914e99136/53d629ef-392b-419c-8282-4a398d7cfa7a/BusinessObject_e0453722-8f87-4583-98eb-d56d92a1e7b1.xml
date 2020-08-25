@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesRegistrationDeadline"
+    id="e0453722-8f87-4583-98eb-d56d92a1e7b1"
+    documentation=" Date by which the securities have to be registered.&#xA;&#xA;Дата, до которой ценные бумаги должны быть зарегистрированы."/>

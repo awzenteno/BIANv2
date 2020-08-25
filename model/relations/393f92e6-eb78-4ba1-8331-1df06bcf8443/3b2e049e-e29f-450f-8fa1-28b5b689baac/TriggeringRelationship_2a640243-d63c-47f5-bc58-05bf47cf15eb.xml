@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Register Debit Card with the cards network"
+    id="2a640243-d63c-47f5-bc58-05bf47cf15eb">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bfffa8a5-7404-4230-81e6-f32f4e37e4a7.xml#bfffa8a5-7404-4230-81e6-f32f4e37e4a7"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_566f67ec-df6f-4dab-8c72-a8731eab0fce.xml#566f67ec-df6f-4dab-8c72-a8731eab0fce"/>
+</archimate:TriggeringRelationship>

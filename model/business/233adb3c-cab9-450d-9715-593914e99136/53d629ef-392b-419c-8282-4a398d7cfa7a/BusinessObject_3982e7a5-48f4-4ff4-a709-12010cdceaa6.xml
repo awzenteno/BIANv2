@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">IndividualPayment"
+    id="3982e7a5-48f4-4ff4-a709-12010cdceaa6"
+    documentation=" Payment which consists of one single transaction. This payment may be grouped with other similar payments to form a bulk payment.&#xA;&#xA;Платеж, состоящий из одной транзакции. Этот платеж может быть сгруппирован с другими аналогичными платежами, чтобы сформировать массовый платеж."/>

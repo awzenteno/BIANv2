@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record prospect on-boarding result"
+    id="9a150ecf-59c8-4842-8e8b-37f25c12195b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f1230b21-5d5f-4e78-9bbf-53171a760f46.xml#f1230b21-5d5f-4e78-9bbf-53171a760f46"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_19380d7b-e909-4c6e-9e56-f685b50ec5b4.xml#19380d7b-e909-4c6e-9e56-f685b50ec5b4"/>
+</archimate:TriggeringRelationship>

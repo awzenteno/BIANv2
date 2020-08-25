@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateLetterOfCreditTransaction"
+    id="3c30f77b-6997-42b8-b68a-1e3e4827ece0"
+    documentation="Update elements of the Letter Of Credit Transaction"/>

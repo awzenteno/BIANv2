@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCustomerContactSessionProcedure"
+    id="165e1b77-974a-4983-8d6a-ea770ab3c200"
+    documentation="Execute a task under the Customer Contact Session Procedure"/>

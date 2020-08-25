@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ActivatePaymentOrderProcedure"
+    id="24cd05bf-0974-41fd-ad83-1453d6c448c2"
+    documentation=" Initiate a payment order"/>

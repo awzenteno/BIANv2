@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProspectCampaignPortfolioAnalysis"
+    id="d3cda8ab-ceac-49e4-a219-4873a943200d"
+    documentation="Retrieve Prospect Campaign Portfolio Analysis related reports"/>

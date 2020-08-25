@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCashManagementFulfillmentArrangement"
+    id="63361366-ff82-4769-86b8-d5807ec65658"
+    documentation="Execute a task under the Cash Management"/>

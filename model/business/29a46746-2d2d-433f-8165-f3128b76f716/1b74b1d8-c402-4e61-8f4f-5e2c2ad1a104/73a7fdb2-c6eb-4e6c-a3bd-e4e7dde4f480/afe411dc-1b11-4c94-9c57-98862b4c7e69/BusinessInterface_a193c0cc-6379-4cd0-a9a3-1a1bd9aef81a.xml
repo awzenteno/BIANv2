@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" initiateBrokerAgreement"
+    id="a193c0cc-6379-4cd0-a9a3-1a1bd9aef81a"
+    documentation="Initiate a Broker Agreement"/>

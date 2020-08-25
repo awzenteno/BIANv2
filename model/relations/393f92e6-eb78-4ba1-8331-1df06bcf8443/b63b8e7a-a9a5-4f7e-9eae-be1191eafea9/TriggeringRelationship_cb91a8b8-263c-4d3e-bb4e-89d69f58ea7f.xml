@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record voice service operations incident details"
+    id="cb91a8b8-263c-4d3e-bb4e-89d69f58ea7f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_75c6954f-79da-45c6-ab5b-b855a9e203c5.xml#75c6954f-79da-45c6-ab5b-b855a9e203c5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_04c52497-71d7-4c6d-a247-e702366bbead.xml#04c52497-71d7-4c6d-a247-e702366bbead"/>
+</archimate:TriggeringRelationship>

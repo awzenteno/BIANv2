@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBuildingPortfolioAnalysis"
+    id="74377a0b-79dc-48c0-9cb1-dced04aa1917"
+    documentation="Retrieve Building Portfolio Analysis related reports"/>

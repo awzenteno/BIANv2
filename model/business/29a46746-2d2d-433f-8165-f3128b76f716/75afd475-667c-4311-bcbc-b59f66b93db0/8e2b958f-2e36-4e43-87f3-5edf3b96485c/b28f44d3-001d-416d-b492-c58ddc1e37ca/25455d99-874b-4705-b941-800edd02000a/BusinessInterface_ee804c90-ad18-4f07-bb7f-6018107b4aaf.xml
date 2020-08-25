@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestLoanFulfillmentArrangementBaloonPayment"
+    id="ee804c90-ad18-4f07-bb7f-6018107b4aaf"
+    documentation=" Request processing of a balloon payment against consumer loan"/>

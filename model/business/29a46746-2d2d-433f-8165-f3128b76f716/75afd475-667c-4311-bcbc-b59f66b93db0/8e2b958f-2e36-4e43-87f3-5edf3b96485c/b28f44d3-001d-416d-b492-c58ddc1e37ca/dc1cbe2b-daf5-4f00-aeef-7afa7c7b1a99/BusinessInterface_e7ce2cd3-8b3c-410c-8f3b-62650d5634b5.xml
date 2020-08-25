@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCurrentAccountFulfillmentArrangementDeposit"
+    id="e7ce2cd3-8b3c-410c-8f3b-62650d5634b5"
+    documentation=" Execute a deposit transaction against the account"/>

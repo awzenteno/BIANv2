@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MerchantRole"
+    id="b5d96672-8fe5-4adc-b84c-21e20a703d0c"
+    documentation="Party performing the card payment transaction.&#xA;&#xA;Сторона, осуществляющая платеж картой."/>

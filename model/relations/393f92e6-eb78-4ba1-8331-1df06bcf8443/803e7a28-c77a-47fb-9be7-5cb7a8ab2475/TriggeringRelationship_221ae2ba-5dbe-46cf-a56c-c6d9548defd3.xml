@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Authorise Debit Booking"
+    id="221ae2ba-5dbe-46cf-a56c-c6d9548defd3">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_340fcb16-0f61-4a98-9980-3307680d4fe8.xml#340fcb16-0f61-4a98-9980-3307680d4fe8"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5eaff0c1-39d0-44c9-bc56-612bdd44d799.xml#5eaff0c1-39d0-44c9-bc56-612bdd44d799"/>
+</archimate:TriggeringRelationship>

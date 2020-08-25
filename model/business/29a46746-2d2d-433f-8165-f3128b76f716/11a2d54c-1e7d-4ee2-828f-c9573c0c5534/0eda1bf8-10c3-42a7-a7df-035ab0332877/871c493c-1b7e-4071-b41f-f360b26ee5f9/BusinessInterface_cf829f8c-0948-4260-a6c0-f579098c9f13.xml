@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registerCustomerReferenceDataDirectory"
+    id="cf829f8c-0948-4260-a6c0-f579098c9f13"
+    documentation="Register customer reference data in the Customer Reference Data Directory "/>

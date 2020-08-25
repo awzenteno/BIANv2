@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SystemPartyRole"
+    id="e07ac66e-6811-422d-a68a-f08ededb5c78"
+    documentation=" Role played by a party in a system.&#xA;&#xA;Роль партии в системе."/>

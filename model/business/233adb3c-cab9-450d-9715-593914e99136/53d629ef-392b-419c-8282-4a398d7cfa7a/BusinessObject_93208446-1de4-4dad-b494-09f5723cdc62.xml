@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MarginAmountRequirement"
+    id="93208446-1de4-4dad-b494-09f5723cdc62"
+    documentation=" Amount of expected margin required by any of the parties of the margin calculation.&#xA;&#xA;Сумма ожидаемой маржи, требуемой любой из сторон расчета маржи."/>

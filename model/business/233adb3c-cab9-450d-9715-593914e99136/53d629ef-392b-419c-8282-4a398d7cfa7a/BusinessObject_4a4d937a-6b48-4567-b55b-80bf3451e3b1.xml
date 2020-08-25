@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MandatoryCorporateAction"
+    id="4a4d937a-6b48-4567-b55b-80bf3451e3b1"
+    documentation="Corporate action that will result in only one possibility for account holders. The shareholder is just a passive beneficiary of these actions.&#xA;&#xA;&#xA;&#xA;Корпоративное действие, которое приведет только к одной возможности для владельцев счетов. Акционер является лишь пассивным бенефициаром этих действий.&#xA;&#xA;&#xA;mandate / полномочие действовать от имени"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProductSalesSupportAdministrativePlan"
+    id="6d4ab007-3bbb-43b5-b099-4786afa8ad31"
+    documentation="Retrieve Product Sales Support Administrative Plan related reports"/>

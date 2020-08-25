@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PaymentInitiation"
+    id="5f414eea-9623-413d-84be-0dabbb9f814d"
+    documentation=" Instruction to pay an amount of money to an ultimate beneficiary, on behalf of an originator. This instruction is the first of the series of instructions which may be used to execute a payment. It is normally sent by the initiating party to the forwarding agent or to the debtor's agent.&#xA;&#xA;Поручение выплатить сумму денег конечному бенефициару от имени составителя. Эта инструкция первая из серии инструкций, которые могут быть использованы для выполнения платежа. Как правило, она направляется инициирующей стороной экспедитору или агенту должника."/>

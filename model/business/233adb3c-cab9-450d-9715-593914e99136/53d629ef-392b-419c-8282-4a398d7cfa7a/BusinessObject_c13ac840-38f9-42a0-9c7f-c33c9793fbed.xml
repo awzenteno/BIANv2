@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SubscriptionOrder"
+    id="c13ac840-38f9-42a0-9c7f-c33c9793fbed"
+    documentation=" Order to invest the investor's principal in an investment fund.&#xA;&#xA;Распоряжение об инвестировании основного капитала инвестора в инвестиционный фонд."/>

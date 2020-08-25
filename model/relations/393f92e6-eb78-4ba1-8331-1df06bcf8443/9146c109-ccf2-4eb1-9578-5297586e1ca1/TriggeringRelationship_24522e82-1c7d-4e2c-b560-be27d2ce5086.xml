@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compute Available Limit"
+    id="24522e82-1c7d-4e2c-b560-be27d2ce5086">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c2164bd8-b0d5-4e2d-ba1a-77a38269f945.xml#c2164bd8-b0d5-4e2d-ba1a-77a38269f945"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_b4673896-c00f-41df-be5c-7aa7f1ae7bc7.xml#b4673896-c00f-41df-be5c-7aa7f1ae7bc7"/>
+</archimate:TriggeringRelationship>

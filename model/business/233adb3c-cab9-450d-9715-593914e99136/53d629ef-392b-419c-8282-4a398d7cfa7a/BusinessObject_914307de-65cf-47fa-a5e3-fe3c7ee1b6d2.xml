@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvestigationCase"
+    id="914307de-65cf-47fa-a5e3-fe3c7ee1b6d2"
+    documentation=" Set of activities performed to handle an exception to a normal transaction flow.&#xA;&#xA;Набор действий, выполняемых для обработки исключения из нормального потока транзакций."/>

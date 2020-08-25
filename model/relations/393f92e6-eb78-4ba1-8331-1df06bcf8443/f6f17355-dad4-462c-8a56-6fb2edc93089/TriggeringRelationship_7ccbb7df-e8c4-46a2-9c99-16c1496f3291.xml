@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get customer insights"
+    id="7ccbb7df-e8c4-46a2-9c99-16c1496f3291">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_19f66d15-ee73-4cb5-8b77-1f1204186b88.xml#19f66d15-ee73-4cb5-8b77-1f1204186b88"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_947b9047-33f1-429b-9e9d-43252775849f.xml#947b9047-33f1-429b-9e9d-43252775849f"/>
+</archimate:TriggeringRelationship>

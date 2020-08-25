@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeEBranchChannelOperatingSession"
+    id="07c31267-5a41-425e-834e-2f763e802fba"
+    documentation="Execute a transaction or task under the eBranch Channel Operating Session"/>

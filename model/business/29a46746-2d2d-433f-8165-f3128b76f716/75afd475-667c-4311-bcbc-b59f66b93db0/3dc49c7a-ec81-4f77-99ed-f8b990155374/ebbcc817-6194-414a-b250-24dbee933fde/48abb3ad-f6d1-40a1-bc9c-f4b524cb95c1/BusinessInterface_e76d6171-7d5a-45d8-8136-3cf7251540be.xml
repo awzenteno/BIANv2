@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyOpenItemProcedure"
+    id="e76d6171-7d5a-45d8-8136-3cf7251540be"
+    documentation="Subscribe to Open Item Procedure notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordEmployeeDirectory"
+    id="8908c796-68ef-4579-8164-13dae6ce8e57"
+    documentation="Record activity details/information against the Employee Directory "/>

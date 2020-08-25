@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get product combination performance reports"
+    id="57cb4f91-391a-4376-a663-4d7715edee91">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c42392ca-acb1-471e-91c8-219057aafc41.xml#c42392ca-acb1-471e-91c8-219057aafc41"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_c372a6ed-2ff9-47b2-a629-adf3b6174eef.xml#c372a6ed-2ff9-47b2-a629-adf3b6174eef"/>
+</archimate:TriggeringRelationship>

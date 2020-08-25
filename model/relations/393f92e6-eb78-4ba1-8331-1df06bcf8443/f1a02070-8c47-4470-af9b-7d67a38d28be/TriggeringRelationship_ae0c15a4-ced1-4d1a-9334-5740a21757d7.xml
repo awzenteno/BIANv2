@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get business risk models"
+    id="ae0c15a4-ced1-4d1a-9334-5740a21757d7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_2a1fbcce-10e1-45e8-a2f5-93b858329a79.xml#2a1fbcce-10e1-45e8-a2f5-93b858329a79"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a565ad36-4fd7-4815-90a0-1b1a285d2a6c.xml#a565ad36-4fd7-4815-90a0-1b1a285d2a6c"/>
+</archimate:TriggeringRelationship>

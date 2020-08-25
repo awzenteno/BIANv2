@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecurityCertificatePartyRole"
+    id="8e043609-c14b-4c05-bf2c-fcc2f7599aee"
+    documentation=" Role played by a party in the context of a security certificate&#xA;&#xA;Роль партии в контексте сертификат безопасности "/>

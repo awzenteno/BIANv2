@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Carrier"
+    id="84067625-76d8-4d6d-8b83-df0a8065c1b3"
+    documentation="carrier/ компания-перевозчик&#xA; &#xA;Identifies the party that is responsible for the conveyance of the goods from one place to another.&#xA;&#xA;&#xA;Определяет сторону, которая несет ответственность за перевозку груза из одного места в другое."/>

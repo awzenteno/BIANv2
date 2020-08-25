@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCardCollectionsProcedure"
+    id="2512b018-f47e-4091-b35b-3bce89357fb0"
+    documentation="Execute a task under the card collections procedure"/>

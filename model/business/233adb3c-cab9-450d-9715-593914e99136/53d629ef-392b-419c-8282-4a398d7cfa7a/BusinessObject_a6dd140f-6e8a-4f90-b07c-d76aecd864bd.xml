@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TripartyAgent"
+    id="a6dd140f-6e8a-4f90-b07c-d76aecd864bd"
+    documentation=" Agent which acts as an intermediary between two parties for the administration of tri-party collateral transactions.&#xA;&#xA;Агент, который выступает в качестве посредника между двумя сторонами для управления трехсторонними сделками с обеспечением."/>

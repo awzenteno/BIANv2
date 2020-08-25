@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get Additional Authentication Details"
+    id="1e3d674d-496c-457d-b55d-72a29397755f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_9e81773f-97ba-48fb-9d42-b086d580e818.xml#9e81773f-97ba-48fb-9d42-b086d580e818"/>
+</archimate:TriggeringRelationship>

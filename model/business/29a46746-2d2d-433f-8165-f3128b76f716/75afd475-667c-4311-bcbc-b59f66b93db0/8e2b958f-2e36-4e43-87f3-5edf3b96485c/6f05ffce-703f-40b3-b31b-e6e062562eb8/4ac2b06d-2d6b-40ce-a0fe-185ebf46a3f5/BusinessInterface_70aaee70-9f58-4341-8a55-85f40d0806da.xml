@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCashManagementFulfillmentArrangement"
+    id="70aaee70-9f58-4341-8a55-85f40d0806da"
+    documentation="Retrieve Cash Management Product Arrangement related reports"/>

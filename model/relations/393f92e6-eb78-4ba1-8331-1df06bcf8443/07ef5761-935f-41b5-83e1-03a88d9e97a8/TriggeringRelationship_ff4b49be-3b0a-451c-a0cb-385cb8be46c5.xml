@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update customer terms"
+    id="ff4b49be-3b0a-451c-a0cb-385cb8be46c5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_42a0e7f5-c976-45f3-bd42-9a52a3839a05.xml#42a0e7f5-c976-45f3-bd42-9a52a3839a05"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_92d9cdd4-a84f-4189-a58c-c387a528c151.xml#92d9cdd4-a84f-4189-a58c-c387a528c151"/>
+</archimate:TriggeringRelationship>

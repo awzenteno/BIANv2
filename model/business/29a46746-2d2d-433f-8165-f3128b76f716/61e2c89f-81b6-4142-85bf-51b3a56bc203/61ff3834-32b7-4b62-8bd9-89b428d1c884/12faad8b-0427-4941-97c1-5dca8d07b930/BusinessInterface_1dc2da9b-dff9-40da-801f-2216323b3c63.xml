@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeITSystemAssessment"
+    id="1dc2da9b-dff9-40da-801f-2216323b3c63"
+    documentation="Obtain authorization for some action under the IT System Assessment"/>

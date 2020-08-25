@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCardNetworkParticipantFulfillmentArrangement"
+    id="e265a907-687b-4d3c-a85c-b84f0ecf9051"
+    documentation="Execute a task under the card network participant fulfillment arrangement"/>

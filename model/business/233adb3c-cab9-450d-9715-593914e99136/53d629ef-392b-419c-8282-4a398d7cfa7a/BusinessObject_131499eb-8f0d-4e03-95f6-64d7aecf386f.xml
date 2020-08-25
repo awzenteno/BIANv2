@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AccountInformationRecipientRole"
+    id="131499eb-8f0d-4e03-95f6-64d7aecf386f"
+    documentation=" Party that is entitled by the account owner to receive information about movements in the account.&#xA;&#xA;&#xA;Сторона, которая имеет право владельцем счета получать информацию о движении средств по счету."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateFraudCaseAssessment"
+    id="c2ad7b1d-e79c-464f-866a-01b69cf3d774"
+    documentation="Check/verify compliance with Fraud Case related checks/assessments"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveSecuritiesAllocationTransaction"
+    id="a96ee410-dfae-496e-899a-902ce558051e"
+    documentation="Comment:&#xA;&#xA;Retrieve Securities Allocation Transaction related reports"/>

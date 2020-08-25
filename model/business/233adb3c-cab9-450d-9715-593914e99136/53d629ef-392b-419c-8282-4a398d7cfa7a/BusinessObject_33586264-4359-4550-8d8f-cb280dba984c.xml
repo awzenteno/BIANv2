@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Broker"
+    id="33586264-4359-4550-8d8f-cb280dba984c"
+    documentation="broker / посредник&#xA;&#xA;Party that identifies a broker when required (for example, authorised broker, prime broker, etc).&#xA;&#xA;Сторона, которая идентифицирует посредника при необходимости (например, авторизованный брокер, prime broker и т. д.)."/>

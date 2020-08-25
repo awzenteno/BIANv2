@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordIssuedDeviceAllocation"
+    id="60510586-ce88-42ae-a28d-8ad71a03d499"
+    documentation="Record resource use/event/performance/status details"/>

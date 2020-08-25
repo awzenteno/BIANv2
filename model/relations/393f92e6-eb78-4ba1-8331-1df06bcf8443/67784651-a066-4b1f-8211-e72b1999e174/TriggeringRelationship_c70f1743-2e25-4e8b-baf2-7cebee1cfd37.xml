@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record New Payment Order"
+    id="c70f1743-2e25-4e8b-baf2-7cebee1cfd37">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_37a1f7d9-de5a-45c1-b745-13a751c6e274.xml#37a1f7d9-de5a-45c1-b745-13a751c6e274"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_7d63ec6d-b084-4ec4-bf1d-131e56c0dca2.xml#7d63ec6d-b084-4ec4-bf1d-131e56c0dca2"/>
+</archimate:TriggeringRelationship>

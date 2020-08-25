@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" notifySecurityTradingFailsManagementPlan"
+    id="fc572268-ab44-4cec-935e-cf0b86d96cb5"
+    documentation="Subscribe to Security Trading Fails Management Plan notification services"/>

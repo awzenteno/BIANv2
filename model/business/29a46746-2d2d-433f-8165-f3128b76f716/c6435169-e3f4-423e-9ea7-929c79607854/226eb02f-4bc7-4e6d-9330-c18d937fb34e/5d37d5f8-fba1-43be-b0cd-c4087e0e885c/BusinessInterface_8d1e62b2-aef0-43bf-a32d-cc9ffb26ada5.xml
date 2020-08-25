@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveSegmentStrategy"
+    id="8d1e62b2-aef0-43bf-a32d-cc9ffb26ada5"
+    documentation="Retrieve Segment Strategy related reports"/>

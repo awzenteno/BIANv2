@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestProjectFinanceFulfillmentArrangement"
+    id="d8ad6548-7aa7-484a-9af8-774f5dad3009"
+    documentation="Request a service under the Project Finance"/>

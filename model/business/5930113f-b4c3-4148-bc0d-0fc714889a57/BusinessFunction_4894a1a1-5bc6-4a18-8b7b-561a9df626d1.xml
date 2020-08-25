@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Allocate"
+    id="4894a1a1-5bc6-4a18-8b7b-561a9df626d1"
+    documentation="Maintain an inventory or holding of some resource and make assignments/allocations as requested. &#xA;Example: Track the inventory and administer the distribution of central cash holdings throughout the branch &amp; ATM network.&#xA;&#xA;Inactive&#xA;Resource-pool-active-available&#xA;Resources-fully-assigned,&#xA;Resources-revocated&#xA;Resources-pool-service-concluded"/>

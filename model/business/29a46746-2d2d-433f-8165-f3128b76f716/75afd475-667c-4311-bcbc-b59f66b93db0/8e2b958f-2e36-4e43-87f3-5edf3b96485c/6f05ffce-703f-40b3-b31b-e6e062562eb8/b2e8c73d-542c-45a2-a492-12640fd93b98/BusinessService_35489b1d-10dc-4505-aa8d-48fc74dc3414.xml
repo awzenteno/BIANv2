@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Syndicated Loan"
+    id="35489b1d-10dc-4505-aa8d-48fc74dc3414"
+    documentation="Example of use:&#xA;&#xA;Handle the processing of a syndicated loan&#xA;&#xA;General comment:&#xA;&#xA;Syndicated loans are a specific type of loan product with particular processing requirements&#xA;&#xA;Business Purpose&#xA;:  Handle the processing of syndicated loans&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Обработка синдицированного кредита&#xA;&#xA;Общее замечание:&#xA;&#xA;Синдицированные кредиты представляют собой особый тип кредитного продукта с особыми требованиями к обработке &#xA;&#xA;деловая цель&#xA;: Обработка синдицированных кредитов&#xA;"/>

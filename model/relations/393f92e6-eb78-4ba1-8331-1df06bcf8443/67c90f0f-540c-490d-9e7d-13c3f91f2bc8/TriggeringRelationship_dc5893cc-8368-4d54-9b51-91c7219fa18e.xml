@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate payment order"
+    id="dc5893cc-8368-4d54-9b51-91c7219fa18e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_41afbe48-d904-4c48-b9ed-6ba77ef881ca.xml#41afbe48-d904-4c48-b9ed-6ba77ef881ca"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ba5c1a26-55ab-4263-a77e-fc3843e0e9f6.xml#ba5c1a26-55ab-4263-a77e-fc3843e0e9f6"/>
+</archimate:TriggeringRelationship>

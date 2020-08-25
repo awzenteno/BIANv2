@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CollateralValuation"
+    id="40f13d65-cb92-4d37-ae4c-a298ac9dfdcb"
+    documentation=" Provides details about the valuation of each piece of collateral that is posted.&#xA;&#xA;Предоставляет сведения об оценке каждой разнесенной части залога."/>

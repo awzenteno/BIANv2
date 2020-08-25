@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ContactPoint"
+    id="7ac23067-f40e-4147-a85d-da9651cc5bad"
+    documentation="Number, physical or virtual address, used for communication.&#xA;&#xA;Номер, физический или виртуальный адрес, используемый для связи."/>

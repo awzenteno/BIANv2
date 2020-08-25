@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">QuoteStatus"
+    id="edd47dcb-e022-42c2-a897-15eb4056a22b"
+    documentation="Status of a quote and if required, the rejection reason.&#xA;&#xA;Статус предложения и, если требуется, причина отклонения."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Set up replacement credit facility"
+    id="1eef33ed-fbd8-4bb2-b59b-b1cdea683ac3">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1ed107eb-1b9e-4c10-b72c-6cde7579c648.xml#1ed107eb-1b9e-4c10-b72c-6cde7579c648"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_bc087e0d-8473-4608-a020-5221cd21ff9f.xml#bc087e0d-8473-4608-a020-5221cd21ff9f"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyProcurementAdministrativePlan"
+    id="f413a5e5-3cb1-4b08-906c-9420f03be399"
+    documentation="Subscribe to Procurement Administrative Plan notification services"/>

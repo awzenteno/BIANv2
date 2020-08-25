@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="get tax record"
+    id="eb4db7b1-9546-4635-a5bb-535f4b472615">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_17c6981e-a297-4809-877d-aca6a48c0f0a.xml#17c6981e-a297-4809-877d-aca6a48c0f0a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_7ad9c753-8214-4ee3-8b59-56577035f195.xml#7ad9c753-8214-4ee3-8b59-56577035f195"/>
+</archimate:TriggeringRelationship>

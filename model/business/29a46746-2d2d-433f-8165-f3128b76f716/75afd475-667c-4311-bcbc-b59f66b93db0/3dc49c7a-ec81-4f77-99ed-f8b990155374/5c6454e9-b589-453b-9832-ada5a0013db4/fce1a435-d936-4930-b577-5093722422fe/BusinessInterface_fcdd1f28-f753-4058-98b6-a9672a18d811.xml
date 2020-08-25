@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeChequeProcessingOperatingSession"
+    id="fcdd1f28-f753-4058-98b6-a9672a18d811"
+    documentation="Execute a transaction or task under the Cheque Processing Operating Session"/>

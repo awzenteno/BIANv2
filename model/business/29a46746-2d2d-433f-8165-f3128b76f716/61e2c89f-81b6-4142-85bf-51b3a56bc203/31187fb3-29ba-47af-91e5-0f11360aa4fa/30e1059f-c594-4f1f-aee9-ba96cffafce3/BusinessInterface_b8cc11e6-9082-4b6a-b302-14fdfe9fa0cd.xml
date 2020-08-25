@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyFixedAssetRegisterAdministrativePlan"
+    id="b8cc11e6-9082-4b6a-b302-14fdfe9fa0cd"
+    documentation="Subscribe to Fixed Asset Register Administrative Plan notification services"/>

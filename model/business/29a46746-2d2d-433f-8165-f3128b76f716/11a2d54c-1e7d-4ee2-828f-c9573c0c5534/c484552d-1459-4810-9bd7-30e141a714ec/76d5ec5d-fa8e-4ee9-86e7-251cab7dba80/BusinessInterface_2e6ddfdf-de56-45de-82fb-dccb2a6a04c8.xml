@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activatePointOfServiceOperatingSession"
+    id="2e6ddfdf-de56-45de-82fb-dccb2a6a04c8"
+    documentation="Assign responsibility for and activate the Point Of Service Operating Session"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveServiceProviderAgreement"
+    id="f286b367-d26f-4bfb-be82-7c19a359b737"
+    documentation="Comment:&#xA;&#xA;Retrieve Service Provider Agreement related reports"/>

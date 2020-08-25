@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ClearingBroker"
+    id="b18b92b9-4f76-47b3-ae6c-9ac6766c9f46"
+    documentation=" Party which acts as a liaison between an investor and a clearing corporation.&#xA;&#xA;Сторона, которая выступает в качестве связующего звена между инвестором и клиринговой корпорацией."/>

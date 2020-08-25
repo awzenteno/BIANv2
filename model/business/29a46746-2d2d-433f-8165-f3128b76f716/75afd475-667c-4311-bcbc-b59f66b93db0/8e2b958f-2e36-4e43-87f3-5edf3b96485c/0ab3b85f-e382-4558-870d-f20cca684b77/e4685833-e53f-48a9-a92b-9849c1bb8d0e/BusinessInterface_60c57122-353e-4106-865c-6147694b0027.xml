@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeMarketOrderTransaction"
+    id="60c57122-353e-4106-865c-6147694b0027"
+    documentation="Execute a task against the active Market Order Transaction"/>

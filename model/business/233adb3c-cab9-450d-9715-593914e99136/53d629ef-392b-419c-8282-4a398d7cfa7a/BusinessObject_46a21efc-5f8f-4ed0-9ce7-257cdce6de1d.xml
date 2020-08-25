@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AccountRestriction"
+    id="46a21efc-5f8f-4ed0-9ce7-257cdce6de1d"
+    documentation=" Restriction on capability or operations allowed.&#xA;&#xA;&#xA;Ограничение возможностей или ограничение на разрешенные операции__."/>

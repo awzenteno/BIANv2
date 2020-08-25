@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" File updated agreement"
+    id="9e34af05-76e0-4ff2-adb6-c402d55a719e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_db887c83-ae88-471e-bcd2-b369c6d3b3bc.xml#db887c83-ae88-471e-bcd2-b369c6d3b3bc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f250a063-4f94-4d2c-8051-53544e9b5c65.xml#f250a063-4f94-4d2c-8051-53544e9b5c65"/>
+</archimate:TriggeringRelationship>

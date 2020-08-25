@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DisclosedListTrading"
+    id="b61d0997-6384-42b7-b9e4-0d2dccc4201b"
+    documentation=" List trading by which the buy-side details the exact stocks and sizes to be traded and the sell-side offers the buy-side a two-way price, to buy or to sell the indicated stocks. All sell-side firms see all of the stocks and quantities in the portfolio during the bidding phase regardless of whether or not they win the business.&#xA;&#xA;Список торгов по которым покупают на стороне детали точных запасов и размеров можно торговать и на стороне предложения купить сторона в двусторонней цене, покупать или продавать указанные акции. Все продающие фирмы видят все акции и количества в портфеле на этапе торгов независимо от того, выиграют они бизнес или нет.&#xA;&#xA;"/>

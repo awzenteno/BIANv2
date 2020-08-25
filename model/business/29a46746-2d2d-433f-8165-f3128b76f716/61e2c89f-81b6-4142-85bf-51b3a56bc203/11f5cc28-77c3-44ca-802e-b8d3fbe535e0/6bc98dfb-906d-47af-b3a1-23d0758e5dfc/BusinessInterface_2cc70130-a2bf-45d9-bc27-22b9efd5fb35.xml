@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordEmployeeCertificationAssessment"
+    id="2cc70130-a2bf-45d9-bc27-22b9efd5fb35"
+    documentation="Record activity details/information against an ongoing Employee Certification Assessment evaluation"/>

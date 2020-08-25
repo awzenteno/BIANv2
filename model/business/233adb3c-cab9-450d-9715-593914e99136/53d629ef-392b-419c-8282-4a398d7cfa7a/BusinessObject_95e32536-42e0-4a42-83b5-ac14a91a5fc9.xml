@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CollateralInterestAdministration"
+    id="95e32536-42e0-4a42-83b5-ac14a91a5fc9"
+    documentation=" Calculation and request of interest linked to collateral.&#xA;&#xA;Расчет и запрос процентов, связанных с залогом."/>

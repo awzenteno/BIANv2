@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordECommerceGatewayOperatingSession"
+    id="35641b47-075f-44f6-8581-6d2df67213ca"
+    documentation="Record activity details/information against the e commerce gateway operating session"/>

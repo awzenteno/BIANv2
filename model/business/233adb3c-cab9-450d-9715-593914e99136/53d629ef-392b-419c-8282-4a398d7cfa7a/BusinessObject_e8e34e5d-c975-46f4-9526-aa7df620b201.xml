@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">OrganisationIdentification"
+    id="e8e34e5d-c975-46f4-9526-aa7df620b201"
+    documentation="Unique and unambiguous way to identify an organisation.&#xA;&#xA;Уникальный и однозначный способ идентификации организации."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveQuantModelSpecification"
+    id="06ad29b2-0d65-4126-93ff-052e2f21a879"
+    documentation="Retrieve Quant Model Specification related reports"/>

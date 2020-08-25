@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateProgramTradingOperatingSession"
+    id="9f3348e2-2810-4797-a500-63637bef3562"
+    documentation="Assign responsibility for and activate the Program Trading Operating Session"/>

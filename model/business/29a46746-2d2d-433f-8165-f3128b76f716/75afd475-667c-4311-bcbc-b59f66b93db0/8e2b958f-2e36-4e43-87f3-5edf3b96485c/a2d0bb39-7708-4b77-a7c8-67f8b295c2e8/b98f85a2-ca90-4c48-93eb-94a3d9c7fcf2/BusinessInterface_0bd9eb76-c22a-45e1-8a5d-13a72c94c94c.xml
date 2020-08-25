@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateMerchantRelationshipAgreement"
+    id="0bd9eb76-c22a-45e1-8a5d-13a72c94c94c"
+    documentation="Update elements of the Merchant Relationship Agreement"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCardNetworkParticipantFulfillmentArrangement"
+    id="e5c5600c-d0bd-4373-9962-7c00bead1f79"
+    documentation="Subscribe to card network participant fulfillment arrangement notification services"/>

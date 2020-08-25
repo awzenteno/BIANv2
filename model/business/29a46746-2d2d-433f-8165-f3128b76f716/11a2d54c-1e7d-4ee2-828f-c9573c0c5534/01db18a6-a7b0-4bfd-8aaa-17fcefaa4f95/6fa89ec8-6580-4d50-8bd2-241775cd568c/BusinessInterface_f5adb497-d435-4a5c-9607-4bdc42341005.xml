@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configureBranchCashAllocation"
+    id="f5adb497-d435-4a5c-9607-4bdc42341005"
+    documentation="Amend the configuration arrangements/parameters governing the Branch Cash Allocation service"/>

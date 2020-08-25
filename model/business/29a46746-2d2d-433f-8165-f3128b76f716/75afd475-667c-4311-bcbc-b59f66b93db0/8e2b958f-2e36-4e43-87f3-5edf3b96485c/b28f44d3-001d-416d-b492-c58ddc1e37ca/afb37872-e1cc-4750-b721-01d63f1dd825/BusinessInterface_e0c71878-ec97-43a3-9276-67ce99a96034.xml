@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveLeasingFulfillmentArrangement"
+    id="e0c71878-ec97-43a3-9276-67ce99a96034"
+    documentation="Retrieve Leasing Product Arrangement related reports"/>

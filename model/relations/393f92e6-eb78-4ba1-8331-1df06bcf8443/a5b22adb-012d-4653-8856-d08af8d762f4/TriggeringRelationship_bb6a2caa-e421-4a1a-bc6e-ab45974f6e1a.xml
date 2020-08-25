@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Configure production systems"
+    id="bb6a2caa-e421-4a1a-bc6e-ab45974f6e1a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_15519ec9-4ec9-406c-9ad6-30bd21c34d6f.xml#15519ec9-4ec9-406c-9ad6-30bd21c34d6f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_2e3031cf-15e2-4fd3-a978-0ec383bbc173.xml#2e3031cf-15e2-4fd3-a978-0ec383bbc173"/>
+</archimate:TriggeringRelationship>

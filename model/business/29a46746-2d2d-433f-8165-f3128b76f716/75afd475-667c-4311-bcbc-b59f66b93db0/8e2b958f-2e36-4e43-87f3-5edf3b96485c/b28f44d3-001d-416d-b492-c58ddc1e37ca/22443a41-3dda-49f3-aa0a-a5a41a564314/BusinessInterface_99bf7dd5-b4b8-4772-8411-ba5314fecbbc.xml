@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateLoanFulfillmentArrangement"
+    id="99bf7dd5-b4b8-4772-8411-ba5314fecbbc"
+    documentation=" Update work tasks and activity details for the loan fulfillment arrangement"/>

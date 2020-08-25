@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">IndependentAmount"
+    id="b02ba9a6-f13a-486b-a64e-073ef44fd814"
+    documentation=" Amount applied as an add-on to the exposure usually intended to cover a possible increase in exposure before the next valuation date.&#xA;&#xA;Сумма, применяемая в качестве дополнения к покрытию_рисокв, обычно предназначенной для покрытия возможного увеличения покрытию_рисокв до следующей даты оценки."/>

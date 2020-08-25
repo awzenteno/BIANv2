@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveSecurityComplianceProcedure"
+    id="61fa9117-805d-4b08-b7a0-ba582c3651ab"
+    documentation="Comment:&#xA;&#xA;Retrieve Security Compliance Procedure related reports"/>

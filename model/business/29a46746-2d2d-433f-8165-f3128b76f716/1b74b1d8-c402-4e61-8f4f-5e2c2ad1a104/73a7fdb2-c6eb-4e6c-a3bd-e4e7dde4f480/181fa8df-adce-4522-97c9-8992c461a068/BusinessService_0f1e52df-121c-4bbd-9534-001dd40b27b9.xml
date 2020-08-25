@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correspondent Bank Relationship Management"
+    id="0f1e52df-121c-4bbd-9534-001dd40b27b9"
+    documentation="Example of use:&#xA;&#xA;A bank establishes and maintains a correspondent relationship for international payments and trade finance representation in a foreign country&#xA;&#xA;General comment:&#xA;&#xA;This device domain handles the correspondent banking relationships, tracking reciprocity in particular&#xA;&#xA;Business Purpose&#xA;:  Handle the negotiation, development and tracking of reciprocal correspondent relationships&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;&#xA;Банк устанавливает и поддерживает корреспондентские отношения по международным платежам и представительству торгового финансирования в иностранном государстве&#xA;&#xA;Общее замечание:&#xA;&#xA;Этот домен устройства обрабатывает корреспондентские банковские отношения, отслеживая взаимность, в частности&#xA;&#xA;деловая цель&#xA;: Ведение переговоров, развитие и отслеживание взаимных корреспондентских отношений"/>

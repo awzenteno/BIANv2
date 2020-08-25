@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SubscriptionExecution"
+    id="8f4d8485-c2df-4934-9c03-dcaadfcf0d54"
+    documentation=" Execution of a subscription order.&#xA;&#xA;Выполнение заказа на подписку."/>

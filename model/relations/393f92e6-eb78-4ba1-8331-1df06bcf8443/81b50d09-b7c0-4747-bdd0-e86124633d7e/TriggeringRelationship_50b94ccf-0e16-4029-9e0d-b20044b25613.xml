@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initiate product set-up"
+    id="50b94ccf-0e16-4029-9e0d-b20044b25613">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_00407525-e1cc-48e7-986b-380717f89a1d.xml#00407525-e1cc-48e7-986b-380717f89a1d"/>
+</archimate:TriggeringRelationship>

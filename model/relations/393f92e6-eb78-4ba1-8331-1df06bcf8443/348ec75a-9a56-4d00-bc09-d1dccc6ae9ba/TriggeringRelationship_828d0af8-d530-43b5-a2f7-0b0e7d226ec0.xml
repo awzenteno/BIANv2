@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Out of Pattern Warning"
+    id="828d0af8-d530-43b5-a2f7-0b0e7d226ec0">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5cfdbaa4-3a1d-4f97-901f-3979b4a588aa.xml#5cfdbaa4-3a1d-4f97-901f-3979b4a588aa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1b23cb33-8f56-4f22-806f-a300bee5fb00.xml#1b23cb33-8f56-4f22-806f-a300bee5fb00"/>
+</archimate:TriggeringRelationship>

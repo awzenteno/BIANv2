@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateUnderwritingAssessment"
+    id="0b48d92a-f76e-46dd-8cdf-40eaa2f156b0"
+    documentation="Activate the Underwriting Assessment service"/>

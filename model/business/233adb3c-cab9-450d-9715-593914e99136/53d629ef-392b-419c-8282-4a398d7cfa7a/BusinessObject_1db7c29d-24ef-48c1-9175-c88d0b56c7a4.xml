@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashAvailability"
+    id="1db7c29d-24ef-48c1-9175-c88d0b56c7a4"
+    documentation=" Indicates when the amount of money will become available, ie can be accessed and start generating interest.&#xA;&#xA;Указывает, когда деньги станут доступны, т. е. можно получить и начать получать проценты."/>

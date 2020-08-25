@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordFinanclalPositionMeasurement"
+    id="c66ab4bd-466e-4f2e-b3a3-2c2cae1eeecc"
+    documentation="Record activity details/information against the Financial Position Measurement"/>

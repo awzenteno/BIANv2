@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCustomerPositionAnalysis"
+    id="53ef4b4f-d95e-4488-aade-1149e29ec280"
+    documentation="Assign responsibility for the customer position analysis"/>

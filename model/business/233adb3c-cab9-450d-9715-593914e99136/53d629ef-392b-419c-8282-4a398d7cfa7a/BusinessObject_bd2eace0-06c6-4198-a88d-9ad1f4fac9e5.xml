@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">LocalSettlementAgentRole"
+    id="bd2eace0-06c6-4198-a88d-9ad1f4fac9e5"
+    documentation=" Party which holds securities and settles trades for non-resident customers. The customers' securities are held in one omnibus account or in sub accounts at the local central securities depository.&#xA;&#xA;Сторона, владеющая ценными бумагами и осуществляющая расчеты по сделкам с клиентами-нерезидентами. Ценные бумаги клиента хранятся на одном счете или на счетах в местных центрального депозитария."/>

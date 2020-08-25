@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCompetitorAnalysis"
+    id="acc6005a-b329-470c-9465-c630604545b4"
+    documentation="Request a service under the Competitor Analysis"/>

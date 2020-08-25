@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">IntermediaryAgentRole"
+    id="3b0dd50e-d982-4070-89fc-729fe1fd82aa"
+    documentation=" Agent between the debtor's agent and the creditor's agent. There can be several intermediary agents specified for the execution of a payment.&#xA;&#xA;Агентом между агентом должника и представителя кредитора. Для осуществления платежа может быть указано несколько посредников."/>

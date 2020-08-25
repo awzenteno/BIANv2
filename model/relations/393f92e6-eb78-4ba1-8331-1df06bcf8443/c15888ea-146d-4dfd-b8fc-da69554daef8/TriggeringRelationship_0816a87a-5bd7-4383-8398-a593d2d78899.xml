@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Check customer eligibility"
+    id="0816a87a-5bd7-4383-8398-a593d2d78899">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_34945909-17a1-4086-b58d-49426a02ce12.xml#34945909-17a1-4086-b58d-49426a02ce12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_56abeed3-eebf-4efd-8904-accaf81e95af.xml#56abeed3-eebf-4efd-8904-accaf81e95af"/>
+</archimate:TriggeringRelationship>

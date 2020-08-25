@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCustomerReferenceDataDirectory"
+    id="85d9353a-cc03-4d88-9b81-0534280a82a0"
+    documentation="Assign responsibility for the customer reference data directory"/>

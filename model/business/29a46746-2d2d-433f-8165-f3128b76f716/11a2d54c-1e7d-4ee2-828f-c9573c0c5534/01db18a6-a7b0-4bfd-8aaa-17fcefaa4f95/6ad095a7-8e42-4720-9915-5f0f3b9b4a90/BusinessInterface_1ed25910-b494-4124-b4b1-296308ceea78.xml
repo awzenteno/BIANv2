@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyEBranchChannelManagementPlan"
+    id="1ed25910-b494-4124-b4b1-296308ceea78"
+    documentation="Subscribe to EBranch Channel Management Plan notification services"/>

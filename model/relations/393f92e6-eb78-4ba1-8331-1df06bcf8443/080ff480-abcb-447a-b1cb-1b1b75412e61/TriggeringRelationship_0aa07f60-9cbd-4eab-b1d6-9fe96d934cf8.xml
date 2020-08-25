@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get network incident report"
+    id="0aa07f60-9cbd-4eab-b1d6-9fe96d934cf8">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_16dffb0b-3a23-42d4-a289-7390d8f211db.xml#16dffb0b-3a23-42d4-a289-7390d8f211db"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e88bea98-37f3-4a1a-bddb-1bf8f08d563a.xml#e88bea98-37f3-4a1a-bddb-1bf8f08d563a"/>
+</archimate:TriggeringRelationship>

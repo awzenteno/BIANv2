@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get Sales Product Composition"
+    id="ca7b3632-0e6f-40e7-821f-1357190f5a18">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f8ce5fda-b000-4044-a91d-c901612b8b2f.xml#f8ce5fda-b000-4044-a91d-c901612b8b2f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_21cf8f62-685c-4240-b018-e42d18b350a8.xml#21cf8f62-685c-4240-b018-e42d18b350a8"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Phase out Sales Product Current Account"
+    id="808baf21-e5af-4d31-bd29-40e25811b4b1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_9e0df3c7-7c57-40a2-8505-5fa4de34ca7a.xml#9e0df3c7-7c57-40a2-8505-5fa4de34ca7a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a272a0bf-a3b1-4128-abec-b0bd9f44d846.xml#a272a0bf-a3b1-4128-abec-b0bd9f44d846"/>
+</archimate:TriggeringRelationship>

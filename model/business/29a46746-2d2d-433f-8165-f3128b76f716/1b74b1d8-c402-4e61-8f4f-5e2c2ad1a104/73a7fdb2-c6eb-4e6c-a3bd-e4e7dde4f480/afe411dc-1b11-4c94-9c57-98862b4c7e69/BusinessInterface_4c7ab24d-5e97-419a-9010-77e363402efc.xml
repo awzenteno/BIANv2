@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyBrokerAgreement"
+    id="4c7ab24d-5e97-419a-9010-77e363402efc"
+    documentation="Subscribe to Broker Agreement notification services"/>

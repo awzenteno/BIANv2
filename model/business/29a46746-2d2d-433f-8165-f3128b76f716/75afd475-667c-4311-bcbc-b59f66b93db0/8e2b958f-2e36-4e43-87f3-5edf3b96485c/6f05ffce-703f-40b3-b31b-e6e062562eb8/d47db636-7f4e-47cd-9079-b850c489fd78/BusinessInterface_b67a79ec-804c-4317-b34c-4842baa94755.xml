@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateTradeFinanceFulfillmentArrangement"
+    id="b67a79ec-804c-4317-b34c-4842baa94755"
+    documentation="Terminate all or some part of the Trade Finance"/>

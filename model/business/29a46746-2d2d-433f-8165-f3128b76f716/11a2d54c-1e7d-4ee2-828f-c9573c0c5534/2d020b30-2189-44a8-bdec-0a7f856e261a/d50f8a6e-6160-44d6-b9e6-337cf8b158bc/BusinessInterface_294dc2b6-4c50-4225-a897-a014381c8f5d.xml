@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBusinessDevelopmentStrategy"
+    id="294dc2b6-4c50-4225-a897-a014381c8f5d"
+    documentation="Retrieve Business Development Strategy related reports"/>

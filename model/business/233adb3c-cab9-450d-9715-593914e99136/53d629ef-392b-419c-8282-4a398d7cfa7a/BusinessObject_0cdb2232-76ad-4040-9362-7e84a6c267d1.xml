@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">RolePlayer"
+    id="0cdb2232-76ad-4040-9362-7e84a6c267d1"
+    documentation=" Type of entity that plays a specific role in a specific context.&#xA;&#xA;Тип сущности, играющей определенную роль в определенном контексте."/>

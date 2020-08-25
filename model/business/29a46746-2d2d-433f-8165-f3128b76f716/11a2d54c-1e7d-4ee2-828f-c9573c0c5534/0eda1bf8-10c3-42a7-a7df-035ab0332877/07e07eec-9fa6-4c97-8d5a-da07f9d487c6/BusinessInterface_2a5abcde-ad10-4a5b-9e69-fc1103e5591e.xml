@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCustomerPrecedentsProcedure"
+    id="2a5abcde-ad10-4a5b-9e69-fc1103e5591e"
+    documentation=" Execute an automated action against an active customer precedent record"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Configure Product changes"
+    id="cd0da3e1-ae16-45a2-a74e-2f0c2bcfd255">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_35c23b73-5e47-4a90-8e79-45c7c52c052f.xml#35c23b73-5e47-4a90-8e79-45c7c52c052f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_180908d5-663e-4981-b275-1e0ff2775f21.xml#180908d5-663e-4981-b275-1e0ff2775f21"/>
+</archimate:TriggeringRelationship>

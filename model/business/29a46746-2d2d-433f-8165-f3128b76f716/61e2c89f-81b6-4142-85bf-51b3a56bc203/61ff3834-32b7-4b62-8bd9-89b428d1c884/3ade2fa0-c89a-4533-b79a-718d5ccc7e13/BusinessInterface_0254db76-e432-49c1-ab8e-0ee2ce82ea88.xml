@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordHelpDeskOperatingSession"
+    id="0254db76-e432-49c1-ab8e-0ee2ce82ea88"
+    documentation="Record activity details/information against the Help Desk Operating Session"/>

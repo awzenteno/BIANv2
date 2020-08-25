@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestTradedPositionTransaction"
+    id="9473d82b-0608-44aa-9f9a-a3440c1b0ca3"
+    documentation="Request a service under the Traded Position Transaction"/>

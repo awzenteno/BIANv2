@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyLockBoxFulfillmentArrangement"
+    id="50b97fe2-1817-44ec-88a8-c9be022091f4"
+    documentation="Comment:&#xA;&#xA;Subscribe to Lock Box Product Arrangement notification services"/>

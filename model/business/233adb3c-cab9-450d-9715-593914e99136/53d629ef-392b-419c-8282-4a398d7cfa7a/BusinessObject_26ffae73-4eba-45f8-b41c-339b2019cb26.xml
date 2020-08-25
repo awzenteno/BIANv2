@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ProductCharacteristics"
+    id="26ffae73-4eba-45f8-b41c-339b2019cb26"
+    documentation="Identifies the characteristic of a product.&#xA;&#xA;Определяет характеристику продукта."/>

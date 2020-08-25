@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordSecurityComplianceAssessment"
+    id="124d0811-c077-402a-bcf1-e7381ae9e935"
+    documentation="Record activity details/information against an ongoing Security Compliance Assessment evaluation"/>

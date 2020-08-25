@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesTradeStatusReason"
+    id="988f7cef-911e-489a-8f23-5ba529414824"
+    documentation=" Specifies the underlying reason for a status of a securities trade.&#xA;&#xA;Указывает основную причину состояния сделки с ценными бумагами."/>

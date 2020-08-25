@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="->Update"
+    id="a5ac3d2a-7b10-43fe-aa82-978274d7afbf"
+    documentation="Change the value of some control record instance's properties. &#xA;Example: Update a customer's reference details with a change of address."/>

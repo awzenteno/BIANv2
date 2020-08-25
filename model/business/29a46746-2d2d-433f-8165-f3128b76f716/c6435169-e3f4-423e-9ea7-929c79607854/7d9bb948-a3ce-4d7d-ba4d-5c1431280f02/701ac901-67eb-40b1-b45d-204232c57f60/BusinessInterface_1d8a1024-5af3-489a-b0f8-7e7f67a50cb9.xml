@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyFraudModelSpecification"
+    id="1d8a1024-5af3-489a-b0f8-7e7f67a50cb9"
+    documentation="Subscribe to Fraud Model Specification notification services"/>

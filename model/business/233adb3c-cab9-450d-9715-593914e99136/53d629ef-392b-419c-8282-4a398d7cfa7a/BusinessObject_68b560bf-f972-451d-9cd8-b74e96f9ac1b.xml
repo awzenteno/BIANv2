@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesQuantity"
+    id="68b560bf-f972-451d-9cd8-b74e96f9ac1b"
+    documentation=" Quantity of a security.&#xA;&#xA;Количество ценной бумаги."/>

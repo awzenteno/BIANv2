@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Channel Activity History"
+    id="bf52f4c1-7fb4-41b9-a2ce-589df916c01b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5cfdbaa4-3a1d-4f97-901f-3979b4a588aa.xml#5cfdbaa4-3a1d-4f97-901f-3979b4a588aa"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_0ea1fe53-089b-4bab-9d04-1d22c8b7f8d7.xml#0ea1fe53-089b-4bab-9d04-1d22c8b7f8d7"/>
+</archimate:TriggeringRelationship>

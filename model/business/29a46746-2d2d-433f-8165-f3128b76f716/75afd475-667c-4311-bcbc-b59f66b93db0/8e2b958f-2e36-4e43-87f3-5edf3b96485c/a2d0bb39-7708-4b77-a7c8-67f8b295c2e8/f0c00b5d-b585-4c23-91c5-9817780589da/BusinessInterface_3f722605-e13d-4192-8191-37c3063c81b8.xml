@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" authorizeCredit/ChargeCardAuthorizationAssessment"
+    id="3f722605-e13d-4192-8191-37c3063c81b8"
+    documentation="Obtain authorization for some action under the Credit/Charge Card Authorization Assessment"/>

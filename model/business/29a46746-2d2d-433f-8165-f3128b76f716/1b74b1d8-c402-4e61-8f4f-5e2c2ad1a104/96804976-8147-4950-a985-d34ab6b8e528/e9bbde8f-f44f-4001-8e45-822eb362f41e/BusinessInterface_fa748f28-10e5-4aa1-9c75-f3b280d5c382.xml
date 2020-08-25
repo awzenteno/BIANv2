@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestLocationDirectory"
+    id="fa748f28-10e5-4aa1-9c75-f3b280d5c382"
+    documentation=" Request a check/refresh of a location directory entry"/>

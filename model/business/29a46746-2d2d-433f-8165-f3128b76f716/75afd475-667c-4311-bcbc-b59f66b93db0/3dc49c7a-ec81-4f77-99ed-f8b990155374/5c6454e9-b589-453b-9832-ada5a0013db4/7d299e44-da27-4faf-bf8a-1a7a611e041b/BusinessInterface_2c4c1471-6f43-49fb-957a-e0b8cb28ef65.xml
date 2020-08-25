@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCardClearingProcedure"
+    id="2c4c1471-6f43-49fb-957a-e0b8cb28ef65"
+    documentation="Subscribe to card clearing procedure notification services"/>

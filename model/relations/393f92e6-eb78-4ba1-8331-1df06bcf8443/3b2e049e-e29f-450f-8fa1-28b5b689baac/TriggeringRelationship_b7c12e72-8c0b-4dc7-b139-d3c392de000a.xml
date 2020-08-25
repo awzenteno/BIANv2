@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Inform Customer that the card is blocked"
+    id="b7c12e72-8c0b-4dc7-b139-d3c392de000a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bfffa8a5-7404-4230-81e6-f32f4e37e4a7.xml#bfffa8a5-7404-4230-81e6-f32f4e37e4a7"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_d52a5162-3f7f-43cd-a181-df8cc5a4c453.xml#d52a5162-3f7f-43cd-a181-df8cc5a4c453"/>
+</archimate:TriggeringRelationship>

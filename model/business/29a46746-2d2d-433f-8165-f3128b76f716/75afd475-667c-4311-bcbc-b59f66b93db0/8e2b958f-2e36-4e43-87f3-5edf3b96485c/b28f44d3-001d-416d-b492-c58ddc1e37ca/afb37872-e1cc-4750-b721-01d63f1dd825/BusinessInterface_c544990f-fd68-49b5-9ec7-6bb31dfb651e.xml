@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestLeasingFulfillmentArrangement"
+    id="c544990f-fd68-49b5-9ec7-6bb31dfb651e"
+    documentation="Request a service under the Leasing"/>

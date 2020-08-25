@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateInformationFeedOperatingSession"
+    id="25fcd0b3-7e70-4001-b267-be9972bcf867"
+    documentation="Comment:&#xA;&#xA;Terminate all or some part of the Information Feed Operating Session"/>

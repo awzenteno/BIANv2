@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerBehaviorAnalysis"
+    id="947b9047-33f1-429b-9e9d-43252775849f"
+    documentation="Retrieve Customer Behavior Analysis related reports"/>

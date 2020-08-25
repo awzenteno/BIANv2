@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeOpenItemProcedure"
+    id="98d6a368-2d3b-4750-8bf3-a75de1ed310c"
+    documentation=" Execute automated generation of an open item"/>

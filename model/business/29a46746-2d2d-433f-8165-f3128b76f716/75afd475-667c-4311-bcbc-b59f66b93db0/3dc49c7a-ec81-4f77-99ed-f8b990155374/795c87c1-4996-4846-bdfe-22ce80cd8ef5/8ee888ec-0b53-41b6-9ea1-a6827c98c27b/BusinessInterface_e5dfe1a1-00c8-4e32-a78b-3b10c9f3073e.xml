@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateTransactionScheduleFulfillmentArrangement"
+    id="e5dfe1a1-00c8-4e32-a78b-3b10c9f3073e"
+    documentation="Comment:&#xA;&#xA;Update elements of the Transaction Schedule"/>

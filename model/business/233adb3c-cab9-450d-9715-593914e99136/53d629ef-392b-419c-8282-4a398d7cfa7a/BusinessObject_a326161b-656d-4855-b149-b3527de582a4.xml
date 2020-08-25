@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecurityCertificate"
+    id="a326161b-656d-4855-b149-b3527de582a4"
+    documentation=" Certificate linked to a digital signature.&#xA;&#xA;Сертификат, связанный с цифровой подписью."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateCredit/ChargeCardBillingTransaction"
+    id="3761f558-5530-4ea9-940c-18e43aa84776"
+    documentation="Update elements of the Credit/Charge Card Billing Transaction"/>

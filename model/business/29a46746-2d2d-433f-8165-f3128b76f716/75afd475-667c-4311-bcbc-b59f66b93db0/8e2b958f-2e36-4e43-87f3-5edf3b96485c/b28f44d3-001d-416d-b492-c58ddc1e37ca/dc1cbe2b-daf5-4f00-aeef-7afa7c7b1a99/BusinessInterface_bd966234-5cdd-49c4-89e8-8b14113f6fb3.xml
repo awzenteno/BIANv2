@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCurrentAccountFulfillmentArrangementPayment"
+    id="bd966234-5cdd-49c4-89e8-8b14113f6fb3"
+    documentation="Execute and payment transaction against the account"/>

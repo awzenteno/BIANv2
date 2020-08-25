@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordBusinessUnitAccountingLog"
+    id="cc40a642-6bca-4fe5-be63-aeff416047c7"
+    documentation="Record activity details/transaction information against the Business Unit Accounting Account/Log"/>

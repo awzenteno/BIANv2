@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCredit/ChargeCardFulfillmentArrangement"
+    id="b4673896-c00f-41df-be5c-7aa7f1ae7bc7"
+    documentation="Comment:&#xA;&#xA;Execute a task under the Credit/Charge Card"/>

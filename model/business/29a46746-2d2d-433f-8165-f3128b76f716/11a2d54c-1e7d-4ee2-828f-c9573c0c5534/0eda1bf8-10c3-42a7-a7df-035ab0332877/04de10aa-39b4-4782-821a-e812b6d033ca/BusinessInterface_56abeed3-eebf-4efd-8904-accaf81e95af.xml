@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateCustomerEligibilityAssessment"
+    id="56abeed3-eebf-4efd-8904-accaf81e95af"
+    documentation="Check/verify compliance with Customer Eligibility related checks/assessments"/>

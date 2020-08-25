@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateProgramTradingOperatingSession"
+    id="e0b12d26-a2ed-42ad-b9d5-359e16efc2af"
+    documentation="Terminate all or some part of the Program Trading Operating Session"/>

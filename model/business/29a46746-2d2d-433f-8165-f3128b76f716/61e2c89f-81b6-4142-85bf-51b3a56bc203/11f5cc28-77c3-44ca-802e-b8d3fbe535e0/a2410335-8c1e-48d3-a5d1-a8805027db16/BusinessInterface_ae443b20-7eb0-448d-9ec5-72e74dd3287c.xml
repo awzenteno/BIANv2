@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyEmployeeAllocation"
+    id="ae443b20-7eb0-448d-9ec5-72e74dd3287c"
+    documentation="Subscribe to Employee Allocation notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateCorrespondentBankFulfillmentArrangement"
+    id="68af89d7-2980-49ca-ae92-3dc9414b9a56"
+    documentation="Update details of an active correspondent bank arrangement/transaction"/>

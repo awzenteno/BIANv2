@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">GuaranteeBeneficiary"
+    id="3a21c375-5ac0-417f-b992-67bc98d91095"
+    documentation="Party that is the beneficiary of the guarantee.&#xA;&#xA;Сторона, являющаяся бенефициаром гарантии."/>

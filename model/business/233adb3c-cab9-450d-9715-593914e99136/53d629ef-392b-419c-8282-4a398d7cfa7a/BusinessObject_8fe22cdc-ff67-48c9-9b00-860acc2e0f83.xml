@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SidePocket"
+    id="8fe22cdc-ff67-48c9-9b00-860acc2e0f83"
+    documentation=" Separate account containing illiquid assets of a hedge fund portfolio. Only the present participants in the hedge fund will be entitled to a share of it.&#xA;&#xA;Отдельный счет, содержащий неликвидные активы портфеля хедж-фонда. Только нынешние участники хедж-фонда будут иметь право на долю в нем."/>

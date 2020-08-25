@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SuspensionPeriod"
+    id="fa1cd1f1-ccf8-42e6-a017-40076ef4d934"
+    documentation=" Period defining the last date for which an action will be accepted and the date on which the suspension will be released and normal processing will resume.&#xA;&#xA;Период, определяющий последнюю дату, на которую будет принято действие, и дату, на которую будет выпущена приостановка и возобновлена нормальная обработка."/>

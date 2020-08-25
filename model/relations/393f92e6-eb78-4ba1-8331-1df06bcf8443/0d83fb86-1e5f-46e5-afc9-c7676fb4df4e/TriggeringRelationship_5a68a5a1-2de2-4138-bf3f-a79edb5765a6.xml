@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Execute market trades"
+    id="5a68a5a1-2de2-4138-bf3f-a79edb5765a6">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_ae4c959f-7a6f-4754-a4d3-d366e2c2783c.xml#ae4c959f-7a6f-4754-a4d3-d366e2c2783c"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_08d4f591-e9b0-4925-a2f7-1738203c5001.xml#08d4f591-e9b0-4925-a2f7-1738203c5001"/>
+</archimate:TriggeringRelationship>

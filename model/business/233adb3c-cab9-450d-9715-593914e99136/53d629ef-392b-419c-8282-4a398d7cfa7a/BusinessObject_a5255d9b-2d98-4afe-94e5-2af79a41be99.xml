@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">OrderOriginationTrader"
+    id="a5255d9b-2d98-4afe-94e5-2af79a41be99"
+    documentation=" Identifies the trader at the order origination firm that submitted the order.&#xA;&#xA;Определяет трейдера на возникновение  заказа, представивших заявки."/>

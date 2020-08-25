@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Evaluate Product Eligibility Assessment"
+    id="51fa47c6-7e65-4cc9-8af5-37d110345121">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_56abeed3-eebf-4efd-8904-accaf81e95af.xml#56abeed3-eebf-4efd-8904-accaf81e95af"/>
+</archimate:TriggeringRelationship>

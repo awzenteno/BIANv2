@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PaymentTerms"
+    id="8adfec4f-4238-4995-b696-81d7ceea78b5"
+    documentation=" Specifies the payment terms of the obligation.&#xA;&#xA;Определяет условия оплаты обязательства."/>

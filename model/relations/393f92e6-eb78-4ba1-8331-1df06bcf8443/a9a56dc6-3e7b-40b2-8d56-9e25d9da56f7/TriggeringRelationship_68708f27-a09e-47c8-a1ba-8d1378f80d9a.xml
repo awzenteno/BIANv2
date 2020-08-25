@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Start Debit Cards service for Corporate Current Account"
+    id="68708f27-a09e-47c8-a1ba-8d1378f80d9a">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6133c265-5fbb-4d20-8bb0-1a9ea4aacf12.xml#6133c265-5fbb-4d20-8bb0-1a9ea4aacf12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_dcba22d3-9757-4a1a-b996-d993ea8eb877.xml#dcba22d3-9757-4a1a-b996-d993ea8eb877"/>
+</archimate:TriggeringRelationship>

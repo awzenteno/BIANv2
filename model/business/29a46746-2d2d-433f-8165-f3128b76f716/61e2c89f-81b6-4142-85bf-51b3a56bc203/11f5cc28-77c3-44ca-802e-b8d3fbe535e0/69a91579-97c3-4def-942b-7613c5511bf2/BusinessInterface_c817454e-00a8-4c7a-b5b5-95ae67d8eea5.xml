@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyEmployeeDirectory"
+    id="c817454e-00a8-4c7a-b5b5-95ae67d8eea5"
+    documentation="Subscribe to Employee Registration notification services"/>

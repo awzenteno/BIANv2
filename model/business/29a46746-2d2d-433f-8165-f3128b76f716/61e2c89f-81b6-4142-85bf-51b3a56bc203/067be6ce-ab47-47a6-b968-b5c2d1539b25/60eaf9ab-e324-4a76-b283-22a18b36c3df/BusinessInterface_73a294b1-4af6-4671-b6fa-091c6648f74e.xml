@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveFinancialComplianceProcedure"
+    id="73a294b1-4af6-4671-b6fa-091c6648f74e"
+    documentation="Retrieve Financial Compliance Procedure related reports"/>

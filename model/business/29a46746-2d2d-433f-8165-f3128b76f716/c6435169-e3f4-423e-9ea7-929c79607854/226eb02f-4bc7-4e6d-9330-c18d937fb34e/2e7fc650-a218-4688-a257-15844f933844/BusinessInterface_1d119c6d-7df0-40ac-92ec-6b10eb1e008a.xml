@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveContributionAnalysis"
+    id="1d119c6d-7df0-40ac-92ec-6b10eb1e008a"
+    documentation="Retrieve Contribution Analysis related reports"/>

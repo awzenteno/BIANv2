@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestPartyAuthenticationAssessment"
+    id="7d4d0d50-fa55-457d-9376-b5f59af0ac87"
+    documentation="Request guidance on authorization requirements"/>

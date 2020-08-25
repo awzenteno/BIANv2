@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Activate the e-branch network"
+    id="58599cf8-4195-400d-80fd-ee44e60f2750">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_2f23510e-d321-4000-8a52-52f5715f0913.xml#2f23510e-d321-4000-8a52-52f5715f0913"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_35bd215c-5bb9-462d-add0-81a97c550e46.xml#35bd215c-5bb9-462d-add0-81a97c550e46"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCorrespondentBankFulfillmentArrangement"
+    id="5196fb75-1e99-43c5-bf52-0a0f733017f4"
+    documentation="Retrieve correspondent bank arrangement reports (e.g. reciprocity analysis)"/>

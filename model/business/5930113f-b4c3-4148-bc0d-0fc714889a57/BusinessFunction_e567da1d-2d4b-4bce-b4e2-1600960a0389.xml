@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Analyze"
+    id="e567da1d-2d4b-4bce-b4e2-1600960a0389"
+    documentation="Analyze the performance or behavior of some on-going activity or entity. &#xA;Examples: Provide behavioral insights and analysis into customer behavior and analyze financial market activity in order to identify opportunities, define pricing and evaluate risks.&#xA;&#xA;Inactive&#xA;Analysis-active&#xA;Analysis-update-pending&#xA;Analysis-concluded&#xA;"/>

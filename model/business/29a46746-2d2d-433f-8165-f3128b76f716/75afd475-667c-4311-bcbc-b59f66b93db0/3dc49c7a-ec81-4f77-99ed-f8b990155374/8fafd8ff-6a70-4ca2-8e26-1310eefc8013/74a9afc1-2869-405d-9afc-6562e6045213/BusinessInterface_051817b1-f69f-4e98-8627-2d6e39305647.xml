@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCollateralAssetAdministrativePlan"
+    id="051817b1-f69f-4e98-8627-2d6e39305647"
+    documentation="Subscribe to Collateral Asset Administrative Plan notification services"/>

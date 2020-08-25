@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requesteTradingWorkbenchOperatingSession"
+    id="702c0511-dce2-491b-89af-ba0461792e18"
+    documentation="Request a service under the eTrading Workbench Operating Session"/>

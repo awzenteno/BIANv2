@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateBuildingPortfolioAnalysis"
+    id="b08b67df-f256-4ac4-9472-5b0b7763890f"
+    documentation="Assign responsibility for the Building Portfolio Analysis"/>

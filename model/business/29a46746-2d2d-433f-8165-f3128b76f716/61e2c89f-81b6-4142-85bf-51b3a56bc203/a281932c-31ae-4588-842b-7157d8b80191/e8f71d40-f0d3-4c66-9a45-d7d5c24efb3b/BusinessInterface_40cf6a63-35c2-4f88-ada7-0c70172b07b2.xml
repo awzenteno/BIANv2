@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" notifyBusinessUnitFinanceAnalysis"
+    id="40cf6a63-35c2-4f88-ada7-0c70172b07b2"
+    documentation="Subscribe to Business Unit Finance Analysis notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyPartyDirectory"
+    id="bc54c6a8-3a0d-4d1a-b0c5-b2c70a0a5abb"
+    documentation="Subscribe to Party Registration notification services"/>

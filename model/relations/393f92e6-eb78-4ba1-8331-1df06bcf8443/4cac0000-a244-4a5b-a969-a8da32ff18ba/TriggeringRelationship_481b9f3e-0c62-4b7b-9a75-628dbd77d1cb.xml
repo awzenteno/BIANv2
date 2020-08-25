@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De-link accounts and facilities from Corporate Deposit and remove blocks"
+    id="481b9f3e-0c62-4b7b-9a75-628dbd77d1cb">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_566cda82-543b-43a5-91c6-6fcf249385ea.xml#566cda82-543b-43a5-91c6-6fcf249385ea"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_f1a9787d-2eb7-4e48-b3bb-8109fcbec17d.xml#f1a9787d-2eb7-4e48-b3bb-8109fcbec17d"/>
+</archimate:TriggeringRelationship>

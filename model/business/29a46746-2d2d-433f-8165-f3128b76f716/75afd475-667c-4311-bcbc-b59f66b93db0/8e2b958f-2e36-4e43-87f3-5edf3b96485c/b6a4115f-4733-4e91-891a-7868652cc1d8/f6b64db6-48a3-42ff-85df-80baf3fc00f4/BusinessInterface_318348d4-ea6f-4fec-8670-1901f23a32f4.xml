@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCurrencyExchangeTransaction"
+    id="318348d4-ea6f-4fec-8670-1901f23a32f4"
+    documentation="Retrieve currency exchange transaction related reports"/>

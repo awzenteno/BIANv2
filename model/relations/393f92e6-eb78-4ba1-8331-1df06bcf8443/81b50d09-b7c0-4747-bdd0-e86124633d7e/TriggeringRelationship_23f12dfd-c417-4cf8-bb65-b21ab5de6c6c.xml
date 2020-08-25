@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get relationship sales report"
+    id="23f12dfd-c417-4cf8-bb65-b21ab5de6c6c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_8c370d58-01cf-49d5-b105-af75c16a5378.xml#8c370d58-01cf-49d5-b105-af75c16a5378"/>
+</archimate:TriggeringRelationship>

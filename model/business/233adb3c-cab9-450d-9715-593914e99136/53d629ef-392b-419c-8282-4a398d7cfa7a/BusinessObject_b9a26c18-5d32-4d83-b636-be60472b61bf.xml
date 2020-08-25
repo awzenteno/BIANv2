@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecurityCertificateIssuerRole"
+    id="b9a26c18-5d32-4d83-b636-be60472b61bf"
+    documentation=" Party that issues security certificates.&#xA;&#xA;Сторона, которая выдает сертификаты безопасности."/>

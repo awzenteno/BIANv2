@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCounterpartyAdministrativePlan"
+    id="f1ba9048-5f8c-4390-8ca6-3daafc89c297"
+    documentation="Comment:&#xA;&#xA;Retrieve Counterparty Administrative Plan related reports"/>

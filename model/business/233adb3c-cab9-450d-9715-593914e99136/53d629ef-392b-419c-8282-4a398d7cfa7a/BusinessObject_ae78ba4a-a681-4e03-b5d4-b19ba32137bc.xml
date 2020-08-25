@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ShipmentDateRange"
+    id="ae78ba4a-a681-4e03-b5d4-b19ba32137bc"
+    documentation=" Specifies a shipment period or a shipment date.&#xA;&#xA;Указывает период отгрузки или дату отгрузки."/>

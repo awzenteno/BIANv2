@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveFraudModelSpecification"
+    id="ac8afc59-164c-4618-b737-d04f34f8a6cb"
+    documentation="Retrieve Fraud Model Specification related reports"/>

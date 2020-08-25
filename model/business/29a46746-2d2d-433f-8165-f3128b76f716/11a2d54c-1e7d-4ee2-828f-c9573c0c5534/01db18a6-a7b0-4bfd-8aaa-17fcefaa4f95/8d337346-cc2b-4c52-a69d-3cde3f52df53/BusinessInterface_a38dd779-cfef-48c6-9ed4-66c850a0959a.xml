@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestVoiceChannelManagementPlan"
+    id="a38dd779-cfef-48c6-9ed4-66c850a0959a"
+    documentation="Request a service under the Voice Channel Management Plan"/>

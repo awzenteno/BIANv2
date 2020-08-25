@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inform cards network on cancellation"
+    id="5c8916e2-d2c3-47fb-9239-45a7648545b1">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bfffa8a5-7404-4230-81e6-f32f4e37e4a7.xml#bfffa8a5-7404-4230-81e6-f32f4e37e4a7"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ed1919e8-9702-4f59-a137-32656676cc2f.xml#ed1919e8-9702-4f59-a137-32656676cc2f"/>
+</archimate:TriggeringRelationship>

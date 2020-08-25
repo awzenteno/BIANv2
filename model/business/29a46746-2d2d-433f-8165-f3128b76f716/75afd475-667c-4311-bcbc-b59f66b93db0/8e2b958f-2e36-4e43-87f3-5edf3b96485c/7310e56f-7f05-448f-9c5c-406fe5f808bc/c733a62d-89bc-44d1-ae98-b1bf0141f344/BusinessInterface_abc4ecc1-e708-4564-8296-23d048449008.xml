@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyeTradingWorkbenchOperatingSession"
+    id="abc4ecc1-e708-4564-8296-23d048449008"
+    documentation="Subscribe to eTrading Workbench Operating Session notification services"/>

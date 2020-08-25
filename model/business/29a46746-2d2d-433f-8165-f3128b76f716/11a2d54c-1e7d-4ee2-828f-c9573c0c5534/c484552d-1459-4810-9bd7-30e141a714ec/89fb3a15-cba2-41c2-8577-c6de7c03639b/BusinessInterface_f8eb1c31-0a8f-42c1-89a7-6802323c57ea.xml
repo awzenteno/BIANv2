@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordServicingEventLogServicingPositionAssignmentEvent"
+    id="f8eb1c31-0a8f-42c1-89a7-6802323c57ea"
+    documentation="Record a servicing assignment event (includes contact type classification)"/>

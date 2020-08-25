@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerOffer"
+    id="fbcb1dc1-b740-4aaf-aaa4-b2991a6c9afb"
+    documentation=" An offer of an agreement to a prospect.&#xA;&#xA;Notes: The receipt of an offer changes the classification of a party's role from a prospect to a customer. A customer offer is related to a stage in the lifecycle of an agreement with a customer, in which the agreement has been offered to the customer but is not finalised.&#xA;&#xA;&#xA;&#xA;__банк предлагает некое соглашение предполагаемому клиенту__&#xA;&#xA;Примечания: получение офера изменяет классификацию роли стороны с потенциальной на роль клиента. Клиентское предложение относится к этапу жизненного цикла договора с клиентом, на котором договор был предложен клиенту, но не завершен."/>

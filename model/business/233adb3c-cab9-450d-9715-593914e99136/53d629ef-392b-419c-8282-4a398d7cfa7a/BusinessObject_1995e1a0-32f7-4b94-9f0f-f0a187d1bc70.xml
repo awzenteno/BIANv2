@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CardIssuer"
+    id="1995e1a0-32f7-4b94-9f0f-f0a187d1bc70"
+    documentation=" Party that issues a payment card, as expressed by a numeric identification of the card issuer according to ISO/IEC 7812-1.&#xA;&#xA;Сторона, которая выпускает платежную карту, выраженную числовой идентификацией эмитента карты в соответствии с ISO / IEC 7812-1."/>

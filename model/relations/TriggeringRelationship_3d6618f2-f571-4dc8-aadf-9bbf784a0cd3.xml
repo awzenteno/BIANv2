@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Access remittance service balance account"
+    id="3d6618f2-f571-4dc8-aadf-9bbf784a0cd3">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_26b3fb1b-7b13-4af3-853f-0f360eeeebac.xml#26b3fb1b-7b13-4af3-853f-0f360eeeebac"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_c13f0370-8c47-4884-adb2-b938c1e43111.xml#c13f0370-8c47-4884-adb2-b938c1e43111"/>
+</archimate:TriggeringRelationship>

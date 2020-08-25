@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionStatusReason"
+    id="521eff5b-884b-4260-8fd4-c070280ddc03"
+    documentation="Specifies the underlying reason for a status of a corporate action.&#xA;&#xA;Указывает на причину текущего состояния CA."/>

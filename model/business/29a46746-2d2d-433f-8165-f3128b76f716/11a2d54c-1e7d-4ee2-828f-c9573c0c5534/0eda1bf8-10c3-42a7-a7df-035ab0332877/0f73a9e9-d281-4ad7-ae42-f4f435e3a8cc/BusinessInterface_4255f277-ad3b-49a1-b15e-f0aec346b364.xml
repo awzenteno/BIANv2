@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerCreditRatingMeasurement"
+    id="4255f277-ad3b-49a1-b15e-f0aec346b364"
+    documentation="Record activity details/information against the Customer Credit Rating Measurement"/>

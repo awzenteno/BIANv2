@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCustomerServicingResourceAllocation"
+    id="3996645d-7c86-481f-bbab-e40001b8c39f"
+    documentation="Subscribe to Customer Servicing Resource Allocation notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" notifyCredit/ChargeCardBillingTransaction"
+    id="eaa0edbc-6d5c-409f-b0c7-5a792197135b"
+    documentation="Subscribe to Credit/Charge Card Billing Transaction notification services"/>

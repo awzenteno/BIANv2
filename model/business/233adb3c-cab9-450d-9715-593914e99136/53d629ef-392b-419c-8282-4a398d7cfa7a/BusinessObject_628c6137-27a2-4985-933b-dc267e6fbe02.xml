@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TaxVoucher"
+    id="628c6137-27a2-4985-933b-dc267e6fbe02"
+    documentation=" Statement showing the amount or value of a distribution and either the tax credit to which the recipient is entitled in respect of that distribution; or the amount of tax deducted from the distribution.&#xA;&#xA;Выписка с указанием суммы или стоимости распределения и налогового кредита, на который получатель имеет право в отношении этого распределения, или суммы налога, вычитаемого из распределения."/>

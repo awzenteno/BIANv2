@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">LimitStatus"
+    id="d0efa88c-8795-4100-9d30-6efe8290003a"
+    documentation=" Current status of the limit.&#xA;&#xA;Текущее состояние лимита."/>

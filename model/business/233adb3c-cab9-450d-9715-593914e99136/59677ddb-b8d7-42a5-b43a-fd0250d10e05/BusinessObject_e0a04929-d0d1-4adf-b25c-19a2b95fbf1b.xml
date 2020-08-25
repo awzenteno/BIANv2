@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerRegistry"
+    id="e0a04929-d0d1-4adf-b25c-19a2b95fbf1b"
+    documentation=" A registry whose entries represent customers&#xA;&#xA;Реестр, записи которого представляют клиентов"/>

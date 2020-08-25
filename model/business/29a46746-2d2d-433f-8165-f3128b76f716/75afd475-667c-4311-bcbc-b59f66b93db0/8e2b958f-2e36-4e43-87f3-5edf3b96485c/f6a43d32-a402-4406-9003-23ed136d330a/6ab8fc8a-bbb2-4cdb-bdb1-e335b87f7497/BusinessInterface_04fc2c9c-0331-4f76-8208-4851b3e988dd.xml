@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveSecurityTradingFailsManagementPlan"
+    id="04fc2c9c-0331-4f76-8208-4851b3e988dd"
+    documentation="Comment:&#xA;&#xA;Retrieve Security Trading Fails Management Plan related reports"/>

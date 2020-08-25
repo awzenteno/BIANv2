@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">NonDisclosedListTrading"
+    id="8f6e23a9-3ee8-43bd-a923-13504cdf370a"
+    documentation=" List trading by which the buy-side provides details to the sell-side information about the sector, country, index and potential market impact of the financial instrument to be bought or sold. Using this information, the sell-side firms bid for the trade.&#xA;&#xA;Список торговых операций, с помощью которых buy-side предоставляет подробную информацию sell-side о секторе, стране, индексе и потенциальном рыночном влиянии финансового инструмента, который будет куплен или продан. Используя эту информацию, фирмы продающей стороны предлагают цену для торговли."/>

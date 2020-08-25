@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ExecutingTrader"
+    id="c3f0e5ae-f8a3-4453-8da7-384e3f444df5"
+    documentation="Trader that executes a trade for an organisation.&#xA;&#xA;Трейдер, который выполняет сделку для организации."/>

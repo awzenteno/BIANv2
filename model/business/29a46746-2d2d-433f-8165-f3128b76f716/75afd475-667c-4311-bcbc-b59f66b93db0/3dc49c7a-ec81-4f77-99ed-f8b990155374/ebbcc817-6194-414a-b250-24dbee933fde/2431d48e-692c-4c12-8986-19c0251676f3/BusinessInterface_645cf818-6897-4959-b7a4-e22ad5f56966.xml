@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCustomerBillingProcedure"
+    id="645cf818-6897-4959-b7a4-e22ad5f56966"
+    documentation="Record information against an active customer invoice"/>

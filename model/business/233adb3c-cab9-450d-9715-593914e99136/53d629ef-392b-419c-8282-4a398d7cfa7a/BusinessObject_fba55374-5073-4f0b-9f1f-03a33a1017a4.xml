@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AffirmingPartyRole"
+    id="fba55374-5073-4f0b-9f1f-03a33a1017a4"
+    documentation="Party (buyer or seller) that positively affirms the details of a previously agreed security trade confirmation.&#xA;&#xA;&#xA;Сторона (покупатель или продавец), которая положительно подтверждает детали ранее согласованного подтверждения сделки с ценной бумагой."/>

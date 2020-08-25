@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordBuildingMaintenanceAgreement"
+    id="5ea2acc1-93fb-48ff-a207-ecf195575193"
+    documentation="Record activity details/information against the Building Maintenance Agreement"/>

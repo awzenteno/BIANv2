@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" recordLead/OpportunityProcedure"
+    id="50734648-826c-4f26-ad35-26bbbe1cce98"
+    documentation="Record activity/feedback against an active lead/opportunity"/>

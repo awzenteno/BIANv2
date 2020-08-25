@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeFinancialControlAssessment"
+    id="4494628c-88b1-4b90-a2be-4a62e06bfca7"
+    documentation="Obtain authorization for some action under the Financial Control Assessment"/>

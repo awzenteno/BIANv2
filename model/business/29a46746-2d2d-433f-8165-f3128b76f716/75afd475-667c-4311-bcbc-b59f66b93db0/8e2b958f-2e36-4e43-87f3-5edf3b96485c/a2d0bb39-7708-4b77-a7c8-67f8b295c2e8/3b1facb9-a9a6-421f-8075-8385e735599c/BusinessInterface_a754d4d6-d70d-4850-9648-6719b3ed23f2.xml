@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateMerchant FulfillmentArrangement"
+    id="a754d4d6-d70d-4850-9648-6719b3ed23f2"
+    documentation="Update work tasks and activity details for the merchant fulfillment arrangement"/>

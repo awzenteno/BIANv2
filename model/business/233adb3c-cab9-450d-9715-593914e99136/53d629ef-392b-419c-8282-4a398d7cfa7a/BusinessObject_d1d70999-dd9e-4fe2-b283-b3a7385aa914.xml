@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">UndertakingStatusReason"
+    id="d1d70999-dd9e-4fe2-b283-b3a7385aa914"
+    documentation=" Specifies the reason for the status or for the action (for instance settlement reason).&#xA;&#xA;Указывает причину состояния или действия (например, причину уплаты)."/>

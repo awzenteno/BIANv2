@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyBuildingAdministrativePlan"
+    id="839565a2-4794-43e3-9ccc-cfe8437c5371"
+    documentation="Subscribe to Building Administrative Plan notification services"/>

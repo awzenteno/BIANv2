@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Set up new sales product"
+    id="bfb44272-4856-49dc-9fa2-75ddf2f61a39">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_b1b039da-5075-4404-8215-7582c43c92e5.xml#b1b039da-5075-4404-8215-7582c43c92e5"/>
+</archimate:TriggeringRelationship>

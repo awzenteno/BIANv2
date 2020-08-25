@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CrossTrade"
+    id="f0147a8b-bc92-47e8-91bf-097e426638b8"
+    documentation="Transaction where either the buy-broker and the sell-broker are the same, or the buy-broker and the sell-broker belong to the same firm.&#xA;&#xA;Сделка, где посреник_купли и посредник_продажи такие же, или посреник_купли и посредник_продажи  принадлежат той же фирме."/>

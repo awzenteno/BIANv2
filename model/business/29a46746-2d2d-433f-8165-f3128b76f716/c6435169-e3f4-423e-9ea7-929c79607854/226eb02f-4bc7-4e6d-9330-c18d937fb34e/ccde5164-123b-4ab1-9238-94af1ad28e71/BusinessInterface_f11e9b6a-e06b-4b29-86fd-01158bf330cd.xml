@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCompetitorAnalysis"
+    id="f11e9b6a-e06b-4b29-86fd-01158bf330cd"
+    documentation="Retrieve Competitor Analysis related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyLiquidityRiskModelSpecification"
+    id="693e1863-83cc-499d-b6c8-016e03a812da"
+    documentation="Comment:&#xA;&#xA;Subscribe to Liquidity Risk Model Specification notification services"/>

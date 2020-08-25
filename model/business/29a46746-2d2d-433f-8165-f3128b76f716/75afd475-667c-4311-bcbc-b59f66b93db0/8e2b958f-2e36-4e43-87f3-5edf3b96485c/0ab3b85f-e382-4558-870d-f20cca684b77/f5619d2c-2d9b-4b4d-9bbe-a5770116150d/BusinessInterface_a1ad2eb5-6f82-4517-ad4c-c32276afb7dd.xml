@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveQuotationProcedure"
+    id="a1ad2eb5-6f82-4517-ad4c-c32276afb7dd"
+    documentation="Comment:&#xA;&#xA;Retrieve Quotation Procedure related reports"/>

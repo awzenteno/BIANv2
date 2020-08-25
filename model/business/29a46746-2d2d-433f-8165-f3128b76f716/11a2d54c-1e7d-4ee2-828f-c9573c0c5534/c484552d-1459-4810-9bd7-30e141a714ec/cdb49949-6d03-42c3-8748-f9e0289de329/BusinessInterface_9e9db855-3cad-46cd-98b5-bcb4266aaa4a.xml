@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCustomerContactOperatingSessionOutboundSession"
+    id="9e9db855-3cad-46cd-98b5-bcb4266aaa4a"
+    documentation="Execute an outbound customer contact"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CashSettlementInstructionPartyRole"
+    id="fee07d43-f360-47e2-8ad3-799e9fbde494"
+    documentation=" Role played by a party in cash settlement.&#xA;&#xA;Роль стороны в наличном расчете."/>

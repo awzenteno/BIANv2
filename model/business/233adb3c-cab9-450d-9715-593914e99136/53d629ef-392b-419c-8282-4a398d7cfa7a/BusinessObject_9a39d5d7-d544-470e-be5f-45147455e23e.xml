@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AllocationPartyRole"
+    id="9a39d5d7-d544-470e-be5f-45147455e23e"
+    documentation="Party which instructs the trade allocation to the executing party.&#xA;&#xA;&#xA;Сторона, которая поручает распределение торговли исполняющей стороне.&#xA;&#xA;"/>

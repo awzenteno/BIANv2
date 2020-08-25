@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminate active loan"
+    id="03c03990-50f7-474e-858d-a02fbb501e34">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1ed107eb-1b9e-4c10-b72c-6cde7579c648.xml#1ed107eb-1b9e-4c10-b72c-6cde7579c648"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_47d7efe6-7def-4309-85f4-97bfc26f29a7.xml#47d7efe6-7def-4309-85f4-97bfc26f29a7"/>
+</archimate:TriggeringRelationship>

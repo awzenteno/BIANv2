@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Confirm action covered by agreement"
+    id="8b950ffa-8317-4c23-84cc-5ddab4cd3116">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_30fb84aa-52c1-4aae-afa9-0e933e04476a.xml#30fb84aa-52c1-4aae-afa9-0e933e04476a"/>
+</archimate:TriggeringRelationship>

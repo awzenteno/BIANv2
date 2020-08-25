@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecondaryOwner"
+    id="8687aa62-4872-45b6-b940-7229e5a2b9c1"
+    documentation="Entity that is not the primary owner when the ownership of the investment account is split among several owners.&#xA;&#xA;Организация, не являющаяся основным владельцем инвестиционного счета, если право собственности на инвестиционный счет разделено между несколькими владельцами."/>

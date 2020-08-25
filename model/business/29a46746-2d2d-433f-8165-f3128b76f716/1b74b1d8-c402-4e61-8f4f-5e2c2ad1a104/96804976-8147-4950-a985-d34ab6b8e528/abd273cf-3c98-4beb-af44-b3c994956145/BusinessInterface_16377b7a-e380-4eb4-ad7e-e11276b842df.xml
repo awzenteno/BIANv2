@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyQuantModelSpecification"
+    id="16377b7a-e380-4eb4-ad7e-e11276b842df"
+    documentation="Comment:&#xA;&#xA;Subscribe to Quant Model Specification notification services"/>

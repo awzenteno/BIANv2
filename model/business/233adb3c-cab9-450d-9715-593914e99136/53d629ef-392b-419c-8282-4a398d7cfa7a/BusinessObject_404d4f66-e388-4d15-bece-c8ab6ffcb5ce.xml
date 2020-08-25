@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">BuyIn"
+    id="404d4f66-e388-4d15-bece-c8ab6ffcb5ce"
+    documentation="CCP / Central Counterparty / центральный контрагент&#xA;&#xA;buy in / скупать акции /  выкупать (на аукционе) собственные вещи по низшей отправной цене &#xA;&#xA;&#xA;Process in which the buyer/CCP repurchases shares of stock because the seller either failed to deliver the shares or did not deliver them in a timely fashion. The seller has to make up the price difference if the new shares are more expensive than originally agreed to.&#xA;&#xA;&#xA;Процесс, в котором покупатель/CCP выкупает акции, потому что продавец либо не поставил акции или не поставил их своевременно. Продавец должен компенсировать разницу в цене, если новые акции будут дороже, чем первоначально договаривались."/>

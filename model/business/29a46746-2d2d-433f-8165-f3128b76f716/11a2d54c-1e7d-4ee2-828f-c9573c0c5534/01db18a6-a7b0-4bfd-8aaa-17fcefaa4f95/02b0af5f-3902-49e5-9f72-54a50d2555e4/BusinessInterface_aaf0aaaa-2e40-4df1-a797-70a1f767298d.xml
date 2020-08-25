@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEBranchChannelOperatingSession"
+    id="aaf0aaaa-2e40-4df1-a797-70a1f767298d"
+    documentation=" Retrieve an operating session report"/>

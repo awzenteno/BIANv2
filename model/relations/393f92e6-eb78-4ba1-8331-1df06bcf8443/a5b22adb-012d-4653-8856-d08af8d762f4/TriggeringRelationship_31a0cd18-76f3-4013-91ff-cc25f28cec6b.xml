@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Assess/test production capability"
+    id="31a0cd18-76f3-4013-91ff-cc25f28cec6b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_15519ec9-4ec9-406c-9ad6-30bd21c34d6f.xml#15519ec9-4ec9-406c-9ad6-30bd21c34d6f"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_2c243588-aeb0-4a9a-bbcf-90ba57021f94.xml#2c243588-aeb0-4a9a-bbcf-90ba57021f94"/>
+</archimate:TriggeringRelationship>

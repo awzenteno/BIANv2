@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrievePaymentOrderTransaction"
+    id="dbc161ec-455b-4020-9c09-b32d5c698363"
+    documentation=" Retrieve a payment order transaction report"/>

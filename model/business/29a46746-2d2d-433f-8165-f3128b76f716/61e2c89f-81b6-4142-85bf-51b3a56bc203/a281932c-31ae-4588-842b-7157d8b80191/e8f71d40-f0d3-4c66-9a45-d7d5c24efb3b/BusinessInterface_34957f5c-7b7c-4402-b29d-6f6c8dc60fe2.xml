@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveBusinessUnitFinanceAnalysis"
+    id="34957f5c-7b7c-4402-b29d-6f6c8dc60fe2"
+    documentation="Retrieve Business Unit Finance Analysis related reports"/>

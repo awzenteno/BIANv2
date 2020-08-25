@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Execute payment to account"
+    id="fc7ae881-0be5-4879-86fc-6b8e2265f766">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_34eabdca-5f1b-43b6-92a4-8a22ae186844.xml#34eabdca-5f1b-43b6-92a4-8a22ae186844"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_ca68df7c-ca1a-4bfe-8745-6f80ff8b3747.xml#ca68df7c-ca1a-4bfe-8745-6f80ff8b3747"/>
+</archimate:TriggeringRelationship>

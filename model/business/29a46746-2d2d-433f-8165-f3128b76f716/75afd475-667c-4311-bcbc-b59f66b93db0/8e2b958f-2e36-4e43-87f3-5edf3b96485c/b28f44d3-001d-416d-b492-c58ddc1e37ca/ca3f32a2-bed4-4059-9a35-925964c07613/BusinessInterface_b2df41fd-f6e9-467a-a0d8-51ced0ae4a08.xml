@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveLoanFulfillmentArrangement"
+    id="b2df41fd-f6e9-467a-a0d8-51ced0ae4a08"
+    documentation="Retrieve loan fulfillment arrangement related reports"/>

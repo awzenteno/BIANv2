@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveEmployeeAgreement"
+    id="f54941c6-3111-4dd7-85eb-f44497dad538"
+    documentation="Retrieve Employee Agreement related reports"/>

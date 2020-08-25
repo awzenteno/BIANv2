@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerWorkbenchSession"
+    id="ac2b5792-6959-4629-a20d-a97b5cce3372"
+    documentation=" An operating session of the customer workbench&#xA;&#xA;Рабочий сеанс рабочего места клиента"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordServicingEventLogServicingIssueEvent"
+    id="978b751a-efd0-420d-b346-9a7b191855d2"
+    documentation=" Record a servicing issue event (e.g. problem with help text)"/>

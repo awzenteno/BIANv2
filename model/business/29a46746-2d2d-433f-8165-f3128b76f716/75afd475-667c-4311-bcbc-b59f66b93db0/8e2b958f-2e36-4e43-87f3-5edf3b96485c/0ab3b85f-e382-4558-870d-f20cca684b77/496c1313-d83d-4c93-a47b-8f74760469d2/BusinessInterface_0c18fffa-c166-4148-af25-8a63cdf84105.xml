@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveTradingCreditPositionMeasurement"
+    id="0c18fffa-c166-4148-af25-8a63cdf84105"
+    documentation="Comment:&#xA;&#xA;Retrieve Trading Credit Position Measurement related reports"/>

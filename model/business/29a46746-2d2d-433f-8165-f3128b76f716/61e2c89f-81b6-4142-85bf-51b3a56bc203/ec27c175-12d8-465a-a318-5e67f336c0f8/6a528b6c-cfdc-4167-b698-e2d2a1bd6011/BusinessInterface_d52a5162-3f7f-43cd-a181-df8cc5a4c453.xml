@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCorrespondenceOperatingSession"
+    id="d52a5162-3f7f-43cd-a181-df8cc5a4c453"
+    documentation="Subscribe to Correspondence Operating Session notification services"/>

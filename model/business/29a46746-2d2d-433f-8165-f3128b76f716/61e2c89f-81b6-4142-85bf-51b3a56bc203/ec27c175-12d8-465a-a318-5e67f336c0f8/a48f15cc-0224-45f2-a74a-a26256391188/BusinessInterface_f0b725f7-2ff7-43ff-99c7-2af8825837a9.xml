@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestArchiveOperatingSession"
+    id="f0b725f7-2ff7-43ff-99c7-2af8825837a9"
+    documentation="Request a service under the Archive Operating Session"/>

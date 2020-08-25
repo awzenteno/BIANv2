@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record Lost/Stolen Device"
+    id="bd927cc0-7c2d-4671-977a-cf7cfffabc69">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_435b3f41-e0b8-45e0-a676-e669f1853f6e.xml#435b3f41-e0b8-45e0-a676-e669f1853f6e"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_43c10405-044d-4cfd-9a56-1ac45df8122d.xml#43c10405-044d-4cfd-9a56-1ac45df8122d"/>
+</archimate:TriggeringRelationship>

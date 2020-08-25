@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCustomerEligibilityAssessment"
+    id="42b00bae-0e98-45b7-882a-8a0d63859c93"
+    documentation="Activate the Customer Eligibility Assessment service "/>

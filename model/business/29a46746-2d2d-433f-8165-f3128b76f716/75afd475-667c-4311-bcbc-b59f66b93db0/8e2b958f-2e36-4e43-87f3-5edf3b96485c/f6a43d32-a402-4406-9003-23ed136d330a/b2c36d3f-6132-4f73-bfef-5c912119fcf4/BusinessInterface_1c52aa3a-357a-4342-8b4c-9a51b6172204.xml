@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveMarketTradeReportingOperatingSession"
+    id="1c52aa3a-357a-4342-8b4c-9a51b6172204"
+    documentation="Retrieve Market Trade Reporting Operating Session related reports"/>

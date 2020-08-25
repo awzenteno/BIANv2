@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configureIssuedDeviceAllocation"
+    id="06697d32-f690-46a6-9873-08a66b2df33b"
+    documentation="Amend the configuration arrangements/parameters governing the Issued Device Allocation service"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyFinancialMarketAnalysis"
+    id="0f92023c-d08c-4c59-b395-f2a539d811eb"
+    documentation="Comment:&#xA;&#xA;Subscribe to Financial Market Analysis notification services"/>

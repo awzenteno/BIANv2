@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCreditRiskModelSpecification"
+    id="0aadc757-04ec-4a92-9ada-b6d22230d0e4"
+    documentation="Retrieve Credit Risk Model Specification related reports"/>

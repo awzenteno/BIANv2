@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateCommissionTransaction"
+    id="fe9d7a89-f84f-473a-9240-eaac051848d5"
+    documentation="Comment:&#xA;&#xA;Update elements of the Commission Transaction"/>

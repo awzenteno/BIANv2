@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeECommerceGatewayOperatingSession"
+    id="693fbb6f-27a1-4e83-a312-d67bb14e55c2"
+    documentation="Execute a task under the e commerce gateway operating session"/>

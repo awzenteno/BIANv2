@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProductInventoryDistributionAdministrativePlan"
+    id="4c4e85c7-6083-493f-aa03-caaf2ce5a86d"
+    documentation="Retrieve Product Inventory Distribution Administrative Plan related reports"/>

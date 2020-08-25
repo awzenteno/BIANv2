@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerOfferManagement"
+    id="3fff251a-3f36-482d-8411-571aeb1e2353"
+    documentation="A management process that governs the offering of an agreement to a prospect.&#xA;&#xA;Note: The receipt of an offer changes the classification of a party role from a prospect to customer.&#xA;&#xA;&#xA;__Процесс управления, который регулирует предложение офера предполагаемому клиенту.__&#xA;&#xA;Примечание: получение предложения изменяет классификацию роли участника от потенциального клиента к покупателю_.&#xA;&#xA;"/>

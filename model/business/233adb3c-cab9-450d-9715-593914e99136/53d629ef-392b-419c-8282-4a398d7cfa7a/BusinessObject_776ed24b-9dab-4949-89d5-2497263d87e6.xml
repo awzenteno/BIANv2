@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">OperationThreshold"
+    id="776ed24b-9dab-4949-89d5-2497263d87e6"
+    documentation="Threshold related to a bank account operation.&#xA;&#xA;Порог, связанный с операцией банковского счета."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorizeCustomerEligibilityAssessment"
+    id="3a7f7b63-9df8-45e9-9e7d-cf2eda5375f9"
+    documentation="Obtain authorization for some action under the Customer Eligibility Assessment"/>

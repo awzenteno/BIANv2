@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveITSystemAdministrativePlan"
+    id="9909945c-458b-4546-9f36-c52ba8999b7c"
+    documentation="Retrieve IT System Administrative Plan related reports"/>

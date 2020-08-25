@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" retrieveProduct/CustomerCombinationAssessment"
+    id="2d65926f-2821-49e0-ad6b-152680676a40"
+    documentation="Retrieve a product matching assessment report"/>

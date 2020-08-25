@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="evaluateSubCustodianAgreement"
+    id="04b59590-c59f-4f5e-a94d-032ffc9dafb9"
+    documentation=" Comment:&#xA;&#xA;Check/verify compliance with SubCustodian Agreement related checks/assessments&#xA;"/>

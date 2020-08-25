@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCreditPositionMeasurement"
+    id="e4b9ee42-c676-48a9-bf53-f9fe493100ec"
+    documentation="Subscribe to Credit Position Measurement notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">GiveUpClearingFirm"
+    id="759db6ba-dbb5-4a3d-9dcf-63a10bd7469c"
+    documentation=" Firm to which the trade is given up (carries the position that results from a trade).&#xA;&#xA;Фирма, которой отдана сделка (занимает позицию, являющуюся результатом сделки)."/>

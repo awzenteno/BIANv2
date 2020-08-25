@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordCurrentAccountFulfillmentArrangement"
+    id="b5c21fb6-4166-478b-a079-d7cc1e8c7cd4"
+    documentation="Record activity/feedback against a current account arrangement"/>

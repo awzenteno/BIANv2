@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registry"
+    id="17e36f4e-411c-416d-a079-114e4006a4f7"
+    documentation="directory / registry / каталог чего-либо&#xA;&#xA;&#xA;A system that registers some specific kind of element in a database, and is managed by a duly constituted registration authority&#xA;&#xA;Note: BIAN uses the term Directory to represent the same concept as is termed a Registry in ISO 20022&#xA;&#xA;&#xA;&#xA;Система, которая регистрирует определенный элемент в базе данных и управляется надлежащим образом созданным регистрирующим органом&#xA;&#xA;Примечание: BIAN использует термин каталог для представления того же понятия, что и реестр в ISO 20022"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get campaign execution reports"
+    id="5447b87a-654b-4023-b0e1-227615e3c0e0">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_34945909-17a1-4086-b58d-49426a02ce12.xml#34945909-17a1-4086-b58d-49426a02ce12"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_d4369376-f845-4ba6-84af-bc84edf0e0b3.xml#d4369376-f845-4ba6-84af-bc84edf0e0b3"/>
+</archimate:TriggeringRelationship>

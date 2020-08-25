@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestDunningProcedure"
+    id="8800fc3b-2751-4453-9b41-1d9e40095909"
+    documentation=" Request a customer contact/chasing action (workflow)"/>

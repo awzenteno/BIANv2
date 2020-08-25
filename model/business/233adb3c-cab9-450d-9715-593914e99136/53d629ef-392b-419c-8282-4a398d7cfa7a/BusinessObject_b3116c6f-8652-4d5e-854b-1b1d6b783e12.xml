@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesOrderStatus"
+    id="b3116c6f-8652-4d5e-854b-1b1d6b783e12"
+    documentation=" Status of a securities order or of the processing of a securities order.&#xA;&#xA;Статус заказа ценных бумаг или обработки заказа ценных бумаг."/>

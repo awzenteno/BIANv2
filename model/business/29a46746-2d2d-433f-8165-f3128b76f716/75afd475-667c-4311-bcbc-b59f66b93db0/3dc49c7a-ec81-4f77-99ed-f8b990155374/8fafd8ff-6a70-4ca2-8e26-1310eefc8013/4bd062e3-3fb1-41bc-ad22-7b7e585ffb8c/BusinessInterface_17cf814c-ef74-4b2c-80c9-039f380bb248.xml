@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCollateralAssetAllocation"
+    id="17cf814c-ef74-4b2c-80c9-039f380bb248"
+    documentation="Subscribe to Collateral Asset Allocation notification services"/>

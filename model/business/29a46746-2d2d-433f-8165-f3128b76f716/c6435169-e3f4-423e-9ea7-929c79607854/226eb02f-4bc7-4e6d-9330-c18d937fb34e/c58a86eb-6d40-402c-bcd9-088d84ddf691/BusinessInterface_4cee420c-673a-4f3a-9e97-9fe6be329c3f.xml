@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestProductPortfolioAnalysis"
+    id="4cee420c-673a-4f3a-9e97-9fe6be329c3f"
+    documentation="Request a service under the Product Portfolio Analysis"/>

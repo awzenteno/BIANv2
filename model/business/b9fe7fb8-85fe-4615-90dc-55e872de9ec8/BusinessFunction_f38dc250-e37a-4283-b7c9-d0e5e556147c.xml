@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="->Initiate"
+    id="f38dc250-e37a-4283-b7c9-d0e5e556147c"
+    documentation="Begin an action including any required initialization. &#xA;Example: Initiate a payment transaction."/>

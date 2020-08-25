@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">FinancingRequestorRole"
+    id="9e8f6d5f-8672-47a4-b486-8a8b81e2a50f"
+    documentation=" Credit party that requests the invoice financing, on behalf of creditor.&#xA;&#xA;Кредитная сторона, запрашивающая финансирование счета-фактуры от имени кредитора."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Inform Correspondent Bank on rejection of Incoming Direct Debit instruction"
+    id="9076020a-0fda-4ba0-aee5-33a555566195">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_37a1f7d9-de5a-45c1-b745-13a751c6e274.xml#37a1f7d9-de5a-45c1-b745-13a751c6e274"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_48c875cb-b822-4eca-93f1-af89afab46be.xml#48c875cb-b822-4eca-93f1-af89afab46be"/>
+</archimate:TriggeringRelationship>

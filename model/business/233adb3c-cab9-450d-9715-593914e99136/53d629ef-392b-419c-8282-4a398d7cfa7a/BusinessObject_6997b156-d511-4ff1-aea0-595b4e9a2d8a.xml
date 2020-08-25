@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesTrade"
+    id="6997b156-d511-4ff1-aea0-595b4e9a2d8a"
+    documentation=" Specifies trades linked to securities operations such as the exchange of securities, the lending of securities and the transactions related to investment funds.&#xA;&#xA;Определяет сделки, связанные с операциями с ценными бумагами, такими как обмен ценными бумагами, кредитование ценных бумаг и операции, связанные с инвестиционными фондами."/>

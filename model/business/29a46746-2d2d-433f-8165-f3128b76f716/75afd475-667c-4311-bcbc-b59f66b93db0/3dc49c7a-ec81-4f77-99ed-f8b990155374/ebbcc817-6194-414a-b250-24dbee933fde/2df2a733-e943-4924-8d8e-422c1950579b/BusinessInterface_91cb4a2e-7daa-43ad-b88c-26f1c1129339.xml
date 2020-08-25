@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordIssuedDeviceMeasurement"
+    id="91cb4a2e-7daa-43ad-b88c-26f1c1129339"
+    documentation="Record activity details/information against the Issued Device Measurement"/>

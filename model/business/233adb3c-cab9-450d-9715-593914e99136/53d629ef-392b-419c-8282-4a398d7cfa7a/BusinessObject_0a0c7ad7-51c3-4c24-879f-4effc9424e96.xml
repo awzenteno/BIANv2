@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MandateHolder"
+    id="0a0c7ad7-51c3-4c24-879f-4effc9424e96"
+    documentation=" Entity that was given by another entity the authority to act on its behalf.&#xA;&#xA;Субъект, которому другой субъект предоставил полномочия действовать от его имени."/>

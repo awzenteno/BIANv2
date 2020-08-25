@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateChequeProcessingOperatingSession"
+    id="82253a9a-c819-4daa-9674-1e66f2a92fc9"
+    documentation="Terminate all or some part of the Cheque Processing Operating Session"/>

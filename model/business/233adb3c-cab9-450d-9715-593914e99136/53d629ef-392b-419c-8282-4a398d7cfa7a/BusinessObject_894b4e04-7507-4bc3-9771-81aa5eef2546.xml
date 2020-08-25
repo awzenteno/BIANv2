@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AcceptorConfiguration"
+    id="894b4e04-7507-4bc3-9771-81aa5eef2546"
+    documentation=" Acceptor parameters to be downloaded from the terminal management system.&#xA;&#xA;&#xA;Параметры акцептора, который нужно загрузить от терминальной системы управления.&#xA;&#xA;&#xA;&#xA;acceptor / приёмщик / получатель&#xA;&#xA;"/>

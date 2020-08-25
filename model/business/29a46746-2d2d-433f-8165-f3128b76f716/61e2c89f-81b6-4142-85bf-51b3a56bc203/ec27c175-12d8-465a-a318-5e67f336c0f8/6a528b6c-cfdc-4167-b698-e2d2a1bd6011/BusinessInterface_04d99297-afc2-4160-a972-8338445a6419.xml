@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCorrespondenceOperatingSession"
+    id="04d99297-afc2-4160-a972-8338445a6419"
+    documentation="erminate all or some part of the Correspondence Operating Session"/>

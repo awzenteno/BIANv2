@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Clearing"
+    id="3558df8d-bf3b-44a4-998e-ca89375650e4"
+    documentation=" Mechanism allowing financial institutions that are members of a clearing house to pay and to receive the amounts linked to the transactions that they have executed on the market. The addition of all the positions per product results in one net position (due or to receive) with the clearing house or the central clearing counterparty.&#xA;&#xA;Механизм, позволяющий финансовым учреждениям, являющимся членами клиринговой палаты, выплачивать и получать суммы, связанные с операциями, которые они осуществили на рынке. Добавление всех позиций по каждому продукту приводит к одной чистой позиции (причитающейся или подлежащей получению) в клиринговой палате или центральном клиринговом контрагенте."/>

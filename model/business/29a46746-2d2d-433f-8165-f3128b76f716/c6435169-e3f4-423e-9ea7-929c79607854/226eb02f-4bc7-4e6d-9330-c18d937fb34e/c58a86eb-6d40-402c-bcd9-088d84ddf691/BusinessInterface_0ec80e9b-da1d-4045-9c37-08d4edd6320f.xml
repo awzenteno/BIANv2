@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveProductPortfolioAnalysis"
+    id="0ec80e9b-da1d-4045-9c37-08d4edd6320f"
+    documentation="Retrieve Product Portfolio Analysis related reports"/>

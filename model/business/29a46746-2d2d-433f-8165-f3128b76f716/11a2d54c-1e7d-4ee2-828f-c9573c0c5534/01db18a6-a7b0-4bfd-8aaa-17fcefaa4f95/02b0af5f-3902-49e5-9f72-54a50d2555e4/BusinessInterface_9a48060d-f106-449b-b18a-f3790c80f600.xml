@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyEBranchChannelOperatingSession"
+    id="9a48060d-f106-449b-b18a-f3790c80f600"
+    documentation="Subscribe to eBranch Channel Operating Session notification services"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">BulkPayment"
+    id="4cd7c978-c702-4f81-9935-18ae480ba2bd"
+    documentation="Payment which contains a series of other payments which have been grouped under specific criteria. A bulk payment can only contain individual payments of the same type (credit transfer or direct debit).&#xA;&#xA;Платеж, который содержит ряд других платежей, сгруппированных по определенным критериям. Массовый платеж может содержать только отдельные платежи того же типа (кредитный перевод или прямое дебетование)."/>

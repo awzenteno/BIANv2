@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cross Channel"
+    id="85ccbcbd-aac6-45b4-bebc-395817aa805a"
+    documentation="This business domain contains the collection of Service Domains that handle the customer interaction across all possible channels, including customer identity authentication and activity authorization. It supports multiple session/device contacts and enables the leverage of the customer interaction and the build-up and analysis of access history.&#xA;&#xA;&#xA;Этот бизнес-домен содержит коллекцию доменов служб, которые обрабатывают взаимодействие с клиентами по всем возможным каналам, включая проверку подлинности удостоверения клиента и авторизацию действий. Он поддерживает множественные контакты встречи / прибора и включает систему рычагов взаимодействия клиента и нарастания и анализа истории доступа.&#xA;&#xA;&#xA;&#xA;&#xA;Бизнес-домен: &#xD;&#xA;&#xD;&#xA;Этот бизнес-домен включает в себя &#xD;&#xA;Сюда относится "/>

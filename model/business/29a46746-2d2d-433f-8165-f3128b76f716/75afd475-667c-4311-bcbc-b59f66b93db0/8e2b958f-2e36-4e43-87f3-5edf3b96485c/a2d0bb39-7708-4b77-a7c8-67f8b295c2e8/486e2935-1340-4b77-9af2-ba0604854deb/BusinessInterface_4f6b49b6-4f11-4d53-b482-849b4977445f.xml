@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateCredit/ChargeCardFulfillmentArrangement"
+    id="4f6b49b6-4f11-4d53-b482-849b4977445f"
+    documentation="Termination request for a credit/charge card arrangement"/>

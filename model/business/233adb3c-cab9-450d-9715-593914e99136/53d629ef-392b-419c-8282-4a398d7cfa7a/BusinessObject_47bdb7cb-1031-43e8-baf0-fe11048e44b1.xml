@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AssignedProxyRole"
+    id="47bdb7cb-1031-43e8-baf0-fe11048e44b1"
+    documentation="_доверенное лицо_ &#xA;&#xA;Party appointed by the rights holder to attend a meeting and vote in its name. The proxy can be the chairman of the meeting or another party selected by the issuer. The proxy can also be a third party selected by the rights holder.&#xA;The proxy can be assigned by a specific instruction or pre-assigned by the issuer of the meeting.&#xA;&#xA;&#xA;&#xA;Партия, назначенная правообладателем для участия в собрании и голосования от своего имени. Доверенным лицом может быть председатель собрания или другая сторона, выбранная эмитентом. Доверенным лицом может быть также третье лицо, выбранное правообладателем.&#xA;Доверенное лицо может быть назначено по определенной инструкции или предварительно назначено издателем собрания."/>

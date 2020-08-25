@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveDevelopmentEnvironmentAdministrativePlan"
+    id="544be6b8-314e-4ef5-857f-bd2a99c544e1"
+    documentation="Retrieve Development Environment Administrative Plan related reports"/>

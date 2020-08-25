@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeCustomerBillingProcedure"
+    id="2b255af8-1235-4836-b2aa-36c3610ba6ca"
+    documentation="Execute a task under the Customer Billing Procedure"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCardPOSNetworkAdministrativePlan"
+    id="7beaf1d1-75f2-4bfa-9e5e-74e76a0fb8e1"
+    documentation=" Retrieve card p o s network administrative plan related reports"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="terminateMarketTradeReportingOperatingSession"
+    id="aa75ebea-0411-4de1-ae72-f665c66d4d18"
+    documentation="Terminate all or some part of the Market Trade Reporting Operating Session"/>

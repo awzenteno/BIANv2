@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">InvestmentFund"
+    id="0730dfdf-d61f-477d-90f8-f8dd00982205"
+    documentation=" Distinct pool of financial instruments managed by a single investment policy. May or not be part of an umbrella fund. The pool is issued in at least one investment fund class.&#xA;&#xA;Отдельный пул финансовых инструментов, управляемый единой инвестиционной политикой. Может быть или не быть частью зонтичного фонда. Пул выпускается как минимум в одном классе инвестиционных фондов."/>

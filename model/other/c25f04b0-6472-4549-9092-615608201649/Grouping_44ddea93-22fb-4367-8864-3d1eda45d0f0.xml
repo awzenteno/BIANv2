@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cards"
+    id="44ddea93-22fb-4367-8864-3d1eda45d0f0"
+    documentation=" The Cards Business Domain contains the fulfillment Service Domains for all cards related products (Credit &amp; Charge). Note that debit cards associated with a current account may leverage some of these capabilities and that many merchant related activities are not fully represented in the model at this stage.&#xA;&#xA;&#xA;&#xA;Бизнес-домен карты содержит Домены службы выполнения для всех продуктов, связанных с картами (Credit &amp; Charge). Обратите внимание, что дебетовые карты, связанные с текущим счетом, могут использовать некоторые из этих возможностей и что многие действия, связанные с продавцом, не полностью представлены в модели на данном этапе."/>

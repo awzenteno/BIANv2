@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeLeasingFulfillmentArrangement"
+    id="8aaf0686-0220-49aa-a397-63db909eac5f"
+    documentation="Comment:&#xA;&#xA;Execute a task under the Leasing"/>

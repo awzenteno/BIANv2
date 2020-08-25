@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">TaxPeriod"
+    id="945699c9-0734-4d3e-89fe-46e19fdb4ba0"
+    documentation=" Period of time details related to the tax payment.&#xA;&#xA;Детали периода времени, связанные с уплатой налога."/>

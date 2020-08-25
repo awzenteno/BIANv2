@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Discretion"
+    id="40106583-94f6-473d-86a4-e3c4ca5d46de"
+    documentation=" Indicates on an order that the trader wishes to display one price in the market but will accept trades at another price.&#xA;&#xA;Указывает на ордер, что трейдер хочет отобразить одну цену на рынке, но будет принимать сделки по другой цене."/>

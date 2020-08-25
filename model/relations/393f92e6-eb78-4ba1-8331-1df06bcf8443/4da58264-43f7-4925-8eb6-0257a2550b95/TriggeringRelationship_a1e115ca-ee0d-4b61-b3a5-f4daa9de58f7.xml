@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Customer Notification"
+    id="a1e115ca-ee0d-4b61-b3a5-f4daa9de58f7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a638d249-a4a1-4e13-b5cb-e551bda9ac48.xml#a638d249-a4a1-4e13-b5cb-e551bda9ac48"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_e5877933-1875-4bec-bbd7-3f91c445080d.xml#e5877933-1875-4bec-bbd7-3f91c445080d"/>
+</archimate:TriggeringRelationship>

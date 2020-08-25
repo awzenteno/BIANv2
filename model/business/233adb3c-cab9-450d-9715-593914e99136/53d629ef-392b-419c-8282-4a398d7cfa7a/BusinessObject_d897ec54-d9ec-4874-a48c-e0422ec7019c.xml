@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">CorporateActionNotification"
+    id="d897ec54-d9ec-4874-a48c-e0422ec7019c"
+    documentation=" The process of notifying of an upcoming corporate action. It provides corporate action details including the different options.&#xA;&#xA;Процесс уведомления о предстоящем CA. Он предоставляет детали CA, включая различные варианты."/>

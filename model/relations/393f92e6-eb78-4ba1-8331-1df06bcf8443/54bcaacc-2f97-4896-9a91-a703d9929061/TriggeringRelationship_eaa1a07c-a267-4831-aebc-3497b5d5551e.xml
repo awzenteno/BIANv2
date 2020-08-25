@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Get investment portfolio details"
+    id="eaa1a07c-a267-4831-aebc-3497b5d5551e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b3d1ef03-c207-426e-b799-14f293088a58.xml#b3d1ef03-c207-426e-b799-14f293088a58"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4e65973d-3dd5-49ef-b994-bcaad265733a.xml#4e65973d-3dd5-49ef-b994-bcaad265733a"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesLending"
+    id="d95a0709-77ec-4ef5-b846-bd560781f4cc"
+    documentation=" Lending of securities by one party to another. The terms of the loan are governed by an agreement that requires the borrower to provide the lender with collateral of value equal to or greater than the loaned securities. As payment for the loan, the parties negotiate a fee, quoted as an annualised percentage of the value of the loaned securities.&#xA;&#xA;Предоставление ценных бумаг одной стороной другой стороне. Условия займа регулируются соглашением, которое обязывает заемщика предоставить кредитору обеспечение на сумму, равную или превышающую стоимость предоставленных ценных бумаг. В качестве оплаты по кредиту стороны договариваются об уплате комиссии, выраженной в процентах годовых от стоимости предоставленных ценных бумаг."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeRemittanceTransaction"
+    id="fca5eb83-37d0-4ae4-a1da-82eefb8d3544"
+    documentation="Execute an automated action against active remittance transaction (scheduled activation)"/>

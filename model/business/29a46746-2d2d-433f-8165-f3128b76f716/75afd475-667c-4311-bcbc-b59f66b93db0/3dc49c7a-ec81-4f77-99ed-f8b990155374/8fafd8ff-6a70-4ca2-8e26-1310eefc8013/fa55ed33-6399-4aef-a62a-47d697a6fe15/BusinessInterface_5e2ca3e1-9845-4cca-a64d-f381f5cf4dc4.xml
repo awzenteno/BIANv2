@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCollateralAssetLiquidationProcedure"
+    id="5e2ca3e1-9845-4cca-a64d-f381f5cf4dc4"
+    documentation="Retrieve Collateral Asset Liquidation Procedure related reports"/>

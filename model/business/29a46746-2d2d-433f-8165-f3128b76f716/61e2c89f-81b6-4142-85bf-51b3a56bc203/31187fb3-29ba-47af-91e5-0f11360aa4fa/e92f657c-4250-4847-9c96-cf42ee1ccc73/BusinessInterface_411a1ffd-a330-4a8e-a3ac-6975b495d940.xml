@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateSupplierMembership"
+    id="411a1ffd-a330-4a8e-a3ac-6975b495d940"
+    documentation="Assign responsibility for the Supplier Enrollment service"/>

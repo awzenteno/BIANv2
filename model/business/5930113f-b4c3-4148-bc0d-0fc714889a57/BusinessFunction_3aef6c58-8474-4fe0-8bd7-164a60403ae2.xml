@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Administer"
+    id="3aef6c58-8474-4fe0-8bd7-164a60403ae2"
+    documentation="Handle and assign the day to day activities, capture time, costs and income for an operational unit. &#xA;Example: Administer the time reporting and billing for the specialist sales support team. &#xA;&#xA;Unassigned&#xA;Administration-allocated&#xA;Under-administration&#xA;Administered-under-review&#xA;Administration-suspended&#xA;Administration-concluded&#xA;&#xA;"/>

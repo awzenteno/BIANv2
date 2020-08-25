@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyLoanFulfillmentArrangement"
+    id="19bbb648-d408-4f57-b519-396ba91707d8"
+    documentation="Subscribe to loan fulfillment arrangement notification services"/>

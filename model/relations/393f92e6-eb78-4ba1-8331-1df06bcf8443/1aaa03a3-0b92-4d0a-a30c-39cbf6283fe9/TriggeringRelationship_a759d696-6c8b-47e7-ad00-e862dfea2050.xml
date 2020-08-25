@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Record request to move a Corporate Current Account"
+    id="a759d696-6c8b-47e7-ad00-e862dfea2050">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7ce48e4e-19f9-423b-800e-748e951e1dd5.xml#7ce48e4e-19f9-423b-800e-748e951e1dd5"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_261cce05-6d5e-4cc9-8f28-f2fc108c8ad7.xml#261cce05-6d5e-4cc9-8f28-f2fc108c8ad7"/>
+</archimate:TriggeringRelationship>

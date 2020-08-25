@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MatchingSystem"
+    id="71b44268-435a-44d4-8296-4aba47d29112"
+    documentation=" System which compares two sets of data and provides the comparison result to its users.&#xA;&#xA;Система, которая сравнивает два набора данных и предоставляет результат сравнения своим пользователям."/>

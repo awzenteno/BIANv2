@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configureProductInventoryAllocation"
+    id="adf6b50c-a69e-4711-8ed3-8f2da8ffd82e"
+    documentation="Amend the configuration arrangements/parameters governing the Product Inventory Allocation service"/>

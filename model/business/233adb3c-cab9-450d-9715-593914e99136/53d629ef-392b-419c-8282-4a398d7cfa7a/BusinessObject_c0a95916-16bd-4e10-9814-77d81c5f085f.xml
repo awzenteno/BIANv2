@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ChargeRecipient"
+    id="c0a95916-16bd-4e10-9814-77d81c5f085f"
+    documentation="Party entitled to the amount of money resulting from a charge.&#xA;&#xA;Сторона, имеющая право на денежную сумму, полученную в результате взимания сборов."/>

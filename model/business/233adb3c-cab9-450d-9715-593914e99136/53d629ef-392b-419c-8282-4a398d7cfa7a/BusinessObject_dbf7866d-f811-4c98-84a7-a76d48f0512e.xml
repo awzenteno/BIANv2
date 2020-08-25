@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">Meeting"
+    id="dbf7866d-f811-4c98-84a7-a76d48f0512e"
+    documentation="Specifies the physical parameters of a general meeting. Several dates and places can be defined for a meeting.&#xA;&#xA;Задает физические параметры общего собрания. Для встречи можно определить несколько дат и мест."/>

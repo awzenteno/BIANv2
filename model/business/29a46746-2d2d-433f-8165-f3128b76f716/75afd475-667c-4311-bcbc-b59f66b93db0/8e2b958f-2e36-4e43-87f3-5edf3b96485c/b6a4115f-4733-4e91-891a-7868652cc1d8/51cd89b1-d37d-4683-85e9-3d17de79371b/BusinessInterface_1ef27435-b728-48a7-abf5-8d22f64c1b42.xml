@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestCustomerTaxObligationFulfillmentArrangement"
+    id="1ef27435-b728-48a7-abf5-8d22f64c1b42"
+    documentation="Request a service under the Customer Tax Obligation"/>

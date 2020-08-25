@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestMerchantRelationshipAgreement"
+    id="a21f9449-7b07-48fc-9437-94703ff563e4"
+    documentation="Request a service under the Merchant Relationship Agreement "/>

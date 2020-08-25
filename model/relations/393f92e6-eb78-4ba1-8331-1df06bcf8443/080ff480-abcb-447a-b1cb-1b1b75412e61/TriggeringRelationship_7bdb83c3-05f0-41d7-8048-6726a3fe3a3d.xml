@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get customer bahavior models"
+    id="7bdb83c3-05f0-41d7-8048-6726a3fe3a3d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_16dffb0b-3a23-42d4-a289-7390d8f211db.xml#16dffb0b-3a23-42d4-a289-7390d8f211db"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_1cffaafb-abe1-44d8-88fe-fdf2f1663256.xml#1cffaafb-abe1-44d8-88fe-fdf2f1663256"/>
+</archimate:TriggeringRelationship>

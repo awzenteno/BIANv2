@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">BuyerRole"
+    id="7b53cea3-9eb4-42dd-bb31-eafdedea9fce"
+    documentation="Party that buys assets, good or services.&#xA;&#xA;Сторона, которая покупает активы, товары или услуги."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">PaymentStatus"
+    id="aa98b800-6655-428a-b951-630421a3a244"
+    documentation=" Specifies the status of a payment at a specified time.&#xA;&#xA;Указывает состояние платежа в указанное время."/>

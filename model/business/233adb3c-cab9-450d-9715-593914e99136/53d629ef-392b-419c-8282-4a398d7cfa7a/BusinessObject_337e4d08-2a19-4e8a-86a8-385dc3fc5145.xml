@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ChargePartyRole"
+    id="337e4d08-2a19-4e8a-86a8-385dc3fc5145"
+    documentation=" Role played by a party in the context of a paymentof charges.&#xA;&#xA; Роль партии в контексте оплаты."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request regulatory compliance reporting"
+    id="397ee790-634a-497e-8f47-431c6e759aeb">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_57a94651-81f3-4742-9c34-c29bc2366153.xml#57a94651-81f3-4742-9c34-c29bc2366153"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_5a5e80b7-dfaf-453b-9e1a-71577be2cfbe.xml#5a5e80b7-dfaf-453b-9e1a-71577be2cfbe"/>
+</archimate:TriggeringRelationship>

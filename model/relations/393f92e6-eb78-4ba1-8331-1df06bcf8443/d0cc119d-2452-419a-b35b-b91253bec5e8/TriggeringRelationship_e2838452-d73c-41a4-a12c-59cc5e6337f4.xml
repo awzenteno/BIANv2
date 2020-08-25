@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update open item details"
+    id="e2838452-d73c-41a4-a12c-59cc5e6337f4">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a8750cc4-2cfc-4da5-9a64-a6a009d2159b.xml#a8750cc4-2cfc-4da5-9a64-a6a009d2159b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_59c85b12-9277-4cd8-9ec0-963140d53653.xml#59c85b12-9277-4cd8-9ec0-963140d53653"/>
+</archimate:TriggeringRelationship>

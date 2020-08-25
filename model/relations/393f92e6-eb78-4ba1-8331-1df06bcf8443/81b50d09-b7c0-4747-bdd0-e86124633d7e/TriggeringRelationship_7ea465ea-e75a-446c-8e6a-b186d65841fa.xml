@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluate Completeness of Card Application"
+    id="7ea465ea-e75a-446c-8e6a-b186d65841fa">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0461bbe6-1050-4d7a-9094-33629790e77a.xml#0461bbe6-1050-4d7a-9094-33629790e77a"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_b4673896-c00f-41df-be5c-7aa7f1ae7bc7.xml#b4673896-c00f-41df-be5c-7aa7f1ae7bc7"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyCurrencyExchangeTransaction"
+    id="30125fd5-6d62-4868-bdac-3c7a405fabd2"
+    documentation=" Subscribe to currency exchange transaction notification services"/>

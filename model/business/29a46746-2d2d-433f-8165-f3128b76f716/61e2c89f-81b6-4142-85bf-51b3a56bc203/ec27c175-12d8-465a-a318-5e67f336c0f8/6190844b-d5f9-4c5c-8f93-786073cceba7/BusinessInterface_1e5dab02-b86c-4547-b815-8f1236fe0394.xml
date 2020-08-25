@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordDocumentHandlingOperatingSessionCapture"
+    id="1e5dab02-b86c-4547-b815-8f1236fe0394"
+    documentation="Record activity against documents"/>

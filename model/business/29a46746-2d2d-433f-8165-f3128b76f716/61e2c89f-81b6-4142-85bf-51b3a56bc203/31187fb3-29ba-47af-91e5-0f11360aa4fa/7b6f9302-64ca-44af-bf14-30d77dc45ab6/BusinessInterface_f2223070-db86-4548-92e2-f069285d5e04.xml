@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="requestProcurementAdministrativePlan"
+    id="f2223070-db86-4548-92e2-f069285d5e04"
+    documentation="Request a service under the Procurement Administrative Plan"/>

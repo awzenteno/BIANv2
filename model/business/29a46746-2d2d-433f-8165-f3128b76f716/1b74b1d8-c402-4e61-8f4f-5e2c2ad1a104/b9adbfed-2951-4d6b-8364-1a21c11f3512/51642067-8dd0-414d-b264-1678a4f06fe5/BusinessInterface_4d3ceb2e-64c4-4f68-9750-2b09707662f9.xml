@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recordPartyMeasurementCustomerAlert"
+    id="4d3ceb2e-64c4-4f68-9750-2b09707662f9"
+    documentation="Record details about alerts relating to the party"/>

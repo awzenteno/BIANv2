@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyProductInventoryAllocation"
+    id="0cb64546-a625-474b-8100-65626e535148"
+    documentation="Subscribe to Product Inventory Allocation notification services"/>

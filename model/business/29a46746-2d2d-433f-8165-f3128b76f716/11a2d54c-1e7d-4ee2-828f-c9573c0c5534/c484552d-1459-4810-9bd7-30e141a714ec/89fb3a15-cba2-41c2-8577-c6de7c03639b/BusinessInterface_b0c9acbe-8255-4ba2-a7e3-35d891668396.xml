@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifyServicingEventLog"
+    id="b0c9acbe-8255-4ba2-a7e3-35d891668396"
+    documentation="Subscribe to Servicing Event Account/Log notification services"/>

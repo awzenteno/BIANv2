@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ProxyAppointmentCondition"
+    id="5c8fa3eb-02ad-4977-a1b9-ff96c6d7fd88"
+    documentation="Conditions that must be met to appoint a proxy.&#xA;&#xA;Условия, которые должны быть выполнены для назначения доверенного лица."/>

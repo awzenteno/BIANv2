@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activateCorrespondentBankDirectory"
+    id="bf554a66-7997-4bef-9fc7-7e52e313e1e9"
+    documentation=" Assign responsibility for the correspondent bank directory"/>

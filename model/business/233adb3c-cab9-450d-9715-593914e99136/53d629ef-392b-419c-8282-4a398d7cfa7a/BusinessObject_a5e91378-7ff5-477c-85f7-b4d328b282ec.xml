@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DocumentPartyRole"
+    id="a5e91378-7ff5-477c-85f7-b4d328b282ec"
+    documentation="Role played by a party in the context of a document.&#xA;&#xA;Роль партии в контексте документа."/>

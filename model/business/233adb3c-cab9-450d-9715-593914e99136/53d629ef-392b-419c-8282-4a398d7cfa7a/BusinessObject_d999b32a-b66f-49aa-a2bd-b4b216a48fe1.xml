@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">MeetingEntitlement"
+    id="d999b32a-b66f-49aa-a2bd-b4b216a48fe1"
+    documentation="Notification of the entitlement that one party has in relation with a specific meeting.&#xA;&#xA;Уведомление о праве, которое одна сторона имеет в связи с конкретным совещанием."/>

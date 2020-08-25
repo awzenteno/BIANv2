@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeDirectDebitFulfillmentArrangement"
+    id="6ef8a0f0-bd96-45f1-8858-d3c12c8e48d7"
+    documentation="Execute a task under the Direct Debit"/>

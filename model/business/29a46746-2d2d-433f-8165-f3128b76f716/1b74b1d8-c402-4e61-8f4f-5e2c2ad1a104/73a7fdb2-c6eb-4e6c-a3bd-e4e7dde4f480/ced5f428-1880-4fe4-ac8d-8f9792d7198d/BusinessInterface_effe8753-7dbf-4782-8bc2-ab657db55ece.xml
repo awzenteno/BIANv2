@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="updateSupplierAgreement"
+    id="effe8753-7dbf-4782-8bc2-ab657db55ece"
+    documentation="Comment:&#xA;&#xA;Update elements of the Supplier Agreement"/>

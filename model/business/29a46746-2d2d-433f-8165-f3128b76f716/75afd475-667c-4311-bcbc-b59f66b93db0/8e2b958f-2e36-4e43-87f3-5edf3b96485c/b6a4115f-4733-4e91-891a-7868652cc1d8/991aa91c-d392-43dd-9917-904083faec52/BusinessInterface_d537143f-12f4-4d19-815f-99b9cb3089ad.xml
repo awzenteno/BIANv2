@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="executeBearerDocumentTransaction"
+    id="d537143f-12f4-4d19-815f-99b9cb3089ad"
+    documentation="Comment:&#xA;&#xA;Execute a task against the active Bearer Document Transaction"/>

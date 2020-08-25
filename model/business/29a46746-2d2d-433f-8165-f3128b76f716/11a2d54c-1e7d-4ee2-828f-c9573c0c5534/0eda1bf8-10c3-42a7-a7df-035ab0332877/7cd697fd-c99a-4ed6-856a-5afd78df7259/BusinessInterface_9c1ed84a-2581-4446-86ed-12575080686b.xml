@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCustomerAccessProfileAgreement"
+    id="9c1ed84a-2581-4446-86ed-12575080686b"
+    documentation="Retrieve customer channel access report"/>

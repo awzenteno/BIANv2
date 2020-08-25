@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="=Design"
+    id="7a929ae8-2ca1-491f-be63-e1d44180cb03"
+    documentation="Create and maintain a design for a procedure, product/service model or other such entity. &#xA;Example: Create and maintain product designs and analytical models.&#xA;&#xA;Design registered&#xA;Design-pending&#xA;Design-in-force&#xA;Design-under-review&#xA;Design-active-suspended&#xA;Design-inactive-suspended&#xA;Design-expired"/>

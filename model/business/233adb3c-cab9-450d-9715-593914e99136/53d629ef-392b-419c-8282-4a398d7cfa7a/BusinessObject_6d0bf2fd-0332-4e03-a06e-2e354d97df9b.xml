@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">SecuritiesProceedsDefinition"
+    id="6d0bf2fd-0332-4e03-a06e-2e354d97df9b"
+    documentation=" The definition of the securities proceeds for a corporate action in generic terms; that is, before applying it to specific securities holding. An example would be the definition of a bonus rights issue where all the information will be given in general on a per share basis.&#xA;&#xA;Определение ценных бумаг для корпоративного действия в общих чертах; то есть, прежде чем применять его к конкретным держателям ценных бумаг. Примером может служить определение вопроса о бонусных правах, когда вся информация будет предоставляться в целом на основе каждой акции."/>

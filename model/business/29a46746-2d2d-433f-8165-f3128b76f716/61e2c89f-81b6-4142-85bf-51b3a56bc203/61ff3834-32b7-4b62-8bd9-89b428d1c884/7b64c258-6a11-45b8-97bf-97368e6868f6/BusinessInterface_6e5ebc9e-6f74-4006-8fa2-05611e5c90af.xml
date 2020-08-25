@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveTechnologyStandardsSpecification"
+    id="6e5ebc9e-6f74-4006-8fa2-05611e5c90af"
+    documentation="Retrieve Technology Standards Specification related reports"/>

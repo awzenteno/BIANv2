@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retrieveCardFinancialSettlementProcedure"
+    id="d7127a72-3a43-4342-968e-a7f8860bce38"
+    documentation="Retrieve card financial settlement procedure related reports"/>

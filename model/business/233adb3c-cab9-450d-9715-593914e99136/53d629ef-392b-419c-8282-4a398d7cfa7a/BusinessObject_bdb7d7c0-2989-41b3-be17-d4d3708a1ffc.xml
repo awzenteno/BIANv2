@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">IdentificationIssuerRole"
+    id="bdb7d7c0-2989-41b3-be17-d4d3708a1ffc"
+    documentation="Entity that assigns the identification.&#xA;&#xA;Сущность, назначающая идентификатор."/>

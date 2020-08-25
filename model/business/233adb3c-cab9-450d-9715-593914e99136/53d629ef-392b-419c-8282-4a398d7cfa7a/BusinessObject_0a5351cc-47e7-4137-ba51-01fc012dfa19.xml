@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">AccountResponsiblePartyRole"
+    id="0a5351cc-47e7-4137-ba51-01fc012dfa19"
+    documentation=" Party which is responsible for creating and managing an account owned by another party.&#xA;&#xA;Сторона, ответственная за создание и Управление учетной записью, принадлежащей другой стороне."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">ExchangeForPhysicalTrade"
+    id="f749f76c-f718-4185-860e-8a797f3b066c"
+    documentation=" Technique whereby a position in the underlying is traded for a futures position in the physical commodity markets.&#xA;&#xA;Техника, при которой позиция в базовом торгуется за фьючерсную позицию на физических товарных рынках."/>

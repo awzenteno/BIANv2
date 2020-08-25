@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=">DebitAuthorisation"
+    id="3e81ad47-e067-4754-b2b3-16191dff9a07"
+    documentation=" Permission given by an account owner to debit its account as the result of a cancelled payment. The authoriser is the party whose account was credited as the result of a payment instruction.&#xA;&#xA;Разрешение владельца счета на списание средств с его счета в результате аннулированного платежа. Автором является сторона, чей счет был зачислен в результате платежного поручения."/>
